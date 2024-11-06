@@ -18,7 +18,26 @@ import time
 current_date = datetime.now().strftime("%Y-%m-%d")
 
 # 나라 설정
-countries = ["south-korea", "brazil", "bahrain"] 
+countries = [
+    "argentina", "australia", "austria", "bahamas", "bahrain", "bangladesh",
+    "belgium", "bolivia", "brazil", "bulgaria", "canada", "chile", "colombia",
+    "costa-rica", "croatia", "cyprus", "czech-republic", "denmark", "dominican-republic",
+    "ecuador", "egypt", "el-salvador", "estonia", "finland", "france", "germany",
+    "greece", "guatemala", "honduras", "hong-kong", "hungary", "iceland", "india",
+    "indonesia", "israel", "italy", "jamaica", "japan", "jordan", "kenya", "kuwait",
+    "latvia", "lebanon", "lithuania", "luxembourg", "malaysia", "maldives", "malta",
+    "mauritius", "mexico", "morocco", "netherlands", "new-zealand", "nicaragua",
+    "nigeria", "norway", "oman", "pakistan", "panama", "paraguay", "peru",
+    "philippines", "poland", "portugal", "qatar", "romania", "saudi-arabia",
+    "serbia", "singapore", "slovakia", "slovenia", "south-africa", "south-korea",
+    "spain", "sri-lanka", "sweden", "switzerland", "taiwan", "thailand", "trinidad",
+    "turkey", "ukraine", "united-arab-emirates", "united-kingdom", "united-states",
+    "uruguay", "venezuela", "vietnam"
+]
+
+# 최상위 country 폴더 생성
+base_folder_path = "country"
+os.makedirs(base_folder_path, exist_ok=True)
 
 # 웹드라이버 백그라운드 설정 및 페이지 로드
 options = ChromeOptions()
@@ -32,18 +51,18 @@ browser = webdriver.Chrome(options=options)
 for country_code in countries:
     # 폴더명은 나라 코드를 대문자로 시작하도록 변환
     country_name = country_code.replace("-", " ").title().replace(" ", "")
-    folder_path = f"netflix{country_name}"
+    folder_path = os.path.join(base_folder_path, country_name)
     os.makedirs(folder_path, exist_ok=True)
 
     # 페이지 목록 설정 (Films와 TV)
     pages = [
         {
             "url": f"https://www.netflix.com/tudum/top10/{country_code}",
-            "file_name": f"{folder_path}/netflix{country_name}FilmsTop10_{current_date}.json"
+            "file_name": f"{folder_path}/{country_name}FilmsTop10_{current_date}.json"
         },
         {
             "url": f"https://www.netflix.com/tudum/top10/{country_code}/tv",
-            "file_name": f"{folder_path}/netflix{country_name}TvTop10_{current_date}.json"
+            "file_name": f"{folder_path}/{country_name}TvTop10_{current_date}.json"
         }
     ]
 
@@ -92,7 +111,7 @@ for country_code in countries:
             print(f"데이터가 '{page['file_name']}' 파일에 저장되었습니다.")
 
 # 모든 데이터 수집 완료 메시지
-print("모든 나라에 대한 데이터 수집이 완료되었습니다.")        
+print("모든 나라에 대한 데이터 수집이 완료되었습니다.")
 
 # 브라우저 종료
 browser.quit()
