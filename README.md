@@ -2,6 +2,12 @@
 
 파이썬을 이용하여 넷플릭스 영화, TV 정보를 나라별로 수집합니다.
 
+## 샘플
+
+```
+https://websseu.github.io/pythonNetflix/country/Argentina/ArgentinaFilmsTop10_2024-11-06.json
+```
+
 ## 데이터 사용하기
 
 ```
