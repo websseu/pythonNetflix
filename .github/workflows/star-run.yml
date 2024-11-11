@@ -32,16 +32,17 @@ jobs:
           pip install requests beautifulsoup4 lxml selenium webdriver_manager
 
       # 4. 스크립트 실행
-      - name: Run Starbucks script
+      - name: Run Netflix script
         run: |
           python netflix.py
+          python netflix-releasing.py
 
       # 5. 생성된 데이터 파일 커밋
       - name: Commit changes
         run: |
           git config --global user.email "webstoryboy@naver.com"
           git config --global user.name "websseu"
-          git add country/**/*.json
+          git add country/**/*.json releasing/**/*.json
           git commit -m "넷플릭스 데이터 업데이트 - $(date +"%Y-%m-%d")" || echo "No changes to commit"
 
       # 6. 변경사항 푸시
