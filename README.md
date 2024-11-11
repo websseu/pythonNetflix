@@ -2,6 +2,13 @@
 
 파이썬을 이용하여 넷플릭스 영화, TV 정보를 나라별로 수집합니다.
 
+## 데이터 사용하기
+
+```
+https://websseu.github.io/pythonMusic/country/[나라이름]/[나라이름]FilmsTop10_[날짜].json
+https://websseu.github.io/pythonMusic/country/[나라이름]/[나라이름]TvTop10_[날짜].json
+```
+
 ## 나라별 데이터 수집
 
 🇦🇷 아르헨티나 argentina  
