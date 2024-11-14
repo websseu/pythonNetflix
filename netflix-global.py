@@ -74,6 +74,7 @@ for category, url in urls.items():
             week = row.select_one("td:nth-child(3) .wk-number").get_text(strip=True) if row.select_one("td:nth-child(3) .wk-number") else "N/A"
             hours_viewed = row.select_one("td:nth-child(4) span").get_text(strip=True) if row.select_one("td:nth-child(4) span") else "N/A"
             views = row.select_one("td:nth-child(6) span").get_text(strip=True) if row.select_one("td:nth-child(6) span") else "N/A"
+            watch_id = row.get("data-id", "N/A")
 
             # 이미지와 함께 정보를 추가
             global_data.append({
@@ -83,6 +84,7 @@ for category, url in urls.items():
                 "hours": hours_viewed,
                 "views": views,
                 "image": image,
+                "watchID": watch_id
             })
 
         # data 딕셔너리의 카테고리 항목에 데이터 추가
@@ -92,7 +94,7 @@ for category, url in urls.items():
         print("페이지 로드 실패")
 
 # 결과를 JSON 파일로 저장
-output_file_path = os.path.join(base_folder_path, f"popular_{current_date}.json")
+output_file_path = os.path.join(base_folder_path, f"global_{current_date}.json")
 with open(output_file_path, "w", encoding="utf-8") as json_file:
     json.dump(data, json_file, ensure_ascii=False, indent=4)
 

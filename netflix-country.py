@@ -2,8 +2,8 @@ from selenium import webdriver
 from selenium.webdriver.chrome.options import Options as ChromeOptions
 from selenium.webdriver.support import expected_conditions as EC
 from selenium.webdriver.support.ui import WebDriverWait
-from selenium.webdriver.common.by import By
 from selenium.common.exceptions import TimeoutException
+from selenium.webdriver.common.by import By
 from datetime import datetime
 from bs4 import BeautifulSoup
 import os
@@ -13,95 +13,99 @@ import time
 # 현재 날짜를 문자열로 저장
 current_date = datetime.now().strftime("%Y-%m-%d")
 
-# 나라 설정
-countries = ["argentina"]
-
-# 최상위 country 폴더 생성
+# 최상위 폴더 생성
 base_folder_path = "country"
 os.makedirs(base_folder_path, exist_ok=True)
+
+# 나라와 주간 설정
+countries = [
+    "argentina", "australia", "austria", "bahamas", "bahrain", "bangladesh",
+    "belgium", "bolivia", "brazil", "bulgaria", "canada", "chile", "colombia",
+    "costa-rica", "croatia", "cyprus", "czech-republic", "denmark", "dominican-republic",
+    "ecuador", "egypt", "el-salvador", "estonia", "finland", "france", "germany",
+    "greece", "guatemala", "honduras", "hong-kong", "hungary", "iceland", "india",
+    "indonesia", "israel", "italy", "jamaica", "japan", "jordan", "kenya", "kuwait",
+    "latvia", "lebanon", "lithuania", "luxembourg", "malaysia", "maldives", "malta",
+    "mauritius", "mexico", "morocco", "netherlands", "new-zealand", "nicaragua",
+    "nigeria", "norway", "oman", "pakistan", "panama", "paraguay", "peru",
+    "philippines", "poland", "portugal", "qatar", "romania", "saudi-arabia",
+    "serbia", "singapore", "slovakia", "slovenia", "south-africa", "south-korea",
+    "spain", "sri-lanka", "sweden", "switzerland", "taiwan", "thailand", "trinidad",
+    "turkey", "ukraine", "united-arab-emirates", "united-kingdom", "united-states",
+    "uruguay", "venezuela", "vietnam"
+]
+
+# URL 템플릿
+url_template = {
+    "films": "https://www.netflix.com/tudum/top10/{country}?week={current_date}",
+    "tv": "https://www.netflix.com/tudum/top10/{country}/tv?week={current_date}"
+}
 
 # 웹드라이버 백그라운드 설정 및 페이지 로드
 options = ChromeOptions()
 options.add_argument("--headless")
 browser = webdriver.Chrome(options=options)
 
-# 웹드라이버 설정(로컬)
-# browser = webdriver.Chrome()
+# 나라별 데이터 수집
+for country in countries:
+    # 나라별 폴더 생성
+    country_folder_path = os.path.join(base_folder_path, country)
+    os.makedirs(country_folder_path, exist_ok=True)
 
-# 나라별로 데이터 수집
-for country_code in countries:
-    # 폴더명은 나라 코드를 대문자로 시작하도록 변환
-    country_name = country_code.replace("-", " ").title().replace(" ", "")
-    folder_path = os.path.join(base_folder_path, country_name)
-    os.makedirs(folder_path, exist_ok=True)
+    # 결과 데이터를 저장할 딕셔너리
+    data = {
+        "kind": "Netflix Country",
+        "date": current_date,
+        "films": [],
+        "tv": []
+    }
 
-    # 페이지 목록 설정 (Films와 TV)
-    pages = [
-        {
-            "url": f"https://www.netflix.com/tudum/top10/{country_code}",
-            "file_name": f"{folder_path}/{country_name}FilmsTop10_{current_date}.json"
-        },
-        {
-            "url": f"https://www.netflix.com/tudum/top10/{country_code}/tv",
-            "file_name": f"{folder_path}/{country_name}TvTop10_{current_date}.json"
-        }
-    ]
-
-    # 각 페이지에 대해 데이터 수집
-    for page in pages:
-        # 페이지 로드
-        browser.get(page["url"])
-
-        # 페이지가 완전히 로드될 때까지 대기
+    # 각 URL에 대해 데이터 수집
+    for category, url in url_template.items():
+        url = url.format(country=country, current_date=current_date)  # 나라와 주간 정보 적용
+        browser.get(url)
+        
+        # 페이지가 로드될 시간을 기다림
         try:
-            WebDriverWait(browser, 10).until(
-                EC.presence_of_element_located((By.CLASS_NAME, "weekly-lists"))
-            )
-            print(f"{page['url']} 페이지가 완전히 로드되었습니다.")
-            time.sleep(5)
-        except TimeoutException:
-            print(f"{page['url']} 페이지 로드 실패")
-            continue
+            WebDriverWait(browser, 10).until(EC.presence_of_element_located((By.CLASS_NAME, "weekly-lists")))
+            print(f"{country}의 {category} 페이지가 완전히 로드되었습니다.")
+            time.sleep(3)
 
-        # 페이지 소스 파싱
-        html_source_updated = browser.page_source
-        soup = BeautifulSoup(html_source_updated, 'html.parser')
+            # 페이지 소스 파싱
+            soup = BeautifulSoup(browser.page_source, 'html.parser')
 
-        # 정보를 저장할 리스트
-        films_data = []
+            # 이미지 및 각종 정보 추출
+            banners = soup.select(".banner-title")
+            table_rows = soup.select("tbody tr")
 
-        # .banner-title에서 title과 image를 추출
-        titles_images = soup.select(".banner-title")
-        titles_images_data = []
-        for item in titles_images:
-            title = item.select_one(".banner-image-name div").text.strip() if item.select_one(".banner-image-name div") else None
-            image = item.select_one("picture img").get("src") if item.select_one("picture img") else None
-            if title and image:
-                titles_images_data.append({"title": title, "image": image})
+            for item, row in zip(banners, table_rows):
+                image = item.select_one("picture img").get("src") if item.select_one("picture img") else "N/A"
+                ranking = row.select_one("td:nth-child(1)").get_text(strip=True) if row.select_one("td:nth-child(1)") else "N/A"
+                title = row.select_one("td:nth-child(2)").get_text(strip=True) if row.select_one("td:nth-child(2)") else "N/A"
+                week_number = row.select_one("td:nth-child(3) .wk-number").get_text(strip=True) if row.select_one("td:nth-child(3) .wk-number") else "N/A"
+                watch_id = row.get("data-id", "N/A")
 
-        # tbody tr에서 rank_number와 watchID 추출
-        film_rows = soup.select("tbody tr")
-        for index, film in enumerate(film_rows):
-            # wk-number 클래스에서 주간 순위 가져오기
-            week_number = film.select_one(".wk-number").text.strip() if film.select_one(".wk-number") else None
-            watchID = film.get("data-id")
-
-            # title과 image 데이터가 존재할 때만 매칭
-            if index < len(titles_images_data):
-                film_data = titles_images_data[index]
-                film_data.update({
+                # 각 항목의 데이터를 저장
+                entry_data = {
+                    "rank": ranking,
+                    "title": title,
                     "week": week_number,
-                    "watchID": watchID
-                })
-                films_data.append(film_data)
+                    "image": image,
+                    "watchID": watch_id
+                }
 
-        # 추출된 데이터를 JSON 파일로 저장
-        with open(page["file_name"], 'w', encoding='utf-8') as f:
-            json.dump(films_data, f, ensure_ascii=False, indent=4)
-            print(f"데이터가 '{page['file_name']}' 파일에 저장되었습니다.")
+                # data 딕셔너리의 films 또는 tv 항목에 데이터 추가
+                data[category].append(entry_data)
 
-# 모든 데이터 수집 완료 메시지
-print("모든 나라에 대한 데이터 수집이 완료되었습니다.")
+        except TimeoutException:
+            print(f"{country}의 {category} 페이지 로드 실패")
 
-# 브라우저 종료
+    # 나라별 JSON 파일로 저장
+    output_file_path = os.path.join(country_folder_path, f"{country}_{current_date}.json")
+    with open(output_file_path, "w", encoding="utf-8") as json_file:
+        json.dump(data, json_file, ensure_ascii=False, indent=4)
+    
+    print(f"{country}의 데이터가 {output_file_path}에 저장되었습니다.")
+
+# 브라우저 닫기
 browser.quit()
