@@ -33,11 +33,6 @@ current_date = datetime.now().strftime("%Y-%m-%d")
 # ]
 
 countries = [
-    "netherlands", "new-zealand", "nicaragua",
-    "nigeria", "norway", "oman", "pakistan", "panama", "paraguay", "peru",
-    "philippines", "poland", "portugal", "qatar", "romania", "saudi-arabia",
-    "serbia", "singapore", "slovakia", "slovenia", "south-africa", "south-korea",
-    "spain", "sri-lanka", "sweden", "switzerland", "taiwan", "thailand", "trinidad",
     "turkey", "ukraine", "united-arab-emirates", "united-kingdom", "united-states",
     "uruguay", "venezuela", "vietnam"
 ]
