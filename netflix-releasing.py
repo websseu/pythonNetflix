@@ -17,9 +17,15 @@ current_date = datetime.now().strftime("%Y-%m-%d")
 base_folder_path = "releasing"
 os.makedirs(base_folder_path, exist_ok=True)
 
-# 웹드라이버 설정(로컬)
-browser = webdriver.Chrome()
+# 웹드라이버 백그라운드 설정 및 페이지 로드
+options = ChromeOptions()
+options.add_argument("--headless")
+browser = webdriver.Chrome(options=options)
 browser.get("https://media.netflix.com/ko/")
+
+# 웹드라이버 설정(로컬)
+# browser = webdriver.Chrome()
+# browser.get("https://media.netflix.com/ko/")
 
 # 페이지가 완전히 로드될 때까지 대기
 try:
