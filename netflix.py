@@ -10,30 +10,11 @@ import os
 import json
 import time
 
-# 1-1. Films 파일만 수집
-# 1-2. Films와 Tv 데이터 수집
-# 1-3. 나라별 데이터 수집
-
 # 현재 날짜를 문자열로 저장
 current_date = datetime.now().strftime("%Y-%m-%d")
 
 # 나라 설정
-countries = [
-    "argentina", "australia", "austria", "bahamas", "bahrain", "bangladesh",
-    "belgium", "bolivia", "brazil", "bulgaria", "canada", "chile", "colombia",
-    "costa-rica", "croatia", "cyprus", "czech-republic", "denmark", "dominican-republic",
-    "ecuador", "egypt", "el-salvador", "estonia", "finland", "france", "germany",
-    "greece", "guatemala", "honduras", "hong-kong", "hungary", "iceland", "india",
-    "indonesia", "israel", "italy", "jamaica", "japan", "jordan", "kenya", "kuwait",
-    "latvia", "lebanon", "lithuania", "luxembourg", "malaysia", "maldives", "malta",
-    "mauritius", "mexico", "morocco", "netherlands", "new-zealand", "nicaragua",
-    "nigeria", "norway", "oman", "pakistan", "panama", "paraguay", "peru",
-    "philippines", "poland", "portugal", "qatar", "romania", "saudi-arabia",
-    "serbia", "singapore", "slovakia", "slovenia", "south-africa", "south-korea",
-    "spain", "sri-lanka", "sweden", "switzerland", "taiwan", "thailand", "trinidad",
-    "turkey", "ukraine", "united-arab-emirates", "united-kingdom", "united-states",
-    "uruguay", "venezuela", "vietnam"
-]
+countries = ["argentina"]
 
 # 최상위 country 폴더 생성
 base_folder_path = "country"
@@ -89,21 +70,30 @@ for country_code in countries:
         # 정보를 저장할 리스트
         films_data = []
 
-        # 영화 리스트 선택
-        films = soup.select(".banner-title")
-
-        for film in films:
-            image = film.select_one("picture img").get("src") if film.select_one("picture img") else None
-            title = film.select_one(".banner-image-name div").text.strip() if film.select_one(".banner-image-name div") else None
-            watch = film.select_one(".banner-expanded-negative-margin .banner-hours-graf a[href]").get("href") if film.select_one(".banner-expanded-negative-margin .banner-hours-graf a[href]") else None
-
-            # 수집된 정보를 딕셔너리에 저장
+        # .banner-title에서 title과 image를 추출
+        titles_images = soup.select(".banner-title")
+        titles_images_data = []
+        for item in titles_images:
+            title = item.select_one(".banner-image-name div").text.strip() if item.select_one(".banner-image-name div") else None
+            image = item.select_one("picture img").get("src") if item.select_one("picture img") else None
             if title and image:
-                films_data.append({
-                    "title": title,
-                    "image": image,
-                    "watch": watch
+                titles_images_data.append({"title": title, "image": image})
+
+        # tbody tr에서 rank_number와 watchID 추출
+        film_rows = soup.select("tbody tr")
+        for index, film in enumerate(film_rows):
+            # wk-number 클래스에서 주간 순위 가져오기
+            week_number = film.select_one(".wk-number").text.strip() if film.select_one(".wk-number") else None
+            watchID = film.get("data-id")
+
+            # title과 image 데이터가 존재할 때만 매칭
+            if index < len(titles_images_data):
+                film_data = titles_images_data[index]
+                film_data.update({
+                    "week": week_number,
+                    "watchID": watchID
                 })
+                films_data.append(film_data)
 
         # 추출된 데이터를 JSON 파일로 저장
         with open(page["file_name"], 'w', encoding='utf-8') as f:
