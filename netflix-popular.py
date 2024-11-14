@@ -67,7 +67,7 @@ for category, url in urls.items():
             popular_data.append({
                 "rank": rank,
                 "title": title,
-                "hours_viewed": hours_viewed,
+                "hours": hours_viewed,
                 "views": views
             })
         
