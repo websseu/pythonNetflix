@@ -1,0 +1,148 @@
+{
+    "kind": "Netflix Country",
+    "date": "2024-07-21",
+    "films": [
+        {
+            "rank": "1",
+            "title": "Titanic",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABeMulK_0tjnMXnLT57QP_sOUwGDM-Tm1eaFvOiI0rR1n3RVcPNsdb3y3tlxbkjE-W5Gd47jECqm8NmtDIZMLKr4a-il9WtOyUME9.jpg?r=f62",
+            "watchID": "1181461"
+        },
+        {
+            "rank": "2",
+            "title": "Maharaja",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABS6_EI_YvoSCt48Uug9RbhCVVubKcK8x_B4UdruiTeaqdMTttxD8FIKVNckPX5wpfmnLoZ5JgMnuDQxlhROWhnSF4XZ-Fe0hcOcq.jpg?r=006",
+            "watchID": "81690671"
+        },
+        {
+            "rank": "3",
+            "title": "Vanished into the Night",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABXqItSwFMYsiL6kxbYV0mkU2SFC0FkbpuvElSC8gatVcAwFdGTQ9eJLg08TSQyIrNepfTGXhI7Rad9K5lo5R9ztVT0Vup6YVjbyBcHa6_LtJm919SmE7EGsDMx7HTHD8yhZKHQ.jpg?r=7cd",
+            "watchID": "81163835"
+        },
+        {
+            "rank": "4",
+            "title": "Spider-Man: No Way Home (Extended Version)",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABWAWiXjRZhCX6xxdVcL85K47rohSAnNf5pnJqBmOHJM8O7daarEEkRy3t6BgdT8fFqFPukLwDPWL5jiT2VE6cu6TFcdws8iZsM9O.jpg?r=b2e",
+            "watchID": "81652327"
+        },
+        {
+            "rank": "5",
+            "title": "Minions: The Rise of Gru",
+            "week": "8",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABQKivBmmENIOYC4Me9fW9dkmUOF99gxP0ruUc2N--x-JC5deInTtXUErINlhHMwlMVBiCaNRT5Ny3eedjkLF0A87P1oyDNwdXAjW.jpg?r=d25",
+            "watchID": "81198916"
+        },
+        {
+            "rank": "6",
+            "title": "Spider-Man: No Way Home",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABTwFgInWOfCGdKKKdHEa2_daA2yZ_b_zyHR3SGqkeQsT_c5eGX7Alik8dMZsSX4b4ZUpnz08t6lT5tQCqVW0gueZCMM_GzeoHnOA.jpg?r=8d0",
+            "watchID": "81465707"
+        },
+        {
+            "rank": "7",
+            "title": "Beverly Hills Cop: Axel F",
+            "week": "3",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABWuRWDz1boeGynWqHztDxBmVRjTi_1KotZO0WSQmwJ0XWAQ6IRgfpePxCKI17PYQyuL-5qyZYI9b5iqoc-ewgIu7Pr80nTJUIDsZ5Dyh6oN7MLn8u8NmOAJ6oqN4xy26_Iaaww.jpg?r=4af",
+            "watchID": "81076856"
+        },
+        {
+            "rank": "8",
+            "title": "Aadujeevitham: The Goat Life",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABf0guPGbPtVt5Nn7_j8ChlnAbdnGvO5JW8shkNIfmtHhvlrYf6oyghGjYvYJMSvg8sdan8Yvs0C3og9wfCxyn17Vtv1ZRHdos_L9.jpg?r=e28",
+            "watchID": "81914031"
+        },
+        {
+            "rank": "9",
+            "title": "Ghostbusters: Afterlife",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABafvjEFYJ48N0P5buSjOD1UCSs_d2Ki_qKEm6oMuerDGh0OgudEKznX5DpQ-XM_kdSCyoO7RInSzRPdnx8j-BZwri3cAP07LbuGY.jpg?r=40b",
+            "watchID": "81489818"
+        },
+        {
+            "rank": "10",
+            "title": "Find Me Falling",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABemw4wrv1XIdZG7gdqCQsOpVYTjnOIgzGExt4AfNaNeAXgO81VnNtYISWWDr5wGcRDPd-C6F5zb9-XQcB3hxmRnBSSGSb1oE9RmFwpJU1UTAbA69qmoneu40cpPlAMbZFyl91A.jpg?r=6a3",
+            "watchID": "81740504"
+        }
+    ],
+    "tv": [
+        {
+            "rank": "1",
+            "title": "Cobra Kai: Season 6",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABSA3KJ4Nlyd3bdxyzpXMqMbh9sxHDh8r6T-DZ9DKUOxgTqsqh6NLWs9hU-RHfpi_4Xn5s0wBCeZvVMgL-guo5YgREPdqnK_FCBXZpnTGo3_SNySfpL1ZB8lDuQ34Jpw-0I9nJA.jpg?r=1cd",
+            "watchID": "81576914"
+        },
+        {
+            "rank": "2",
+            "title": "Vikings: Valhalla: Season 3",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABSBH20j_k7RmldqLsrM8Tauc4ORhrHF9d0YM4uMs-DVHLjnx0oPnyWKi-lYI_27Ae8hejKUqlJyt4G0XVdKL821suegiYh47yAzmrqQiPRaZtPIvVx9yduLt6YfCycw4IfDymw.jpg?r=972",
+            "watchID": "81220004"
+        },
+        {
+            "rank": "3",
+            "title": "Supacell: Season 1",
+            "week": "4",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABZNaKobpG4lkc3YQS9bQ_p4TPoEqcwnEQn4L3JfIeg29HXjnKVgpP5vYjP2xtG9RIdJXuK38x05RWi7DkmVHrLiEARE7mGqn7MugHm9EgR4j6TC9o51pCmRZi3ABxHh1HdnXUA.jpg?r=6d4",
+            "watchID": "81316477"
+        },
+        {
+            "rank": "4",
+            "title": "Master of the House: Limited Series",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABZbrXMLvhWdA5H9_fO53A9BFvnSNY5O38wTyb_uycpvFqh82VKHxhb5Axa8qHUZ6F8o0wROBDQaqrsl7s6vaZao6otKQtcaYnLyuDljj5XXBQD3076SmAfvHha67GnWa6guHlw.jpg?r=c33",
+            "watchID": "81622919"
+        },
+        {
+            "rank": "5",
+            "title": "Miss Night and Day: Limited Series",
+            "week": "5",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABYlq4iA3V2sbO9UlCFjxGfcpZz84FaLyvMiaNHS2ES0Jg60G5aeb9rlod4WGR2jLzF5GTJdD0QPOUgHoCsqX5-C_wAO4KQwG4H8vdzUKuGLgy3bOUjXydOq-hfgBlsFaEFv-bg.jpg?r=248",
+            "watchID": "81738995"
+        },
+        {
+            "rank": "6",
+            "title": "Another Self: Season 2",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABb4GGfkyZuJbmyjcbQTCoztEflx7KsjaG4uMDIuzjK7-r9N2bsNKm39yHOsaCDblO1IW8J6i_5sa9nci3KyxaJzkd70o_eY7c6CwK-SqAnKzN8-Fw3j7uoDPD7Bwru1vJKBDKA.jpg?r=408",
+            "watchID": "81503225"
+        },
+        {
+            "rank": "7",
+            "title": "Vikings: Valhalla: Season 1",
+            "week": "8",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABeMg7Aszn20hFr42gIWYPYxeyiVQB8HkWJmbYx26hCvi4ZtbHNdkr9FyhpkbeeZ5X1yxT0P8gljvp9gGzgD4ITjXWY6adZ7bCiL_RgGFNX-j2OiBEmhsXddaX8sgZuh5ZFi-_g.jpg?r=751",
+            "watchID": "81216646"
+        },
+        {
+            "rank": "8",
+            "title": "Tribhuvan Mishra CA Topper: Season 1",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABeF-c6bmzRembWEPbGJIm11m-pKbGClh9qwLEHu_l6VPv-G_hxe43RINBRMrzKhAVfy5GrRXFlPTvuQ8qNiuLP6HpBlqt0ta9xUl9um69wPYIn6wx-dMH7QSNX-BDqo26Sq2Zw.jpg?r=f0c",
+            "watchID": "81285618"
+        },
+        {
+            "rank": "9",
+            "title": "Homicide: Los Angeles",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABeRs8hBopd7twYeVRoP4cEnZvcPAiX89r5nrLFfOZAjMmCP4XUaYI4VsOM5wH-oDFDIC8H_iEScY6pqRH4_r82RHeZW2Nv9lXNmS4Xps2BfZOOQ-XXfY68kn-ieDDB3jGSSYRA.jpg?r=41f",
+            "watchID": "81601471"
+        },
+        {
+            "rank": "10",
+            "title": "Too Hot to Handle: Season 6",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABdoowDd7IffNaUyn-Cif6y1JaBrIMf7H3o9TXA6K-ycstwoX_m2tbVOyJkCjUqQpgTiLeOjoqDOMqGoOWBKncTkL8PVjXLhCwE-zqkT4yCWXgbKRy_aeJHVxcPuyLVvTXK9eTg.jpg?r=bd1",
+            "watchID": "81442462"
+        }
+    ]
+}

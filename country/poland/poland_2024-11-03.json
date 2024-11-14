@@ -1,0 +1,148 @@
+{
+    "kind": "Netflix Country",
+    "date": "2024-11-03",
+    "films": [
+        {
+            "rank": "1",
+            "title": "Ticket to Paradise",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABaEuYr84pBb-QiDJOpJs9fnE3cFi-FcykTu0w_w7Bjt0--SeHn8TID6qDp13fTia9b2agNE5KIzN3u38eNsCZ2gBuhB-jCMTQQWG.jpg?r=000",
+            "watchID": "81598180"
+        },
+        {
+            "rank": "2",
+            "title": "Time Cut",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABSJq5M9hH4xVXe9iJyTqVYCyKIHm8UJjEZQWA7kZtlfXbw6xmEKnXS8Q0Lv71v9A4CQ97F-i5lubqUs5QTgZcQuis81q4c8p5F_CLA4tRpVnhiIwu20pfPIdAkxBwdRXNNs6pw.jpg?r=18b",
+            "watchID": "81504326"
+        },
+        {
+            "rank": "3",
+            "title": "Justice",
+            "week": "3",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABbYJrvC5zUrdVr3ICs2Iza-oA38GRQhwrZd1k02e4jn9OqQI_2B_n8t5-7_LRz8d40NBU4tOCphtn8fV4Efx82uuyka10DvV2l6wgogfOqO5VOjKbuDshmGyknNYb8q4xhvPbw.jpg?r=c9b",
+            "watchID": "81620884"
+        },
+        {
+            "rank": "4",
+            "title": "Family Pack",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABRWEhhlLW-Q_PIf4Qshhmar88pfS-pfg6ht0SDwsTT2gRvUQ5OHG881zIx3oRQurQ47xj8Npeh7L8u0mUbkgawG_WfuZHmW2_GiEfJIyH8W8ut90GD0AsDVWmm2PtRHavwdphg.jpg?r=9f0",
+            "watchID": "81686180"
+        },
+        {
+            "rank": "5",
+            "title": "The Nun II",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABQEJdnjVwkH6ALMZha07sOMuLuKabMgHz8iN3doXPF3eoyMaeHG1kMUxdXJ17WIJYrCI7SYAmbPSPJvWVLmQbJvexknmp_JmyfSG.jpg?r=916",
+            "watchID": "81713301"
+        },
+        {
+            "rank": "6",
+            "title": "Hijack '93",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABWzK2CBmECjNvzTWqdMKVToACR3EpkHwaWZEEVd5YiUxPL3ssiVqVpMPaoCANRcSih_7IwJ0psEPJGZqH0cZTBxLD5oVSoT3s1e8.jpg?r=ce7",
+            "watchID": "81676888"
+        },
+        {
+            "rank": "7",
+            "title": "Let Go",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABeIpE846bmAfzTxnrCdEdoiN3Aby6DUJHY0jiaARnzEh7iFte2X9GDfW-ORZv1PS7zomH0C2XewxymwAGOPYNvhfgYMwPaV9fupn8uHPHq_60mxFo7kP4sFuib4fwvq91FyPnA.jpg?r=3ba",
+            "watchID": "81611209"
+        },
+        {
+            "rank": "8",
+            "title": "Mr. Malcolm's List",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABY0KMoyEO2FezpL5vLlKbPL9kHEFly399as5UOYVhKvnuMNh4YLiysqL28oXQ3CZpFoVnrD7Mp0jXQ_JGn-f6scpCP_GNSjId9HR.jpg?r=704",
+            "watchID": "81588906"
+        },
+        {
+            "rank": "9",
+            "title": "Do Patti",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABf9C73wgtO6DAOXpv4Nk-J6fFioZX56Wq9DpArDVrnS1lsndCj1CsK6Xe-JMaDz7JHSPX3pQVh7JnXtDKNaN9QFP9oz3W3hxCHxqTLAV12MhzYmDdwgqVSQvt-VMgWAGnSCwQw.jpg?r=1bf",
+            "watchID": "81681817"
+        },
+        {
+            "rank": "10",
+            "title": "Minions: The Rise of Gru",
+            "week": "9",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABQmYUNq57YuUGi6HEmXM6Yun1N6XlZ5KekqWKgm82WBD4xTZe4tGQHkJnuhST8lJsgKn-dK50KOBmecBC5nhdvgFgg0HxYDfQhmb.jpg?r=88d",
+            "watchID": "81198916"
+        }
+    ],
+    "tv": [
+        {
+            "rank": "1",
+            "title": "Go Ahead, Brother: Season 1",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABfSmQNrmkqA_xusfFJHKgQTO7aYLzPtMGAVahN_upkKPanS2l2GCAGw1btdFj9Gpb100vi2Ks1i_OL8OEMa0vgEQ-DfJpy_X6gT5K2bvgMUnonCCnIqLT7j6k0EpsGoUq8DJug.jpg?r=7d9",
+            "watchID": "81613240"
+        },
+        {
+            "rank": "2",
+            "title": "Beauty in Black: Season 1",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABdZghq5pSlnQGL8Gb6zQsHeLQwhl756pbKHO7wVk_u9MGOv4iL5fGcmKIocc6JxWhDPJhFU5gHep5i6Bom03PAhbBdvNlPZrrJ4M54Fkzur2e3PIk1Jvq1SM9ROI8_HlDYbQJw.jpg?r=9f0",
+            "watchID": "81764524"
+        },
+        {
+            "rank": "3",
+            "title": "Territory: Season 1",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABTh2LmxtjGphJn3XDjRwYUacfiOqo-4saNe5ZTdIrc-HgfdFwAjdWDUXsXj_MC1oP4rpAu56COjqnEufp3fD9VNEBI7OwbcOOnFzlO0rc6Fn2O3hb4D_BImwqoaXY9GpEZ_2IQ.jpg?r=810",
+            "watchID": "81591575"
+        },
+        {
+            "rank": "4",
+            "title": "This Is the Zodiac Speaking: Season 1",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABY28_IdZ1n5EvD6rZmZhLwK-TuGkmMcyy9o0m_RaSY4PfOhPLzpfr8cO9ADISHRIAenSNBvkunVtztweQznVc8auc3Q-dnkqqR6vbzQnHFk6h8bBGhXD5UJa2THQY5WywvtHDw.jpg?r=020",
+            "watchID": "81681627"
+        },
+        {
+            "rank": "5",
+            "title": "Kitty Kotty: Season 2",
+            "week": "13",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABVFPPWeURXcpgmIfRa8iA_BRORyz_vGhgqeVyEasAJnX1f65Gg7yRVRr2I0NLmpN9F5sdBFq_2eCVIi0Mnu8kohgOi9CKsJC9kSN.jpg?r=e06",
+            "watchID": "81685971"
+        },
+        {
+            "rank": "6",
+            "title": "Murder Mindfully: Season 1",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABfpvu4CZ3HZ9k3ynNnLhmgRAKCJwHAeSWf4Qxwb6vrXaJuBg1xvTHUfGrdHqbUUa2_74_MyBxPwukirffSDbVZQQ7ktAOtG1RAXvJUHdcRtBU7AwpzdLwSptc4KeBI37DzaXsg.jpg?r=896",
+            "watchID": "81554970"
+        },
+        {
+            "rank": "7",
+            "title": "Kitty Kotty: Season 1",
+            "week": "48",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABVFPPWeURXcpgmIfRa8iA_BRORyz_vGhgqeVyEasAJnX1f65Gg7yRVRr2I0NLmpN9F5sdBFq_2eCVIi0Mnu8kohgOi9CKsJC9kSN.jpg?r=e06",
+            "watchID": "81685957"
+        },
+        {
+            "rank": "8",
+            "title": "The Diplomat: Season 2",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABSBB3fJGnlNwpWqHtM1WofMypIqYs3alpRzvsRrglny5guZugQVpzv7WynvcbRfpR28u5znekZNOGazxzTOVSqMo9x_xRD28p7qUIZL03wvV77Cg3oNM_JVXKSbFU1mnGLITEA.jpg?r=0b4",
+            "watchID": "81486271"
+        },
+        {
+            "rank": "9",
+            "title": "The Lincoln Lawyer: Season 3",
+            "week": "3",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABQEVopNiie65SP92MpUWP5d1lMeFvkM1a0WUZOQCnFYbGZclq1iDmb2zJI0vd1j88pzyt17irSAr6FkpIxlDdSwCAWSDR_yHK4sT9pelu1VSlJETQfSRvpE8lhCUBg7rLIFf2A.jpg?r=b3a",
+            "watchID": "81628779"
+        },
+        {
+            "rank": "10",
+            "title": "Don’t Come Home: Limited Series",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABYaLlet1ObREn4---FG9Hqt2BiNJC4HfyXJsuqHCVEPFeuFFs5sDDNh-7dUKuiLNAtUl1bDXY4-JtOgoN1_LaaEtTLxCQz5POn8OxbtyS84VvQtzYukz0eKCWN3ZmyQjoe6o9Q.jpg?r=972",
+            "watchID": "81641422"
+        }
+    ]
+}

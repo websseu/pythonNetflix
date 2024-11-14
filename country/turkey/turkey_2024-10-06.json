@@ -1,0 +1,148 @@
+{
+    "kind": "Netflix Country",
+    "date": "2024-10-06",
+    "films": [
+        {
+            "rank": "1",
+            "title": "The Platform 2",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABbKTqjLXESMvR-qVre047Su5jPL3witos0FOYJNfq5jaq3xnzzjXaAucW0P-DUz25TcEtk0dTKazcJvgKMtZjgQUSwFw3F05lEi3vp0XJLkRJrEfz0lGoUYlgmfVmOOo_HXZlA.jpg?r=bb6",
+            "watchID": "81284730"
+        },
+        {
+            "rank": "2",
+            "title": "A True Gentleman",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABTUwrku_K-iZnIDfz1ktgsSvd8kOnXWeTtH7FyLBJxmdVKuyNWNuQDybCLZUbeU-IVQjkkCG9ad1QeFeIu0veCjGhConrHYsGJUk5j_ZgMrGBduYrYz9hW8G-3sRm09Amc46Uw.jpg?r=d88",
+            "watchID": "81610282"
+        },
+        {
+            "rank": "3",
+            "title": "Black Adam",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABRE4rS5xQdd7ZCwdXN9fWD5l1eF4pnC7ePAIvTrzxw9tAtwADBv7ti0wGz92F9vRy_uvRtuHAxeEcX5qbwjUefF-jd6beOIuwZJx.jpg?r=f6c",
+            "watchID": "81416258"
+        },
+        {
+            "rank": "4",
+            "title": "Miss Peregrine's Home for Peculiar Children",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABejwkqtTO2bpeiEuwKlsNv1GMrzY3fIUUWQKhcd3aXedWXGfI9pipeGgk_jx57KI8NYdzi6zN96RmVviqqGhyvM5dHpIBnneUhPj.jpg?r=67c",
+            "watchID": "80079257"
+        },
+        {
+            "rank": "5",
+            "title": "Trouble",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABfgsnedBmw8dpsdbCPf9LgkfWC-R3tPDO3PF7YBbeX0oAQDwLAv8MbnjbdAcLnGooW3EjhYp5kHXxx-PzndBzbAswlJ243hSnKdd49Dtq7_242oluMcWGIN9KZkHXE6SpK4s6g.jpg?r=355",
+            "watchID": "81727408"
+        },
+        {
+            "rank": "6",
+            "title": "Ghostbusters: Afterlife",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABTYvUw9q-ezX0tsEMOgJY1pwkAyRSrf2Rj-2DdGRfu6ZtRGHGn05kIUjit6KQ03R4haTz8IZm3ewlpoMFCaZB0TYDQMSY_g8y6JU.jpg?r=0bf",
+            "watchID": "81489818"
+        },
+        {
+            "rank": "7",
+            "title": "Mercy",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABUX3jPBcjta9qU-EY9W4T4mlLP5iyhcVDuflgqMYBqYUt51wZ2ZoUDg5I-HrKY_nmIHfhfjzE7tRO51NGL4j2PddUE3Os9hMRyhF.jpg?r=640",
+            "watchID": "81735590"
+        },
+        {
+            "rank": "8",
+            "title": "Journey to the Center of the Earth",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABcCpI-VuL6jLXyYwPDk8SH3dH5oX2n2B3ZIyt5gS3-IUVSacMZOqv7yjuZhGupxJhXSjLwuf5J6pqlZ7MvDPpzJgAJReE4N52dlr.jpg?r=801",
+            "watchID": "70097578"
+        },
+        {
+            "rank": "9",
+            "title": "Uglies",
+            "week": "4",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABcc0mWw2UwJe0U0pPJsvr9mW_tEPL2EfWkuEO02YbnIdome6jp1EyHXdqe8pjfLmkPJKr-oGTjY4ZKN08fixBlU18aJujYNAFJb6r0N3mjiyIkkEnHfF2LoqZ-WZ9V9_gXKfmQ.jpg?r=45f",
+            "watchID": "81002266"
+        },
+        {
+            "rank": "10",
+            "title": "Rebel Ridge",
+            "week": "5",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABcw1DhLV3nL1COAqQ26C8ElGMZNHcVLNUeNdS0xviHPzDz8vi6x1ddVW37i1MmoflbIAydBtDonjhWh_KgYAN-3wHgWg42JTNjms2FGLs3lUOTQpy5HiZDUZ8FznbWYAHK9KlQ.jpg?r=93c",
+            "watchID": "81157729"
+        }
+    ],
+    "tv": [
+        {
+            "rank": "1",
+            "title": "Nobody Wants This: Season 1",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABag7bvH26W90NWDoi_1D5NhWXQvZtB_Q8j0EGE_-bn_A4sfObj-tbwty_3kEF6ks7sBsdVW79sBe3VN6_Q5hlRxhoyOTVmpPbuumpU2xHjMEBpaslvjN4R3nzxf36hrpNNiUMg.jpg?r=323",
+            "watchID": "81591297"
+        },
+        {
+            "rank": "2",
+            "title": "Monsters: The Lyle and Erik Menendez Story",
+            "week": "3",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABRWgBo0JxXJsdPNI-2I0Y3lKatf_C7OXpEeV6WCAXpiyN9yHT2eR908HnP86gbydB9mLTWMIchLLYVuY0qLFv067Vk4X8C86KIfD0L9jgGJ88TiCXlsSS-cCvctD6xfAJQ7fRQ.jpg?r=b5c",
+            "watchID": "81582441"
+        },
+        {
+            "rank": "3",
+            "title": "Midnight at the Pera Palace: Season 2",
+            "week": "4",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABe8Kvv20BIyiww95Dq4NfVskhdLDqGuBlSYM47nhz1gvLAPyfkag2XWoAxnmN435NT5EliK70xb3P-q4oadcmF8wBIuH0QX1FhV2bULuFsVgqyrDmVsRTEX1t2K3Glg1ZiCN7w.jpg?r=471",
+            "watchID": "81413646"
+        },
+        {
+            "rank": "4",
+            "title": "Prison Break: Season 1",
+            "week": "5",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABS5VdzfTxOiANzAMcTeLj3K7LpIi2YKEixOyZWDmss71w9xB5wJM0a_jutdYsZDQwyb_gPe4YNlBJ4yh55nmnEiF4AuISgTujvsO.jpg?r=dbe",
+            "watchID": "70040250"
+        },
+        {
+            "rank": "5",
+            "title": "Emily in Paris: Season 4",
+            "week": "8",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABd0X1PrB5uIerkNJlglL1IP9oKAs-UP8qKuIc9fp--Tg4b76t4jhsq4p_RyUTg-FNkyeY51TFHmiHxBInkWyQOSEBkdbBDfNRyhNVg3XacH68C_Z0jVUvsC5g6-ab5SlTf-cSQ.jpg?r=4f9",
+            "watchID": "81580261"
+        },
+        {
+            "rank": "6",
+            "title": "Prison Break: Season 2",
+            "week": "4",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABS5VdzfTxOiANzAMcTeLj3K7LpIi2YKEixOyZWDmss71w9xB5wJM0a_jutdYsZDQwyb_gPe4YNlBJ4yh55nmnEiF4AuISgTujvsO.jpg?r=dbe",
+            "watchID": "70054891"
+        },
+        {
+            "rank": "7",
+            "title": "The Life and Movies of Erşan Kuneri: Season 1",
+            "week": "22",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABQQNjCEELr0ICkSW-FbMznkCvb0WQzjXRkD01PjKV-swM2oswF7cwixY3zqhqUpbLgjGdDzibrSJLNYf7kp5iBAD_zzM4cNHoY7rFeJvbfqXlMXdcrafGUwYalW9V_eDkUVrLQ.jpg?r=d68",
+            "watchID": "81316611"
+        },
+        {
+            "rank": "8",
+            "title": "Prison Break: Season 3",
+            "week": "3",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABS5VdzfTxOiANzAMcTeLj3K7LpIi2YKEixOyZWDmss71w9xB5wJM0a_jutdYsZDQwyb_gPe4YNlBJ4yh55nmnEiF4AuISgTujvsO.jpg?r=dbe",
+            "watchID": "70079939"
+        },
+        {
+            "rank": "9",
+            "title": "Gyeongseong Creature: Season 2",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABdb2PnxJgbTVW3ckJeClNks5yHkVOBG7PSps4jslSrFDQcwXD6QctBDQXsgj_jKCXk-KDWdDDasqeczXZUolZWYXpTsZePVttzofSxKOIuCOq1i_L3ru0p8NASnwReGaX9rnKA.jpg?r=868",
+            "watchID": "81618455"
+        },
+        {
+            "rank": "10",
+            "title": "The Perfect Couple: Limited Series",
+            "week": "5",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABX_2e6RXDWbcqMqUzdqSCiMhC-Bik8JbxSQTZ1gIdXpN8nj8Xvk5ec3POk1hXGrCsxz_WKeqwVIrwvQH9yf1iCyFWFf8e3IO2rwQzwbrkXHH7lZ-HBeKWrUtv9tV0FLa7cAjtQ.jpg?r=c4c",
+            "watchID": "81474159"
+        }
+    ]
+}

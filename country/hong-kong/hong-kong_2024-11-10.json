@@ -1,0 +1,148 @@
+{
+    "kind": "Netflix Country",
+    "date": "2024-11-10",
+    "films": [
+        {
+            "rank": "1",
+            "title": "A Place Called Silence",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABQSUOgyHpMBw4bgVW8lU0nh3ahz-AWwIpcHYSpxuS2d43gFdDQKjY3Yfh2ZIpSjPkEoxon7kYT4-ewJexZDZOkcnP8Y_rqJAFflA.jpg?r=9e3",
+            "watchID": "81919470"
+        },
+        {
+            "rank": "2",
+            "title": "Time Cut",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABeuC0zVNrx8LsymE7ruZhcGl5zPlGlLNXzJ9di53B0EG7WO3H-AVc90ktb8zuJaZ02ulPlbCrr24Jme5tpEEJYLY5Zrn4iIWXkXYRxFzBzxC5Uh3lT_FyC4zduIKRKFwJj6SWg.jpg?r=add",
+            "watchID": "81504326"
+        },
+        {
+            "rank": "3",
+            "title": "Haikyu!!: The Dumpster Battle",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABf6qyL1kmpq7q0w3W0YfclovQ31IQeWYHLGMQlBIarMRiJ13kMPWEfGrFtf0fckWHcqYNkGL7LaWTX7zXYEyWslRYyQdIVduA_EH.jpg?r=9b6",
+            "watchID": "81930066"
+        },
+        {
+            "rank": "4",
+            "title": "Alita: Battle Angel",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABb_26rpchgtI3DeW_6jxr9SQbL3me1ZLx7NCKwiyOMjVNMWNBgK1g8YDDSXFakol6bTCobXoaGEvhWGaD6kxs-HnO29IYFMjBfSB.jpg?r=20b",
+            "watchID": "80235021"
+        },
+        {
+            "rank": "5",
+            "title": "Venom: Let There Be Carnage",
+            "week": "8",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABZlPz1VWZAbyCPmrU43glN0P7CU90NzLhX-fN0gDniHFlau0JvWCsxqaaCSjAvLs-KBKivDJVh9gnVc0WUwud3dafU5L9fYyjh5X.jpg?r=06e",
+            "watchID": "81199145"
+        },
+        {
+            "rank": "6",
+            "title": "Digimon Adventure 02: The Beginning",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABUoFp0yJ1hIOvqlNLlh-5AI8gmbxbm32fQMgxX5Wz4fNYy-lO3tDNy1WZbKJN7GZmxOs5fpRO86PlPp1FS5dvTZqqStUj3ju07xS.jpg?r=cb8",
+            "watchID": "81946494"
+        },
+        {
+            "rank": "7",
+            "title": "Don't Move",
+            "week": "3",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABT-fuHGBsaxowS7v0YHNpYccIqBH4os2u5Q-Qhabcyu4dTJEL4t6r3AGqUVI3mdU_dsVEihf9B3gE1NoNnCiRWX8W5KjRLaficZsykzxcGUcF_zB729ycUWTJwqBMo59ORjncg.jpg?r=ff2",
+            "watchID": "81767564"
+        },
+        {
+            "rank": "8",
+            "title": "Labor Day",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABV9AUGhMKWldkAcoJrA7VmnchEykwmUdfoDK4p1hsoLwCqsRoFVg5iCc7fOy5hmLR6fsUVW-l5wZ1u9JD2BTxMnXjW6mde2P32lK.jpg?r=9ea",
+            "watchID": "70284279"
+        },
+        {
+            "rank": "9",
+            "title": "Hanna",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABdCGQA2No3mWAR0IYM-nsOV5wCx5hwkkfaFdja6BFD0a9qCszaf0DRO-znsUgbRTDBcQNenXffZCMH1erLuVqAkHTGgBjg0szk6I.jpg?r=17f",
+            "watchID": "70142823"
+        },
+        {
+            "rank": "10",
+            "title": "No More Bets",
+            "week": "8",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABWtsASaoxiuSSeZX54xuMFWTmh44Cc_Vf0xDsIsNwMY1fa-q_WufMntoF21S3HQRbzQcYI6e9-z8qHvDZA0eSqKfTKFYP3e1o5pE.jpg?r=6cc",
+            "watchID": "81718925"
+        }
+    ],
+    "tv": [
+        {
+            "rank": "1",
+            "title": "DAN DA DAN",
+            "week": "5",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABYTYCioywpFoTxtVik3-1lZj3l1SqfDgOlQAGED6xFpxtYz_Qyx_uSbSWbXAMdC-xJS2Vhb9HDyYsRKmMVUOut5qZ3KGEqZBuEmv.jpg?r=d61",
+            "watchID": "81736885"
+        },
+        {
+            "rank": "2",
+            "title": "Arcane: Season 2",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABZWhE6qJPLLBGhejX6DYRFaLmJIuVSxvB_cD5fTJqoyeVlVIBhmzoIrG8kAJ5yYYUnoMDmjwMpWdcrhr5rHAoobJZBq0mRxLz4RBSIJT5BLXJbDTQYwhKNl135SZ2LWyDXf3FQ.jpg?r=c41",
+            "watchID": "81516572"
+        },
+        {
+            "rank": "3",
+            "title": "Culinary Class Wars: Season 1",
+            "week": "8",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABV4gbzae7cEpXquNrBElo0L2v7yha0gUlQkWlDo3lx6aighr6p_awvE994IyQwJHSfo7VHuOyp4e4Ely4dsjuyHXqeki0dvEWzTji9ufC6jAYwigTEq-z5ZsCWjqMubhhgwhLQ.jpg?r=6a6",
+            "watchID": "81728366"
+        },
+        {
+            "rank": "4",
+            "title": "The Story of Pearl Girl: The Story Of Pearl Girl",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABZTfgNCqeyUL-oU8lbzh_vVtPtU6WDHH8f0ONWuANgocqDDrkwKrJObfIoRMai_Mxuvf79wZBR3-mQgUU2idv2Y6Ba7xgZR_NQSb.jpg?r=508",
+            "watchID": "81954671"
+        },
+        {
+            "rank": "5",
+            "title": "A Virtuous Business: Limited Series",
+            "week": "4",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABRqLhWpRnTtOB96KOQl5lhH7hW8tnDRpxQqNk2iMInu--dQXtGff1QDw92yHHLzaeQPF7PEmdVH6xps1sOhXawvxUmqpA9IQavI1xkyqAFCwUbe63uHDXW93HN2JEbLP3zVG1Q.jpg?r=612",
+            "watchID": "81787645"
+        },
+        {
+            "rank": "6",
+            "title": "Born for the Spotlight: Season 1",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABRulc64HxsqBgmnsFjcN2CMVPWkLr-39emjzrm9ecQKzi_pHIkEwl1Q5IQOEPqO3EtSRJobX031cs8zl15BViKtENGryO5xrbZwlhYxRkmtZ0AY__5O3W6qcqZbXBgsKhyoW9A.jpg?r=ce6",
+            "watchID": "81746668"
+        },
+        {
+            "rank": "7",
+            "title": "Hellbound: Season 2",
+            "week": "3",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABbmrOouZJmfeQGOTyHLQ9IyW1Uw5DhTO6pQUjGGYbI7AwGgZaOFyYmzV-NM0pAuI2XuDEKgO9cANL4iHRS56hyJLIwcbmEXr1WNmT-OsajtdyrcvLvd3iyj9fyp2D7OzDB2yOQ.jpg?r=45d",
+            "watchID": "81284038"
+        },
+        {
+            "rank": "8",
+            "title": "Blue Lock: BLUE LOCK VS. U-20 JAPAN",
+            "week": "5",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABVny-Ece8yyaP7CdcopnIv3lRYOr1gCy-bxxvIa8xDiw-SWYruLWX359Gs3m4s6Jf2VSiFCd0cpQ2rxo0zlxYLhEhgMP4QvpFUkl.jpg?r=989",
+            "watchID": "81940353"
+        },
+        {
+            "rank": "9",
+            "title": "Ranma1/2: Season 1",
+            "week": "5",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABdFWzcn0LJxIsfazi_GN7tkUfi83Fq_u4AFkIoUltsUONHB9kgkyMVZIUtQtfNlMUe7eN-doH-_OHuQIiumqgtuW89el0Ez7r9mfrZlzes1SY9FSR8OAO3tUuvhjhu35EyHn5g.jpg?r=1f9",
+            "watchID": "81301833"
+        },
+        {
+            "rank": "10",
+            "title": "OKURA-Cold Case Investigation: Season 1",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABcU6r2HhGR7Hq5G16fjy0qDPAIwvWagNjt50doFB1pMhSpIs3Ro9FEkFMojSk9PHShYNauLGE4CWEXLSQeJR6m0WbOu_x-o2wxC1.jpg?r=b5f",
+            "watchID": "81932466"
+        }
+    ]
+}

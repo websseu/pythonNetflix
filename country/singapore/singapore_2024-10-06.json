@@ -1,0 +1,148 @@
+{
+    "kind": "Netflix Country",
+    "date": "2024-10-06",
+    "films": [
+        {
+            "rank": "1",
+            "title": "The Garfield Movie",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABUlzIblJqDqk_sGGi7vWRyOvDTKEnWg60Z-VpykIUimdhfQww431T4eDnxsrKq2M6ngKky_FdziNMYkj3eHhCeCHkrEYKZCUzarA.jpg?r=21a",
+            "watchID": "81762622"
+        },
+        {
+            "rank": "2",
+            "title": "GOAT - The Greatest of All Time",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABcYRmxK0LQ0PEPnsRsdMR-kMf8TF-SKgikUY0wsDdOC3somiVFqPd_YtjHZwTxr43alCv7e9UYdd16tA--vWUZ8q7WyjtMu5O6_h.jpg?r=cc1",
+            "watchID": "81762714"
+        },
+        {
+            "rank": "3",
+            "title": "The Platform 2",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABbKTqjLXESMvR-qVre047Su5jPL3witos0FOYJNfq5jaq3xnzzjXaAucW0P-DUz25TcEtk0dTKazcJvgKMtZjgQUSwFw3F05lEi3vp0XJLkRJrEfz0lGoUYlgmfVmOOo_HXZlA.jpg?r=bb6",
+            "watchID": "81284730"
+        },
+        {
+            "rank": "4",
+            "title": "Smile",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABUZFmLMkzH4TlkdSJDVRC7aC6bFdybBCMInmMtfOhzh0Pt6_rYTwducBc5IElWAQG2NaT9hxFIz1JEbudLoFaOX9M6vN9AvZtWAk.jpg?r=e62",
+            "watchID": "81616656"
+        },
+        {
+            "rank": "5",
+            "title": "Memoir Seorang Guru",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABceTD3IodAJNS1Ln5lm7CAVvVuToZhgePWWdaPCuF6P_6Rx3rKfNUm0FASmADEuMkU9Tjv65LAZicZZjlYt3KzZj29727KImWp7J.jpg?r=978",
+            "watchID": "81927152"
+        },
+        {
+            "rank": "6",
+            "title": "No More Bets",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABZ8fOuHYy8_RfqeNeH4B5DeE8yJ6Lk05R0gThM4NCL2Rfw1QDacxOuYV40A8iRLoLN02cQKcaQRjGxcj9DDpX86mOiBNKhfzSnbz.jpg?r=76f",
+            "watchID": "81718925"
+        },
+        {
+            "rank": "7",
+            "title": "Puss in Boots: The Last Wish",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABYkag0S95NSsIea3kjbGpnq-MuFFiTB7I60-3xoAfHddlQiwyL5owhmjAxPEPtj0Q4nyHh-Bcwdz-UFKolqgAwOh15_7XsS63exk.jpg?r=28b",
+            "watchID": "81555726"
+        },
+        {
+            "rank": "8",
+            "title": "Ulajh",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABSVp2n0Ksk7wd2CTJi0PvuqmM_VlJ-CtllxrF8ypuIQtDeGFBYZfONBPrYAnDKPVrFT8hAYBSTEYfXHv4AEtQESCdgSJQ2vWn6zJ.jpg?r=972",
+            "watchID": "81685896"
+        },
+        {
+            "rank": "9",
+            "title": "Miss Peregrine's Home for Peculiar Children",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABUIhZ-_3S7bZwEdjtFVx8Uv5CM21J4wtpLou_VF04fLcjdURm_M0Pxux8iJoO9MTbxJs2E9uEKTK1iqaFxsve1AqccKtludHH96u.jpg?r=545",
+            "watchID": "80079257"
+        },
+        {
+            "rank": "10",
+            "title": "Bad Boys: Ride or Die",
+            "week": "3",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABb-bQH7FCLLvYEfaBtI70IJEoyLWDmYXLVnaw0mqC7tT_xeljKtpQRNQJWOEaIvLRteghAH7kUgR_5Dq6fKsYFb6YdiyJwG7fDj8.jpg?r=730",
+            "watchID": "81762792"
+        }
+    ],
+    "tv": [
+        {
+            "rank": "1",
+            "title": "Culinary Class Wars: Season 1",
+            "week": "3",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABUd3Fxaykn3ewHKqra2qKxel-CSGArlTKo_yfu-6depPRyxDBHEC5Wo0UnSOdvXwipDvCqorz9lM89OextqIRmh1lENoy4pZABz_uwnC094VzB5iVdcfgD9lQr2UEaCSnn5hZw.jpg?r=350",
+            "watchID": "81728366"
+        },
+        {
+            "rank": "2",
+            "title": "Gyeongseong Creature: Season 2",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABdb2PnxJgbTVW3ckJeClNks5yHkVOBG7PSps4jslSrFDQcwXD6QctBDQXsgj_jKCXk-KDWdDDasqeczXZUolZWYXpTsZePVttzofSxKOIuCOq1i_L3ru0p8NASnwReGaX9rnKA.jpg?r=868",
+            "watchID": "81618455"
+        },
+        {
+            "rank": "3",
+            "title": "Nobody Wants This: Season 1",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABag7bvH26W90NWDoi_1D5NhWXQvZtB_Q8j0EGE_-bn_A4sfObj-tbwty_3kEF6ks7sBsdVW79sBe3VN6_Q5hlRxhoyOTVmpPbuumpU2xHjMEBpaslvjN4R3nzxf36hrpNNiUMg.jpg?r=323",
+            "watchID": "81591297"
+        },
+        {
+            "rank": "4",
+            "title": "Love Next Door: Limited Series",
+            "week": "8",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABT25jCqSMp3kzsljN3pu_VIfdZMPhibnn0WRdTWMdXExOOc30JKdttdZspcGCLBunoAiI4-Qpl34cDLnLlPMJqhApsUs9wI-_rpPunAg0QKG9Pi1S6OGtK5YC3BROBs1mtZOog.jpg?r=c18",
+            "watchID": "81739045"
+        },
+        {
+            "rank": "5",
+            "title": "Monsters: The Lyle and Erik Menendez Story",
+            "week": "3",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABaPPkki-sw_AU-mZF2OaLlKp4qDkGgrFH3fli3ddhSucguq7VvG_ql7mXsSBUviqijSgGx2eHGXZxXO6Ykdh5No7Di1XZ0nv0vhSG-315CksNO7oIlj0_vuFVHg-uvv9sfZYKw.jpg?r=e2e",
+            "watchID": "81582441"
+        },
+        {
+            "rank": "6",
+            "title": "Mr. McMahon: Limited Series",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABb5-ndMJ2uGUB3BUAUnq8sW5Otcm97ySVsSrrr97XMNydKrVFJC5cLELvRRaUWa1dzuYXpXlypLljVO2gseTYhvlTp21a6xJTrNmB0B0NnchvPH_sz3FXfLrMQRNIxJmEeRPMw.jpg?r=f11",
+            "watchID": "81179220"
+        },
+        {
+            "rank": "7",
+            "title": "Chef's Table: Noodles: Season 1",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABQPoj-5Wn82Wdo9Pk7SlSJwhBAf2hQISg3Cx2GjQzDPk_S7P06REZ0OWWBi5q_p2SptuRHDBj0-Zb5NaUAhZFKzkISS0FCorx1pkfqjJJEg15r3CGnR5fpJnmXp5Jmw5QuHkTA.jpg?r=978",
+            "watchID": "81711983"
+        },
+        {
+            "rank": "8",
+            "title": "Emily in Paris: Season 4",
+            "week": "8",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABd0X1PrB5uIerkNJlglL1IP9oKAs-UP8qKuIc9fp--Tg4b76t4jhsq4p_RyUTg-FNkyeY51TFHmiHxBInkWyQOSEBkdbBDfNRyhNVg3XacH68C_Z0jVUvsC5g6-ab5SlTf-cSQ.jpg?r=4f9",
+            "watchID": "81580261"
+        },
+        {
+            "rank": "9",
+            "title": "Gyeongseong Creature: Season 1",
+            "week": "6",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABY4yy3j5AYVjsHkOzbEq51N4SsyOawHiuADYWu4JQCBd34Yn09W41xJx24uBrhepBbnFv-FkXI45z8FKMb7mB5cVVFJH_yKPtwilQwhEfrn4rxY1ZGi3R1QmKLmp4sCYRDFuOA.jpg?r=70e",
+            "watchID": "81618080"
+        },
+        {
+            "rank": "10",
+            "title": "The Resident: Season 1",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABbzUpowhRgQ_wFVt_90wDs0Wn2sZyaPHPgFaQXH9zffKdHk5z4Rm-lgYYz5kUwwn2AlzRDznSBUKKB2l23Wand9FH_Bj3Liwq54J.jpg?r=30c",
+            "watchID": "80179401"
+        }
+    ]
+}

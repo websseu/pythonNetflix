@@ -1,0 +1,148 @@
+{
+    "kind": "Netflix Country",
+    "date": "2024-10-27",
+    "films": [
+        {
+            "rank": "1",
+            "title": "Do Patti",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABaHB2y6htXKymUjpM5yNrrJ5Co9j_KKVh7QFdOc5qzFgcUtnOUBNWLsOA_mdpA7AZf84dv285kEjcjcFntN-aDnheHSLlM-HyxYI5mjPLxcgGQsuaYdkxt5lcXJezQwCUcAUiQ.jpg?r=b01",
+            "watchID": "81681817"
+        },
+        {
+            "rank": "2",
+            "title": "Khel Khel Mein",
+            "week": "3",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABbrg7_Vroxb9CFin7R5KmjgmCnuU0RTYxaZ_saCqZwI8_mu_cbC5PWDshZgUHmHDk9VfzZSNQ_DdbKFLLxb3MBZdbRThQ9NaDOPR.jpg?r=941",
+            "watchID": "81631010"
+        },
+        {
+            "rank": "3",
+            "title": "Family Pack",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABWeawCqlKzezp7O9qDw2zh7nOdelzNTEfpYXN-1PzmOb_tYNjuJ7DbJ4VP0qjD-IkRhPu19FDIz68jXqWyR2VB0nUhAJNGu7pjltZIPSOMnUrfjHFQDone1pLShQ9H7r8XzNpQ.jpg?r=420",
+            "watchID": "81686180"
+        },
+        {
+            "rank": "4",
+            "title": "The Shadow Strays",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABZ3INstac24KaeimBgdNUe6drFB447SP0jq7z2Yg-tA65s9AQpAGI75XqJ4Z-1moKE5Nfi6RhTZdyBarlbyW_laWXVhRQQu94DKM7VBCwKINZlWycy0ZsPVuH0w4UVkAoaoxjA.jpg?r=b40",
+            "watchID": "81624008"
+        },
+        {
+            "rank": "5",
+            "title": "Don't Move",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABW-il5dvjqphNA7An1dw4DmcXsgDnTBbOH8gLe6FqzAlzPNNCxBY-qV2b9xVutfWpmoK4DA7Qd8ZPUEG5p9x5eFDCgohgibHuON8AwcqBDdQFlMQZy4WOqg2Xd2slxPsLd8qxQ.jpg?r=1e8",
+            "watchID": "81767564"
+        },
+        {
+            "rank": "6",
+            "title": "Transformers: Rise of the Beasts",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABQVSGEzLQHgW1Ae5-48Qfk1NHQX0-UuXZCBWR_djmL02jAHsMe7_m9w_VMsMMzgrRV4vzj1jN6TVRxGH7EbEAvCfmnFJ_Kbwikkr.jpg?r=a65",
+            "watchID": "81602889"
+        },
+        {
+            "rank": "7",
+            "title": "Justice",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABY1vsUTybAMFSsnqjbSKhD-oDjy6_Bk3tvtnJwA3WUweVMUFnBKvbOw6KAx7dR8aBS21mC8JqROR-0CACMmgpwbZt9zeSJXdZyAahjuQxniJqlRyTK2X_JgDSonIW46K6YjaVA.jpg?r=1e1",
+            "watchID": "81620884"
+        },
+        {
+            "rank": "8",
+            "title": "CTRL",
+            "week": "4",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABXXDNAJghadyPFHZ5RkbHELrcqec_QC6lTkcbmUvNYphKIgp13KA1-5VrwkgOJr1OOK7ryUzcvBsCxc7M0BXSCitAxE1ac1SgxthvWPEI6KWbOz-84A_DKbDJymlv0MQzAteKg.jpg?r=480",
+            "watchID": "81769841"
+        },
+        {
+            "rank": "9",
+            "title": "Kondal",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABV9McUwYGrhJP7EHvgxg6mbywM29-i8k4J65pzpa2FiCl4iD7Y5iHxPKl5LVqiWPAc7aPlMJxhI7NBEMpz4e63Hr3kZ5vA3eoy--.jpg?r=9f9",
+            "watchID": "81721827"
+        },
+        {
+            "rank": "10",
+            "title": "Outside",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABaHBu2BUXZtVZk9wmISAM-cxdtDbjl-DF5fJkEQ9nE49n-q3LeN_S69e0FsoNVCcrTpciTjaevurKZi6lgKNUuNKio6sC1hHeZJAzGGQ2T9b1z6x1JKCAtwh9MYPRsfIrd6Cng.jpg?r=17d",
+            "watchID": "81739319"
+        }
+    ],
+    "tv": [
+        {
+            "rank": "1",
+            "title": "Fabulous Lives of Bollywood Wives: Season 3",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABf50iEdRZlHikkSasY7wH8Fiv2WVVJX_J95C336k71PeXG7dY4oO9bdEGBn6EQvDVl7GSK-J_zYTAKgqDmU97890J_zUlFZobrb_hamu63yGn2UwagHvEHWdsjEVraeWsfXwrw.jpg?r=02f",
+            "watchID": "81681534"
+        },
+        {
+            "rank": "2",
+            "title": "The Great Indian Kapil Show: Season 2",
+            "week": "6",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABfVVeELIU4sywQtuyMcimMJa2NCbEu_ew0FEwuzwVCeRhEi_DDbJL6VIh0vWQJcJ7091Fevtbx5Ihdbh451mCw9Qag7SsszFsGRliheOkcE72ph6d5GXf-YIOYAbRmP0v2vFFQ.jpg?r=ba6",
+            "watchID": "81786478"
+        },
+        {
+            "rank": "3",
+            "title": "The Lincoln Lawyer: Season 3",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABU24VrjZrti3NEkubRkqO0zOJcQplkGouIwHPC7rtA6L_gyeP7oE0vC_Tw0fM1uF53qHakhPDsH26b08gnqeWnHZaZcpDFwxw-xcBV1PQk6Bk5mH-ARafDDq6Lb95BrfgOg6ow.jpg?r=b13",
+            "watchID": "81628779"
+        },
+        {
+            "rank": "4",
+            "title": "The Lincoln Lawyer: Season 1",
+            "week": "7",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABcYgIH3b0xV_wpTZ_FwmnF_p9vdhFO7Qk1dSZxIvmThPpueruahelcFV5G3mV3OIb5fT_lQpjjqCljfbVPx_QeJz-DQEzI7d_w34JQr5_As1WiqMYtBEU0umPhqPw9Ikz15q9w.jpg?r=d95",
+            "watchID": "81303833"
+        },
+        {
+            "rank": "5",
+            "title": "Dragon Ball DAIMA",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABVkEet3UAROirFjWga6hHDVpiATEOXKNME_AMmVqYPE5-AgUfC_NbEQYeUy_zLEaYlUnF3SxV2CDIqVeWXwO4_SPGv0MSfPHRAg8.jpg?r=6e2",
+            "watchID": "81943492"
+        },
+        {
+            "rank": "6",
+            "title": "Outer Banks: Season 4",
+            "week": "3",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABRAJhPsAjC0dZ50a-jnN0gI51zW0DU8wq7tErLk1FVh5vNXy5MkJV40SL5AOBorPeLzrsbia5-qjlFYogrVWE9Zpsjn1dgAsjIKNH1gtCiID7EHqF0URShU1NoIhtlnx6PtZxA.jpg?r=a7b",
+            "watchID": "81634116"
+        },
+        {
+            "rank": "7",
+            "title": "Deceitful Love: Limited Series",
+            "week": "3",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABaYIRL9Mkhlu6hcwOqI7k2IVOgcPCISHf2FXIESfFVXlwGMDpZBzNL1FCv3IwjdUkaHz7lsYUVsXBzwZRNykYoTl4P-0TyyELEWs4VZRybgZsNw4rrro0o0Xf3lXb9QBRaS27g.jpg?r=de5",
+            "watchID": "81481335"
+        },
+        {
+            "rank": "8",
+            "title": "Outer Banks: Season 1",
+            "week": "3",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABVY4crz765QprYDYOdlH7PbQBHJLxRf6HYdM6mrx1laC_tB9JbNaWAodVDl_fyUr5rufFwI43ZPPavUt_zeKx_OY7CKJXAHVjxOh7HjjprSvlpi1RiMNXrEQQJ6XvzgAFvoY9g.jpg?r=b0f",
+            "watchID": "80236268"
+        },
+        {
+            "rank": "9",
+            "title": "Territory: Season 1",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABW7UaEgk_sQsB62pSD7855QGKNNdv3HSFJNEag95ToCJY9iAVffzkFvuEg6LcSzyoNQAjL_hdhbG4sneoql06QSYdapLgLgCy_iGZWedVHd_yUYR5XveDTocQaQqaCxiAbnMRA.jpg?r=f65",
+            "watchID": "81591575"
+        },
+        {
+            "rank": "10",
+            "title": "The Lincoln Lawyer: Season 2",
+            "week": "7",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABaHBMWXwaH2ZQEHUq-tarihA2uxjfj1d9zSS2w2HJGg4RJqTqXyS9ciIEbrlgKRNnjn3LXq3uzGRduPJVqKmU4VNJRxK2NMJMc4bB3CF7Ev2Q76Ki4E6pUUTcRVLzFqbyLmgGg.jpg?r=4d2",
+            "watchID": "81331784"
+        }
+    ]
+}

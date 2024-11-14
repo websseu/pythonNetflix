@@ -1,0 +1,148 @@
+{
+    "kind": "Netflix Country",
+    "date": "2024-11-10",
+    "films": [
+        {
+            "rank": "1",
+            "title": "A Place Called Silence",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABQSUOgyHpMBw4bgVW8lU0nh3ahz-AWwIpcHYSpxuS2d43gFdDQKjY3Yfh2ZIpSjPkEoxon7kYT4-ewJexZDZOkcnP8Y_rqJAFflA.jpg?r=9e3",
+            "watchID": "81919470"
+        },
+        {
+            "rank": "2",
+            "title": "Old Fox",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABWSjVcKhJj2LZWi-9rHcawBR_wp-ZItnvUlMDUDQ-lnypgWaDntmIQa0DJnKPHlpXWHTIpqdGF_9k4FdJOcvb9NHuBWscJBpuPdx.jpg?r=b12",
+            "watchID": "81938269"
+        },
+        {
+            "rank": "3",
+            "title": "Haikyu!!: The Dumpster Battle",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABf6qyL1kmpq7q0w3W0YfclovQ31IQeWYHLGMQlBIarMRiJ13kMPWEfGrFtf0fckWHcqYNkGL7LaWTX7zXYEyWslRYyQdIVduA_EH.jpg?r=9b6",
+            "watchID": "81930066"
+        },
+        {
+            "rank": "4",
+            "title": "Where the Wind Settles",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABaJQFwa8d-O4-TdtofQUrNwM4fGr7Ygv82O47cktx_IgvjpqNz0iB1w1c-qEhq0D8Sju8n98S1i5MA9WTFIDloLBl5aeLhs65gd-.jpg?r=de0",
+            "watchID": "81939271"
+        },
+        {
+            "rank": "5",
+            "title": "Time Cut",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABeuC0zVNrx8LsymE7ruZhcGl5zPlGlLNXzJ9di53B0EG7WO3H-AVc90ktb8zuJaZ02ulPlbCrr24Jme5tpEEJYLY5Zrn4iIWXkXYRxFzBzxC5Uh3lT_FyC4zduIKRKFwJj6SWg.jpg?r=add",
+            "watchID": "81504326"
+        },
+        {
+            "rank": "6",
+            "title": "The Boy and the Heron",
+            "week": "5",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABXgg2uVhCe4pjlMqG4jbKvkA29jtWGorhMD0IpMJ1_DRXJOIE0GKLQmQfNnHe_v5yOqqlRcXGMEpvSDD25dgp3EhHDo5b0jwFqdl.jpg?r=4e7",
+            "watchID": "81725555"
+        },
+        {
+            "rank": "7",
+            "title": "Venom: Let There Be Carnage",
+            "week": "6",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABfoGiOJewWJutZE5aZbhx_lLyFA5jW7Bvu8VScsoUjHcdLeDbWx6N-NmnuqI_hchpx_oX9FiuOOzktMUjK0pRUNrc-b_rssK3d5i.jpg?r=4f7",
+            "watchID": "81199145"
+        },
+        {
+            "rank": "8",
+            "title": "Ah Fei",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABeMF1OIv9oi0SZ8yUPXZSvUma43km33HKWLtpkTaVFc8rouY15ZzFdVcL5H5e6Hd5M4CBpWR9daU_xdThJHO1Lps02EnbYdbfWTf.jpg?r=9c2",
+            "watchID": "81939272"
+        },
+        {
+            "rank": "9",
+            "title": "Alita: Battle Angel",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABb_26rpchgtI3DeW_6jxr9SQbL3me1ZLx7NCKwiyOMjVNMWNBgK1g8YDDSXFakol6bTCobXoaGEvhWGaD6kxs-HnO29IYFMjBfSB.jpg?r=20b",
+            "watchID": "80235021"
+        },
+        {
+            "rank": "10",
+            "title": "Digimon Adventure 02: The Beginning",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABUoFp0yJ1hIOvqlNLlh-5AI8gmbxbm32fQMgxX5Wz4fNYy-lO3tDNy1WZbKJN7GZmxOs5fpRO86PlPp1FS5dvTZqqStUj3ju07xS.jpg?r=cb8",
+            "watchID": "81946494"
+        }
+    ],
+    "tv": [
+        {
+            "rank": "1",
+            "title": "Born for the Spotlight: Season 1",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABRulc64HxsqBgmnsFjcN2CMVPWkLr-39emjzrm9ecQKzi_pHIkEwl1Q5IQOEPqO3EtSRJobX031cs8zl15BViKtENGryO5xrbZwlhYxRkmtZ0AY__5O3W6qcqZbXBgsKhyoW9A.jpg?r=ce6",
+            "watchID": "81746668"
+        },
+        {
+            "rank": "2",
+            "title": "The Story of Pearl Girl: The Story Of Pearl Girl",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABZTfgNCqeyUL-oU8lbzh_vVtPtU6WDHH8f0ONWuANgocqDDrkwKrJObfIoRMai_Mxuvf79wZBR3-mQgUU2idv2Y6Ba7xgZR_NQSb.jpg?r=508",
+            "watchID": "81954671"
+        },
+        {
+            "rank": "3",
+            "title": "DAN DA DAN",
+            "week": "5",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABdMXcg7skhiUCsCL3zYC4fg6HCuh-n0r4lJThO9PmOiLu2Nupowv2NPfb9lbyqRAiCDHRhiKunDJy-zPBknyH20cwzvHYcyJ18P8.jpg?r=fda",
+            "watchID": "81736885"
+        },
+        {
+            "rank": "4",
+            "title": "A Virtuous Business: Limited Series",
+            "week": "4",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABRqLhWpRnTtOB96KOQl5lhH7hW8tnDRpxQqNk2iMInu--dQXtGff1QDw92yHHLzaeQPF7PEmdVH6xps1sOhXawvxUmqpA9IQavI1xkyqAFCwUbe63uHDXW93HN2JEbLP3zVG1Q.jpg?r=612",
+            "watchID": "81787645"
+        },
+        {
+            "rank": "5",
+            "title": "Love Game in Eastern Fantasy: Season 1",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABVt276GVwo3_Dawnlh3I80HtofqyRb33z6cDIcHVh0b5cDYil2SL9MlwH1SHJ-rOnocxod73nP_gy6gTBj4n0B2-D1Q8AMdfsp8f.jpg?r=d8c",
+            "watchID": "81950759"
+        },
+        {
+            "rank": "6",
+            "title": "Arcane: Season 2",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABZWhE6qJPLLBGhejX6DYRFaLmJIuVSxvB_cD5fTJqoyeVlVIBhmzoIrG8kAJ5yYYUnoMDmjwMpWdcrhr5rHAoobJZBq0mRxLz4RBSIJT5BLXJbDTQYwhKNl135SZ2LWyDXf3FQ.jpg?r=c41",
+            "watchID": "81516572"
+        },
+        {
+            "rank": "7",
+            "title": "Kill Me Love Me: Season 1",
+            "week": "3",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABc3-6181vBXa471QeFl8QTao8Gsc5PD3ILzk3CneFRSqIcZwsXMbZWaaOfqp6XVe2-FVYDlcq7JeZ6x4ECE7DAysaM8vVe5LW-tF.jpg?r=374",
+            "watchID": "81954821"
+        },
+        {
+            "rank": "8",
+            "title": "Culinary Class Wars: Season 1",
+            "week": "8",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABV4gbzae7cEpXquNrBElo0L2v7yha0gUlQkWlDo3lx6aighr6p_awvE994IyQwJHSfo7VHuOyp4e4Ely4dsjuyHXqeki0dvEWzTji9ufC6jAYwigTEq-z5ZsCWjqMubhhgwhLQ.jpg?r=6a6",
+            "watchID": "81728366"
+        },
+        {
+            "rank": "9",
+            "title": "The Tale of Rose: Season 1",
+            "week": "5",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABTxSxRJoSbE56BobucjgJOtFN1dJc6UP69Omwe_IFQOMlpRMmmTlnQAXFqM5jdOq3aQAWMrljyd4hkJ_7QkRj6RIQoP4kka8U6py.jpg?r=c31",
+            "watchID": "81919480"
+        },
+        {
+            "rank": "10",
+            "title": "Hellbound: Season 2",
+            "week": "3",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABbmrOouZJmfeQGOTyHLQ9IyW1Uw5DhTO6pQUjGGYbI7AwGgZaOFyYmzV-NM0pAuI2XuDEKgO9cANL4iHRS56hyJLIwcbmEXr1WNmT-OsajtdyrcvLvd3iyj9fyp2D7OzDB2yOQ.jpg?r=45d",
+            "watchID": "81284038"
+        }
+    ]
+}

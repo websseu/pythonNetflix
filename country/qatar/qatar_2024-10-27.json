@@ -1,0 +1,148 @@
+{
+    "kind": "Netflix Country",
+    "date": "2024-10-27",
+    "films": [
+        {
+            "rank": "1",
+            "title": "Do Patti",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABSITAM_dNMvYqRfq7GcomgYAePBjhw2Y28womT6u3bf7TCPV1WCqTFuGyHfkIrW_6Gfi9vcGkFmVOam3TPBEICyID1nEoNDS5t_ocKmsVBmZQz77lao3m-ohKnDwE_BUyv-ENQ.jpg?r=634",
+            "watchID": "81681817"
+        },
+        {
+            "rank": "2",
+            "title": "Don't Move",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABZHtjee6nsFrNaUpLTtdsz-8eP9rmoFYXdl1_XUk-ZNiNKzAvOQ1kOkq8kBF58fUk7yqrs80CFleWK8skncttxKP1Fvpqowsu_silSbZ_J_QG52tSWTOY9VMdOgWyY25HHgNIQ.jpg?r=e97",
+            "watchID": "81767564"
+        },
+        {
+            "rank": "3",
+            "title": "The Shadow Strays",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABeF7BJbB5O1CqjBF20n7g47-U1fEj_shs023yixzJfycUBjDY1vKXZa9s40iPMo-fgrhsffvdI8BGvrpPXImc7IY5r5IdL06rzILSsHHnVbJ50pS8Qk-SeQ-yUUs41kNhacnzg.jpg?r=7d7",
+            "watchID": "81624008"
+        },
+        {
+            "rank": "4",
+            "title": "Family Pack",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABbblWizP1QY-M4BqlbC6ZW2vEqBxI4LxPqsx6Vjv-6t82yqQA9OINPUQtlj4QINQHHXFy5BoSi84zJySopwz2pcbau-x-RHKy3ZLf8LecjJ7QTEy1Ybez1AeP-La1jNjA3bSRA.jpg?r=10d",
+            "watchID": "81686180"
+        },
+        {
+            "rank": "5",
+            "title": "Meiyazhagan",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABbfdmXI_-ITlQU2kH9tSADBBznjZ8JhBY8L2yPNHYzZr19P6n_ZRQQ6zgbEz9C_fRcoQxzgByMH2Y_iVfX1kfkkClTvwaSHWhvKT.jpg?r=643",
+            "watchID": "81713677"
+        },
+        {
+            "rank": "6",
+            "title": "Sweet Bobby: My Catfish Nightmare",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABWZjW7dHNDs4LTFLR-XbC5OdaLdX2106HhduC-ptnLTDIWNyddwf_7lqXhuPJ77Yh6k49r2SSf_Qdy_n7t6htJX17Y6L6sngVURp8MmxP5CriYmdHMDUgKMYdjXsVuYDIQMbCg.jpg?r=c5c",
+            "watchID": "81591286"
+        },
+        {
+            "rank": "7",
+            "title": "Outside",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABROX7AC8daAB8Texr4TiMNnrtjWRCs558x0fyK4aw0hSO3Vv022PKO1MlPrLCoJQ7ZRzBYuXG3aUksUXDqpXkjAEpMhd9KhDxMvwhqfDQJAVizylO5cteuftrYjiv5BfKAmhEQ.jpg?r=e03",
+            "watchID": "81739319"
+        },
+        {
+            "rank": "8",
+            "title": "Justice",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABWyr6C-cUrOhpbHgeMHA9iUFAnuYL-o42vjbcacEa58XoPtCIC_CG7xZXZ_ThPJAKkXZgEgIq1RVZB9zKC-t6dFtI7oVslotMR1B7uPDWSiYuOwQr0zLBZ0PIH5sNOtccrCRhQ.jpg?r=777",
+            "watchID": "81620884"
+        },
+        {
+            "rank": "9",
+            "title": "Hijack '93",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABaFVKGpRqfvVokxUXwAmJAaDuFkxpMB8F-T3KSkiirdCJxTV5GtAIiPWCVkoSkLGwPUCG2gN9pPxUXdIrZU6yE89-BxhxY245xme.jpg?r=501",
+            "watchID": "81676888"
+        },
+        {
+            "rank": "10",
+            "title": "Snow White & the Huntsman",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABQ-5i5-dX_JixysEEv32gL6Zpi5QJMALw8Bfus45mvAVvaGLLtqdvAC7iNFQixc9RAz4YKoYLvIoLtW7q2rNHEkW8GLq9XXfxiq8.jpg?r=ad3",
+            "watchID": "70217912"
+        }
+    ],
+    "tv": [
+        {
+            "rank": "1",
+            "title": "The Lincoln Lawyer: Season 3",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABdK3dh_FlyA5GNtjRLO0LO5eN8XZABr5Vy76BwHaXd3-S72FUY8b5PynL7gnoUjTHygwnyOcwIaYe9u_beddg2MNtggoyEaDlKZZZkIN9axWHwtpjBRxQTTK1JlmkH3rX3zvUg.jpg?r=c9f",
+            "watchID": "81628779"
+        },
+        {
+            "rank": "2",
+            "title": "Love Is Blind, Habibi: Season 1",
+            "week": "3",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABc0pYtzgUoSTXgvgQxQ8gzjW3BKO6GTkKI4An1kvfI4ainAJeMdJAnAWg8cD12Za84EwlEH952TJsCGAxhyTa-CWJ9OIRD82-lDqFJD6OYzIaguVafxOYxPi9gIhlUY-uWIBfA.jpg?r=849",
+            "watchID": "81622655"
+        },
+        {
+            "rank": "3",
+            "title": "Fabulous Lives of Bollywood Wives: Season 3",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABTSwc39baGvTvKdVyb68iB23F8MQoZGS7QkoLv2xJqHNMVgRw29go5Wjd8YQseDXWd0CDcQDRCAcIh-Xrx28BqUnm0LxKEveD4SusINNSCeiQSfgExLLgQZkMHxjtnjfthtLyw.jpg?r=8df",
+            "watchID": "81681534"
+        },
+        {
+            "rank": "4",
+            "title": "This Is the Zodiac Speaking: Season 1",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABfWhawSFOLYfepgHXGeFgrq2_u8dhp8on0LX7yLiAkJx1VUOB2GcNK_d1sk8nTBniUNDkG0s2c8XIDZdSvYw4Tu8kUmq6F2_xZ2p_jf001jtSaSCt_hWGMOVCxRYUP9d-D3f8g.jpg?r=087",
+            "watchID": "81681627"
+        },
+        {
+            "rank": "5",
+            "title": "Beauty in Black: Season 1",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABR3leWtpYnn372ysgcGCmS4XNCxg-LiIfNgTwyP5TvYNqlqmuuMroHfvjnwdl26CRF35CJwWiOp3etL9d6zEx9l53cZEjPDkYaRZ8s7mJb0PH6o-QkpoqWemc4zcXlmK6Qgwag.jpg?r=969",
+            "watchID": "81764524"
+        },
+        {
+            "rank": "6",
+            "title": "The Lincoln Lawyer: Season 1",
+            "week": "6",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABUY2AU8n1BugL1EpWYiUpaoO7L6CbJLSHY9GgtutdP171OTgC3al2T4cWSdFVkZYxSinDpiTtB9eWPIOqIFLdz4fMsO8l_LWGmPzkwIiU_x5WAxAO2I8d7rjLmKCVa1XxM_YAQ.jpg?r=108",
+            "watchID": "81303833"
+        },
+        {
+            "rank": "7",
+            "title": "From: Season 1",
+            "week": "8",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABYIkf32Oo9uG3WXR6KNVN8p6dhfg736Ih-n3PUF9E5jHFwh07BTltdxyZzCZn2e55KJSFkDKr2QijkAUquDr2W_jCljl3tQWy24R.jpg?r=ee5",
+            "watchID": "81446289"
+        },
+        {
+            "rank": "8",
+            "title": "Dragon Ball DAIMA",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABVkEet3UAROirFjWga6hHDVpiATEOXKNME_AMmVqYPE5-AgUfC_NbEQYeUy_zLEaYlUnF3SxV2CDIqVeWXwO4_SPGv0MSfPHRAg8.jpg?r=6e2",
+            "watchID": "81943492"
+        },
+        {
+            "rank": "9",
+            "title": "Territory: Season 1",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABfNCIbAbT8x1MCZWLb9DiE_QmjDaG-0o6EpzPVB7tJgtrq0BV3KZUIYNEBqp3QqnPkLvgI1ojZbVZitTkgazKDKWg-VfnlbCPcPARx_ijxW-AOYTuOBsa_WTKNNFkIOrAuMdpw.jpg?r=7e6",
+            "watchID": "81591575"
+        },
+        {
+            "rank": "10",
+            "title": "Deceitful Love: Limited Series",
+            "week": "3",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABQcv2ORFtCr-Pq0HrvgSSkpzVVO7NpQ3B91VzZmKj9ntnUZHMZRYyHviOvtAD4doNgTbE1boM4B77tPf790eVAr_OTASksI75MNjjXCvyUThY_kP4VPtcoB9bb7bb01SA-k4eA.jpg?r=298",
+            "watchID": "81481335"
+        }
+    ]
+}

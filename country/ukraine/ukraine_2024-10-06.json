@@ -1,0 +1,148 @@
+{
+    "kind": "Netflix Country",
+    "date": "2024-10-06",
+    "films": [
+        {
+            "rank": "1",
+            "title": "The Platform 2",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABbKTqjLXESMvR-qVre047Su5jPL3witos0FOYJNfq5jaq3xnzzjXaAucW0P-DUz25TcEtk0dTKazcJvgKMtZjgQUSwFw3F05lEi3vp0XJLkRJrEfz0lGoUYlgmfVmOOo_HXZlA.jpg?r=bb6",
+            "watchID": "81284730"
+        },
+        {
+            "rank": "2",
+            "title": "Trouble",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABQAmOx4JhTxYCJZZppP85WxzBFSLdJXqBOKaKMY5oofastaHMmVcX1KYUgBSFbgmLbBEx9hVv3WlPKRToDwMrxFV1ARRbVNMxNIM409oCrFB9US4KQgYIKyRWviWHytOpKeugA.jpg?r=207",
+            "watchID": "81727408"
+        },
+        {
+            "rank": "3",
+            "title": "Divorce",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABXKvEw9FWZHpHla56ro2F33I4OID1CbIvnqtuT5h3WSzBUNRL1D5_y_alJ2r4gzXQRXFYT4QUiqMqKRbh1Aag_rFyqqEYp7yUVYxaEQBQ1Ss010O92EiKEvM1YtwH519AGDGCQ.jpg?r=4e1",
+            "watchID": "81698959"
+        },
+        {
+            "rank": "4",
+            "title": "Rebel Ridge",
+            "week": "5",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABcw1DhLV3nL1COAqQ26C8ElGMZNHcVLNUeNdS0xviHPzDz8vi6x1ddVW37i1MmoflbIAydBtDonjhWh_KgYAN-3wHgWg42JTNjms2FGLs3lUOTQpy5HiZDUZ8FznbWYAHK9KlQ.jpg?r=93c",
+            "watchID": "81157729"
+        },
+        {
+            "rank": "5",
+            "title": "Sing 2",
+            "week": "7",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABX_VZG8yTtVdfSuslfBU7spH8stYENgFERRxnxMDUI9gZLpl09CwcyHvcYCl3cvkrVnUSYdHtf0XH8Jfc5LfoJISTIvnTBeYC2FR.jpg?r=f92",
+            "watchID": "81475311"
+        },
+        {
+            "rank": "6",
+            "title": "Uglies",
+            "week": "4",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABfDrHIOY3dNsaNtR7RgZdSV7QIkvYQzQuXaJ8PQ-OnYu2LTu3KzElfvvf3jDrg2hXEdZ-cw6NHpMcqfIgFhueEURYZEaGYorOorfKxKM3LT_TcKmjlY3j8HVC8i2CZ84uusnQw.jpg?r=137",
+            "watchID": "81002266"
+        },
+        {
+            "rank": "7",
+            "title": "IT'S WHAT'S INSIDE",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABSm6w-oILlcU5q8PQh4CDOZdBhFm7fsxDXYZeGL6yhlFrl4GDl59ZkNZGgTtOraTWm9TYfTbqZapQWyVvIjpbfYh0-3GipiZ7DKAd5DGDe_iOTB-aM7SGFd3-su-wReUxUWFCw.jpg?r=cda",
+            "watchID": "81758866"
+        },
+        {
+            "rank": "8",
+            "title": "The Union",
+            "week": "8",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABee2f5a9dXQwZttCn_Aldju3-h56YuCGDfdJ4tG9ENRhFJqGX55aJhrMx5xHuPzEO-BW8x1s5ZbAU7HZRS8VvbLvl7eY02hyqrHI9BeAmhJa9cqfL7sw3EulM8vztL9uMKfvdg.jpg?r=bb6",
+            "watchID": "81282732"
+        },
+        {
+            "rank": "9",
+            "title": "Abominable",
+            "week": "3",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABZsF4ilB1BxQ1gXRn3tjKnPzCacQCPMPdrUle_4nY-MI29S9ULcEQD8-j7iIXAKrXgZzRF7sIg6Vw-zOvyH-YMZSsElUQYLrZcU6.jpg?r=090",
+            "watchID": "81088173"
+        },
+        {
+            "rank": "10",
+            "title": "The Platform",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABeAmK-QEf3WtS_CfTQckkITwS2ARsddJEXXF6zUn7AoAGf-1w7T-_FW7mSyhrdPG1kXLFa8NbDeCmqoqO8DKNW5PB9k4WwuT1i4G1TBD1MvjWHZRopDCeUE50nuRA2KicRmBwg.jpg?r=60e",
+            "watchID": "81128579"
+        }
+    ],
+    "tv": [
+        {
+            "rank": "1",
+            "title": "Nobody Wants This: Season 1",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABag7bvH26W90NWDoi_1D5NhWXQvZtB_Q8j0EGE_-bn_A4sfObj-tbwty_3kEF6ks7sBsdVW79sBe3VN6_Q5hlRxhoyOTVmpPbuumpU2xHjMEBpaslvjN4R3nzxf36hrpNNiUMg.jpg?r=323",
+            "watchID": "81591297"
+        },
+        {
+            "rank": "2",
+            "title": "Monsters: The Lyle and Erik Menendez Story",
+            "week": "3",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABaPPkki-sw_AU-mZF2OaLlKp4qDkGgrFH3fli3ddhSucguq7VvG_ql7mXsSBUviqijSgGx2eHGXZxXO6Ykdh5No7Di1XZ0nv0vhSG-315CksNO7oIlj0_vuFVHg-uvv9sfZYKw.jpg?r=e2e",
+            "watchID": "81582441"
+        },
+        {
+            "rank": "3",
+            "title": "The Perfect Couple: Limited Series",
+            "week": "5",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABX_2e6RXDWbcqMqUzdqSCiMhC-Bik8JbxSQTZ1gIdXpN8nj8Xvk5ec3POk1hXGrCsxz_WKeqwVIrwvQH9yf1iCyFWFf8e3IO2rwQzwbrkXHH7lZ-HBeKWrUtv9tV0FLa7cAjtQ.jpg?r=c4c",
+            "watchID": "81474159"
+        },
+        {
+            "rank": "4",
+            "title": "Emily in Paris: Season 4",
+            "week": "8",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABd0X1PrB5uIerkNJlglL1IP9oKAs-UP8qKuIc9fp--Tg4b76t4jhsq4p_RyUTg-FNkyeY51TFHmiHxBInkWyQOSEBkdbBDfNRyhNVg3XacH68C_Z0jVUvsC5g6-ab5SlTf-cSQ.jpg?r=4f9",
+            "watchID": "81580261"
+        },
+        {
+            "rank": "5",
+            "title": "KAOS",
+            "week": "6",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABexkfzPlss4nCNZtossMll1SqYCqlfszgbQ8Su42Y6BgkY0mliqycpnHl-IgVLHd_8Y-qj849OXiaIarPYnSFKaaXFbtWcgKpqE8KLvQj0JjDx1taetOFohSutpOPa4Bxv1K0w.jpg?r=c54",
+            "watchID": "81003735"
+        },
+        {
+            "rank": "6",
+            "title": "Before 30 Bucket List: Season 1",
+            "week": "4",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABSST6R9-RjMoIS9Lsaol8ePyTrJERQU1FhEKRib-bRkXf5u7c1jZBHb6PynA2RVzQM_PXKFfpJfhzJ48FULoXepqCGG3Tdk4TG8Y.jpg?r=050",
+            "watchID": "81915403"
+        },
+        {
+            "rank": "7",
+            "title": "Heartstopper: Season 3",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABWZX_zYrRXauiq66jtr3Ghgb1aAhZUhu3OBNXs08euvRa80hAOugw-6VQdKO-hYPfIjiiX9Kk7UPS67eIGRL3b4qU98HZZyWpcQFUEhHjP9D7rmJVW20eTc2wC7dg_qdJkHTkQ.jpg?r=120",
+            "watchID": "81662910"
+        },
+        {
+            "rank": "8",
+            "title": "Billionaire Island: Season 1",
+            "week": "4",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABVd1XmDgas7PnRDzOGmXUvqg_Xk--JwDg_hMfb-20ZGifxLmTE7EkcyPZRGGjJY9X7gePycr-uNO3mUQTXC2OTq-5MwEE9fcwboN7yby6g5eYIfXcaG7HW9pJ9Dhgw2yYcmmGQ.jpg?r=bba",
+            "watchID": "81615975"
+        },
+        {
+            "rank": "9",
+            "title": "Love in Chains: Season 4",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABW3h4UeO9xp6iJE_xBqY-MQ62nfko1ya-FA0hCIsgNjv3jJv-Mc9R7aRQFyDVV2mgvMIiqOYUEPQ32yExmh5vSAzhEoMvrTnDGBN.jpg?r=553",
+            "watchID": "81906081"
+        },
+        {
+            "rank": "10",
+            "title": "Emily in Paris: Season 1",
+            "week": "13",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABQA_ih9NU06WyuFK1zlu2DbsCer7y-tQvx8yvf9SXgTuqzV2d8LPxHl2bPE4ZhlCcQPn7Xb55WGgZma29kb0ll7XeDZnAW2o5LknRnPeaaLfhcxi1E9O_gYZp2VoqahhTK06bQ.jpg?r=38a",
+            "watchID": "81275633"
+        }
+    ]
+}

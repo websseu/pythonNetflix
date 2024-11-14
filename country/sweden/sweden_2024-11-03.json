@@ -1,0 +1,148 @@
+{
+    "kind": "Netflix Country",
+    "date": "2024-11-03",
+    "films": [
+        {
+            "rank": "1",
+            "title": "Let Go",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABcTxaHy4XHXLOnOHBD_NLDpy73Fgr4pA8dVtMeo9zeCO7p69DxqvOmzUQGcUvG2HA7dMBgSVV43v1PfrQbxeOcxo2pv2F4Exxzftbfxo5pX36SQTAtHEVMxylzqk5VN81XOncQ.jpg?r=925",
+            "watchID": "81611209"
+        },
+        {
+            "rank": "2",
+            "title": "Don't Move",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABW-il5dvjqphNA7An1dw4DmcXsgDnTBbOH8gLe6FqzAlzPNNCxBY-qV2b9xVutfWpmoK4DA7Qd8ZPUEG5p9x5eFDCgohgibHuON8AwcqBDdQFlMQZy4WOqg2Xd2slxPsLd8qxQ.jpg?r=1e8",
+            "watchID": "81767564"
+        },
+        {
+            "rank": "3",
+            "title": "Time Cut",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABWHdfXaOfTOBoXxCJn6TtrFL6E6A8fmw3de7NJUjhXmULkfoJ51h6KlF2v9pHwOHfUbNs9DT5ywC0TPLEhQG75bxqTVojzyBcVnMuAvyW1glNqFzRu-IXJ3MeiS9DC-NhyGMqg.jpg?r=2e1",
+            "watchID": "81504326"
+        },
+        {
+            "rank": "4",
+            "title": "Love Again",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABVccLVVU4-QjcUQlwIuEuOlf_hEFhHaJvSiz_Cu4IryApbbbd6igxZovylknX6nGCz1aYqflLbNsSIo5VPGpIVPQ5-9CemPU3syB.jpg?r=17b",
+            "watchID": "81627351"
+        },
+        {
+            "rank": "5",
+            "title": "The Remarkable Life of Ibelin",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABcXjrYs7EAX-WB67wvbxCfNRoGkkFy7k4kHl29T_4k1EIo21Ugik3mzNRVcA-bQ4upwSQ3avVo1wdAsnGpL4rwkof8JX7BmyckUcRfJenhZu_-3pvLI4_CwHOIp_FZOcSRq5rA.jpg?r=4c0",
+            "watchID": "81759420"
+        },
+        {
+            "rank": "6",
+            "title": "Trouble",
+            "week": "5",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABV1lz7VH9MvmYQ3n3qymfeLawAkWoNeVzRWjZ1zbuHAmySxeo7pfhQ4QsmPYBM9u_CSJRJ7Z67x-1uKaDD1mlKMWoGn7o26fht5mPYFOrJsHoOyziekC0980RIqYKYPmucAn-A.jpg?r=0c1",
+            "watchID": "81727408"
+        },
+        {
+            "rank": "7",
+            "title": "Family Pack",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABZtLVPN-ocmwQt5mL9MDqqbNJrxdUTUkovWFtYONamGETxnkrXF8_VAuGHelAfL6e_DVCkQOOJpSaoSCA_YOmIF2-LcFOi8mA5KJfKn5rvc2ODyltD5gIbRuDBrR9NHvBi5N8Q.jpg?r=0b9",
+            "watchID": "81686180"
+        },
+        {
+            "rank": "8",
+            "title": "The Nun II",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABQEJdnjVwkH6ALMZha07sOMuLuKabMgHz8iN3doXPF3eoyMaeHG1kMUxdXJ17WIJYrCI7SYAmbPSPJvWVLmQbJvexknmp_JmyfSG.jpg?r=916",
+            "watchID": "81713301"
+        },
+        {
+            "rank": "9",
+            "title": "Minions: The Rise of Gru",
+            "week": "8",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABaaPptGcdGIG-UiUMb4my7KZq_DAc1USjUSy6wnAzE-1-yFl-QMTEW0n6jgqSrUrrio5xGcVguJHKLFx8Wy5G2z9XdaJnwHaRAtG.jpg?r=9aa",
+            "watchID": "81198916"
+        },
+        {
+            "rank": "10",
+            "title": "Martha",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABexdNSdCX0akk6ILBbdUKY0IFo7BGdsiRcvpgrbGETdCgUTyMN7ZEuDOUMWmR5ZAvO2YLV2sTVprZ6-_L4QX6pxPTIzyhBr2UXnA1LP6ovpxIoYPIWadoE0DqkMW6YwVM2y_3Q.jpg?r=211",
+            "watchID": "81479059"
+        }
+    ],
+    "tv": [
+        {
+            "rank": "1",
+            "title": "The Diplomat: Season 2",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABTGkbacX_F1FBKkBxvHPq8s9SJc8u6GUHLu3yz-kLEjdW8wBUfLgoDDYajlNominN_nqtXJgUC36f3SRKa14DLkA0yydYjjLT3FqlCDchJbdvVZA9HhOsJvEXyN8UVsqroDFtA.jpg?r=a54",
+            "watchID": "81486271"
+        },
+        {
+            "rank": "2",
+            "title": "Territory: Season 1",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABW7UaEgk_sQsB62pSD7855QGKNNdv3HSFJNEag95ToCJY9iAVffzkFvuEg6LcSzyoNQAjL_hdhbG4sneoql06QSYdapLgLgCy_iGZWedVHd_yUYR5XveDTocQaQqaCxiAbnMRA.jpg?r=f65",
+            "watchID": "81591575"
+        },
+        {
+            "rank": "3",
+            "title": "This Is the Zodiac Speaking: Season 1",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABQQA4Q_zhv6wquS2f3VzkqFqUB18oDO43xYPwC3_AKWqWRdj1Uo89IikmV7jgi92BYc6E9rsRiasLf2c-5qoGvP36PA0qy-pGak-WEEQ3CwHDyz4xpmumqtRQzBL1kmTlvX01A.jpg?r=e84",
+            "watchID": "81681627"
+        },
+        {
+            "rank": "4",
+            "title": "Ronja the Robber's Daughter: Part 2",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABUWpjnX6HIt4Bb-6CfNWwpa_8yabtVqPdjS1t9k562cNFQiJbdOmNaZ32iKxlUH9K8y4mTECcajMWtuxNiqjHkOWsrtNsrlqj1X63L8Lkrl7fUn_xzCVM8TvglfGtWwsLx-c9A.jpg?r=547",
+            "watchID": "81748627"
+        },
+        {
+            "rank": "5",
+            "title": "The Lincoln Lawyer: Season 3",
+            "week": "3",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABU24VrjZrti3NEkubRkqO0zOJcQplkGouIwHPC7rtA6L_gyeP7oE0vC_Tw0fM1uF53qHakhPDsH26b08gnqeWnHZaZcpDFwxw-xcBV1PQk6Bk5mH-ARafDDq6Lb95BrfgOg6ow.jpg?r=b13",
+            "watchID": "81628779"
+        },
+        {
+            "rank": "6",
+            "title": "Beauty in Black: Season 1",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABdZghq5pSlnQGL8Gb6zQsHeLQwhl756pbKHO7wVk_u9MGOv4iL5fGcmKIocc6JxWhDPJhFU5gHep5i6Bom03PAhbBdvNlPZrrJ4M54Fkzur2e3PIk1Jvq1SM9ROI8_HlDYbQJw.jpg?r=9f0",
+            "watchID": "81764524"
+        },
+        {
+            "rank": "7",
+            "title": "The Manhattan Alien Abduction: Season 1",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABVfGXTDej6njXSx-ZLrsAymnGV8SFuDCngyiz0kZpo57wRPE1S58pr6lOJEsFja3T1VEaWTflUMnzXo_FHg3C5xxc86eYzuK-0GYreJU2eGEs47NecUqlPG6-vKP88qe0Ex88Q.jpg?r=b82",
+            "watchID": "81670965"
+        },
+        {
+            "rank": "8",
+            "title": "Nobody Wants This: Season 1",
+            "week": "6",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABag7bvH26W90NWDoi_1D5NhWXQvZtB_Q8j0EGE_-bn_A4sfObj-tbwty_3kEF6ks7sBsdVW79sBe3VN6_Q5hlRxhoyOTVmpPbuumpU2xHjMEBpaslvjN4R3nzxf36hrpNNiUMg.jpg?r=323",
+            "watchID": "81591297"
+        },
+        {
+            "rank": "9",
+            "title": "Love Is Blind: Season 7",
+            "week": "5",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABYG4mBLk5AOAQj4uxH0Us2XPxjZyIuG73qweKBkXM-hLhzZbTs7AWDKpCNTF3dV8on9R1wXm3TI5XUKwpZhJjxC3ZMLshDvakGRQIs6u_dS83kMXvpByAbKO2K8SKEStinjfww.jpg?r=52b",
+            "watchID": "81696431"
+        },
+        {
+            "rank": "10",
+            "title": "The Diplomat: Season 1",
+            "week": "8",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABdiXGTtdteybGED6MPzV4U47eFAy2foiQG7kdVAx2yCg9ycAYIGucmcZ112x24eEzdtvDvPrXWJuqFAiVlVp5ZMdeox2OTZzbWL4oAHULMbtg0UKBdvXnuC6P_kEP-VNJTE-Qg.jpg?r=1a2",
+            "watchID": "81288984"
+        }
+    ]
+}

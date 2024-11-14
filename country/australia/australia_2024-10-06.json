@@ -1,0 +1,148 @@
+{
+    "kind": "Netflix Country",
+    "date": "2024-10-06",
+    "films": [
+        {
+            "rank": "1",
+            "title": "Anna",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABTRrtDSaeV_XCDihPSEjTRUF_UrNecxZsa0xdSOHdOrP66WOsNKK7aFLXW8cSWlagSPZatFVYMbpxSHbyrxvTtidCPxqvRD9VxlX.jpg?r=e53",
+            "watchID": "81112504"
+        },
+        {
+            "rank": "2",
+            "title": "Aquaman and the Lost Kingdom",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABU_UhhCOuAF4yIgYxLb9RjiQu6m5OUTbHTbC4tR7lDYGouI1ybVuWCHOLCazY1sjufLMO4d2H5gEmpCct1e8ExZJpZJRfDmzLv5s.jpg?r=a11",
+            "watchID": "81489842"
+        },
+        {
+            "rank": "3",
+            "title": "Miss Peregrine's Home for Peculiar Children",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABUIhZ-_3S7bZwEdjtFVx8Uv5CM21J4wtpLou_VF04fLcjdURm_M0Pxux8iJoO9MTbxJs2E9uEKTK1iqaFxsve1AqccKtludHH96u.jpg?r=545",
+            "watchID": "80079257"
+        },
+        {
+            "rank": "4",
+            "title": "Jailbreak: Love on the Run",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABY9On_PaZnA0tNIYbnWocwCEru36ytUre02-t6s1yzUbiA-TugOvpWtGtEs47HjWPv17qHeyU9Hw3I38OYATZVhsfj3I1GkyzS09zE9LG5pvKUgIyXpw-QYgGpoWF6pRViBSAA.jpg?r=64d",
+            "watchID": "81654970"
+        },
+        {
+            "rank": "5",
+            "title": "Mr. Right",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABYmFuO67N0ZS6q0bTFao1tqDXiWPbTe9-iuHOlQw1vlqfpEUVaN5phLdb4ikV20MSE3oNeXsYad6RSpT7FbNdUWNCuE6vojtfcpw.jpg?r=c64",
+            "watchID": "80081154"
+        },
+        {
+            "rank": "6",
+            "title": "Blended",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABVBY3js3nrbqOGaUGE06MtExUatr8cMeEra4mhh-QldTB0MqW5Pc4uqJ5-5I5AhN8eoLyQRX0aj9q1OhKpvsD_hVToeEItZ0vpI6.jpg?r=cfb",
+            "watchID": "70298250"
+        },
+        {
+            "rank": "7",
+            "title": "Before Dawn",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABcM1tjRN0awSjJZpPZEYfK9YP7rnfsvxm1K7Sj6Y0SrRcFjyEOWbP-zkKFHtJFZ_3m5ZMBzTQ_vPvAK2VPieTh9otzCe2o_v5eKs.jpg?r=67e",
+            "watchID": "81759839"
+        },
+        {
+            "rank": "8",
+            "title": "Accident Man: Hitman's Holiday",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABWSgMNIrywUCq1VR5QYqPwloUDy-9czDvwDBht55zr_RAYttC16HvO9TyJdZDN4BwzZtBLCTJ0GhqDq7SYPfIc-yG9jrYur9iaEW.jpg?r=eb1",
+            "watchID": "81683340"
+        },
+        {
+            "rank": "9",
+            "title": "Hitman: Agent 47",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABXMpvbSF4mfPsYU95pBp-iFv0bJlhPxbGainHBx-LUVrOmUkYiXDnNbUg34bVw9xWWbZrl1aqJpLXwrE79-c5h14T_qC2N3LUEaN.jpg?r=ce8",
+            "watchID": "80015344"
+        },
+        {
+            "rank": "10",
+            "title": "The Platform 2",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABbKTqjLXESMvR-qVre047Su5jPL3witos0FOYJNfq5jaq3xnzzjXaAucW0P-DUz25TcEtk0dTKazcJvgKMtZjgQUSwFw3F05lEi3vp0XJLkRJrEfz0lGoUYlgmfVmOOo_HXZlA.jpg?r=bb6",
+            "watchID": "81284730"
+        }
+    ],
+    "tv": [
+        {
+            "rank": "1",
+            "title": "Nobody Wants This: Season 1",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABag7bvH26W90NWDoi_1D5NhWXQvZtB_Q8j0EGE_-bn_A4sfObj-tbwty_3kEF6ks7sBsdVW79sBe3VN6_Q5hlRxhoyOTVmpPbuumpU2xHjMEBpaslvjN4R3nzxf36hrpNNiUMg.jpg?r=323",
+            "watchID": "81591297"
+        },
+        {
+            "rank": "2",
+            "title": "Monsters: The Lyle and Erik Menendez Story",
+            "week": "3",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABaPPkki-sw_AU-mZF2OaLlKp4qDkGgrFH3fli3ddhSucguq7VvG_ql7mXsSBUviqijSgGx2eHGXZxXO6Ykdh5No7Di1XZ0nv0vhSG-315CksNO7oIlj0_vuFVHg-uvv9sfZYKw.jpg?r=e2e",
+            "watchID": "81582441"
+        },
+        {
+            "rank": "3",
+            "title": "The Perfect Couple: Limited Series",
+            "week": "5",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABX_2e6RXDWbcqMqUzdqSCiMhC-Bik8JbxSQTZ1gIdXpN8nj8Xvk5ec3POk1hXGrCsxz_WKeqwVIrwvQH9yf1iCyFWFf8e3IO2rwQzwbrkXHH7lZ-HBeKWrUtv9tV0FLa7cAjtQ.jpg?r=c4c",
+            "watchID": "81474159"
+        },
+        {
+            "rank": "4",
+            "title": "Mr. McMahon: Limited Series",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABb5-ndMJ2uGUB3BUAUnq8sW5Otcm97ySVsSrrr97XMNydKrVFJC5cLELvRRaUWa1dzuYXpXlypLljVO2gseTYhvlTp21a6xJTrNmB0B0NnchvPH_sz3FXfLrMQRNIxJmEeRPMw.jpg?r=f11",
+            "watchID": "81179220"
+        },
+        {
+            "rank": "5",
+            "title": "Heartstopper: Season 3",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABWZX_zYrRXauiq66jtr3Ghgb1aAhZUhu3OBNXs08euvRa80hAOugw-6VQdKO-hYPfIjiiX9Kk7UPS67eIGRL3b4qU98HZZyWpcQFUEhHjP9D7rmJVW20eTc2wC7dg_qdJkHTkQ.jpg?r=120",
+            "watchID": "81662910"
+        },
+        {
+            "rank": "6",
+            "title": "Unsolved Mysteries: Volume 5",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABSyCtN2AmZ3Ch8tx81kudJb5RbSDhObsuWWRva2obYLQdkFy65G_fvH0wPvfF9njKQCl_LsS8KWm5UPSqyIi1HF56g4aAFIcV0qNcVlyQHwd6Wy2g1lfQTqyKbmFu2XV0ShJ3g.jpg?r=55f",
+            "watchID": "81427721"
+        },
+        {
+            "rank": "7",
+            "title": "Emily in Paris: Season 4",
+            "week": "8",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABd0X1PrB5uIerkNJlglL1IP9oKAs-UP8qKuIc9fp--Tg4b76t4jhsq4p_RyUTg-FNkyeY51TFHmiHxBInkWyQOSEBkdbBDfNRyhNVg3XacH68C_Z0jVUvsC5g6-ab5SlTf-cSQ.jpg?r=4f9",
+            "watchID": "81580261"
+        },
+        {
+            "rank": "8",
+            "title": "Love Is Blind: Season 7",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABYG4mBLk5AOAQj4uxH0Us2XPxjZyIuG73qweKBkXM-hLhzZbTs7AWDKpCNTF3dV8on9R1wXm3TI5XUKwpZhJjxC3ZMLshDvakGRQIs6u_dS83kMXvpByAbKO2K8SKEStinjfww.jpg?r=52b",
+            "watchID": "81696431"
+        },
+        {
+            "rank": "9",
+            "title": "The Resident: Season 1",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABbzUpowhRgQ_wFVt_90wDs0Wn2sZyaPHPgFaQXH9zffKdHk5z4Rm-lgYYz5kUwwn2AlzRDznSBUKKB2l23Wand9FH_Bj3Liwq54J.jpg?r=30c",
+            "watchID": "80179401"
+        },
+        {
+            "rank": "10",
+            "title": "Ellen DeGeneres: For Your Approval",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABb7U5p0wjpYTeqQiM0gyMwV5sOVnfZSefwocWtN1SdJe0nVXqRPvCsia-V-eje7tu95Wlys9Y4bTVqH48mrm4aBNFsK1LE-gn_iOtjKSEqQXZs-FQ1ucZ5VO7bc-l9YVrAbEHA.jpg?r=9d4",
+            "watchID": "81037130"
+        }
+    ]
+}

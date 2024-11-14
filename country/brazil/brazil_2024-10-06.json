@@ -1,0 +1,148 @@
+{
+    "kind": "Netflix Country",
+    "date": "2024-10-06",
+    "films": [
+        {
+            "rank": "1",
+            "title": "The Platform 2",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABeXQOwatstvE9quYL-Z4jzvFeaR5R_dH_pzjBZZSSi3StxerEE7y7BauwAlnejnQsfBy4exapMOKVZz66nKgP2uQPeLbkmZ7XcehRNq5brQPfCwAvDyXuGnzBOyLGZyawbseDQ.jpg?r=66c",
+            "watchID": "81284730"
+        },
+        {
+            "rank": "2",
+            "title": "Trouble",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABc5y7AP8m77oA8c5tS1y6V5ocML5yOP6FQNCZi6iQ3s1-Eq2fVXBZ9U-ZVY5TJEf1U6gUFlmrHY9XR0DhH6uEWRWG8UWFLcmwerrzSTJeBneJJmoHE2vkyc7Ss_PiKN5067BjA.jpg?r=ec7",
+            "watchID": "81727408"
+        },
+        {
+            "rank": "3",
+            "title": "Miss Peregrine's Home for Peculiar Children",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABY-S6FaMS2udxGESmH9qVrqYCIOiSz9CEtogZEpHYWvYyR9yD81EZptBjR8i5r_5HVAy6XaLuF2akC37SLnKGhmxyJZBndC3K3Ew.jpg?r=f4c",
+            "watchID": "80079257"
+        },
+        {
+            "rank": "4",
+            "title": "An Invisible Victim: The Eliza Samudio Case",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABfMIafMN4tcE1UtITrQvReemFzCdrhk2EAr0r38TcgwBKOvpwO2dFOpm5dvOqG-U2gZDBI6pwO0vpXrnMeQchYX3oeQxC3ZhwmYxtkEnrlmK-mrFfiwz314AuB3NQr28a-UQuw.jpg?r=fe3",
+            "watchID": "81645273"
+        },
+        {
+            "rank": "5",
+            "title": "The Rundown",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABUoM1pouxg71CvPnQWp5JLf1PhfwT0D1KXS138hyaSTzv2rrTJXC6N4GTyIgeDKP51-_aG8IjADn8u63eaH2KEeHwkvJ8KdO2Sju.jpg?r=154",
+            "watchID": "60031216"
+        },
+        {
+            "rank": "6",
+            "title": "A True Gentleman",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABSVg-IsWCAmf46CbK4UItj5fnDMvmdq_cJBXmeiVM5lVBj72YvdaRswju8wZKLtTsBDVUb9zai51xm88UcreRw747tkIk5zswjqo9vln3l_XoDZGk4Fuofr0fHy_QBv0ppmVlA.jpg?r=890",
+            "watchID": "81610282"
+        },
+        {
+            "rank": "7",
+            "title": "Accident Man: Hitman's Holiday",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABZDT3hX93fsk5jIBbs5hNzGw_XnLJCSWmyFi6Bost78ozS2ISbYy277rEx7DE5iVzsGddIqI-J-IHX8by9VzyigHQhXi4sS1JsgR.jpg?r=1ae",
+            "watchID": "81683340"
+        },
+        {
+            "rank": "8",
+            "title": "The Last Witch Hunter",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABXBD8Rp7wOA-wIPlevIzy0JYftlzmMlVmGG0WJ1tRYudWgcC-drMNyEYtdt6XEdD_rkgllal3mD5dsWKKxyh9b-kTyseUQtyivRq.jpg?r=c51",
+            "watchID": "80052541"
+        },
+        {
+            "rank": "9",
+            "title": "Firestarter",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABZOFc5vXajBd1QGQ8V5vnyTVO4CQMD0PrfUvQoG2Txx9s1nsDd9HYp_AnKatDdPOPTTuISCzBj5TWzXPjldklUsbJCpfADOvhyKE.jpg?r=0e1",
+            "watchID": "81588646"
+        },
+        {
+            "rank": "10",
+            "title": "Dark Waters",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABZKy1Acb439vIaFss3WpzZpla65xviMgrg9hoSkIBIyTDrDUSuXJTVFiVYfDzNrExMq9ngjtR-tWxI-GEdrR2dcLsXsQVS84g42z.jpg?r=f7e",
+            "watchID": "81192027"
+        }
+    ],
+    "tv": [
+        {
+            "rank": "1",
+            "title": "Nobody Wants This: Season 1",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABY3JFBcoN59dchTSko6ejC-CpnohjiaURsgH99k4LNJVz8bGKiJyugEyD4ak5vqQWNTXQzqlNCfiHLk4BhxtOZ5YEV5w4guYMTsTOHwKtmeywBiDokOnW2uqAE2pgF1ncQzUYA.jpg?r=2c6",
+            "watchID": "81591297"
+        },
+        {
+            "rank": "2",
+            "title": "Monsters: The Lyle and Erik Menendez Story",
+            "week": "3",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABQNwnsmgbuIf1MZ81j0zAKPtzCM6NEc3Jgu0yBZxqNQJ7cOfgUJVucWf-lzUlbNLChD2dPnMpCI5GRM9JGfNVEsUjbicLooYylOR4YZFsPAsugrk1JGRG5q2QGYxQSDDjVi3iQ.jpg?r=455",
+            "watchID": "81582441"
+        },
+        {
+            "rank": "3",
+            "title": "The Amazing Digital Circus: Season 1",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABf3a63LOVEI6vxOyOfSTNWqxdUS_htPL1EwJB9M8z-a79HgjLMoZ9Zuk_cFMT5FvwZx3F7MN_eWfdxzSgs3BayFG_qMbfy5fyXfh.jpg?r=975",
+            "watchID": "81936143"
+        },
+        {
+            "rank": "4",
+            "title": "Love Next Door: Limited Series",
+            "week": "6",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABRZwgqeJku3gMF231TxH-DUQQ1iALdkMIyp10JYz9eK11r9iZF2aX3pcTx9ySfhy4FdtCCFy-XCEjx1tkltX3aMctjY6MDjz6amVYQVHqRfAi3D8vIAOZVE7Rj08KuZDwk7pZQ.jpg?r=654",
+            "watchID": "81739045"
+        },
+        {
+            "rank": "5",
+            "title": "Prison Break: Season 1",
+            "week": "5",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABS5VdzfTxOiANzAMcTeLj3K7LpIi2YKEixOyZWDmss71w9xB5wJM0a_jutdYsZDQwyb_gPe4YNlBJ4yh55nmnEiF4AuISgTujvsO.jpg?r=dbe",
+            "watchID": "70040250"
+        },
+        {
+            "rank": "6",
+            "title": "Prison Break: Season 2",
+            "week": "4",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABS5VdzfTxOiANzAMcTeLj3K7LpIi2YKEixOyZWDmss71w9xB5wJM0a_jutdYsZDQwyb_gPe4YNlBJ4yh55nmnEiF4AuISgTujvsO.jpg?r=dbe",
+            "watchID": "70054891"
+        },
+        {
+            "rank": "7",
+            "title": "The Resident: Season 1",
+            "week": "3",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABbzUpowhRgQ_wFVt_90wDs0Wn2sZyaPHPgFaQXH9zffKdHk5z4Rm-lgYYz5kUwwn2AlzRDznSBUKKB2l23Wand9FH_Bj3Liwq54J.jpg?r=30c",
+            "watchID": "80179401"
+        },
+        {
+            "rank": "8",
+            "title": "Prison Break: Season 3",
+            "week": "4",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABS5VdzfTxOiANzAMcTeLj3K7LpIi2YKEixOyZWDmss71w9xB5wJM0a_jutdYsZDQwyb_gPe4YNlBJ4yh55nmnEiF4AuISgTujvsO.jpg?r=dbe",
+            "watchID": "70079939"
+        },
+        {
+            "rank": "9",
+            "title": "Lottie Dottie Chicken: 2ª temporada",
+            "week": "69",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABf_ompeasCpDJCTGIe9Ro9ZZRCdnH-Ivb28nLckLrf7gO3BuZ5QtfGvD4Eo6YzaBAK5zReKz-jLmJbWxX1bb5qXXDZSgsDNzNEO3.jpg?r=b39",
+            "watchID": "80094450"
+        },
+        {
+            "rank": "10",
+            "title": "Heartstopper: Season 3",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABWZX_zYrRXauiq66jtr3Ghgb1aAhZUhu3OBNXs08euvRa80hAOugw-6VQdKO-hYPfIjiiX9Kk7UPS67eIGRL3b4qU98HZZyWpcQFUEhHjP9D7rmJVW20eTc2wC7dg_qdJkHTkQ.jpg?r=120",
+            "watchID": "81662910"
+        }
+    ]
+}

@@ -1,0 +1,148 @@
+{
+    "kind": "Netflix Country",
+    "date": "2024-10-27",
+    "films": [
+        {
+            "rank": "1",
+            "title": "Don't Move",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABT7IyjXYAjaiOB7tMwCcYKqmxNErqn6J9CyGF0lmp1vvT1rOAUv883YeGnJmHtZ0TE7AomgBVrtZQpBmhjhGKdSD0wWrK889KtQhV8epRAD-2Oirtv8CbyzeIPLgUdrn7z5yYA.jpg?r=ebd",
+            "watchID": "81767564"
+        },
+        {
+            "rank": "2",
+            "title": "Family Pack",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABS_tyImIu_YJ7-oy1akmNjy-Flcg2Pa89tt7vsfc166r9hUFG8xQ-E9eUddieOeexNfpKpCZnLkt2vG4Q3Oh46xmiQA05QVuW5fU-XnkhD-8CSW5DLcfaSQAmPvLgdNOrtQ2cw.jpg?r=067",
+            "watchID": "81686180"
+        },
+        {
+            "rank": "3",
+            "title": "Justice",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABWzJX-olxPUE_FuMTeJ3MFp1qRSQdlWPpZP0ZmhQBfCYeBkhrvkUrX1vNo-Vd_dtwPytLFiIYGKDuaydLUXwJOX5QjI3B-q7PRGLsq0zDff3XeDrFqi1GqrWNvn9lJ3VM2Z18Q.jpg?r=204",
+            "watchID": "81620884"
+        },
+        {
+            "rank": "4",
+            "title": "The Shadow Strays",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABWlSL0xjIOd-6VINn-CWTDK-QnL_ZNu_c70s-zfAOdxzBrm-Po3dW6Xtx9Pjjw2PcvUKwmTLRPSUZyg4eGF7wxFPvVghGyAjyQg-YN9MSaZJmePRhl_nyZrKICO79AbN_uZagw.jpg?r=a66",
+            "watchID": "81624008"
+        },
+        {
+            "rank": "5",
+            "title": "Happiness Is",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABbcAYr3ytUPCJ1Bx9aLBD_0MjBQAaqwDLVyD7m3ireTFSZFSNSY1SJw3LVmuMgoludaMwkdF32hZTBRdezlI-__hDYoS7iCl5LxjFGCpLYFCnZ0HnsFsUUiqL3vrNN6rRIL-bQ.jpg?r=4b8",
+            "watchID": "81645161"
+        },
+        {
+            "rank": "6",
+            "title": "Venom: Let There Be Carnage",
+            "week": "3",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABYRGjLvl2DXYJ9DhQsvlpfT6bInzRTM6FyK4CXgGCxk6xcZ4IMQYPtJN1Zhx1b0Zl_ZvZPceLEJVG2EaJGcgjSOyBPfJZgVfR4YT.jpg?r=1cc",
+            "watchID": "81199145"
+        },
+        {
+            "rank": "7",
+            "title": "Jurassic World: Dominion",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABbVVLT52vAfes2cLNpYD6QGUfGKiIrAN1dbdOanmitLjtx1nMEy1wWFidfu59yVGAL-lQe_s-ZO4i8ktFiE08JerTtRS0JsLWmYk.jpg?r=828",
+            "watchID": "81489837"
+        },
+        {
+            "rank": "8",
+            "title": "Lonely Planet",
+            "week": "3",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABS-kKyPJmhwXCb70sPtJUbDbt1EoW4Hx9aZ12WkKhkrXtJKt-JTgIHJoZOhvt3Tn-IxJeDiXUh6Dr5XpHRHRXVEP_IvRF6IBq5rZbA8-EfodCTgD7IxZbatnZah5RwKo4qCtfA.jpg?r=85f",
+            "watchID": "81157573"
+        },
+        {
+            "rank": "9",
+            "title": "Snow White & the Huntsman",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABeO9c6CIAMdnClwFUvX2Y3sK3fgvUtt0axtl-laWR3jxbDfYFqUK0mrsJ7fIpWkalEsmNwwTbGsNQMiIp_FUIeyyXxi9-uKZCSuq.jpg?r=4cf",
+            "watchID": "70217912"
+        },
+        {
+            "rank": "10",
+            "title": "Outside",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABegzOMRFCk-JKtv-YMynUR-oBwt880qHvIk8nP_I5b9Ofwq__LZndfdIRdtaCWdhjCOc5PVwmLZbKsFs9a5uW6B_1t83NBowQoFxnkU_2rH10mD863iMaOFudwHsHMGx3grNNw.jpg?r=659",
+            "watchID": "81739319"
+        }
+    ],
+    "tv": [
+        {
+            "rank": "1",
+            "title": "Territory: Season 1",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABW7UaEgk_sQsB62pSD7855QGKNNdv3HSFJNEag95ToCJY9iAVffzkFvuEg6LcSzyoNQAjL_hdhbG4sneoql06QSYdapLgLgCy_iGZWedVHd_yUYR5XveDTocQaQqaCxiAbnMRA.jpg?r=f65",
+            "watchID": "81591575"
+        },
+        {
+            "rank": "2",
+            "title": "One Against All: Season 1",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABQkg5xjfekLpIhSJ0Qpk6gl7iaqZBIl_z1ngdoGh23cZXoaegtjw2y2kSml-b3L3Lyd6iPQVuStPWuP1l0WdrFl0M2h14Coxjd-6.jpg?r=34c",
+            "watchID": "81918474"
+        },
+        {
+            "rank": "3",
+            "title": "The Lincoln Lawyer: Season 3",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABf1EvZ1engbxIqWMrc9_DMhF1f6hSSR2foIKE_SoyoDH9z-7s0oZMt3o3CTFx2Pl9EzWOvpSQ-3EYkQmqH8YVplvNhXtbhsWcz2P9D1L6ORcgVgh37T-Ffw_BQROAC2Q1WwW8A.jpg?r=7f9",
+            "watchID": "81628779"
+        },
+        {
+            "rank": "4",
+            "title": "Deceitful Love: Limited Series",
+            "week": "3",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABdn-mEq0acX7ZTG-neNHPsAzQ933HCUPRhYbSVD72IPd1VsBxHgkiXbmteRaBDde5-QQgXkacRQ6YAG_go6MoDDsE5fC1iwJ48_ZWzNqTKjjXiNQeXtLao1CvrFMqA6jR6DP-Q.jpg?r=e04",
+            "watchID": "81481335"
+        },
+        {
+            "rank": "5",
+            "title": "One Against All: Season 2",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABQkg5xjfekLpIhSJ0Qpk6gl7iaqZBIl_z1ngdoGh23cZXoaegtjw2y2kSml-b3L3Lyd6iPQVuStPWuP1l0WdrFl0M2h14Coxjd-6.jpg?r=34c",
+            "watchID": "81918483"
+        },
+        {
+            "rank": "6",
+            "title": "Outer Banks: Season 4",
+            "week": "3",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABRAJhPsAjC0dZ50a-jnN0gI51zW0DU8wq7tErLk1FVh5vNXy5MkJV40SL5AOBorPeLzrsbia5-qjlFYogrVWE9Zpsjn1dgAsjIKNH1gtCiID7EHqF0URShU1NoIhtlnx6PtZxA.jpg?r=a7b",
+            "watchID": "81634116"
+        },
+        {
+            "rank": "7",
+            "title": "DAN DA DAN",
+            "week": "3",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABYTYCioywpFoTxtVik3-1lZj3l1SqfDgOlQAGED6xFpxtYz_Qyx_uSbSWbXAMdC-xJS2Vhb9HDyYsRKmMVUOut5qZ3KGEqZBuEmv.jpg?r=d61",
+            "watchID": "81736885"
+        },
+        {
+            "rank": "8",
+            "title": "Lottie Dottie Chicken: 2ª temporada",
+            "week": "72",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABf_ompeasCpDJCTGIe9Ro9ZZRCdnH-Ivb28nLckLrf7gO3BuZ5QtfGvD4Eo6YzaBAK5zReKz-jLmJbWxX1bb5qXXDZSgsDNzNEO3.jpg?r=b39",
+            "watchID": "80094450"
+        },
+        {
+            "rank": "9",
+            "title": "Beauty in Black: Season 1",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABdZghq5pSlnQGL8Gb6zQsHeLQwhl756pbKHO7wVk_u9MGOv4iL5fGcmKIocc6JxWhDPJhFU5gHep5i6Bom03PAhbBdvNlPZrrJ4M54Fkzur2e3PIk1Jvq1SM9ROI8_HlDYbQJw.jpg?r=9f0",
+            "watchID": "81764524"
+        },
+        {
+            "rank": "10",
+            "title": "Love Next Door: Limited Series",
+            "week": "9",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABRZwgqeJku3gMF231TxH-DUQQ1iALdkMIyp10JYz9eK11r9iZF2aX3pcTx9ySfhy4FdtCCFy-XCEjx1tkltX3aMctjY6MDjz6amVYQVHqRfAi3D8vIAOZVE7Rj08KuZDwk7pZQ.jpg?r=654",
+            "watchID": "81739045"
+        }
+    ]
+}

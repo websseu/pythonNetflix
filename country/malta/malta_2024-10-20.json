@@ -1,0 +1,148 @@
+{
+    "kind": "Netflix Country",
+    "date": "2024-10-20",
+    "films": [
+        {
+            "rank": "1",
+            "title": "Lonely Planet",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABVQNSeSKhNs0lcSWzojUaflN3ICAl4XjEC61gUVoemfnL4jzS_3ZxSMwZrNLAbYkRXFKH1fBsI5SQ3sXJd8MnQ-qz5EFGWnFsUdVCdL1j2xlLcQ8ppKlmBJQ4kSQo63vGbPs4w.jpg?r=0d9",
+            "watchID": "81157573"
+        },
+        {
+            "rank": "2",
+            "title": "Woman of the Hour",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABWxnYbmGnUKejvJeCgu8neeQ65jejHwu7WWFXfDFu9XCY8TIcG64y39d09MBp6JZ2No5k-_KKSNLtalF7dUHW87v8aj2kxjXUNI-Yb3Dn20hlUcSbX4QHdPUuGKRrQW3u2y0uA.jpg?r=c9e",
+            "watchID": "81728818"
+        },
+        {
+            "rank": "3",
+            "title": "Sweet Bobby: My Catfish Nightmare",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABVDaK2Us4rFqVoBYPzxfr3HmswFL6VqyBznOxTlqSmNFnWh6KjG8gobEfoj_jAPjO9sU7uDRWNKcLB9nU5ksU_e2CrEoQkXitz_l4oaXnRR5DTymQNlMPq_bqRLv3W2yfHlxIg.jpg?r=27e",
+            "watchID": "81591286"
+        },
+        {
+            "rank": "4",
+            "title": "The Menendez Brothers",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABYk4j8a2x2ndg-715ahntliYZRSQg3bGgwTAT8mdu_LSLfHmeUu9eyG1PWvluUak8jmNW7_gQ-lF34dDf56JQm09TpvF1VJkKmHNd8ldIO8rQbt5LhY6EXiPR949hJFnycfDBg.jpg?r=1c4",
+            "watchID": "81506509"
+        },
+        {
+            "rank": "5",
+            "title": "Justice",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABY1vsUTybAMFSsnqjbSKhD-oDjy6_Bk3tvtnJwA3WUweVMUFnBKvbOw6KAx7dR8aBS21mC8JqROR-0CACMmgpwbZt9zeSJXdZyAahjuQxniJqlRyTK2X_JgDSonIW46K6YjaVA.jpg?r=1e1",
+            "watchID": "81620884"
+        },
+        {
+            "rank": "6",
+            "title": "The Shadow Strays",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABZ3INstac24KaeimBgdNUe6drFB447SP0jq7z2Yg-tA65s9AQpAGI75XqJ4Z-1moKE5Nfi6RhTZdyBarlbyW_laWXVhRQQu94DKM7VBCwKINZlWycy0ZsPVuH0w4UVkAoaoxjA.jpg?r=b40",
+            "watchID": "81624008"
+        },
+        {
+            "rank": "7",
+            "title": "The Disappointments Room",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABWCxfbpJdJkxv13w9QjftekvVr2qGcsjt-75CCCdTEsmAa4AhHV-fOPOoFTe2CNIFO7LuzCUWOOBaaXjFw1H9vpesPQX4HOpBSo9.jpg?r=f7e",
+            "watchID": "70301346"
+        },
+        {
+            "rank": "8",
+            "title": "A Man Called Otto",
+            "week": "4",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABRL2JKrqmoVFR5xb_011Rcj42pgvhCBoml7Oh1vU2_qFa5Ph0igtFHGuf0IEihUN3E9ZWcaZBjCMPH-X2ZKuF8q2XJOW0boMf1be.jpg?r=397",
+            "watchID": "81616256"
+        },
+        {
+            "rank": "9",
+            "title": "Outside",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABaHBu2BUXZtVZk9wmISAM-cxdtDbjl-DF5fJkEQ9nE49n-q3LeN_S69e0FsoNVCcrTpciTjaevurKZi6lgKNUuNKio6sC1hHeZJAzGGQ2T9b1z6x1JKCAtwh9MYPRsfIrd6Cng.jpg?r=17d",
+            "watchID": "81739319"
+        },
+        {
+            "rank": "10",
+            "title": "Uprising",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABc8wLwUcFwy_Zv_36vGvSyG1T8ah-plE7KS40yoORV9OcDs57_d9xreLKpPVZpbOSFhrAyZvmraQ7ohTJpgXnl7DE3Vut_0wclAx0Oh5kYaL7h6QwfLKIBEVc-UWY2xUvEhcSQ.jpg?r=bde",
+            "watchID": "81672158"
+        }
+    ],
+    "tv": [
+        {
+            "rank": "1",
+            "title": "Deceitful Love: Limited Series",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABaYIRL9Mkhlu6hcwOqI7k2IVOgcPCISHf2FXIESfFVXlwGMDpZBzNL1FCv3IwjdUkaHz7lsYUVsXBzwZRNykYoTl4P-0TyyELEWs4VZRybgZsNw4rrro0o0Xf3lXb9QBRaS27g.jpg?r=de5",
+            "watchID": "81481335"
+        },
+        {
+            "rank": "2",
+            "title": "Monsters: The Lyle and Erik Menendez Story",
+            "week": "5",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABaPPkki-sw_AU-mZF2OaLlKp4qDkGgrFH3fli3ddhSucguq7VvG_ql7mXsSBUviqijSgGx2eHGXZxXO6Ykdh5No7Di1XZ0nv0vhSG-315CksNO7oIlj0_vuFVHg-uvv9sfZYKw.jpg?r=e2e",
+            "watchID": "81582441"
+        },
+        {
+            "rank": "3",
+            "title": "Outer Banks: Season 4",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABRAJhPsAjC0dZ50a-jnN0gI51zW0DU8wq7tErLk1FVh5vNXy5MkJV40SL5AOBorPeLzrsbia5-qjlFYogrVWE9Zpsjn1dgAsjIKNH1gtCiID7EHqF0URShU1NoIhtlnx6PtZxA.jpg?r=a7b",
+            "watchID": "81634116"
+        },
+        {
+            "rank": "4",
+            "title": "The Lincoln Lawyer: Season 3",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABU24VrjZrti3NEkubRkqO0zOJcQplkGouIwHPC7rtA6L_gyeP7oE0vC_Tw0fM1uF53qHakhPDsH26b08gnqeWnHZaZcpDFwxw-xcBV1PQk6Bk5mH-ARafDDq6Lb95BrfgOg6ow.jpg?r=b13",
+            "watchID": "81628779"
+        },
+        {
+            "rank": "5",
+            "title": "Nobody Wants This: Season 1",
+            "week": "4",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABag7bvH26W90NWDoi_1D5NhWXQvZtB_Q8j0EGE_-bn_A4sfObj-tbwty_3kEF6ks7sBsdVW79sBe3VN6_Q5hlRxhoyOTVmpPbuumpU2xHjMEBpaslvjN4R3nzxf36hrpNNiUMg.jpg?r=323",
+            "watchID": "81591297"
+        },
+        {
+            "rank": "6",
+            "title": "The Secret of the River: Season 1",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABQypL_T_KYznREld_5YP1bI9kWmSViCAwDrAqrFIcZncFoeBerq_tRaUYjwvndvhu7XpW18q_eOoXuZuo0bTnmngozW2oAcmZkNc7MWB1ZtX8Pl2p58vJKuDO43ijPf5VQg6qw.jpg?r=e6c",
+            "watchID": "81629643"
+        },
+        {
+            "rank": "7",
+            "title": "Love Is Blind: Season 7",
+            "week": "3",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABYG4mBLk5AOAQj4uxH0Us2XPxjZyIuG73qweKBkXM-hLhzZbTs7AWDKpCNTF3dV8on9R1wXm3TI5XUKwpZhJjxC3ZMLshDvakGRQIs6u_dS83kMXvpByAbKO2K8SKEStinjfww.jpg?r=52b",
+            "watchID": "81696431"
+        },
+        {
+            "rank": "8",
+            "title": "Ancient Apocalypse: The Americas",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABQSw1wT_pM8BE5BVqduDuwyhQPoirE8fEV4DClra53d48_er5vvtJIoQb22aJTUjoKXJfKQ8yX85vwIm9o54nMBdgexXXqB0ll0gtpPXMcGf1njUg7sIF5a7vqr1mQxE52GMrw.jpg?r=57d",
+            "watchID": "81246515"
+        },
+        {
+            "rank": "9",
+            "title": "Love Is Blind, Habibi: Season 1",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABZMEd6cC0zG-EJNVE_HhnAiHdp44FKPt2wb9znY0jpdQIXk1Q8jwPEj2SUeujuCxMSv7Xr0ZV4l9sEjoxy23KZBGNeyUwTWM9Z_E20go2st1PU7_U5Po70amUNV3AzXA28cyTg.jpg?r=456",
+            "watchID": "81622655"
+        },
+        {
+            "rank": "10",
+            "title": "The Perfect Couple: Limited Series",
+            "week": "7",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABX_2e6RXDWbcqMqUzdqSCiMhC-Bik8JbxSQTZ1gIdXpN8nj8Xvk5ec3POk1hXGrCsxz_WKeqwVIrwvQH9yf1iCyFWFf8e3IO2rwQzwbrkXHH7lZ-HBeKWrUtv9tV0FLa7cAjtQ.jpg?r=c4c",
+            "watchID": "81474159"
+        }
+    ]
+}

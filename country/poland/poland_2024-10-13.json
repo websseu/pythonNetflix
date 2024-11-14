@@ -1,0 +1,148 @@
+{
+    "kind": "Netflix Country",
+    "date": "2024-10-13",
+    "films": [
+        {
+            "rank": "1",
+            "title": "The Menendez Brothers",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABSrqUmZ-0V7IUP6RYlbhB25MKueoLk5thYND8nSsl24rP22IU5TE71Nuqghu7zqq4Kk5ecLLrDx8XMtKimUo0VVsNTAkbhiZUNLfp3ZxCkXdSIUWNJt58e0tgfkyRDQO_ElppQ.jpg?r=772",
+            "watchID": "81506509"
+        },
+        {
+            "rank": "2",
+            "title": "The Pope's Exorcist",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABdqj9a2dOxvSJXx27hoFDjq--AqWraaEFaODF02vb0uxnt5H3dzLh3thrmFlPvj10iw7Rq-hKrKpG8n3D6aJu7PXmS7LWgx93RQa.jpg?r=f5a",
+            "watchID": "81641219"
+        },
+        {
+            "rank": "3",
+            "title": "The Predator",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABTMnQNK5F5UPuhmMhX-TNi_Eb9aCiDZEbUMnME4gElqkBAioGKd7BKA9rVzE1DPG0giG5mxJb9wlI71aFIDnFITy9Yz6h_DBa3_K.jpg?r=7fd",
+            "watchID": "80236391"
+        },
+        {
+            "rank": "4",
+            "title": "Lonely Planet",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABdLaaKck2MJfo4LVoaZIgpa3GdGq22e7WIZVu67Vj7K8QU-oYEO5ilXMyo0Ws2KpfI82Yttx6x0ttvZCSEzU_egh9Cz8kBrfdtP5rdQqll6GYZoyxQFrDDwp5BQx_mgIi20_rA.jpg?r=940",
+            "watchID": "81157573"
+        },
+        {
+            "rank": "5",
+            "title": "The Platform 2",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABdUnKDU2niAZMqIs5rdkM0NtDe60phKJxyiVYSlRE_UXFQ_heGspnEen1kAX7R5aF62qWKqmBqOUQ9Oihgmvv73fRTdBtzKNezxl0ZL9l5-ciXMXuMMIe-8zZkVhZFlDjQmBzA.jpg?r=7a8",
+            "watchID": "81284730"
+        },
+        {
+            "rank": "6",
+            "title": "Trouble",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABQOJsM9JRZ_x2DQSwDoAC0WU-Bx04veQKlnp_sYkbBQZ644zMhpYX8lQ8dTy4o0yppSA4fqSaVc-RgmKTUi7kgDX6kj1nAdDUm6z44bX1z85DBH5ftjcDUYJ8zNyNIOg81lHfw.jpg?r=88b",
+            "watchID": "81727408"
+        },
+        {
+            "rank": "7",
+            "title": "Divorce",
+            "week": "3",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABafAQ9MKWNeMLqNsehoo7XSRvLcw6izh8OKxPnrnIlUIzJgTR8wn1nN0Fi0EIPWGVhoLvqXvn7NeuhjOJ5Ev1eNPXrhwEVKdS7SQlXaUqSZcb7apSOtrDMVPSlSjQRHBmpAl7w.jpg?r=298",
+            "watchID": "81698959"
+        },
+        {
+            "rank": "8",
+            "title": "Monster High 2",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABcHmo-kQ_YaasP_jzzQxznUBKlBuU-Bd3xESKGSmb57WMTBoLkCy5zKpxfYMwqO-JoJitx1ww9f6TQ2BlLx9z-W-iSizoiOm3wWL.jpg?r=071",
+            "watchID": "81922226"
+        },
+        {
+            "rank": "9",
+            "title": "Uprising",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABdCK95aOxPEHGi1heAXmkeg6gWkIZU7bDMbn-PVfN_0X5Airprcw8V8Lh0QObRVg0Yt9UZeq-C7wT8M-9amDl0zIUHw398gUNp5CQcO9sZJ2_tBoeggYoyBG5ObFbutx-ROesg.jpg?r=bbd",
+            "watchID": "81672158"
+        },
+        {
+            "rank": "10",
+            "title": "IT'S WHAT'S INSIDE",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABRN_uUMzTNvJr_ngDeLaAngCICMmywtAZD3FIXftWhuikUg25KrpH1Ab9yeDju7j_-Q2TqShiTSW7U4a5R5LuFPR9HsBaHpZSK8jeI26PElkjyvZAfTq2XL1pNBq3Hu7LZ6WFQ.jpg?r=f87",
+            "watchID": "81758866"
+        }
+    ],
+    "tv": [
+        {
+            "rank": "1",
+            "title": "Outer Banks: Season 4",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABRAJhPsAjC0dZ50a-jnN0gI51zW0DU8wq7tErLk1FVh5vNXy5MkJV40SL5AOBorPeLzrsbia5-qjlFYogrVWE9Zpsjn1dgAsjIKNH1gtCiID7EHqF0URShU1NoIhtlnx6PtZxA.jpg?r=a7b",
+            "watchID": "81634116"
+        },
+        {
+            "rank": "2",
+            "title": "Deceitful Love: Limited Series",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABVCUb3eMi6q-yi6kmnDvCp7CfVHJhyxYVH1XFydjMtXNQwQuXNuK9dFXPzMcXNPBLh-Rtojx2M4GaY1jUTAWvP26lnGzNJGjqqjtZ7f77c0Asxw7CLFdDk-9FBTdGqzeEhs20A.jpg?r=187",
+            "watchID": "81481335"
+        },
+        {
+            "rank": "3",
+            "title": "Blood for Blood: Season 1",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABbFk2PpI-CrJj0llTvKdDdirjQGFL3xg-8AuZbn0iCqx7aKsFjz9UQ7Vfbj4n_Taegcc1_jrx9wj3iwQnWGoizzHY_0CMDcYvXI5.jpg?r=dec",
+            "watchID": "81919648"
+        },
+        {
+            "rank": "4",
+            "title": "Blood for Blood: Season 2",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABbFk2PpI-CrJj0llTvKdDdirjQGFL3xg-8AuZbn0iCqx7aKsFjz9UQ7Vfbj4n_Taegcc1_jrx9wj3iwQnWGoizzHY_0CMDcYvXI5.jpg?r=dec",
+            "watchID": "81919657"
+        },
+        {
+            "rank": "5",
+            "title": "Monsters: The Lyle and Erik Menendez Story",
+            "week": "4",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABaVLH6lZ_9ZfSseot3mXejPxHK3v3RmQnvJuNfvXyazQfZGQb8L42cDBKI1wLQ7Pp29GsTdofNV3xR6i8fJsp5_mgqq7zL3wKKlLXP2wVipO-1tgnXNCjtnnyR49AcF8tfqHRw.jpg?r=ddc",
+            "watchID": "81582441"
+        },
+        {
+            "rank": "6",
+            "title": "Nobody Wants This: Season 1",
+            "week": "3",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABS7Z7I-0hMhk89-_V9YhroIVgGoAvaZYE-Bu1k-oP0n5HUoReKaYMdtmhdl2MsJVGkAfGiWO016ogitdxpm-n0H5mLzIHMkws6NXPRTXer1cOAof2iXzjhs5Ris2YCV7LPnb0g.jpg?r=8a2",
+            "watchID": "81591297"
+        },
+        {
+            "rank": "7",
+            "title": "Kitty Kotty: Season 2",
+            "week": "10",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABVFPPWeURXcpgmIfRa8iA_BRORyz_vGhgqeVyEasAJnX1f65Gg7yRVRr2I0NLmpN9F5sdBFq_2eCVIi0Mnu8kohgOi9CKsJC9kSN.jpg?r=e06",
+            "watchID": "81685971"
+        },
+        {
+            "rank": "8",
+            "title": "Kitty Kotty: Season 1",
+            "week": "45",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABVFPPWeURXcpgmIfRa8iA_BRORyz_vGhgqeVyEasAJnX1f65Gg7yRVRr2I0NLmpN9F5sdBFq_2eCVIi0Mnu8kohgOi9CKsJC9kSN.jpg?r=e06",
+            "watchID": "81685957"
+        },
+        {
+            "rank": "9",
+            "title": "The Amazing Digital Circus: Season 1",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABTo769S9DtPZnHihvWjNT9OjXJfDshHa9mBuiR9os1tmFmLp5wr6lflCvaERIeOM_sSBG_lgKvuxcQiEuhzJzS4LJ0oubdwp3AUl.jpg?r=09b",
+            "watchID": "81936143"
+        },
+        {
+            "rank": "10",
+            "title": "The Perfect Couple: Limited Series",
+            "week": "6",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABXMfkkziWK2KGxxP0DPV1Tv_TaHqvm72sDPF2MrPYw79iZs7UqxuAtlbpUXQ332lhOYY2BHxQfh4DenzFOGws4aivdBOPRJIAggBzD7jC7hjeZNx9nTF55vsnMFxlZ2o88XHMg.jpg?r=609",
+            "watchID": "81474159"
+        }
+    ]
+}

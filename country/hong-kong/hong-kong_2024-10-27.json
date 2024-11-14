@@ -1,0 +1,148 @@
+{
+    "kind": "Netflix Country",
+    "date": "2024-10-27",
+    "films": [
+        {
+            "rank": "1",
+            "title": "Family Pack",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABWhoPZvmNDZI1wjMqfuD3rj1jKx50Hn56_EGnXxb5QMzDmNDq1bymlOPEa_gO05VKQ-ffO0K6vWmMHb9BlOJAiBm_M7zMZVv2h_xbwRUSgVCpFx0SuV8mASHnzhCZhB70ZMKBg.jpg?r=bda",
+            "watchID": "81686180"
+        },
+        {
+            "rank": "2",
+            "title": "Woman of the Hour",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABUmRcOnjPxes42bbbW_sy2LpJrynaqDRkBO1Lj-w8xwACXJKMyBI9geacIMDZ-8Vdq6OO5d3jm-HOtB6v0h3Bb-sX4MsUWPLBAqc9b511QdOH3ACsiV2PMzetiS7XFyN2arApw.jpg?r=b46",
+            "watchID": "81728818"
+        },
+        {
+            "rank": "3",
+            "title": "Don't Move",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABT-fuHGBsaxowS7v0YHNpYccIqBH4os2u5Q-Qhabcyu4dTJEL4t6r3AGqUVI3mdU_dsVEihf9B3gE1NoNnCiRWX8W5KjRLaficZsykzxcGUcF_zB729ycUWTJwqBMo59ORjncg.jpg?r=ff2",
+            "watchID": "81767564"
+        },
+        {
+            "rank": "4",
+            "title": "The Shadow Strays",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABWf2Ly3uFax4u8XRlZ5A1j2-HGzSQtynNgY4_fTYkIYbSjSjaxuujTJkLpNvtiEc-E9edaSCMsTdI7qc2JmoIPveIG2xasjmmhzYU6Mcn8ZIT4TerbDjahQ8Qaz2TnoYGAC7xQ.jpg?r=727",
+            "watchID": "81624008"
+        },
+        {
+            "rank": "5",
+            "title": "Outside",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABc71rdibGZzEm8OrRfMzCyEA15uA0pxvOmmnSAbQCwwlOjf7TnP98BbtnwXi1HmzU8wTgrK8RBsp-s3IoofRSzLODHh72Wn82zZOGsMwFcjnS66AEXVNeFUD6kfNN_CGOPUnKQ.jpg?r=9ae",
+            "watchID": "81739319"
+        },
+        {
+            "rank": "6",
+            "title": "Sweet Bobby: My Catfish Nightmare",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABWS7WFqryBRF9v8p0i-rYkZl2ktmmsSJLxmhYNSbePefFaPVlwdNzOLKQ-lQGGF-hGiai3Vghxblf90gdluFr5AKjvEN8tGbJV5oLYBNYIBhj33PVgmjGOW_aLr0Z8IZlGE44A.jpg?r=46e",
+            "watchID": "81591286"
+        },
+        {
+            "rank": "7",
+            "title": "Violent Night",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABc4uG-F9L4fnCnGP_tzdwsQhygQ2_2QQK3IB1dq0cljMAQVI2L_jog39xYspKTBxQgMMR85r_GrnUpu3Td5iHpIGhWF8mt4MaEPB.jpg?r=088",
+            "watchID": "81611464"
+        },
+        {
+            "rank": "8",
+            "title": "Justice",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABTUeEUltVg_OyFZJDsPATkDCgZWvQDOnAS4Qxs_HgMVKy4JGWaeC2AsNdeNymyFgBhMBhoP5OjxbyB_iPlh2rW-5bmvlZL-fdAcZhm57uz7eIWiE4tKkHhbJ2SGwLCoo9RzB5w.jpg?r=f19",
+            "watchID": "81620884"
+        },
+        {
+            "rank": "9",
+            "title": "No More Bets",
+            "week": "6",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABWtsASaoxiuSSeZX54xuMFWTmh44Cc_Vf0xDsIsNwMY1fa-q_WufMntoF21S3HQRbzQcYI6e9-z8qHvDZA0eSqKfTKFYP3e1o5pE.jpg?r=6cc",
+            "watchID": "81718925"
+        },
+        {
+            "rank": "10",
+            "title": "Uprising",
+            "week": "3",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABQ772sri0wB7zw9_2JhpnwV99EIFYY5eXiV8A2dqiW5K4f5KZXMvc87W0JYn4mJo11fGYJ8vsay2r731mQfeeph-RkQSQ28QewDkFO3McVsYwE1rJgwpu4Mja278OoF9VRRKxw.jpg?r=ec5",
+            "watchID": "81672158"
+        }
+    ],
+    "tv": [
+        {
+            "rank": "1",
+            "title": "Culinary Class Wars: Season 1",
+            "week": "6",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABV4gbzae7cEpXquNrBElo0L2v7yha0gUlQkWlDo3lx6aighr6p_awvE994IyQwJHSfo7VHuOyp4e4Ely4dsjuyHXqeki0dvEWzTji9ufC6jAYwigTEq-z5ZsCWjqMubhhgwhLQ.jpg?r=6a6",
+            "watchID": "81728366"
+        },
+        {
+            "rank": "2",
+            "title": "DAN DA DAN",
+            "week": "3",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABYTYCioywpFoTxtVik3-1lZj3l1SqfDgOlQAGED6xFpxtYz_Qyx_uSbSWbXAMdC-xJS2Vhb9HDyYsRKmMVUOut5qZ3KGEqZBuEmv.jpg?r=d61",
+            "watchID": "81736885"
+        },
+        {
+            "rank": "3",
+            "title": "Gundam: Requiem for Vengeance: Season 1",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABUTIFlcvgn1QTw2ZXSUt3OO98vzldV3ZLLV5y1uVhcGe_Lqt8QRuwIqhkSB24CSmnntX9SmcF1aM8R-opoyE9NBukjXPSuuTcBZL_fjZnoLLH6uqZwZ0gSnvKi6gYf07UT7Z-A.jpg?r=ec9",
+            "watchID": "81276501"
+        },
+        {
+            "rank": "4",
+            "title": "Failure Frame: I Became the Strongest and Annihilated Everything with Low-Level Spells: Season 1",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABbkLGwdbx_bdtC-LmWNXT-cVUxe7wHBpTRkXILaMlP7POEKfwGvBVPavqLYm4wwX_xk6S4x0H7meRSij0bE1yyK8C5eb5f9Sr3Dw.jpg?r=70c",
+            "watchID": "81910038"
+        },
+        {
+            "rank": "5",
+            "title": "A Virtuous Business: Limited Series",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABRqLhWpRnTtOB96KOQl5lhH7hW8tnDRpxQqNk2iMInu--dQXtGff1QDw92yHHLzaeQPF7PEmdVH6xps1sOhXawvxUmqpA9IQavI1xkyqAFCwUbe63uHDXW93HN2JEbLP3zVG1Q.jpg?r=612",
+            "watchID": "81787645"
+        },
+        {
+            "rank": "6",
+            "title": "Ranma1/2: Season 1",
+            "week": "3",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABdFWzcn0LJxIsfazi_GN7tkUfi83Fq_u4AFkIoUltsUONHB9kgkyMVZIUtQtfNlMUe7eN-doH-_OHuQIiumqgtuW89el0Ez7r9mfrZlzes1SY9FSR8OAO3tUuvhjhu35EyHn5g.jpg?r=1f9",
+            "watchID": "81301833"
+        },
+        {
+            "rank": "7",
+            "title": "Blue Lock: BLUE LOCK VS. U-20 JAPAN",
+            "week": "3",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABVny-Ece8yyaP7CdcopnIv3lRYOr1gCy-bxxvIa8xDiw-SWYruLWX359Gs3m4s6Jf2VSiFCd0cpQ2rxo0zlxYLhEhgMP4QvpFUkl.jpg?r=989",
+            "watchID": "81940353"
+        },
+        {
+            "rank": "8",
+            "title": "Hellbound: Season 2",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABbmrOouZJmfeQGOTyHLQ9IyW1Uw5DhTO6pQUjGGYbI7AwGgZaOFyYmzV-NM0pAuI2XuDEKgO9cANL4iHRS56hyJLIwcbmEXr1WNmT-OsajtdyrcvLvd3iyj9fyp2D7OzDB2yOQ.jpg?r=45d",
+            "watchID": "81284038"
+        },
+        {
+            "rank": "9",
+            "title": "Shangri-La Frontier: 2nd Season",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABZd0Jimaf8vGku9HUz-3sis0XxxfOpZhGcRV9-v_DKdcspY3hnDGAJlaUpXsnw6HPGtJP3z2sgId3IvKlNGGsT4kR8azRAGz5F-t.jpg?r=551",
+            "watchID": "81945687"
+        },
+        {
+            "rank": "10",
+            "title": "The Lincoln Lawyer: Season 3",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABa5KjXV8K9S7qwYHwZ4r_vzYW8Ube2-AsynYt0ER3ElaFRbA7yD4mhBI_6nzvbQU1nGzDirhoeh4cnbUTUlMAFVKh-WhVeCzwjyEt8ZqYKzuaVxBXsH8myc_AD4zEitcuGzAYg.jpg?r=d82",
+            "watchID": "81628779"
+        }
+    ]
+}

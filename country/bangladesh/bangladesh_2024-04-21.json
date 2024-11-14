@@ -1,0 +1,148 @@
+{
+    "kind": "Netflix Country",
+    "date": "2024-04-21",
+    "films": [
+        {
+            "rank": "1",
+            "title": "Amar Singh Chamkila",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABZ4NzdgpzKCWjPGjh-_vZZfy3nggTDEPH7WE-6Sl1KmnrJ62BNw5SBvaspoF5TLCYQMQCqunvIAQPfnNoDyXJ19ikakQ9HXAf9zYL-lOmt4LeVeFR8ms1dOIdblTAXKX3lpdxA.jpg?r=856",
+            "watchID": "81664257"
+        },
+        {
+            "rank": "2",
+            "title": "Article 370",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABTs03Z8h178EvzL4CBflHX25sKOvv42r9nBqDG4Bu9MCzxJMgholIb-m1rLizQBIaQyCCYZIdX5wTCNdPilhnypPzWlxu06WtePO.jpg?r=87a",
+            "watchID": "81773534"
+        },
+        {
+            "rank": "3",
+            "title": "Fighter",
+            "week": "5",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABUODWbvmPMw6CesYWbtHA1sk2UQRkk_fQRsf126V8OEt2b9kpXcj3-1sY7v3fZbD0cmBKfjy8EomlEg5VyC4QJ6f1kHrv2XuaJVl.jpg?r=804",
+            "watchID": "81698397"
+        },
+        {
+            "rank": "4",
+            "title": "Rebel Moon — Part Two: The Scargiver",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABfLHKSIIbMrx9fUmaSMrO90Y2b6ETdxZgs1hltpzt8QJ-cvLLzCCW3G5QPaPo0kO8YIQiX2tncRKYZEDvuUCigBfZvvTwR7176X6Yl8Ssl_EbqenkwX9a4-53CCiNx3Okn8QoA.jpg?r=524",
+            "watchID": "81624666"
+        },
+        {
+            "rank": "5",
+            "title": "The Wedding Guest",
+            "week": "4",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABQJN9a8EwDOq8JqjaBpTDxdUaLOd0gaeBkn0SrBLYhBw6R3-9vUahm7tDjTWle1hfzVoWPnV1oiwpjN6hZZuY2YdJ74lPThvcHHo.jpg?r=601",
+            "watchID": "80222729"
+        },
+        {
+            "rank": "6",
+            "title": "What Jennifer Did",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABRSnQOpsi8RAbXgj-B-mYtwb3OWekvqfd6DwI6CuDKQnfigF-Ig-snqm0HZp7NgPkbcOpSQbs8InWiNNRnft83uBlImi4vaN0mvgoZ6s6izIojrltw2geXQI7s6kDthiOyo90g.jpg?r=a46",
+            "watchID": "81586385"
+        },
+        {
+            "rank": "7",
+            "title": "Dunki",
+            "week": "10",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABXCvdSZtlfrCZHtbxBUaTKYhoPEWRr2tQvF9_DgPU9uw310yFWpVwZZyvb181SM6wBiU_HHi02Ra0saLdLdalsNPsIGucXkJxxLE.jpg?r=e65",
+            "watchID": "81731618"
+        },
+        {
+            "rank": "8",
+            "title": "Death Whisperer",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABTCsZ808Rz4E3BjVqNSjddC65kqvTwXlqmEBGISupTrEludOzzGOR751kofKtsA0ZVXfAvc316EYq0s2bRyqbEFuymMlS22xom8F.jpg?r=0cc",
+            "watchID": "81757583"
+        },
+        {
+            "rank": "9",
+            "title": "Animal",
+            "week": "13",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABdWkh_9Jfe0gb_TVHgLx3m9busdd2feilXaBu9T8_Nhl0NuOrNrkuyK9UTNPH2MWgCzj27yyzvt2bpDr7HvoIsfqB-Xo7My8c99l.jpg?r=434",
+            "watchID": "81436990"
+        },
+        {
+            "rank": "10",
+            "title": "Murder Mubarak",
+            "week": "6",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABWwYO0TBaeQOuaYIexkxUUtJSqDxlnbdZjHE7tK_LrBZTaG84ewJWrYKU8WyKrvQFE6yG9BFjRPmIlJdfFJIGeil5AdygVP9Tid6Uo9oiUyz94BL2GvtdNqn6NLAz7eWdhajVw.jpg?r=ae6",
+            "watchID": "81572875"
+        }
+    ],
+    "tv": [
+        {
+            "rank": "1",
+            "title": "The Great Indian Kapil Show: Season 1",
+            "week": "4",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABW3_LWO1fDgBjGgM4nbgiUGo_L3G6HSBPxUcwgII_N0AlKm170SWqyd3vus6ES84rY09phpAwRl4S9Ux3jnq8cUAGpBWrICyBNqQ-LOhiPHR_UKhIU5kDDZKTd-4ZxzT4PHcig.jpg?r=92b",
+            "watchID": "81737431"
+        },
+        {
+            "rank": "2",
+            "title": "Parasyte: The Grey: Limited Series",
+            "week": "3",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABc0-4Y8EEGmNEQVv7PjQqNrtuRBIMQJSZuRNixHbl31kqeYmY7Gr3ZOOdtgX6jbIikjhZg_FekPxe_xVWKcQqKYxLiVOasRmCtVozy24SM-RjgJWxWd4tI1ur3C0TpM59l1GcQ.jpg?r=aca",
+            "watchID": "81252406"
+        },
+        {
+            "rank": "3",
+            "title": "Queen of Tears: Limited Series",
+            "week": "7",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABepL1HCVsuEL6pRnxsnkVJa2uDPOwYiW0m1VXZcZJW-Iw90M2Iuu3AR4fk-jedKy5XgLlYGLdptmqD6SE2qfbsWP98AU1UAOoz46wSzZlhI-GVOV7s-x2iJhuf5X-fbVprqq4g.jpg?r=3e4",
+            "watchID": "81707951"
+        },
+        {
+            "rank": "4",
+            "title": "The Hijacking of Flight 601: Season 1",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABdrmKin-GpDaJMcxD9DDDl6m1xLSGTa2lu8YnvHTJkKUIc7VQToSlaThy8R0-CsLkTK2tGZVIvrK05nAZtjEb7bUBXMjT9tD9IrP7M80JmIFU35vsKHStDJEqCQNtC6pik2wdA.jpg?r=606",
+            "watchID": "81580683"
+        },
+        {
+            "rank": "5",
+            "title": "3 Body Problem: Season 1",
+            "week": "5",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABRBh0CR3UDhpAsJdF035oxXePYY7OYdtywBazZ-fh-2bFqjKSbPOSmBgqqGEWiYZ0kpAFnRT4zBz2Hf2RJrf8JdvgLoePXwiUlOBJ6I10Fq4ibLaK7xepjTr-X-G8LwKpJIFyg.jpg?r=321",
+            "watchID": "81026318"
+        },
+        {
+            "rank": "6",
+            "title": "Baby Reindeer: Limited Series",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABdWZ2JKEbpU_HHYsRFJTHIUaYSGnDTgvczLqx8g9qrK1eQXdk_qoOFX73PBazWgexHJ_0fRxUE_i6crbqvIqIIsHak3WpPhEJo5FTn1VppXB7xL8CS3OIxW5fGpRCYLEBuiroA.jpg?r=3ac",
+            "watchID": "81219888"
+        },
+        {
+            "rank": "7",
+            "title": "Testament: The Story of Moses: Season 1",
+            "week": "4",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABQAowLQ8aLlF--BwJXy-BWm3ULKSjLD3cUobhyhZmX5PscftECwJpcsuTMReA9OAnpeilFRk6HPuNY7iea2o_tzwF2jgZmiwKQQ_Zp5SRHyVJGVXKTFoUKGBJbRyDq_FeJR2BA.jpg?r=4e6",
+            "watchID": "81341796"
+        },
+        {
+            "rank": "8",
+            "title": "Maamla Legal Hai: Season 1",
+            "week": "8",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABVoJ0VQ_UhqqFiTa319j7FxM_BPGBHFe74sg5Ndi5fuhEy6kimvkGV0ZK7rogjm49s5_GaFed78fG7J4U27uXsAhXVggSRSRCs5vWQ8a7qQweHXMea-_bpksTqiEte4e380NAQ.jpg?r=296",
+            "watchID": "81480218"
+        },
+        {
+            "rank": "9",
+            "title": "The Gentlemen: Season 1",
+            "week": "7",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABauUQLylG3yCkOwEKD5OsH6Uc5tVXHHeLrNPAUGPtJ8tQ93wc4zez59EzmC9T5INZRjrstMJGWelzw06ce-OuF_cvVtuXsk2OwDlYntoa1aglTwBY89x6-BMjuYql2T6SHhTpw.jpg?r=0ad",
+            "watchID": "81437052"
+        },
+        {
+            "rank": "10",
+            "title": "Anthracite: Secrets of the Sect",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABRe_6ybMAg8C5Y3dtfHNESVNtP-0CD2Mpvwh1LpEy_PZ-o8qnRxdU2ukVsN1uz45SzPsa7TCmPXSrdep5DotMwynGOuGxbTCRoUiKzBoyU7gAE1zOHhGUTe-1FbsouMGMeSwLw.jpg?r=1ce",
+            "watchID": "81520698"
+        }
+    ]
+}

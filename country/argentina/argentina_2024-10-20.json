@@ -1,0 +1,148 @@
+{
+    "kind": "Netflix Country",
+    "date": "2024-10-20",
+    "films": [
+        {
+            "rank": "1",
+            "title": "Justice",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABZEK-fzqfVllThTlzgY-e9pOEmf7qZDU2vg9pnfg7UMmfNdqFX2SUwT6QfyfSD1c0MsJCoIBn9yjvW1b6vamzOudJTZl5c470WIT4L5Jn1pnvgT9hdRnyfRyuzKPirJ_NnGXvQ.jpg?r=238",
+            "watchID": "81620884"
+        },
+        {
+            "rank": "2",
+            "title": "Lonely Planet",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABWiS4HQg_pPCNkb82wGstcioETbjjQ3zyd-9BynxvNrc2OP6PR7Zbrh3pJgtQS1ARF3Zr8YvrMqv2aQlbakezn2IYVNRSnFL3dYdGyHpkrLpN03vZ3bGqI_DEzvuqSQcYtUaow.jpg?r=81f",
+            "watchID": "81157573"
+        },
+        {
+            "rank": "3",
+            "title": "Jurassic World: Dominion",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABbVVLT52vAfes2cLNpYD6QGUfGKiIrAN1dbdOanmitLjtx1nMEy1wWFidfu59yVGAL-lQe_s-ZO4i8ktFiE08JerTtRS0JsLWmYk.jpg?r=828",
+            "watchID": "81489837"
+        },
+        {
+            "rank": "4",
+            "title": "Breaking the Silence: The Maria Soledad Case",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABSPu2XBvNZoEqrt2DU_Mq4VSsZpSPiayjhYOHjLo4hjeSRIhdnjWJ78aG8xFqiwgvX4wzNGv_pdDgjeC753N-_jSG3jhLzRsMeA-W9dnGfc509kk51gNAePh9DpR1urYt5psjw.jpg?r=674",
+            "watchID": "81623231"
+        },
+        {
+            "rank": "5",
+            "title": "The Shadow Strays",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABRQF6QXZ0YWL0NBRrL2mz-UUmGn7fFUYY5g6sTYzhsiVPliVMrhyuE9f4RXt_Mt6P9MlePcEVq2HoXDw5hTVMMhc85msHZnnTedwFAJu8mqfHu2SX2jkUwaqh90XHVUy2G69kQ.jpg?r=187",
+            "watchID": "81624008"
+        },
+        {
+            "rank": "6",
+            "title": "Venom: Let There Be Carnage",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABdJtt4xGTF7sfiaQwSpp40V9bq6QmDLbFLqWinLGNYibPO9AoPqNGyC-in2wk0-H7FBC7DCPeaDU3vFy0UMm_nSLbz_SS7ikJKJJ.jpg?r=cf0",
+            "watchID": "81199145"
+        },
+        {
+            "rank": "7",
+            "title": "Outside",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABeWavINXl6Hn4VdSZzDUVXJBwoH9QcpyjTXg8CGrGaDowRkm0wYwnb2VarPD-Ol80X9DtdWpacd2Je0Z1th2-HRCgvEW_ss6m33kxQVuBCS1dQmAXHGyUeZb2OQQZU9BO_C68g.jpg?r=d5b",
+            "watchID": "81739319"
+        },
+        {
+            "rank": "8",
+            "title": "The Man Who Loved UFOs",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABezLJ235PW0sYqjWBLqHY8A81yCbO_JmclJqIIE8gSicwt73fFPgck-2kDyFEPOOS5sHjIV9-EVn0i5aYSmpWVNL0qoAs0W_FsAGbhwpqvzXTzCO7cuna-rmOVqCJq2-ggYtww.jpg?r=407",
+            "watchID": "81507289"
+        },
+        {
+            "rank": "9",
+            "title": "Uprising",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABcmIZ_j50yorA-akfyBEboW8pq7w3hKImXNFvPmzUUKpvPcrkNv1KR-L2MKJ4d3e25IMQEYOq0BZNdK0GQaeADfkvvyFI82isWh4R4hnWNLxwX_VPMjSqu0hBLlGRp07Z1Yzlg.jpg?r=4ef",
+            "watchID": "81672158"
+        },
+        {
+            "rank": "10",
+            "title": "The Predator",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABW6KHha9qcG_FVjCG2-JzRzYWqs-aVd9oKTZ95CEo9Kj-TI2uLbe4VwtOcVy-Me8kQKEk-Ztkj94c_UMylGIvgCqoWMxl641UCtR.jpg?r=3e8",
+            "watchID": "80236391"
+        }
+    ],
+    "tv": [
+        {
+            "rank": "1",
+            "title": "Deceitful Love: Limited Series",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABUzksi_RKpow190156xMmn3jS-Kppb5C-a3jXch5bMYMCOpHd2awUL8GoRafpBJaYDkWpxv_TvT10J6xeYzoczrrXtKGFThi-aEbbfmCfGqwy8nX96NEL9Crxg5z7yr0ENeFyQ.jpg?r=360",
+            "watchID": "81481335"
+        },
+        {
+            "rank": "2",
+            "title": "Envious: Season 1",
+            "week": "5",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABTL5Ga4-apMRdy8--JTzqlUGbwn7EHUAv7woIgsoxngFjacrj5N_YXA-IP0v4jv8tiH3I6ErVLwra8vT6BjmbC_BWZMPdh69bsPT_0J_tViuf-514IgCo1OstrX7XZTjc9mVrw.jpg?r=c09",
+            "watchID": "81687656"
+        },
+        {
+            "rank": "3",
+            "title": "The Secret of the River: Season 1",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABYyKTK_Cr6qz0GFFUhQJ8HwNbW9hq4iSDLLZMZOfgo8ru4tVP5Tg4uIFHL0nY7MmpH9W9nRN3cUF-fR8VgxnaA6Zdy0zKSTsRjvhGeI3sdgfmWQos9CM_IEYXzBLjTE4mjz0jg.jpg?r=a8a",
+            "watchID": "81629643"
+        },
+        {
+            "rank": "4",
+            "title": "The Envoys: Season 1",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABZ6t9INXNm2ZXZJ0BFL6oUtqB9A-IrzNcwP9sPYwA11JOtapSpCz7nUFuPInbR_mxak3LG713FgmHxUt-Cyw7IX7Gxlib_fBV9uP.jpg?r=186",
+            "watchID": "81920475"
+        },
+        {
+            "rank": "5",
+            "title": "Monsters: The Lyle and Erik Menendez Story",
+            "week": "5",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABV4kn4lJA2MZ1OXJ6sqZhFESrSxVlJIOCkslahTq4ebBMhYz5L-3mpMHToveSugYoR2p1tUp4je6SiExShurfJzm4XEaignRaOCd8DEwDg0WpfJb0KZ-Dr6rlQ19kA3_fykPkA.jpg?r=058",
+            "watchID": "81582441"
+        },
+        {
+            "rank": "6",
+            "title": "Nobody Wants This: Season 1",
+            "week": "4",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABUQjlPK0UN10eS1sWCetowz7UuE9HJ0cF5HCvayJmYVsi-lfQkQQUR1P6XKSCToD8QiON3YiK4WO0mY9g53PGPNLg8Hpgj9aL_TckTQLjs-gE5Lz6qmLYViTk73mGEOR1uGxXg.jpg?r=aed",
+            "watchID": "81591297"
+        },
+        {
+            "rank": "7",
+            "title": "Outer Banks: Season 4",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABRAJhPsAjC0dZ50a-jnN0gI51zW0DU8wq7tErLk1FVh5vNXy5MkJV40SL5AOBorPeLzrsbia5-qjlFYogrVWE9Zpsjn1dgAsjIKNH1gtCiID7EHqF0URShU1NoIhtlnx6PtZxA.jpg?r=a7b",
+            "watchID": "81634116"
+        },
+        {
+            "rank": "8",
+            "title": "The Lincoln Lawyer: Season 3",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABeSukVTCL5QDsyr5Sj5Y6Wk9XiZ74WQIVd-ghHtWvnFdI7Ihthv9k_09lQ0gblYIJLbz1YVQApijJtg5RWorF7IgME6X50nUcEn5lQSLz8z1q9_gFFrlm6JaAvcYyrxEdjufwg.jpg?r=d36",
+            "watchID": "81628779"
+        },
+        {
+            "rank": "9",
+            "title": "Jurassic World: Chaos Theory: Season 2",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABXt7jnj_5OJfI_z4sGozSO4VMcjD0huXmZF33iDnRP8RodBE2UZZsQ8SgycalpDp1kh03nYN0kXVK7YfMfnD1xlEhfJXMTEAg5gflnaJ0OaIYF0V5Wv-Z06wRbJq8OMe1VrJFA.jpg?r=954",
+            "watchID": "81639942"
+        },
+        {
+            "rank": "10",
+            "title": "The Envoys: Season 2",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABZ6t9INXNm2ZXZJ0BFL6oUtqB9A-IrzNcwP9sPYwA11JOtapSpCz7nUFuPInbR_mxak3LG713FgmHxUt-Cyw7IX7Gxlib_fBV9uP.jpg?r=186",
+            "watchID": "81920484"
+        }
+    ]
+}

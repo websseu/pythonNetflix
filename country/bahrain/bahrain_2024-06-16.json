@@ -1,0 +1,148 @@
+{
+    "kind": "Netflix Country",
+    "date": "2024-06-16",
+    "films": [
+        {
+            "rank": "1",
+            "title": "Under Paris",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABXtmnTFNW2ufqG_HKemMqnRjcDx9TIc2WcujLbevQ27q69gRVYtpV7p84uTQAbyzFRUsFu_Lxaig3-W3Q3ziHkQ399ejDgW1ujWESjrYcFIKxGd_Wjm2ONLnzLugzN-HN7Y9Eg.jpg?r=6f7",
+            "watchID": "81210788"
+        },
+        {
+            "rank": "2",
+            "title": "Bade Miyan Chote Miyan",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABV9T__bQreN3ZX-Ts8DFYvk7kggx1VyhVmLBl62jGV2gAtAhpthteSTkBTo-HjP3jd3Z9jX-jNFvLc_W0cnS9JnCocZsS-dCrQCP.jpg?r=6ce",
+            "watchID": "81678595"
+        },
+        {
+            "rank": "3",
+            "title": "Sleepless",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABWOnVMp8ceWTedPynuBFw1fMEbh7wynYNrmj9sKGt8MiG0Nlb2BN1Vq3P6nrkVKNZhZGhh036GWg177fULwK_POyqL4iat_IYHR9.jpg?r=0b3",
+            "watchID": "80134513"
+        },
+        {
+            "rank": "4",
+            "title": "Four Brothers",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABf8k3_cVg3nRm-E79f4wTFXU4BfmsyHqVcVial5nTmAawyaXd5-QLpJz9eF9W8vzPekybUacGKi0ZzaiewxwTBAn5opI_vMyJLPS.jpg?r=49b",
+            "watchID": "70028902"
+        },
+        {
+            "rank": "5",
+            "title": "Jack Reacher: Never Go Back",
+            "week": "6",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABbZf9zfUTYto_ElNW8hI1ie7P9vVFdCyJQuOpT3bchSmru5A2YTEIzFNYoiuo97A-E_bm37tdrVbI7f65_Zulx-BzYPLV3M_3bxw.jpg?r=f6c",
+            "watchID": "80106762"
+        },
+        {
+            "rank": "6",
+            "title": "Crew",
+            "week": "4",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABRno3ckZcBbzRwBpzpdo-CANAncG6VCsDJYla1Btb7rCPiE1dynQFywzICVDrOkRrfxS4P5fijaeJ8W-UlTbFJaIHrW9EVSuAS1v.jpg?r=4fc",
+            "watchID": "81672746"
+        },
+        {
+            "rank": "7",
+            "title": "Mrs. Harris Goes to Paris",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABe4v-JsSP6M1pa-xF70HQbuzyX8coFgMg95I7mboKW9_5bUTu3G5do6ObDomiUNtB6_NjgpPMoCz7bBWj5vXv2MSvxr10el4HymV.jpg?r=48c",
+            "watchID": "81447226"
+        },
+        {
+            "rank": "8",
+            "title": "Mean Girls",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABaSs53PhN47NZkUxE-jIXw9bMQgbOJ5N47bLlp8eoN3XpYysSxlbuzzbzyXSU1JulnKX-Qlp6FjYOX9m5QPnAsSHM_2qquWHQay6.jpg?r=374",
+            "watchID": "60034551"
+        },
+        {
+            "rank": "9",
+            "title": "Godzilla Minus One",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABWFzl-NZ7mxYJuYRVOctry3pJj0jZckFiaSZoIiwwGfC8LYiIxFnneGq6GYDcCKPe8q4oAw6Fhomr6T5THUOjYxYmeZV8omnIXTL.jpg?r=7ff",
+            "watchID": "81767635"
+        },
+        {
+            "rank": "10",
+            "title": "Safe House",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABTQdSzpMXn1kRxGtl2z4qWU9tVriojBaI1tqvtL0iOwdWGcrVhT-J-KezIgNyY6BiSTmZsrBzWeW6m8lKfdBhwTQ-NxgJZFyk_US.jpg?r=494",
+            "watchID": "70208104"
+        }
+    ],
+    "tv": [
+        {
+            "rank": "1",
+            "title": "Bridgerton: Season 3",
+            "week": "5",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABRoZs_OAwr9PbzYFDwxAR6E3LhjIsPcbIXt3tI_jgMWpYQ3jAF47UfD9pcG0JxMJkczozGLtYip7TFPKaRdlUZCq5CugMpc7GyPC7E-90DojSIRwhqL_LeneGhZf6fjlqinb_A.jpg?r=aa2",
+            "watchID": "81487890"
+        },
+        {
+            "rank": "2",
+            "title": "Hierarchy: Limited Series",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABeXW9YOtRGxFtqeRi9jo5FF8HKyK__S3gTQ_cLv-ziYooKWBrgQXbh1RoUXFmGE_oWINFepYDIhUzjnxTWAr9Wj5lnTzuf4lf5P34vh7qXAC9MsPe9xtoAGwDcr-AKwu8_1XPw.jpg?r=ec7",
+            "watchID": "81624365"
+        },
+        {
+            "rank": "3",
+            "title": "Perfect Match: Season 2",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABQb2Gx2ZC_PYF9BegAdwKIFezqQW_iozSp4RC4Sf0sGxl4VoX6GlF-QuRwCveSgo46TuFjXg1QgVZ_omuFuEM3WTxIX-ImTonAK3PGmji2QlhADidyWcgKR8TDy2RMyCcEErlg.jpg?r=47a",
+            "watchID": "81504859"
+        },
+        {
+            "rank": "4",
+            "title": "Sweet Tooth: Season 3",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABR9E1Aya3wexnNYYlFIeiv5w2UlNa8vJX0pkp8YDWRetLfjI4M1RkBA5PHQAkTU9AXB1At6EJnRcsr1Kvf_lXc-1EN_GGBG3hg3HTIC3REmXFl1kiIA0Iq8pVgRL1VI-Mt-AaQ.jpg?r=36e",
+            "watchID": "81502538"
+        },
+        {
+            "rank": "5",
+            "title": "Eric: Limited Series",
+            "week": "3",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABbOdPz3yWuBQwYrFsD-1Cb1udr4NAtRF0mLLrvAD30u7s2bOEaIk0hwk288hp0Uxh8g3J46vNFZPhuPKx4SFxHlTIFEifRRC_BJKD1opjQXW8mKrs-zECvF7JPpmTSyF30QReA.jpg?r=3b6",
+            "watchID": "81284302"
+        },
+        {
+            "rank": "6",
+            "title": "Geek Girl: Season 1",
+            "week": "3",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABT6SqIGUAkXT5luYidyW_Q-jLWUXxcBNlj369kIKs0uPdIo-k67m6sHhzfs3PPj_A6Wnm7Co02tXPWP-YyZelWWXUVexskw8gxfJ_I79am3bINDQzd_lVL5-R8jO2fRmteLNvw.jpg?r=bb5",
+            "watchID": "81637843"
+        },
+        {
+            "rank": "7",
+            "title": "Raising Voices: Season 1",
+            "week": "3",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABXR4O_AXa2220HIFeSxIDGiG-3dR2V2Bzs29_zSk2zI6qJYFUHWxArWUYKJCrcbvTA25Y-1ckXQwXbIKNoGOa7ofEcd4Hz244a0uUVBXYw02BgiBzFByoBM8EDQWdm6Sc-O1qQ.jpg?r=42a",
+            "watchID": "81557683"
+        },
+        {
+            "rank": "8",
+            "title": "Jo Koy: Live from Brooklyn",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABeMfH_AcoZdIlfRjYgN7vRlAWBfua39uHMckvjwe5eSEznUf4646PEon_gJ6wcImcfVBPEugmtLi4S_FFgtqyu2MXEyGY5JNX-n-we7EpWYBfgNzm_sU0HDqFGHTr6gZhnuWQg.jpg?r=4ab",
+            "watchID": "81697660"
+        },
+        {
+            "rank": "9",
+            "title": "Sweet Tooth: Season 1",
+            "week": "3",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABRWG3V9YFg6G7KDkv9l9SVfEfO3CKAHvJDii58Fr-Z2oOFm8ecskDwG0qCvBsdqW_kN1zuliESp9XPY_K_3eY5M8faXLFMXyX25wQyombV0AxtNHJ3O2jhkQ8h-wHtQKr2xZgg.jpg?r=a36",
+            "watchID": "81221381"
+        },
+        {
+            "rank": "10",
+            "title": "Heeramandi: The Diamond Bazaar: Season 1",
+            "week": "7",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABXyoIbH95PhB4xPMSzaNEEd1l3E99JdoFncqkSrET7txaMK168dYDFAJ1zhXYuhsdlcRvc2kfy7igzOFfk34nE2bE-DefyvGeGkwUyevw-m8Zl8k6oQU30LWzOJcdiY7PfdhzQ.jpg?r=f98",
+            "watchID": "81122199"
+        }
+    ]
+}

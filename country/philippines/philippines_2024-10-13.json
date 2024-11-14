@@ -1,0 +1,148 @@
+{
+    "kind": "Netflix Country",
+    "date": "2024-10-13",
+    "films": [
+        {
+            "rank": "1",
+            "title": "The Predator",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABWdKnjJdJtUOcGz4jDe4RJWKh_fHbU-71TEa_iigA0zE4pWgm4pG678pVEzKRk3WakK8dGEqG971w5cP2MbEqcoudrIklP7-xD7I.jpg?r=cae",
+            "watchID": "80236391"
+        },
+        {
+            "rank": "2",
+            "title": "That Kind of Love",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABeiRszDx0Q8Lxlm9xH8-yaAfekeuEXuTeAvavatQgr3LWYtU6TS3vWLHQqLdohdYKWiX2dRIf2_gri_ut-xwVo3eimVQyd5-HspI.jpg?r=beb",
+            "watchID": "81765098"
+        },
+        {
+            "rank": "3",
+            "title": "The Platform 2",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABbKTqjLXESMvR-qVre047Su5jPL3witos0FOYJNfq5jaq3xnzzjXaAucW0P-DUz25TcEtk0dTKazcJvgKMtZjgQUSwFw3F05lEi3vp0XJLkRJrEfz0lGoUYlgmfVmOOo_HXZlA.jpg?r=bb6",
+            "watchID": "81284730"
+        },
+        {
+            "rank": "4",
+            "title": "Trouble",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABQAmOx4JhTxYCJZZppP85WxzBFSLdJXqBOKaKMY5oofastaHMmVcX1KYUgBSFbgmLbBEx9hVv3WlPKRToDwMrxFV1ARRbVNMxNIM409oCrFB9US4KQgYIKyRWviWHytOpKeugA.jpg?r=207",
+            "watchID": "81727408"
+        },
+        {
+            "rank": "5",
+            "title": "Uprising",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABc8wLwUcFwy_Zv_36vGvSyG1T8ah-plE7KS40yoORV9OcDs57_d9xreLKpPVZpbOSFhrAyZvmraQ7ohTJpgXnl7DE3Vut_0wclAx0Oh5kYaL7h6QwfLKIBEVc-UWY2xUvEhcSQ.jpg?r=bde",
+            "watchID": "81672158"
+        },
+        {
+            "rank": "6",
+            "title": "No More Bets",
+            "week": "3",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABZ8fOuHYy8_RfqeNeH4B5DeE8yJ6Lk05R0gThM4NCL2Rfw1QDacxOuYV40A8iRLoLN02cQKcaQRjGxcj9DDpX86mOiBNKhfzSnbz.jpg?r=76f",
+            "watchID": "81718925"
+        },
+        {
+            "rank": "7",
+            "title": "Evil Dead Rise",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABYC7bmILhZubS8ztrbJpJKQpcvPrJcoa20dW9TyOBaRJ7yeIWnhgpfk3M720EkMKzbcJGxklYFKmH0eauVSj0bsAqyDFFjDqiwJJ.jpg?r=6ee",
+            "watchID": "81644122"
+        },
+        {
+            "rank": "8",
+            "title": "Miss Peregrine's Home for Peculiar Children",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABUIhZ-_3S7bZwEdjtFVx8Uv5CM21J4wtpLou_VF04fLcjdURm_M0Pxux8iJoO9MTbxJs2E9uEKTK1iqaFxsve1AqccKtludHH96u.jpg?r=545",
+            "watchID": "80079257"
+        },
+        {
+            "rank": "9",
+            "title": "The Menendez Brothers",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABYk4j8a2x2ndg-715ahntliYZRSQg3bGgwTAT8mdu_LSLfHmeUu9eyG1PWvluUak8jmNW7_gQ-lF34dDf56JQm09TpvF1VJkKmHNd8ldIO8rQbt5LhY6EXiPR949hJFnycfDBg.jpg?r=1c4",
+            "watchID": "81506509"
+        },
+        {
+            "rank": "10",
+            "title": "The Garfield Movie",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABUlzIblJqDqk_sGGi7vWRyOvDTKEnWg60Z-VpykIUimdhfQww431T4eDnxsrKq2M6ngKky_FdziNMYkj3eHhCeCHkrEYKZCUzarA.jpg?r=21a",
+            "watchID": "81762622"
+        }
+    ],
+    "tv": [
+        {
+            "rank": "1",
+            "title": "Lavender Fields: Season 1",
+            "week": "7",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABeKu5hsKmkMxdndEXST9Bcxm64aaXQZqOq0FycF4ag0p8-CQAVM4Jo6kwaAPNrT_UM0M0SHsInc960G43qbmOUlIgCAruJ1cFYFv.jpg?r=43b",
+            "watchID": "81776394"
+        },
+        {
+            "rank": "2",
+            "title": "DAN DA DAN",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABYTYCioywpFoTxtVik3-1lZj3l1SqfDgOlQAGED6xFpxtYz_Qyx_uSbSWbXAMdC-xJS2Vhb9HDyYsRKmMVUOut5qZ3KGEqZBuEmv.jpg?r=d61",
+            "watchID": "81736885"
+        },
+        {
+            "rank": "3",
+            "title": "Gyeongseong Creature: Season 2",
+            "week": "3",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABdb2PnxJgbTVW3ckJeClNks5yHkVOBG7PSps4jslSrFDQcwXD6QctBDQXsgj_jKCXk-KDWdDDasqeczXZUolZWYXpTsZePVttzofSxKOIuCOq1i_L3ru0p8NASnwReGaX9rnKA.jpg?r=868",
+            "watchID": "81618455"
+        },
+        {
+            "rank": "4",
+            "title": "Deceitful Love: Limited Series",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABaYIRL9Mkhlu6hcwOqI7k2IVOgcPCISHf2FXIESfFVXlwGMDpZBzNL1FCv3IwjdUkaHz7lsYUVsXBzwZRNykYoTl4P-0TyyELEWs4VZRybgZsNw4rrro0o0Xf3lXb9QBRaS27g.jpg?r=de5",
+            "watchID": "81481335"
+        },
+        {
+            "rank": "5",
+            "title": "Love Next Door: Limited Series",
+            "week": "9",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABT25jCqSMp3kzsljN3pu_VIfdZMPhibnn0WRdTWMdXExOOc30JKdttdZspcGCLBunoAiI4-Qpl34cDLnLlPMJqhApsUs9wI-_rpPunAg0QKG9Pi1S6OGtK5YC3BROBs1mtZOog.jpg?r=c18",
+            "watchID": "81739045"
+        },
+        {
+            "rank": "6",
+            "title": "Culinary Class Wars: Season 1",
+            "week": "4",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABUd3Fxaykn3ewHKqra2qKxel-CSGArlTKo_yfu-6depPRyxDBHEC5Wo0UnSOdvXwipDvCqorz9lM89OextqIRmh1lENoy4pZABz_uwnC094VzB5iVdcfgD9lQr2UEaCSnn5hZw.jpg?r=350",
+            "watchID": "81728366"
+        },
+        {
+            "rank": "7",
+            "title": "The Amazing Digital Circus: Season 1",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABZ7t3SxeQJgQreqTl2dAYb26jMqdGS7CEp39j6vK_OTOwGBVwbPshG5MOtAUI336Yr5u0K_VaFQ_Lzrg0d8STTYTuRZKqOeVbf1p.jpg?r=647",
+            "watchID": "81936143"
+        },
+        {
+            "rank": "8",
+            "title": "Pulang Araw: Season 1",
+            "week": "12",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABaCsrbm8ACdksPpwSHbhW-G_tegJN4yCpqsMBySmmyB0IjYvaAMT3DEWM9E7UqV1IRuHFWLIMfzTfV0E97CtmymXVgOc6zcntMUn.jpg?r=3d9",
+            "watchID": "81728602"
+        },
+        {
+            "rank": "9",
+            "title": "Blue Lock: BLUE LOCK VS. U-20 JAPAN",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABQpL4treuwf6FllFPIN9YxQOrWfwiV2HTz6IHq84b7gZXvpC4Alq2w-pD15Y79-Qw-OJGxPPeFPnsDQXKge44NfEapI-TI75hqOZ.jpg?r=fe7",
+            "watchID": "81940353"
+        },
+        {
+            "rank": "10",
+            "title": "Gyeongseong Creature: Season 1",
+            "week": "9",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABY4yy3j5AYVjsHkOzbEq51N4SsyOawHiuADYWu4JQCBd34Yn09W41xJx24uBrhepBbnFv-FkXI45z8FKMb7mB5cVVFJH_yKPtwilQwhEfrn4rxY1ZGi3R1QmKLmp4sCYRDFuOA.jpg?r=70e",
+            "watchID": "81618080"
+        }
+    ]
+}
