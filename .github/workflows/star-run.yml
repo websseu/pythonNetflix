@@ -34,7 +34,9 @@ jobs:
       # 4. 스크립트 실행
       - name: Run Netflix script
         run: |
-          python netflix.py
+          python netflix-global.py
+          python netflix-popular.py
+          python netflix-country.py
           python netflix-releasing.py
 
       # 5. 생성된 데이터 파일 커밋
@@ -42,7 +44,7 @@ jobs:
         run: |
           git config --global user.email "webstoryboy@naver.com"
           git config --global user.name "websseu"
-          git add country/**/*.json releasing/**/*.json
+          git add global/**/*.json popular/*.json country/*.json releasing/*.json
           git commit -m "넷플릭스 데이터 업데이트 - $(date +"%Y-%m-%d")" || echo "No changes to commit"
 
       # 6. 변경사항 푸시

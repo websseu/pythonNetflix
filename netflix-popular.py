@@ -32,7 +32,7 @@ browser = webdriver.Chrome(options=options)
 
 # 결과 데이터를 저장할 딕셔너리
 data = {
-    "kind": "netflix popular",
+    "kind": "Netflix Popular",
     "date": current_date,
     "films": [],
     "filmsNone": [],
