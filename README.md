@@ -22,25 +22,24 @@ https://websseu.github.io/pythonNetflix/popular/popular_2024-11-14.json
 
 ## Country Top
 
+```
+https://websseu.github.io/pythonNetflix/country/argentina/argentina_2024-11-14.json
+```
+
+```
+https://websseu.github.io/pythonNetflix/country/[나라이름]/[나라이름]_[날짜].json
+```
+
 나라별로 Top10 순위를 보여줍니다.  
 영화, TV
 
 ## Releasing
 
+```
+https://websseu.github.io/pythonNetflix/country/releasing/releasing_2024-11-06.json
+```
+
 앞으로 보여줄 영화 및 TV를 수집합니다.
-
-## 샘플
-
-```
-https://websseu.github.io/pythonNetflix/country/Argentina/ArgentinaFilmsTop10_2024-11-06.json
-```
-
-## 데이터 사용하기
-
-```
-https://websseu.github.io/pythonMusic/country/[나라이름]/[나라이름]FilmsTop10_[날짜].json
-https://websseu.github.io/pythonMusic/country/[나라이름]/[나라이름]TvTop10_[날짜].json
-```
 
 ## 나라별 데이터 수집
 

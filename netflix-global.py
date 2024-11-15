@@ -98,7 +98,7 @@ output_file_path = os.path.join(base_folder_path, f"global_{current_date}.json")
 with open(output_file_path, "w", encoding="utf-8") as json_file:
     json.dump(data, json_file, ensure_ascii=False, indent=4)
 
-print(f"데이터가 저장되었습니다.")
+print(f"데이터가 {output_file_path}에 저장되었습니다.")
 
 # 브라우저 닫기
 browser.quit()
