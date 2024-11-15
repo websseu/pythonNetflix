@@ -1,0 +1,148 @@
+{
+    "kind": "Netflix Country",
+    "date": "2024-11-15",
+    "films": [
+        {
+            "rank": "1",
+            "title": "Meet Me Next Christmas",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABd582AfNa-5WuPXToWDhCjlbqlzK4Z_01cNMZVv7ym-cBxEh-jwgJ7OLhMcZFjCOMQeKU9OU1IGDed0TnOjxD05aCUeCgq2laOREkXy7VZVrYdNwph57ep2xBv0G53QMMxlc0A.jpg?r=dcb",
+            "watchID": "81392060"
+        },
+        {
+            "rank": "2",
+            "title": "Let Go",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABdM1ClMwBIOQ8VEiHa0wEAlOfolfyfLuC9mvCwaTkfYC9GIaJQuXHEi10_ust9s2ga6IziB_SG_qQQwNd3i7ISHJfogMylQOCpbVh_v30aW3ohHOr5wAYGGoJRAw0Wgig7XC3w.jpg?r=c83",
+            "watchID": "81611209"
+        },
+        {
+            "rank": "3",
+            "title": "Time Cut",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABfCVgviHqaAxoAMeejQx--SGhtuUOHxlSNTSiqLtgVeM3df77OEYznNA3nM21wRl1_jk2uVr0RyBwhr_SjFafSSTnSwbACHB0SAptpu2sZLPt33mLXKMOXG_nQ2nFI3Hek8PFA.jpg?r=ad5",
+            "watchID": "81504326"
+        },
+        {
+            "rank": "4",
+            "title": "Ticket to Paradise",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABabj_UT325OtzXDEic6NsFcsmP-NkbfDLrd2t2xqizhqgpgsTnNkeC1Fjoab0CJq9jLo8Qp4o_dRfU2zYniB3rSISa9vfwVEwP1Q.jpg?r=28d",
+            "watchID": "81598180"
+        },
+        {
+            "rank": "5",
+            "title": "Sniper: Rogue Mission",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABcx5UBdxlE2mRBAQygljU1xi8LXGgTE7DDvQSoFEqpCdtKGjsD5vP0t3u-4YyslaKPBOm1whY2DRMPkSiBRmtIx7A6Ti7ANh87B7.jpg?r=71f",
+            "watchID": "81611680"
+        },
+        {
+            "rank": "6",
+            "title": "Don't Move",
+            "week": "3",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABc4YajshSfE3AxAYjjHoax09iB9YnNgVCFfX_SX4PUyHV68AQWp2gmzDAqdrlPC8m8wQQtb9poKvMkRVjWgsJRuWHzIUo4jgvfAyJEvDaToVA_O_WsQbCDDFrZkJVEKBPQK5QQ.jpg?r=a01",
+            "watchID": "81767564"
+        },
+        {
+            "rank": "7",
+            "title": "Venom",
+            "week": "4",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABcvmGMfJ-dWSQGWIjApEFUKrlMgZqoVQLXs8psvaaJyzKAXuq-gAfsXwI5TEfzsKEZU9QcJO4PWc6t3_IYrfjuFN2cyJr_vR2zRc.jpg?r=855",
+            "watchID": "80991034"
+        },
+        {
+            "rank": "8",
+            "title": "Martha",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABexdNSdCX0akk6ILBbdUKY0IFo7BGdsiRcvpgrbGETdCgUTyMN7ZEuDOUMWmR5ZAvO2YLV2sTVprZ6-_L4QX6pxPTIzyhBr2UXnA1LP6ovpxIoYPIWadoE0DqkMW6YwVM2y_3Q.jpg?r=211",
+            "watchID": "81479059"
+        },
+        {
+            "rank": "9",
+            "title": "Family Pack",
+            "week": "3",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABZ-8zoH8OQOt3hKEmxv41imAUMWzAY1QNLnJJRsOXJ2YeEgMKVcil5OLXcfrzGkNpEUaR0pbiLIktT3nHi4FR_WZKf7fDPGtIVDs4xPDf6p0lrCmYpIbc4cUB7mUtxcJqefs1A.jpg?r=2f4",
+            "watchID": "81686180"
+        },
+        {
+            "rank": "10",
+            "title": "Minions: The Rise of Gru",
+            "week": "7",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABZcMD0J5jFn6yJC6CCwHGJZuk8xpk8UeFVuoUA3Ma0TEbZ-NIC46OJdVEPo80LT27kZyozAY5_rYFSOQ8x_e4cdCCvlbCT-f__o4.jpg?r=c59",
+            "watchID": "81198916"
+        }
+    ],
+    "tv": [
+        {
+            "rank": "1",
+            "title": "Outer Banks: Season 4",
+            "week": "5",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABRAJhPsAjC0dZ50a-jnN0gI51zW0DU8wq7tErLk1FVh5vNXy5MkJV40SL5AOBorPeLzrsbia5-qjlFYogrVWE9Zpsjn1dgAsjIKNH1gtCiID7EHqF0URShU1NoIhtlnx6PtZxA.jpg?r=a7b",
+            "watchID": "81634116"
+        },
+        {
+            "rank": "2",
+            "title": "Arcane: Season 2",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABZEmRtQ9_QeINkt8XATxn0OnX_9wQGf-IOPdrj_pSUzut3iqnrb49LB15suJZKr_AhDfEsKbkkt-0VM74XEqKrvio4MpGm5hZjpBvqFEz3LfzXo9BHkWEQYOMDmG-Kn1sovQsg.jpg?r=ae8",
+            "watchID": "81516572"
+        },
+        {
+            "rank": "3",
+            "title": "The Diplomat: Season 2",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABbYZUN3XFH2dhfWdMils0PrsH7zUZsUHmL11R2byA6wzj_Je94tQy8JMtOhi2KJ5CEA3fZkRUmnD9ejJAdVJ0daKbZeLHyBAbEWN7cmwTPPA8TzVqDs9oLnOsI_XKXQaegbvuw.jpg?r=107",
+            "watchID": "81486271"
+        },
+        {
+            "rank": "4",
+            "title": "Bank Under Siege: Limited Series",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABefv36gUgQjaGJu5PTq2uvnaeWWRnqNFPQfCVxZw68QjNb2bGnk3uv7Lt5V1LUZHKjt26bHPSqgnSDQZIJB7kx2x7UK86Y4osilbONfvhjydoFqN9AZqJ9-FB-S9ZDYHMfqNSA.jpg?r=804",
+            "watchID": "81684769"
+        },
+        {
+            "rank": "5",
+            "title": "Beauty in Black: Season 1",
+            "week": "3",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABdZghq5pSlnQGL8Gb6zQsHeLQwhl756pbKHO7wVk_u9MGOv4iL5fGcmKIocc6JxWhDPJhFU5gHep5i6Bom03PAhbBdvNlPZrrJ4M54Fkzur2e3PIk1Jvq1SM9ROI8_HlDYbQJw.jpg?r=9f0",
+            "watchID": "81764524"
+        },
+        {
+            "rank": "6",
+            "title": "Murder Mindfully: Season 1",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABVYSAd7NvLBhixnRtz4lVNQwQt2uGyKho3uaY4HveebRLjCtAxKCA83YXI7vDIUoWC8_yjYS9w-_Qswa-BIwggfDIaobNJNi9jy6rJTn7Burqyp3bQyDmlijoFR-hcWV68qfdg.jpg?r=bd3",
+            "watchID": "81554970"
+        },
+        {
+            "rank": "7",
+            "title": "The Law According to Lidia Poët: Season 2",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABW5ILLEiU6mVqM1ibFSfCI0SX2Om6IxT7tJTcIh8gT0H9j0kc5Xeyyq9gbC5a-iDYfU8JQOHPJ3yIeqqcbcFDOcUV97L3ZG8W_S1mPCNII--mK7KERSuE_ot_dx1ewart9gsYA.jpg?r=b7b",
+            "watchID": "81505323"
+        },
+        {
+            "rank": "8",
+            "title": "Countdown: Paul vs. Tyson: Season 1",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABcswAO7Zx-GnYS0UF8Iqw5bGPEoh7irnn1VPGSfZcYeuNxcYpY-ZogWxCcQ4cbLwWjiUl3Hf9lbu_LIQg3XOZhqj_P4R4SmqlQoerZedR8SpFO-X5eKguVQWJWQZ9oNSlkfzcQ.jpg?r=d8f",
+            "watchID": "81771311"
+        },
+        {
+            "rank": "9",
+            "title": "The Cage: Season 1",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABZaxAc-Gl-w8-_wzCl7FvgYk0kkfr9UEJYEXIzeufH4xntzDoVfIVQQtQvpanrodW1OwLx8NHzrirrhCGveqlwsdQwzZ-0ackKEyZzueV7JsvyYs_mvOFDH2d-BM4sFwiwdpPw.jpg?r=0c8",
+            "watchID": "81522571"
+        },
+        {
+            "rank": "10",
+            "title": "The Lincoln Lawyer: Season 3",
+            "week": "4",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABQJ8iop0yplVKQUHdDYyV5AAmJEb9f0Bvn6ArjqTQCC3Xd96BCBPgFd7rrfnoAZWwEtpCWgmzYMVPmnLFbwFAwFM0XMmf6bvnl613fF_2mBr5l8W28qc9WjaYlpK4CkoAbRZEw.jpg?r=23a",
+            "watchID": "81628779"
+        }
+    ]
+}
