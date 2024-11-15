@@ -1,0 +1,148 @@
+{
+    "kind": "Netflix Country",
+    "date": "2023-12-31",
+    "films": [
+        {
+            "rank": "1",
+            "title": "Rebel Moon — Part One: A Child of Fire",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABQonYKUD_56bcsCcjejpNov1Mr-54-t-_DP7HZkBLh6CAiHDN5GP3PYue1MlJeNOTs9T3uKhHcxl2iLbZ0AnmbncjmM4CPgmqZzzNPwm4Id6eaUuqH6H1FszXVjEehu3sNxbLw.jpg?r=aac",
+            "watchID": "81464239"
+        },
+        {
+            "rank": "2",
+            "title": "The Taming of the Shrewd 2",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABV_6RsbQ-i1pqrZtU3K9A7PVeq3R8VuivrqGRXkx_7kyN8O48HR-RfjpcBWpbriFCDH7_tZAjDUYKiheaoyWebJZNwYmXAnJdl5Gfvuq0gC2dOCnLW_a8gMb7Wt0llU8i30OOg.jpg?r=c13",
+            "watchID": "81628966"
+        },
+        {
+            "rank": "3",
+            "title": "Stillwater",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABSj62J_9NFqxaV33XbX6j2Eux4cpAn-XlcTUyYIHt0ob8zuU83zE1-5R_vR739xH3WgiJ3_Tj1K0GsX860jeLmaloO9XWy5K56Bn.jpg?r=fde",
+            "watchID": "81198448"
+        },
+        {
+            "rank": "4",
+            "title": "Leave the World Behind",
+            "week": "4",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABZ0cDV3OCR1LiftYmn5KKbRpZxjIlYRXfQDRK1f0AK3pb1PVjJsnP11f-WqoYyY_KgC9WiheXznrbBLLK_Bds55u8muQd3VNhGw-R_RlaydYtaGiunwX5wveqFiHT7ANbgEUmg.jpg?r=bd0",
+            "watchID": "81314956"
+        },
+        {
+            "rank": "5",
+            "title": "Dr. Seuss' The Grinch",
+            "week": "9",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABaoX2JLKGfv8c5MS-iU6CvsgO0BqgJpOUhmyU6_IPjz84obQFNwqG5b0nap5f8c9QbTSbJFRGuAC-LDw_MoR7F5SHPcnpje9wRDx.jpg?r=6ad",
+            "watchID": "80996790"
+        },
+        {
+            "rank": "6",
+            "title": "Charlie and the Chocolate Factory",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABawctqze_Szz2vEOlKgbpuOI0mBL-SM52roK1vusjjmZp6_nQsaLPUv7hdb8bMOzZSQG6zlUBQrpuftw1dk7jDpO0qO1KP-Y_Nr4.jpg?r=5ef",
+            "watchID": "70021648"
+        },
+        {
+            "rank": "7",
+            "title": "DC League of Super-Pets",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABYyXGW6ve0fjnCtcEmTSBTNHZiEQVNVevyabPDz0jmsXSQvTYY1daFFOpWZMNJQRXL-TX9r6pQw_xqonjbUJTeyYS9hd7r8lQEXs.jpg?r=20c",
+            "watchID": "81489833"
+        },
+        {
+            "rank": "8",
+            "title": "The Taming of the Shrewd",
+            "week": "4",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABbUi1-ep2ukeNl_6pDO51P9VlUbmwSlLTjFyFEGrLJiGoSHSlQq8z4GU9Bwq1XRgLUj7b-RzR74V50rryw3cA58qRyzj6C3kFTrMqexe6nIMaP60VDhp32Ko8hWUUxLuNdAeCw.jpg?r=07a",
+            "watchID": "81485781"
+        },
+        {
+            "rank": "9",
+            "title": "Pretty Woman",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABfPnEUIL1IkxhV1W6BmRf7Ij7xSQ1vFDtqyRB1sTHVrSpTKzh1cQGiccyZQwI4aHO91jZ9lb9C7CHReEGqTH353BREDRJow6BqSG.jpg?r=549",
+            "watchID": "872251"
+        },
+        {
+            "rank": "10",
+            "title": "Black Adam",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABRE4rS5xQdd7ZCwdXN9fWD5l1eF4pnC7ePAIvTrzxw9tAtwADBv7ti0wGz92F9vRy_uvRtuHAxeEcX5qbwjUefF-jd6beOIuwZJx.jpg?r=f6c",
+            "watchID": "81416258"
+        }
+    ],
+    "tv": [
+        {
+            "rank": "1",
+            "title": "1670: Season 1",
+            "week": "3",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABSsBzBKcKbSEW9ljPjU99Srt85PNE70IKePZT9PvL3HEuDef49vb9iiNdFaZgDgr91NA-sF1hLhYnJVYHrsbLyFv08iE3TsIY9Y0-yvzwljB_DZF7tOLfCBOc9DVqwWnZ40KoA.jpg?r=d28",
+            "watchID": "81553472"
+        },
+        {
+            "rank": "2",
+            "title": "How To Become Crazy Rich In Eastern Europe: Season 1",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABW_SyyvtreeOYQAD7uJcW1Akz8q5Rmfy85A_REr_Wzwj1ktL39lNbwiBFMD3rhtNadIPg3DemJzH_Yl73TFoiFkhTx24iEEYBn6J.jpg?r=62e",
+            "watchID": "81731818"
+        },
+        {
+            "rank": "3",
+            "title": "Return: Season 1",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABXMuMZyVj53kwLqZUm_AS2QQJvj2BX0d41OD1k9c13EXWTFmTgp4v8tPNAC0MJsSLO0jYpSZlgxHWjIN7UHSA0t2lc2B_QfAp58I.jpg?r=bd5",
+            "watchID": "81703076"
+        },
+        {
+            "rank": "4",
+            "title": "Berlin: Season 1",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABWAZYs8APKZGGdG8cSqsTR_kc2czGT68N8ZozQaBImYLmomz8aNNQb9LZDMxY3nNkzVnLeyQocYj4C_HlDbrGZU4LadUN7OaqAqyvwwkBpD4i_DcXBDb9x7ZieTHU1loPQMk-g.jpg?r=49d",
+            "watchID": "81586658"
+        },
+        {
+            "rank": "5",
+            "title": "Kitty Kotty: Season 1",
+            "week": "4",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABVFPPWeURXcpgmIfRa8iA_BRORyz_vGhgqeVyEasAJnX1f65Gg7yRVRr2I0NLmpN9F5sdBFq_2eCVIi0Mnu8kohgOi9CKsJC9kSN.jpg?r=e06",
+            "watchID": "81685957"
+        },
+        {
+            "rank": "6",
+            "title": "Ślub Doskonały: Season 1",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABZr7b8rmspn-i1kcImtPuN-z_ZZwntN2rbHdOLXH5U3cZCroUh_VZ8YfwaVk-vRYAse3o9ttXPlUT3QxTW50r7JLo60ZI4eJT2gN.jpg?r=382",
+            "watchID": "81739384"
+        },
+        {
+            "rank": "7",
+            "title": "Shrew: Season 1",
+            "week": "3",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABSPxdkOTYEM4Z5PANC8PlcG1RMj9cmpAw7Pb5tP-gHdqtQn81k4rpGVKGhddcCkWVOuT_zgetbEAo0zN4MoFLK6GLEnmAqv1u8l4.jpg?r=f46",
+            "watchID": "81739379"
+        },
+        {
+            "rank": "8",
+            "title": "Murderesses: Season 1",
+            "week": "5",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABczUHZjzT9zQq7Iil4reUaPncUPROEOrUrHVx6AHrt7Mz7MbwBPLJKc54136zZrprIr1Q41GVjxSjHBC0x-U71-B3kQJJ0IM4Wwp.jpg?r=ad0",
+            "watchID": "81709593"
+        },
+        {
+            "rank": "9",
+            "title": "The Manny",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABYJxwh4Y4MVPubnXp10GCivPD-Cqob3SdD3AwtgwnqipPoyPnpVDJ2_FMievxsqC8tuyiTrRe2ZAxcdZVh-ZlISCkRJmljBaQ5gSAJWA7Tm5LyPeOXIrRafVh0jg9lMwvJ_qzg.jpg?r=804",
+            "watchID": "81611641"
+        },
+        {
+            "rank": "10",
+            "title": "The Crown: Season 6",
+            "week": "6",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABZFrdhfsm493w0AffglymbLAf-7_N1JYMH0JMuX3ULYPU8YIVEXqWUand7SOtax3LpK-9goFxhNyWKNGn-tTXLl5sskv4ld7DMrfliCVj-yIAlVxK4JeOKBSBY1Rg-xBZW3tWg.jpg?r=8c1",
+            "watchID": "81318160"
+        }
+    ]
+}

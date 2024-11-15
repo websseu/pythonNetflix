@@ -1,0 +1,148 @@
+{
+    "kind": "Netflix Country",
+    "date": "2023-11-26",
+    "films": [
+        {
+            "rank": "1",
+            "title": "Believer 2",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABTUhk-eacuBVhZ-_mvEmAxrN3yWmvw9VcJzDTF0GCWyhntzc_Paroeva9t0c_zEMiXfVj2K2LZDtcRFswJSBMFBB4hqFeMpaksNj2rlb8MCO7a-6PjP5Ey7enm_73guMNnDaBQ.jpg?r=9d4",
+            "watchID": "81594923"
+        },
+        {
+            "rank": "2",
+            "title": "Leo",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABR9YD02PmX03dknG5uSpiOyCaRW7plNAeRYlh5pmRaYLHNxs2cDpZ5Xtv9gO58GkuEQH9ZXQy-qPxKUvILFzTmDAjSSuJQqodOCxhGnnLgAGm6T2pI5W1UtFUra9IKx-3wRkJg.jpg?r=650",
+            "watchID": "81218917"
+        },
+        {
+            "rank": "3",
+            "title": "Rambo: Last Blood",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABdSLVtks1PzfXn5Jab6-pxShhICXFtEm-3KUXKK9uoMQK1AZVYGN89RlSjKO2AI64X6yCOxr6GS0yC1Oz03BKyojf_EW83q7zOEV.jpg?r=5fd",
+            "watchID": "81089935"
+        },
+        {
+            "rank": "4",
+            "title": "Believer",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABTKufybPWqe9QUq3DnzyYKmPCkk3u06eXEbEqHpN5YeV_qFflWhVAi9XDo82s3ZtDnZjoyoIif1eGPNmNWef53W7VTrmmLQCSvRs.jpg?r=b57",
+            "watchID": "81002312"
+        },
+        {
+            "rank": "5",
+            "title": "Hypnotic",
+            "week": "3",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABbOQejkLnZFzPwAF5iJOASeHI02SRQdsqvnCSxkJvtzSkxI4GAtHxHmktktD_LtJrI2BS9d3B1U5RB0WZ8rnnKjay-tWt-jpQXMq.jpg?r=f66",
+            "watchID": "81716508"
+        },
+        {
+            "rank": "6",
+            "title": "Doi Boy",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABdmwGdFJFUcyG8sy9DTP2sWf0t_5In7RUJsoCS8rOybtwaWX4ufuzwzmzzvzqvAGXl6NvXqLcxlTZLbROsF_vyZZD3Bcu2dzrJywljnkyJgo6Feg-bqCC5kXYIy9WjRVA_JyyQ.jpg?r=894",
+            "watchID": "81688765"
+        },
+        {
+            "rank": "7",
+            "title": "The Killer",
+            "week": "3",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABeMhNcjvtxjfmRkloHJ12ig9XxvixqfdH14bZ-JZKR3AhrdLGJ7aslHE2sUhEb3wi4GzBHoVzSulSdDhJsH6PXakSLnBurZphSr9cYAr_yO1vyzH1JkgZisoHbF21lBeg_6u-A.jpg?r=fe1",
+            "watchID": "80234448"
+        },
+        {
+            "rank": "8",
+            "title": "All-Time High",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABUb-b5hjm4D4GmNkNcimMe7rIFThaerYn2pl_RXLFGGWx6XFaABuAyKcbp9E9CjjiVCPQ8nHyIKhKq8fEBOQk5b_avbnVBwndObpiXcuoVtTJUG9dqNxOmnqJ3acOaBh51qm5g.jpg?r=b8e",
+            "watchID": "81630883"
+        },
+        {
+            "rank": "9",
+            "title": "War for the Planet of the Apes",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABdwEweo3O6-Y0PB7wbGXtpa9O37U9Xu4Yk3j2Q2gJ50Hob4uG9LQBr9Gg_Qk2MGDLhlyzuUzhQ6OqrALOFxrKZWhT3qqmzVR2TBg.jpg?r=528",
+            "watchID": "80168235"
+        },
+        {
+            "rank": "10",
+            "title": "G.I. Joe: Retaliation",
+            "week": "3",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABdEpc-eCoGJNcrGXknDm6nM_D7iazkHzC6KT8K7CisPI-vgQh4Px16X4BzU70cksZ3GSOE04Q4OI6uy8QYhZWT9RoyazXSazMsmo.jpg?r=b26",
+            "watchID": "70226287"
+        }
+    ],
+    "tv": [
+        {
+            "rank": "1",
+            "title": "Love Destiny: Season 2",
+            "week": "6",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABeufpKG-Uadalnac4pPh6tH4fWYZuyYfD27UtXjf9JRrgcOe6BT-dmyKrg8WJ0WfOyJqaol9zcO5RBQ8mmOCSfl9Pz1nR58N0t0c.jpg?r=22e",
+            "watchID": "81683087"
+        },
+        {
+            "rank": "2",
+            "title": "My Demon: Limited Series",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABYwuwYQ4ssxwotf7JDovNGLTKTcoWHanQfXRtz75vTorJvwtqRP9J4F0QDSYQL58VclW-rNgZ03YOKeGi9y0XwB7TBK9KNyQ2PXSzhhmC0ZcCDRcX03Ov2QUYeqU_vFvQcJ0nA.jpg?r=44c",
+            "watchID": "81716081"
+        },
+        {
+            "rank": "3",
+            "title": "Squid Game: The Challenge: Season 1",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABUMzkgqWDR5QEYwgZhxT1MUY_dsgz3S4-f1DwTVkdji4wK20KMFUWVZZoM7ei37PRVxjQUSTqPRapq7-5qvT2b-3xuwVierWgEGnY5yJ7_nH9W_MXUZxCylYVIE595bixtDLKg.jpg?r=9df",
+            "watchID": "81615541"
+        },
+        {
+            "rank": "4",
+            "title": "Happy Bad Year",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABRqt4NphDJrZdknRxY6OW5JiEbzB5fJC7YhH_PNAHsWcqXP0JAcT51iVe5pCbesNEQs2UPZRHncA_oGSRLtOeY-uEyKAZohq7yhi.jpg?r=68a",
+            "watchID": "81738417"
+        },
+        {
+            "rank": "5",
+            "title": "Strong Girl Nam-soon: Limited Series",
+            "week": "7",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABVRbt7mc5idOj29q7_0_fg4sJKQ_aLlJvdgbnO2WKxA8M1tcjd8d3l-AE0lu20JoxO1eVk9CkQgMJTIYFYKudm-FYgaPD_75a_GWpS8qF4QeguvJeIB-W2mQz5bOCA9YmWNKWw.jpg?r=b45",
+            "watchID": "81697982"
+        },
+        {
+            "rank": "6",
+            "title": "Castaway Diva: Limited Series",
+            "week": "4",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABdX5_IVyyFmxvu7xIkPwXJMDrPh9A0sCkZKWpjL6PKav5YLsJetUc2sggaOWGfwu4gjl1p41msXn4bJ5uoGitIblJfQSD064BWIAhgnTsgRxr6alt6TmYlKaxA1c3Rooe9tIRg.jpg?r=fdf",
+            "watchID": "81701129"
+        },
+        {
+            "rank": "7",
+            "title": "Daily Dose of Sunshine: Season 1",
+            "week": "4",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABSoCsrSCP4QUx_1zxKEji5KO9y07Pf8jMAWpxAkXXcZEJmJaANJC89_plAKWDSaC1s5qbjrH3vti7pmuQKMFWLJbi4eG_YEi2mRyM_TZ3719KkYAgqz6nYeHhLbaMbOFXM_7tw.jpg?r=f7d",
+            "watchID": "81572596"
+        },
+        {
+            "rank": "8",
+            "title": "Jujutsu Kaisen: Season 2",
+            "week": "12",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABceqBhMOfhNVONyEDDHsxgu5M_RfeAp0QIXJ43zJ_TW59kKqilsGdpED51WD1JZgixwaxvMaH9LvDqD35-CR-_oytBZQ4Ua1CwHE.jpg?r=932",
+            "watchID": "81705280"
+        },
+        {
+            "rank": "9",
+            "title": "My Daemon: Season 1",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABWqibBxH0NGY01MTaE0F2NxXL45k9j5md9NDfB3oxKSb4AwWoRjHbsONiTz2-iS0jIl5rhJz9kaAi-V0Ex2kr2uoyL5t6vZeT59rueuuY0muubaZxsxo8itgQFmLwdGuF_stOA.jpg?r=efb",
+            "watchID": "81261228"
+        },
+        {
+            "rank": "10",
+            "title": "SPY x FAMILY: Season 2",
+            "week": "7",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABcoFiMbvAxeQPhQXmfhs_1xcg12oEfP4TKjUQ6EdFphMRmh5D2ybpm3QFgEgcTZ_D1tE_XmIGdeQoj-f4T2KpQMIGNlWgh9CIU5g.jpg?r=d41",
+            "watchID": "81728979"
+        }
+    ]
+}

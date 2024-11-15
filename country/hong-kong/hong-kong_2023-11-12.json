@@ -1,0 +1,148 @@
+{
+    "kind": "Netflix Country",
+    "date": "2023-11-12",
+    "films": [
+        {
+            "rank": "1",
+            "title": "The Killer",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABRPvRZ3E8ElKB1S_609fdApXTqusedLTfMlnnK8mAGJkgFSXQA458G6JoyIk0EDl1FK9-Y6HUFSpl454mHkZz_LdkevVbfPuc5KQUlmFGqEG9k24QIjegaVTb0pInmU0w1cNLw.jpg?r=14d",
+            "watchID": "80234448"
+        },
+        {
+            "rank": "2",
+            "title": "Wingwomen",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABckdmJE5Jt12LNTs0P6nYQHVYYPSlKNUZ-T7Zyxei4qmL0PXdMHO-9yNWAKS5_huq-R5zLFV-MWdR1ZTSYKeHPaEyDJSuP-qzgQPUA6LEmnQSOztBDuOrc7Xk7TdrdI4MIB2Tw.jpg?r=ad2",
+            "watchID": "81282091"
+        },
+        {
+            "rank": "3",
+            "title": "Locked In",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABVvctJGX7qGwSNiHfRQkGKRIYcsaTqxM1Xp4ylVlC1ehFYCCtAjgUbxV0WrZl_Ra7zVYFIi1CrTKege_s5N37ufGqJFbxG_ZoWst8LKzq4Xkzjqz7BVEUHqI6P6lrQj6AQHZcg.jpg?r=f0c",
+            "watchID": "81500381"
+        },
+        {
+            "rank": "4",
+            "title": "Sly",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABWBqS44EpAaU2Fa4gmbPZToihkMLAgwi4CPtzalskjJMikdfVSiXxsl42lslcMzg6kOezdh8PPyZEz-VRkia_lW4UgRvySolecT7S0J46Rtd5M6hM8c9AFpFWjiu8DwuDarf6Q.jpg?r=eb0",
+            "watchID": "81450717"
+        },
+        {
+            "rank": "5",
+            "title": "Pain Hustlers",
+            "week": "3",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABSaYX7cEAathueP7xBvr5aTYkne9tNWfa9KNJgae6y7iRh8xJ7IukDnkdL0kDm4SOGvH0erVlJx1v72WnbytypmzhUIGJCguL8dmxJsZX8zpfQk0POB-11v78lRdVLSzE1KrGg.jpg?r=194",
+            "watchID": "81614419"
+        },
+        {
+            "rank": "6",
+            "title": "Layer Cake",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABag50CCmKA41L4SuJ2cykdkROoMJVQacoMbFZb4nYOwucM-8uOXG26Uq9ji_coxe16-j5JrgHIU3aWm5ki9dKVKe0ezv_KV2tg9K.jpg?r=4cb",
+            "watchID": "70020730"
+        },
+        {
+            "rank": "7",
+            "title": "13 Hours: The Secret Soldiers of Benghazi",
+            "week": "4",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABQZOMSFFmQSq4BLGqypxu2Xl7siTFjCoF_r2G0eXfFnySyYuRJfLkwoKLxwmVmnLnuv3hyD2WBd2DPubCyei5qA7v9gVXReVHFce.jpg?r=2ac",
+            "watchID": "80067930"
+        },
+        {
+            "rank": "8",
+            "title": "Love Again",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABTdmkxZJS8vh5-O6EVnz0WDqamAFmNOLNG3rQy24Sp1YzcjqDbB8HFV8HawdCRaH0sOIyeJ785tQNRHZuk1hLgYjAwQGDwYM8W0J.jpg?r=0ca",
+            "watchID": "81627351"
+        },
+        {
+            "rank": "9",
+            "title": "NYAD",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABVnx7ClRac4bUy_KiSqanAQd1pdLnMp_2YZ2JVWAMt5HJS7DzFRJbXXuQXfm1sIBm9QjUWzFIxg6fajxjzWPmeUqgbY-e_ET6YiKbQbF-2deODAmSax9YBFOMtG6HyNavDH4qw.jpg?r=858",
+            "watchID": "81447231"
+        },
+        {
+            "rank": "10",
+            "title": "The Subtle Art of Not Giving a F*ck",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABbainK8ME19uWgr6ax8ZqyW3fFDpM1zSFKCmez0v2A6XYBC0uRPeoi6cXowqb7ord5gGO5fgD4QSxqDn7cXdK5bvKdFSNGodCrt_.jpg?r=b02",
+            "watchID": "81674532"
+        }
+    ],
+    "tv": [
+        {
+            "rank": "1",
+            "title": "Attack on Titan: The Final Season Part 3",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABZm4hv05Zv86km-LIUE9zuCDZfvQwTom3x4UY4wDhIC3gIAp3wR8SMrHOscYshMXX6lrZOvwHQUzF_l9NmXrsEeAS9yEVwKb6BMb.jpg?r=8d2",
+            "watchID": "81624055"
+        },
+        {
+            "rank": "2",
+            "title": "SPY x FAMILY: Season 2",
+            "week": "5",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABcoFiMbvAxeQPhQXmfhs_1xcg12oEfP4TKjUQ6EdFphMRmh5D2ybpm3QFgEgcTZ_D1tE_XmIGdeQoj-f4T2KpQMIGNlWgh9CIU5g.jpg?r=d41",
+            "watchID": "81728979"
+        },
+        {
+            "rank": "3",
+            "title": "Daily Dose of Sunshine: Season 1",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABXI12J6rRZSXNsExgHFCxXZ9f70pfxht9sPhb-GjHXuHmD1zMNL7-iABo6yLRfFMHLTkvKu0f_H1i1ztooVVhz_JqQhcj4tmniTZXNsFwWH5zxQlkDkSCLqi4T3EMtGl51bh8g.jpg?r=361",
+            "watchID": "81572596"
+        },
+        {
+            "rank": "4",
+            "title": "The Apothecary Diaries: Season 1",
+            "week": "3",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABSfnNk_UcwOY274amsnK_Rr0JfmPiuK8MhwA3QFbEscnplViBwq4fDR6NQ5TyGQjR0IiW-ES8BQF3wYW1sLJMLZPEOoq6QBJ8gxD.jpg?r=293",
+            "watchID": "81712071"
+        },
+        {
+            "rank": "5",
+            "title": "Castaway Diva: Limited Series",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABY3i21LsroIJrnKcXfjI7x-row8eJy_mt30JXYmQKbuQ6nX0_OsbreIHi1dl2eeNjTfAv8TmNixUy2JkHfnUcvAC9FhQ-ZUhJuzGyejcdjT4MBlwSBuPlZcvls2Mswj-fOGmJw.jpg?r=e61",
+            "watchID": "81701129"
+        },
+        {
+            "rank": "6",
+            "title": "Strong Girl Nam-soon: Limited Series",
+            "week": "6",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABeMkNH7wdrGXnwOBA3nqiwWQJsYfFdzr5yNmIBHV6JbBd_vAT3_rlK-2_CPfq5IDTyFZ6B7VbAUZSo6mg9jUNnLRsJrNkWUX9nu1eNJHukFYuCNdoepY8JMhm-ONLFrtjJvJ5g.jpg?r=e0c",
+            "watchID": "81697982"
+        },
+        {
+            "rank": "7",
+            "title": "Jujutsu Kaisen: Season 2",
+            "week": "18",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABYKEAS7J7WpXhWU9Gft2jCNmgiQibZmocMXKdPdmy1qyOZDaOXrTGF3BVRm8fEM9prQj7usfuz1w0JjDidLojrY_v9lHJ84g5n_c.jpg?r=bbf",
+            "watchID": "81705280"
+        },
+        {
+            "rank": "8",
+            "title": "At the Moment: Season 1",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABUv85GcKlNhPgItqcn_5W8JPvHyhe7R8li6kccKKnCY-n-_c2a_NoqKM42lZhgUuS1n9cQywAL5NjDw6OXstng9I35FOzulwyn5AMYjSaOYsdtlWvxy8B0c_KdV8H_A7xp6d2w.jpg?r=25d",
+            "watchID": "81701116"
+        },
+        {
+            "rank": "9",
+            "title": "Doona!: Season 1",
+            "week": "4",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABShNhy8BGGdmrmRNk_sWrGyzytI6PpdOnEyFWXC74Tc-wV3bGR1O-fhVBkjpzWZ2OknE-28HQ9rZP9hqWn-mT5A66r_V91mLMvj12pl9IUkzAwMr2mXa3LWeav0ymAbyCXkWJw.jpg?r=0ba",
+            "watchID": "81595047"
+        },
+        {
+            "rank": "10",
+            "title": "Selling Sunset: Season 7",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABZ88uemC3ouwYnNBAG2Dnhvhn0srN4PzpSlWIN10dKSujWV0Z4HX7dlBiN9CsYP89ONlzKdT42MA4te67SCLcVaFG8OZKXykpe71Bee3SQiQqyUCEfmnGwe2UmnvK_1Xxsjezw.jpg?r=068",
+            "watchID": "81613877"
+        }
+    ]
+}

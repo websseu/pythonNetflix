@@ -1,0 +1,148 @@
+{
+    "kind": "Netflix Country",
+    "date": "2024-01-21",
+    "films": [
+        {
+            "rank": "1",
+            "title": "Lift",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABblsiAVw_4bv09eLe7JT8CeIMYVkunvQqM8H9MTaGfI2oeM-f09f0S63xXyinGKZ0j2yA_Z5C9_M0OqEk4j3JTO-EQ8kFGq0IZ8oh1hv5fZ5k0pTG_sihb9Wj6yRgieNQwxj9Q.jpg?r=ed2",
+            "watchID": "81446739"
+        },
+        {
+            "rank": "2",
+            "title": "Sixty Minutes",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABVLZqd3ZWttdEfu5Hbfg2WLJDDKhRiOraD9Os2Zt70pgjI6rnR1ADFArVXKZ5HO9xkR0PgDvaUj816Ba-0y58I57JDrpVI6UXIkOSnfdGUpRNOX6XjsR3DD8o5mmqCjadbNb1A.jpg?r=317",
+            "watchID": "81486233"
+        },
+        {
+            "rank": "3",
+            "title": "Society of the Snow",
+            "week": "3",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABZwiZcU6DOIYVRvYsQZ3JytN6nFAILHpcF0TLQml6X9tsolKDwHawbsc8gIxmfxpxdVZpY2t2mAFD7E_t7fJU-qyN9mz7i6MuUefdtQkus_OvBtOgRowJUhh0NC9CY4K7YUllw.jpg?r=b31",
+            "watchID": "81268316"
+        },
+        {
+            "rank": "4",
+            "title": "The Kitchen",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABaBiYEJGEnGXlBOGcVhs0rgDs1zz9uWITpCm8jpqJlxOn_Rq-BkvOMn3nRMmZnvk-xO-WLKu9zqaCY8yzm3liOQpuxHXufMTSUFosidClqHjDK0YiMQO_SaziGViAkEz-BLSew.jpg?r=3d0",
+            "watchID": "81557731"
+        },
+        {
+            "rank": "5",
+            "title": "Point Blank",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABaJx9vFAX8Ms7GdJzbps6d2owYtLnGTb1WO7Lrxe1iuVjUxEkE781EpAbZOutWTaeIgw5P-y5EnbffXtMZWs3_htVhcagyI7x2uLrrqNH-sEkSxOzGhhpzsjH0iGy-gEwd-6WA.jpg?r=6d8",
+            "watchID": "80221677"
+        },
+        {
+            "rank": "6",
+            "title": "Ticket to Paradise",
+            "week": "3",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABRu1-y3A4XH21IZTbXBWf50SL6uWx7zST7uPoMf2lUlRm71HQzOKVNsZ8D_RKPIx1MevKMnsbl07et6pbC2CjXSWYLF949bKvA9r.jpg?r=4ba",
+            "watchID": "81598180"
+        },
+        {
+            "rank": "7",
+            "title": "Set It Up",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABd03JIiOEuY44B8n-T7pX_IH6x7Jf2KW0j-fFBX-4D2Al0kxoja7Z-Fomn6Y_EaIoI31hRggEZsONb0yEXwoaofLjMwnk4Yz4sEm1RZjZVysXyG9fjJ6pnosZIKI4GZWJGaGRw.jpg?r=ec1",
+            "watchID": "80184100"
+        },
+        {
+            "rank": "8",
+            "title": "Das perfekte Geheimnis",
+            "week": "3",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABd5cYT-rm3k21_UZnrsHPFysHWj_Jah_fHP3b9UykSoJ9OY_iRsq9htb7AItxyF0F_LFZvIeXTvKnKkeYF5cV9rah9RmDIeS6T3X.jpg?r=282",
+            "watchID": "81481475"
+        },
+        {
+            "rank": "9",
+            "title": "Rebel Moon — Part One: A Child of Fire",
+            "week": "5",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABVob6w4ZbjYhSZHCfd52wN7hqT5RvlRsJ1Guuxkn-laowvGj3YTMzPBba-67bKKNUiH_t-f5odvPtiILp1pHZt11bseM3-LvRrtlP074-yT4KhrWE-__97Ri9dgZ0MOObh0DzA.jpg?r=8b5",
+            "watchID": "81464239"
+        },
+        {
+            "rank": "10",
+            "title": "No Hard Feelings",
+            "week": "5",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABd9drM5e0CB0tOpKtbWOI5UXqS58Jw9OT15fatPsmsVW537xyuZUF7mppLVtjXv8R4f36e_J9RMWR2NzudcfPnjMc0sqm9lbQMxU.jpg?r=41e",
+            "watchID": "81659034"
+        }
+    ],
+    "tv": [
+        {
+            "rank": "1",
+            "title": "American Nightmare: Season 1",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABYDtfy0SWAt59kfsJkhPlpS5STYEm5m5Jjaol3LEigkkT983Dzj8p8rF5qw5nOhLy4FeMXyGSqm19LgZS-kRLDBNGs2aJ_1HyEITl3p30ON1E2ILv5XClvt23LLKffr3g4keBg.jpg?r=1d7",
+            "watchID": "81620853"
+        },
+        {
+            "rank": "2",
+            "title": "Fool Me Once: Limited Series",
+            "week": "3",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABXB4ftDyWk6cqWpEtMVQxP12xe15XYYwWhvfrfYwl0f0i556vbR2S9H23oNFpUgF82KxFxC1pvscLnnJaNa0px0qzixRlKp4g1qSwVTqVAdpzNThIU47khpmNPnIXxI9ZooVKw.jpg?r=0ca",
+            "watchID": "81588094"
+        },
+        {
+            "rank": "3",
+            "title": "Berlin: Season 1",
+            "week": "4",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABT00Iwk9_14RrK8jaOkitoYnVtfIOkwKM87_cQm56udF2vF68CZPD_LnemIxfBJf1iwt5Z6D0aLJ9FKIk2oE3DJUjOHuMxKf67h7Wl4aaQJnWCFawEXN4f1Ea9lVMnvQB4ScZg.jpg?r=b1a",
+            "watchID": "81586658"
+        },
+        {
+            "rank": "4",
+            "title": "Detective Forst: Season 1",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABZM90ul6w1lzHrYSzlvOI0VIgC5DRkLV1ORaXrvw4sebSEZBsLDy3waLiZwZGk3Kopn79EZJHhaMPksnjhe4wQqftk03qM63RjoxMtZIXKuXXN9SkpCEPqsyhJOiFkuRjRvnJQ.jpg?r=9a0",
+            "watchID": "81488785"
+        },
+        {
+            "rank": "5",
+            "title": "Boy Swallows Universe: Limited Series",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABRFU9-wSJB7DLVoSyAqd0jbJYKcQA2xgBKeZ28OTdE49diBYpp-_DJJVVvz9N_G9UdHHOo6bE9uQJ1BPTwK-i-9yjO4s_T4EvkYfRL6AQ-CXP2SCZRz_QsUJqXcIePDEv-u96w.jpg?r=e0c",
+            "watchID": "81449941"
+        },
+        {
+            "rank": "6",
+            "title": "Kübra: Season 1",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABezZSGD42J4jM9SxSkDwLJBuuapjDdZQp7EVCQ8v451gE3TE_iQUk-6xvSSmL3iCqYQLQrP_FBUl2AuAveKNJx85YQeI5G0lEgLB0WA1iUixxTf6qzFEMJm81SefRa7mJ0p8Cg.jpg?r=aff",
+            "watchID": "81681295"
+        },
+        {
+            "rank": "7",
+            "title": "You Are What You Eat: A Twin Experiment: Limited Series",
+            "week": "3",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABYK8QaJdchAJTkdQJFW4-QmUOqDb2W5Y8H3H0Yv_zPtLz8UzLAui4RSAsx2ngmbzsF50J-12zx5nC2jAadVFAXphE6-DGvdG6lNaHaMTOR8W86hRlZva_M1R7IEyOmwnmJVpDg.jpg?r=cd8",
+            "watchID": "81320957"
+        },
+        {
+            "rank": "8",
+            "title": "My Life With the Walter Boys: Season 1",
+            "week": "7",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABZhsEkcTtRYEVzgYaaNlgnjik8CAwbbTFz-vSzt0DhUwqTtm0hujRg3FqpgD7wyYXh4WST6jEtp1_7x3jBXxheP7QQH8h9bk766v5xFAfncF3JoHRHhCDNYORwyopd6GG5izIg.jpg?r=c1d",
+            "watchID": "81426968"
+        },
+        {
+            "rank": "9",
+            "title": "Love is Blind: Sweden: Season 1",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABdZ4laCBWVlUgXUTtWNoVrmcj3HJwHKWw4OT13mBZN90jrJV4GV2QttrconNZX6zb4zH2Anb2T_vdPdg3qRpKUy5zWTr0v-PeoF0hynLwLzapkOYjw2NQJXKpKu8dhVnfvPAag.jpg?r=948",
+            "watchID": "81626840"
+        },
+        {
+            "rank": "10",
+            "title": "The Stranger: Limited Series",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABTuDUhK9xwByfbq9tc24FrFFMVCB4qZkhri6EUGL6z0D2L-bzS--XpylFIwxtkRC-s0xTSmuyy7mgeNFcu9elBGaFhmPuGyhmIomQODWeWaiSg4sHAcuCCfhePieapYBuL8VGA.jpg?r=3b3",
+            "watchID": "81011034"
+        }
+    ]
+}

@@ -1,0 +1,148 @@
+{
+    "kind": "Netflix Country",
+    "date": "2024-01-07",
+    "films": [
+        {
+            "rank": "1",
+            "title": "The Equalizer 3",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABScnlYUvY74Uf2wiLV_NMREqcrblVrQjtP186zoboLalvjZIWb4qZyFojJeLmvrCPgg_GVvnxmMGytZ1l0y6NwejR9hM9c7UJpWV.jpg?r=653",
+            "watchID": "81674658"
+        },
+        {
+            "rank": "2",
+            "title": "Aquaman",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABa6rtTd1_mH4TAATiz1EE8ZCnA3zneYdbvPGcjUNf_B5jYQElQIvnk6w21hIxPzuOpm30_0JikVNK4DfO8ldJLum0XNcZ8YoY-Ou.jpg?r=d4b",
+            "watchID": "81004278"
+        },
+        {
+            "rank": "3",
+            "title": "The Super Mario Bros. Movie",
+            "week": "6",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABXsZqtikTjbFmUV_HDiS7_6-qCnBvGYNE_JlfLzUOFsJ0Y9o9kVTxccdl_3I2_Dy0NCacGA5aOv24arcFas4jVXFsUnGNhsu26p5.jpg?r=7a3",
+            "watchID": "81640914"
+        },
+        {
+            "rank": "4",
+            "title": "Those Who Wish Me Dead",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABUoLLN8qcbrwLe_VILg4e0W0F002UHxBq3U6ianUuioTGQGxy9196vQLbP4dVtV1KxyzlT2hZefM77KAmtx9KmuDGNk7mONFQyG9.jpg?r=e73",
+            "watchID": "81424086"
+        },
+        {
+            "rank": "5",
+            "title": "Society of the Snow",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABUhnV_Qgc0dGaovFUgmlcR6JBnoJKwj2H_p_3Obfl__s8z4h3LOSs2evBQbF8SqVZPHM_i9-GiRVrqHKV7SXppAf8x-WhNVNBuVy_4I9dXpnGw6aBTtCR97XPNO8ieTm_NOS1g.jpg?r=e61",
+            "watchID": "81268316"
+        },
+        {
+            "rank": "6",
+            "title": "John Wick",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABTVWVYadAvLBtNN3mXnGPqT6SGPLhkGwlzKfeWQAy9SRbjrbL1W_NSXPq3i1olslP9NriRZq1hAcradrJ7X612WYbwQVR789R89e.jpg?r=dc8",
+            "watchID": "80013762"
+        },
+        {
+            "rank": "7",
+            "title": "Meg 2: The Trench",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABRcSnc5mZWGvhK_1t7v3swOrYbZhwwR4Dm1LU8_yEmOVV5Cx0ixPCd8VqYM1ZouV7bYu6YD0mmos8-nzAwnfGkEbtnsgbgUe40Is.jpg?r=cd5",
+            "watchID": "81670643"
+        },
+        {
+            "rank": "8",
+            "title": "John Wick: Chapter 3 - Parabellum",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABavzOATY3fUSSbw6nNsPqN3TmMbXBe2ElEiynMAug2ZHofqBCy4Sqw-cO3mw1yHtwETjOQTXhrESlIR4ZYnTQAbMjz0z6lTnw3hE.jpg?r=c62",
+            "watchID": "81168939"
+        },
+        {
+            "rank": "9",
+            "title": "John Wick: Chapter 2",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABd8u60pl8kAn5_9ysd_5prSeii5XMT7UluhpaI28jXU8OPIDCjnIkJxiGP5EvgRHk018gDbcmnRWVNDdvlyA37h0eGAVxQMbyk4l.jpg?r=ba4",
+            "watchID": "80131552"
+        },
+        {
+            "rank": "10",
+            "title": "Elvis",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABZE8aHiGAVNHioykjfSZrBO08_jk1jODotLxCTZbgSYQNqqrIp3jQrrQStxs4eqixmjV2KuQOhqYcx_qlgkHEfzrhrP1FJ2cXRdu.jpg?r=383",
+            "watchID": "81591116"
+        }
+    ],
+    "tv": [
+        {
+            "rank": "1",
+            "title": "Fool Me Once: Limited Series",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABZ1o4ccydnMKFoLWa32ICRBjM8nmXAf2MVrUGYqOxvHBPXLKBMFrwf3cdpL6ke9x1I5WamWBRE_6R8bZH5lkdBHOZXClTtFUw-5ZjtOe-kNzNm5aYPAAYVRRgv19kshYtuBnnQ.jpg?r=945",
+            "watchID": "81588094"
+        },
+        {
+            "rank": "2",
+            "title": "Dave Chappelle: The Dreamer",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABVUL_B1fsgfRS0sqVZbweuwwbErSvabWk6pbpkbjyUlO4inRq53dPQkYz_oLLELb6VSVNjrVFHaN9YNgdfQtM-NDPn4M7zF3xsC6UjgzZoj0jwsHlZ4is5tBOEZN2BZ6G-w0PQ.jpg?r=bfc",
+            "watchID": "81665820"
+        },
+        {
+            "rank": "3",
+            "title": "You Are What You Eat: A Twin Experiment: Limited Series",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABXt56nedZTtxWI7768HCPia7fuWnA1G8C8ZXnYqZbRAu4a64pksThIn7ZWohPgSYcHruBvFjwSeTcRmsEfDFVIN4P2wzpp2aQmOtPGiyC9Z6yq4mHz-Nup_k9iPtLZa9WB30xQ.jpg?r=e69",
+            "watchID": "81320957"
+        },
+        {
+            "rank": "4",
+            "title": "Berlin: Season 1",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABTepab85icr89zFAdCWpdmjXYu0cDM7Q9q5oqzyV3iMgWsgrUOqryRnsCZw6iYbE3HTXh0qJc4WBB5ScdT6XIN6_r7ufMl764V27FIMVh1MBonT70ydwyh7YaQgLGBR9nVoWXQ.jpg?r=088",
+            "watchID": "81586658"
+        },
+        {
+            "rank": "5",
+            "title": "My Life With the Walter Boys: Season 1",
+            "week": "5",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABZPJRhl5TPVFAZCGXQSIzXxuKTFj8zJitU2p0TuctcOjRIbPdWbLAtrLYXxFmgSOU5VJ-WMEwtmye9wE8L7TtIoOJhgbeZfDvtp40HhmLIMn5gazdDpfsfs3AUhcLqb_aLZlMA.jpg?r=5b9",
+            "watchID": "81426968"
+        },
+        {
+            "rank": "6",
+            "title": "The Brothers Sun: Season 1",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABY9_JmJqxFIxXkbKrbujNhIyM-HZHpNZF_r5UehSzl4daQ5fWTIg5YNJ4AmrNOyJhcAf6L_L24XAII4nmigNylW_20jVLkQFJORgzAlttJrH0yzx6bG3RdeztjIDOh12CS_4Ow.jpg?r=95a",
+            "watchID": "81389635"
+        },
+        {
+            "rank": "7",
+            "title": "Tacoma FD: Season 1",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABVSe_yKzayvF4FO9lv9wS_u2ZlYR7sxvY2w_5NmJ7MqkwtafZFn0cosu7RSX88E_eDv0xaftVkSBYjfS469Ac5jyhQLV0TvKAdz7.jpg?r=bf7",
+            "watchID": "81089321"
+        },
+        {
+            "rank": "8",
+            "title": "Young Sheldon: Season 1",
+            "week": "7",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABRRPLixXZCp93Y6n6K3NIZc7Rzkb6YvA5j_msy7eFu4Bpci1P3V4gef43p0umHpj9Iah4LJVmHHdvMikKFs8MVjlb9NGq4PkWnxJ.jpg?r=563",
+            "watchID": "80192611"
+        },
+        {
+            "rank": "9",
+            "title": "Peppa Pig: Season 6",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABZOhj4ZN1I6i-7vDIwVun-unmQXrSyeqIMioDoftpUO6hWWBeaaILPNvoZG3Pu19_zEcBN-0gAL1igB0GD6h2YS_kevxWqZMB5fG.jpg?r=5d7",
+            "watchID": "81441578"
+        },
+        {
+            "rank": "10",
+            "title": "Young Sheldon: Season 2",
+            "week": "4",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABRRPLixXZCp93Y6n6K3NIZc7Rzkb6YvA5j_msy7eFu4Bpci1P3V4gef43p0umHpj9Iah4LJVmHHdvMikKFs8MVjlb9NGq4PkWnxJ.jpg?r=563",
+            "watchID": "81016636"
+        }
+    ]
+}

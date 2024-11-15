@@ -1,0 +1,148 @@
+{
+    "kind": "Netflix Country",
+    "date": "2023-08-27",
+    "films": [
+        {
+            "rank": "1",
+            "title": "Bro",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABX8MsZJzuX5fITxd7gBo4khUYxY9gA-TXXtqNDEwF1Gcfn8PCxUZkwaZ2YmMBC9YtCc7900caXoX-d99A54gPnwlBUi-9Wqm2s50.jpg?r=1e9",
+            "watchID": "81699648"
+        },
+        {
+            "rank": "2",
+            "title": "The Monkey King",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABVaHOtEn_HbB0pPZ7bOJPYabhxTGJWICYvT9cA8J9ow4e5wn253kXAmaj_SNkEbXxOauaupItjDKxeJsmVGKqWwYFrjpo55b5USXZ1FRCTPVbypnd9dkOimAJ_eY7HvKgVOReg.jpg?r=5d9",
+            "watchID": "80237245"
+        },
+        {
+            "rank": "3",
+            "title": "Heart of Stone",
+            "week": "3",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABWKZ9K-GimsY5ywsg4BfD-NgCxB0tP0xJ0e_0P5KumY62SJIrpr9Q25qJccLKJp3ZyGiZeGX1Sk4I_H5JRm8NUZKXrt44SdGMpG8D5HCmTbKiUGkI5oerCoAcA6i7khwmgyUbg.jpg?r=545",
+            "watchID": "81416533"
+        },
+        {
+            "rank": "4",
+            "title": "Adipurush",
+            "week": "3",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABW1qKy9TCPa52Xf8Su1QOqTdZLoRRb09k7nf3QqBqYw64ysDbFgQWDT9nliNdljIMXVdW-_INoEaBSZXnV_ZQmhpOH6qS-jkPax3.jpg?r=a50",
+            "watchID": "81519291"
+        },
+        {
+            "rank": "5",
+            "title": "Jurassic World: Fallen Kingdom",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABddT_mKvzSOH6GQa85uAVFVwIw9McCyC4jKObid7qg1f4tXd4Pod5ouEAQ5MMMulNXwkaEmifey3HZnxfGPodLk79aBgi0X-1maW.jpg?r=f05",
+            "watchID": "80228280"
+        },
+        {
+            "rank": "6",
+            "title": "Dora and the Lost City of Gold",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABeYgft2NCbSpuojFYeVooQTR4X38zkp2cp8qJTkvo4T-A1pMdStI5SfSnmdA0CB-_XDAvkhtkFQs9Gu2TfjpOsXCXdyjZ50skC7t.jpg?r=1dc",
+            "watchID": "81180203"
+        },
+        {
+            "rank": "7",
+            "title": "Bro (Hindi)",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABS42VO41uvoT2Cu19TNqhIEGBBwGHgI84deokvAwzjzUI-R0Og-19JupQ2m2ffX4MJafgBDT3pew3KKr3gfiVJ92HtAtDxRQc-kT.jpg?r=4c7",
+            "watchID": "81699649"
+        },
+        {
+            "rank": "8",
+            "title": "The Lost City",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABX7lrc1RD5E7-3Ozxm_3BpIr8gm7XhPXu8jvE4M0u32f9yn56XLW_3E-w1zcuG1Y9zluaT4YbT7B3NXXzsbfUs9azpQUrdV9omlb.jpg?r=396",
+            "watchID": "81489832"
+        },
+        {
+            "rank": "9",
+            "title": "Padmini",
+            "week": "3",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABbgttbCkfQcfP-AzLXBdSo5Y8xVO7v7CK9qsjhNGeVbmIleE5QD5WdQdEgya7ShMysLWaXyvleF2rELDMGD1rbjZKAgiC9Wo2YNH.jpg?r=45d",
+            "watchID": "81680667"
+        },
+        {
+            "rank": "10",
+            "title": "No Escape Room",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABaWpjcrQro2u5ADU6DbiisvtWt7pcOzEMZ2inCt-51cTK7yEyKzlak1vwqbwB1F5F4ynvVy5ZM2XCdG_KioScQWnCnT00M1Fpsmu.jpg?r=a67",
+            "watchID": "81345798"
+        }
+    ],
+    "tv": [
+        {
+            "rank": "1",
+            "title": "Guns & Gulaabs: Season 1",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABU18zhf9C-hBoVAYvrR8lpYnNeFHqBRqIT4nz3vLPV3P4moAAxaWNTpyRnVjI9UwrPi6ssb60EHkD3V2b-veTvpzvFjTMhg5WebQi8fisY1nLuzrr7RuO8IJq1Zu0Bv346fdSw.jpg?r=82b",
+            "watchID": "81313532"
+        },
+        {
+            "rank": "2",
+            "title": "DEPP V HEARD: Limited Series",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABQx8UtYuH4WUaJHeDBXHnpPQ7bFRTGM175t4CN0beQfLUGvsngLNVN6NO8bgOeMl8n9c7KChNMIZ-P06WWrnzstjHne2gyVXIVMC_c5hZBCrm60i5NmKfVm-Ujb9z7JB-BFfkg.jpg?r=aef",
+            "watchID": "81644799"
+        },
+        {
+            "rank": "3",
+            "title": "Ragnarok: Season 3",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABXcZCQJAeP80WQ1oz_V99gF-fLYcBpQAoHnCXMUoOiBgL6_NOXCWg_25ymdVmu48uTKNSLAz4Lu38L3qchy2hDPH9JRe1dYGZFNBINqeQ2O7OFfDpylkzZnXQM7l6WxxvMzZcA.jpg?r=3d2",
+            "watchID": "81135546"
+        },
+        {
+            "rank": "4",
+            "title": "Who is Erin Carter?: Limited Series",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABTifCzrkh6WXeGjGzffw1QmTQqEYCZvRUssqUx1MkI5_X6rGoNlfrn_oynN6itrujz4HVtj2NHSNeLzpy6HnWOEcBUT-7AqR5tMoMxZJhZpHhhH7CvqjJ_EG8qths73QV8jU0w.jpg?r=634",
+            "watchID": "81476888"
+        },
+        {
+            "rank": "5",
+            "title": "The Hunt for Veerappan: Limited Series",
+            "week": "4",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABYbmi_BgRnNJUava22vKNNdhFbeIc7ujGOqWFAXhAOFHjodCFNq2SBtEtPfpDMvOeR6QJVPyetiua8O8whmjNLtXPM5SVhubjC7J5p9sknMaLM8AoNotZBa0K50xqoWArpCOFg.jpg?r=81c",
+            "watchID": "81252124"
+        },
+        {
+            "rank": "6",
+            "title": "Destined with You: Limited Series",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABaTDtmrP9lfCQRLCha5d7v8wHLByA4n5w09HbGG8YKXNR4u38YuPfLUyu4YkumrsZfVs3mfsHraDfdeJaZhj_38K4pjRbmTErrASXdCNO2IHf7yQQx06U8hAtkye51cbJleAbg.jpg?r=cac",
+            "watchID": "81669780"
+        },
+        {
+            "rank": "7",
+            "title": "Mask Girl: Limited Series",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABUw00V4pgkmM70KSTWASTAmOt_O3KSJ9o2_tvmqVnqH4K0nj090xyMftylLN0WuifaVaiBBsLMRBiTvxw2ipnQUvNCNqy6OELPDKsLhgwU9qgkCORQzJgaeiOzSo8s_UKdXPQQ.jpg?r=b3d",
+            "watchID": "81516492"
+        },
+        {
+            "rank": "8",
+            "title": "Kohrra: Season 1",
+            "week": "7",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABXR6xQbmAYRFxJMDLcKYgW9SUAeoyI9rScBhkhqgGUy7B8zWCgPaGLFoFiP0kprW6rQhDMZ5IB-gtK65SgoykJWMxOQQI4QS8eJ9hoXsuMoQPWrq5YJ6Hz63ExzVlT6VCM3oSw.jpg?r=c08",
+            "watchID": "81443394"
+        },
+        {
+            "rank": "9",
+            "title": "Ragnarok: Season 1",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABbx69ZRbuutZLgpEF66r13BxhpQpDTC3oonNs7qX4k8wgNp2xWXmAYV_CCdsO13XSiA2IenoW4bm-Bgt77eAW_4K8hkhjJ1myA5jRaTg16qupjgJIT6eg4XdzCHSjagXOkLLIQ.jpg?r=185",
+            "watchID": "80994124"
+        },
+        {
+            "rank": "10",
+            "title": "King the Land: Limited Series",
+            "week": "7",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABcKmppFl9vs_Qd-9vHhPHiQUgSoxS7Q8bTyKViZZke8FB-z_wX8ok0BlcvFJmkZvLrh8YC2x1J1P1SZ_qnVhfn6AleEYfZ8s47XgdTDGRQoZ3PffsW4hhOL7rYwSWWfsdAXtAQ.jpg?r=b69",
+            "watchID": "81671441"
+        }
+    ]
+}

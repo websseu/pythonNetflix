@@ -1,0 +1,148 @@
+{
+    "kind": "Netflix Country",
+    "date": "2023-11-26",
+    "films": [
+        {
+            "rank": "1",
+            "title": "Last Call for Istanbul",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABSN6jp9BbUywBrU11EXeIj3esM1xfiJP-8VG4pgE38g0gCqbhbC3TJf2Ej6e0u36JrTtxS06F0qd71Z8iQMcmo_RViL3KXXkdzeiCoXylF2JmyMEoOh3v7L9CUQZbwi-hadDug.jpg?r=107",
+            "watchID": "81610272"
+        },
+        {
+            "rank": "2",
+            "title": "Leo",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABR9YD02PmX03dknG5uSpiOyCaRW7plNAeRYlh5pmRaYLHNxs2cDpZ5Xtv9gO58GkuEQH9ZXQy-qPxKUvILFzTmDAjSSuJQqodOCxhGnnLgAGm6T2pI5W1UtFUra9IKx-3wRkJg.jpg?r=650",
+            "watchID": "81218917"
+        },
+        {
+            "rank": "3",
+            "title": "Best. Christmas. Ever!",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABV9NtpXvECW2lc_lr04UVvQ8xk_7-V5BZxkW84qRRSDxkWh8Ncj8hOqfcHUG8CoySEbpw6zSBaFFUimee_PjyUtQSo_ix4F4okM4iI1X54DGogt0-ANFvTInFIcb3JWjoLCcZw.jpg?r=c95",
+            "watchID": "81416268"
+        },
+        {
+            "rank": "4",
+            "title": "See You on Venus",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABbDlUhk_4cKE5YaQwTo7KFeLtuK6NMOQDl6v-GlnnsRI6JLtUkhTSdC_I4PTudTJ2DSFN9WsjlKjrhG3eNby6f5DxvLLqiCA2xGZ.jpg?r=0f7",
+            "watchID": "81648162"
+        },
+        {
+            "rank": "5",
+            "title": "The Killer",
+            "week": "3",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABeMhNcjvtxjfmRkloHJ12ig9XxvixqfdH14bZ-JZKR3AhrdLGJ7aslHE2sUhEb3wi4GzBHoVzSulSdDhJsH6PXakSLnBurZphSr9cYAr_yO1vyzH1JkgZisoHbF21lBeg_6u-A.jpg?r=fe1",
+            "watchID": "80234448"
+        },
+        {
+            "rank": "6",
+            "title": "War for the Planet of the Apes",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABdwEweo3O6-Y0PB7wbGXtpa9O37U9Xu4Yk3j2Q2gJ50Hob4uG9LQBr9Gg_Qk2MGDLhlyzuUzhQ6OqrALOFxrKZWhT3qqmzVR2TBg.jpg?r=528",
+            "watchID": "80168235"
+        },
+        {
+            "rank": "7",
+            "title": "All-Time High",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABUb-b5hjm4D4GmNkNcimMe7rIFThaerYn2pl_RXLFGGWx6XFaABuAyKcbp9E9CjjiVCPQ8nHyIKhKq8fEBOQk5b_avbnVBwndObpiXcuoVtTJUG9dqNxOmnqJ3acOaBh51qm5g.jpg?r=b8e",
+            "watchID": "81630883"
+        },
+        {
+            "rank": "8",
+            "title": "Dr. Seuss' The Grinch",
+            "week": "5",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABWhz3CzETp2fUHow5PLmIWiXZFrdSxOYQJH-lhG2XCaFR5r50kymplZgXMmbXeDZle7Rd8RyW3O3BlEuZ4mKl12xEJFLYE6iasc9.jpg?r=19c",
+            "watchID": "80996790"
+        },
+        {
+            "rank": "9",
+            "title": "Dawn of the Planet of the Apes",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABRhujF7WLZkzMF_0xTArst6Kbh7H4IdMBulpxS4REsJJG6GPOit-kO7YKj-1c06hBRIeItKpOEUbvFmA5-ADAtbx5bfJxZVvpPYc.jpg?r=722",
+            "watchID": "70300076"
+        },
+        {
+            "rank": "10",
+            "title": "Crime Diaries: The Celebrity Stylist",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABQKw78_VTSfgq0KwzW9pL4UcCoRDRfqSm8OKbIMHfydnyZTbr9YNldL9_w_tQRssZMdqIw-bFYDbIjqNarpEldMdMv9zut_alBwb.jpg?r=b7c",
+            "watchID": "81581999"
+        }
+    ],
+    "tv": [
+        {
+            "rank": "1",
+            "title": "Squid Game: The Challenge: Season 1",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABUMzkgqWDR5QEYwgZhxT1MUY_dsgz3S4-f1DwTVkdji4wK20KMFUWVZZoM7ei37PRVxjQUSTqPRapq7-5qvT2b-3xuwVierWgEGnY5yJ7_nH9W_MXUZxCylYVIE595bixtDLKg.jpg?r=9df",
+            "watchID": "81615541"
+        },
+        {
+            "rank": "2",
+            "title": "The Crown: Season 6",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABZFrdhfsm493w0AffglymbLAf-7_N1JYMH0JMuX3ULYPU8YIVEXqWUand7SOtax3LpK-9goFxhNyWKNGn-tTXLl5sskv4ld7DMrfliCVj-yIAlVxK4JeOKBSBY1Rg-xBZW3tWg.jpg?r=8c1",
+            "watchID": "81318160"
+        },
+        {
+            "rank": "3",
+            "title": "A Nearly Normal Family: Limited Series",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABc7LBY4X4yQ9afQx_DxZthXimDMXECD7zVGPK1_hZmw4uYpcF3wCq2ka5YjkJwey7ueTwZOUPDNhjwvbSpMFfF5dFbwDysj0LSoAkD9NPFM2Zx20tfC3SukBoFxCDWAomvMRHQ.jpg?r=408",
+            "watchID": "81392164"
+        },
+        {
+            "rank": "4",
+            "title": "Criminal Code: Season 1",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABRMx1u6uQ6IAEA9Ci-pg2MD5jSQ6N27mhVb6PNO_D_pXkwWQx7v0SXbY8_2mODRzaawfatMdu3XI4AwHMWPxYqk7GAdFw-hDGRcalnfOyAAQY3iBxuc7CZ3VloNRgt1aHOFeOw.jpg?r=eb7",
+            "watchID": "81442395"
+        },
+        {
+            "rank": "5",
+            "title": "My Demon: Limited Series",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABYwuwYQ4ssxwotf7JDovNGLTKTcoWHanQfXRtz75vTorJvwtqRP9J4F0QDSYQL58VclW-rNgZ03YOKeGi9y0XwB7TBK9KNyQ2PXSzhhmC0ZcCDRcX03Ov2QUYeqU_vFvQcJ0nA.jpg?r=44c",
+            "watchID": "81716081"
+        },
+        {
+            "rank": "6",
+            "title": "All the Light We Cannot See: Limited Series",
+            "week": "4",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABY75WYv2W3-SVs132Afvu3NFvgjeS8ayEdUtTDUIiY1Cnemyc4uLyYlCfpB-h975q9WuwpHLiivHK7x1mffFL0hK-IYOkvtIeUZzZoAqMCM4bGTY7fXXwuT69EE2gGWX3Q2V1g.jpg?r=c4f",
+            "watchID": "81083009"
+        },
+        {
+            "rank": "7",
+            "title": "Suburræterna: Season 1",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABcOrI3rgiln42FC2vVYtE_H6Z7pyxucJZKFnMUcy6aSyqXU6TWEaxF6Ur2jO_Cq_VLJ9kg-zxROitNVYTiTjaL6iBsTau8IuDbEfBn8lNZSQHoop4ViGkBSWRe6_0Qz3qJB95w.jpg?r=a43",
+            "watchID": "81440958"
+        },
+        {
+            "rank": "8",
+            "title": "Unicorn Academy: Chapter 1",
+            "week": "4",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABUKs24DZURqsuuPHVid4xgpYlA0Qw27b-iLjlZVfBav0QWNI3ZP4vkJbiF3ikibNRV58PE5-KYrclJ1W4J-UuQFKnobU_ZoD5Igknm0gdc7gCOVNRW7lJBq_ss852INQRo1FBg.jpg?r=4f5",
+            "watchID": "81279323"
+        },
+        {
+            "rank": "9",
+            "title": "The Tailor: Season 3",
+            "week": "4",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABfS5Qam740XVcKvS0oca8ISaJxbPia75uV13DUxWsMMD4PbAVFKl_qtekGu-zaMFckdG5uJ8U-7WGOH-D6LVVtpb9_Mm5GIDk3fcQanWVmWmkVQ9v27uLjP0_vakWqtmrWiD6w.jpg?r=f66",
+            "watchID": "81636524"
+        },
+        {
+            "rank": "10",
+            "title": "How to Become a Mob Boss: Season 1",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABbbu6FXaweu1NlvVGZgSf_Y0Qn9CswKgtHEXOp4oowIVlxGF6-fZBwL1E52hUI_nJZBWcuPuvRo4B3deYHjimuUb_iYQh9GqSxYqKmK5CigQu4HO6tET_1dJTQFwBK0ibSorbw.jpg?r=679",
+            "watchID": "81553203"
+        }
+    ]
+}

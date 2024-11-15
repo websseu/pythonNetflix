@@ -1,0 +1,148 @@
+{
+    "kind": "Netflix Country",
+    "date": "2023-11-19",
+    "films": [
+        {
+            "rank": "1",
+            "title": "The Killer",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABeMhNcjvtxjfmRkloHJ12ig9XxvixqfdH14bZ-JZKR3AhrdLGJ7aslHE2sUhEb3wi4GzBHoVzSulSdDhJsH6PXakSLnBurZphSr9cYAr_yO1vyzH1JkgZisoHbF21lBeg_6u-A.jpg?r=fe1",
+            "watchID": "80234448"
+        },
+        {
+            "rank": "2",
+            "title": "The Pope's Exorcist",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABaj3ZgzFk1rASYcbBtZ1wU4EGqfH4P-YQASezS9DAfb_wHILGvUh8tu9cWCVsYpQsJux0vuJm4B_fOy3bjDYIgJlW6ZBbbaQR3x4.jpg?r=947",
+            "watchID": "81641219"
+        },
+        {
+            "rank": "3",
+            "title": "Missing",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABZQZjBiXpOcPgwCtVYyC-Xx6Y5wAVmRX1CIjBvFzmzyU-1xqDugKCvwk8e8z8Mgz6r7VLVtYvVb8SKuOQW9lo9jjqg-sytbEpRhY.jpg?r=96c",
+            "watchID": "81643622"
+        },
+        {
+            "rank": "4",
+            "title": "Wingwomen",
+            "week": "3",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABU3gWx9PwO4lhvH1K5J6_nN3iFCRsagSuLXuNOOQSSKS6yZuqKKHRUrdXLv7ZVdXq0EH4s24CtMY8YlcaEQNBxS22FCiop3DP5ANxGsh-B7oGy5wpE4h4cEYU9GvRF04mOCSZg.jpg?r=3ce",
+            "watchID": "81282091"
+        },
+        {
+            "rank": "5",
+            "title": "Jawan: Extended Cut",
+            "week": "3",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABY2X5NH4H2zGcmba_kFEPbUYsV1_WAz4jXSU5Bl3zpAOuhoyJVZzrIQwP9ht9qgDiejQ8yMn9U3FzDbfyvLzJBPFuApgznHwclxW.jpg?r=cfe",
+            "watchID": "81493411"
+        },
+        {
+            "rank": "6",
+            "title": "Lockdown",
+            "week": "7",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABdEKXZkR2UbgC87Xix-Q6fvhe1Y3jxJ43uhbOZ00YPLSK7xWE9QAkkzAhCh6algqRTEJX2AGQyCGKBlsCc32kR8L01C27eg23v16.jpg?r=841",
+            "watchID": "81592483"
+        },
+        {
+            "rank": "7",
+            "title": "Dawn of the Planet of the Apes",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABRhujF7WLZkzMF_0xTArst6Kbh7H4IdMBulpxS4REsJJG6GPOit-kO7YKj-1c06hBRIeItKpOEUbvFmA5-ADAtbx5bfJxZVvpPYc.jpg?r=722",
+            "watchID": "70300076"
+        },
+        {
+            "rank": "8",
+            "title": "Best. Christmas. Ever!",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABV9NtpXvECW2lc_lr04UVvQ8xk_7-V5BZxkW84qRRSDxkWh8Ncj8hOqfcHUG8CoySEbpw6zSBaFFUimee_PjyUtQSo_ix4F4okM4iI1X54DGogt0-ANFvTInFIcb3JWjoLCcZw.jpg?r=c95",
+            "watchID": "81416268"
+        },
+        {
+            "rank": "9",
+            "title": "The Forever Purge",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABbYV-3nONHfqUeq61DM8mVnKQflQukVwv40cFtUnhNy31olXTzHzrCpA6fMTUFTYk17oJ1fLHUjuwaNoFxa-mwjt7pZbwREn_ExI.jpg?r=227",
+            "watchID": "81285872"
+        },
+        {
+            "rank": "10",
+            "title": "Nganu",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABcJ7Dxk8KZmmWn48MrV9_sTxEhJZVEbv3tlStTStFWmVkURyT8RZ1ZY26_KV2ghJS326-d8Id0M-sYSsl5DLhwW-Xnq_P-pbQ78v.jpg?r=15d",
+            "watchID": "81692873"
+        }
+    ],
+    "tv": [
+        {
+            "rank": "1",
+            "title": "The Origin: Madam Koi-Koi",
+            "week": "3",
+            "image": "https://dnm.nflximg.net/api/v6/U6_eu_lw5TPOkLCYXBHQsUANDp0/AAAABXXz3C04yXhimPyzXnF2ShL_LlrlE29CTsvXU3CX3mwdd1uFiN3T8Wzwf3Xc-Zsw4bHj-LbG.jpg",
+            "watchID": "81730152"
+        },
+        {
+            "rank": "2",
+            "title": "Criminal Code: Season 1",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABRMx1u6uQ6IAEA9Ci-pg2MD5jSQ6N27mhVb6PNO_D_pXkwWQx7v0SXbY8_2mODRzaawfatMdu3XI4AwHMWPxYqk7GAdFw-hDGRcalnfOyAAQY3iBxuc7CZ3VloNRgt1aHOFeOw.jpg?r=eb7",
+            "watchID": "81442395"
+        },
+        {
+            "rank": "3",
+            "title": "BLUE EYE SAMURAI: Season 1",
+            "week": "3",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABZR02peZX3oz8PinY0974DWBCbUz66X6mBNZGEGiRuVsGCfDVqykMPT5wvnUUTAU3nrRb38npVmMqQcD0ElkDb2hX-Kc-c71HEgJLCzl5ZnzLroFlb-KWTqkZcHdI-uQtLG-Og.jpg?r=17a",
+            "watchID": "81231576"
+        },
+        {
+            "rank": "4",
+            "title": "Strong Girl Nam-soon: Limited Series",
+            "week": "6",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABVRbt7mc5idOj29q7_0_fg4sJKQ_aLlJvdgbnO2WKxA8M1tcjd8d3l-AE0lu20JoxO1eVk9CkQgMJTIYFYKudm-FYgaPD_75a_GWpS8qF4QeguvJeIB-W2mQz5bOCA9YmWNKWw.jpg?r=b45",
+            "watchID": "81697982"
+        },
+        {
+            "rank": "5",
+            "title": "Magenta Coal: Season 1",
+            "week": "4",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABbqA9XhI9kxWFBh37beA8u-UH-xTtBupMCABcIJZFzpXKsLcLl8qqkngUvmkFwKfzBDvfxoYq2e4od2XEilSs7E4Sp2JKHCjVIRP.jpg?r=62c",
+            "watchID": "81692868"
+        },
+        {
+            "rank": "6",
+            "title": "Unicorn Academy: Chapter 1",
+            "week": "3",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABUKs24DZURqsuuPHVid4xgpYlA0Qw27b-iLjlZVfBav0QWNI3ZP4vkJbiF3ikibNRV58PE5-KYrclJ1W4J-UuQFKnobU_ZoD5Igknm0gdc7gCOVNRW7lJBq_ss852INQRo1FBg.jpg?r=4f5",
+            "watchID": "81279323"
+        },
+        {
+            "rank": "7",
+            "title": "Rick and Morty: Season 7",
+            "week": "4",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABVhD1vajTlnl33TScDEeWVyQdkBcVBvS0uCJ4UZQ1W6KdH9NnvGh8XYMCDz8PV-WFXzDH5MCsDVW9vFsVNOyZyyTXTDqEefpSXpl.jpg?r=0c8",
+            "watchID": "81717773"
+        },
+        {
+            "rank": "8",
+            "title": "CoComelon: Season 8",
+            "week": "10",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABYo4k5CwR5364NGTlr4njgcpeZiDD6tYM7SnMecYS1r9VEd7p5E6Yg8hy1SqhM8ivJ7l2ts6vfYp6PMJx7ax1FkGXJQV0vQ_dxe7BIqJYXncK090mZw5sjNdKWAwGj_jXt0HTw.jpg?r=346",
+            "watchID": "81631469"
+        },
+        {
+            "rank": "9",
+            "title": "Lupin: Part 3",
+            "week": "7",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABVyy3lz0VWzIXapBxi_XaQGGjn3j3PJcMEepgXoHGlEmFRRRzVhYBJQFgHSqNWwo1syQkLKjQpLK3xU6VIJdtV2s74NymJFx1e97Yqx9EtJn0mowFQkdGekScU-bNDhUGOeDjQ.jpg?r=0e0",
+            "watchID": "81410569"
+        },
+        {
+            "rank": "10",
+            "title": "Lupin: Part 1",
+            "week": "7",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABQVWRa2FVdtmigVWmJvWKgDZ9EnM_mtZEgdM9oYM9Q4XdgQgB8kbVyJNQUokRn912RSnU1nVUk0zuozX53aZysq2wgpKoBULK3iNfxx0GkPmY9NXQc_Mh06y84C1CbvXg0tejw.jpg?r=a75",
+            "watchID": "81010119"
+        }
+    ]
+}

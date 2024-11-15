@@ -1,0 +1,148 @@
+{
+    "kind": "Netflix Country",
+    "date": "2024-02-25",
+    "films": [
+        {
+            "rank": "1",
+            "title": "Dune",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABUUSYOqmZW29wl5LWYRflJOjbgLTLzyEp2-p_4CU9bB93QOfnGMH1SuFn0yHX2At04nPino3r4IjM0B4JHGqB86_kT01AnDjgq-K.jpg?r=102",
+            "watchID": "81199139"
+        },
+        {
+            "rank": "2",
+            "title": "Godzilla vs. Kong",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABRNlHg8PzMH28cvpZo4ihlXnReS2tMkAwFtiDQCcKGXQOMqkb7Gl5HZ2XYhTEPe_kQWcqPlKyWRcDMy4P_MIDWqJwfXwQ1BLAE8f.jpg?r=06f",
+            "watchID": "81183713"
+        },
+        {
+            "rank": "3",
+            "title": "Gran Turismo: Based on a True Story",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABS4a6ugCUX8CfdmF6xv8R9VY1CYG5pZt4d4JbtrAYG_eugkwplUG57LERh3y3MobteU64wK-2WYpT6J8rKXvEXX6Fq6q1SR6c5CJ.jpg?r=346",
+            "watchID": "81672085"
+        },
+        {
+            "rank": "4",
+            "title": "Fantastic Beasts: The Secrets of Dumbledore",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABe0-vfvOBcFYkbsQ8l9Oe-KbOHs1BAbjN3phNj2ioLIC89bl57hr-2HI4vWx8itYIk0g_w7UVUD5jQ79L0B-M2UIT7JHrujmi6Xb.jpg?r=f54",
+            "watchID": "81516447"
+        },
+        {
+            "rank": "5",
+            "title": "Lost in Perfection",
+            "week": "3",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABdgUJlm1sLOV9vxk6pbp1g0mNW7IChIsUjHTNd_ifxDWJJ8UkK05wsFaOBMc_8XZuM56tlllzYjvq-dLOMyLvPhQlZMPOve5b2YV.jpg?r=ad4",
+            "watchID": "81753228"
+        },
+        {
+            "rank": "6",
+            "title": "Mad Max: Fury Road",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABXF6zlKk9pSvDI8khQSEKLDtWZfQHH6bozVldSMquY-0Ul7CAh_8EtyNEu5WN9__pygwkuxHblGWr-rUrEJsjZRa-TH5NQemM_o3.jpg?r=f21",
+            "watchID": "80025919"
+        },
+        {
+            "rank": "7",
+            "title": "The Bridge Curse: Ritual",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABfkixnfD0Oq6QIYhxFPGMDadwW6fiUaLty1dn6NPMKw_-C4qLHRe3A-BjgAJzZeMAzMGaYdhh-PEaTt89iTzCRvnf_At8NQVLmpi.jpg?r=0e5",
+            "watchID": "81754653"
+        },
+        {
+            "rank": "8",
+            "title": "The Devil Wears Prada",
+            "week": "3",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABcJ_gBLjyV73Pk5eYN9xswWIe6UrP-elm669zesWV12udZgi5MUWP06ktiBM17mSnFTOyqBo3Jw2FIR_tqbxV9IThU1WX_qMrl-1.jpg?r=96c",
+            "watchID": "70044889"
+        },
+        {
+            "rank": "9",
+            "title": "Mortal Kombat",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABbrpredCBxOb7Ir0KosYPxkYuK3yAiYPulKOc15r6D3xgYmYxjzuH_HQ5F4FadqOvEJ8RRZTL18nPx2bdW7MqWKbuTrIcGiRvFVb.jpg?r=07c",
+            "watchID": "81267307"
+        },
+        {
+            "rank": "10",
+            "title": "Einstein and the Bomb",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABZK2nMcJRBfsR_Uobpk2Iri_0shU59qrwyYtY54dX4oZdQGPPUMnZyYpLXF-u-JhRsEUP8ln64fBX7PVKs6Qy-VC_alRES9n85JGHmOn85tAMrHlGAnveQEzRAs8wGN1EUya9w.jpg?r=69e",
+            "watchID": "81474469"
+        }
+    ],
+    "tv": [
+        {
+            "rank": "1",
+            "title": "House of Ninjas: Season 1",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABQtyZgFkGF9vTRvxSKsfn7iABXmVAxs0YzWm5GwSouDBg_l5fPZ-Gc6PKcs4ltjnw9fOmQTNLZ3dKT1YcyiWBr2HC1EnNHnko6PK08cXEHQBQSpz502avNnWgEOtVJiWZWmFbw.jpg?r=437",
+            "watchID": "81465102"
+        },
+        {
+            "rank": "2",
+            "title": "Doctor Slump: Limited Series",
+            "week": "4",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABZmYWGZ6bii0qmGfXvWd-HWD6PPQQxIkk1diSnWbzyz3hlHsr5yOPslhSUnR3eI-VEKfPLu5C7nhgxDxMmaSHRlqwvEgyJ1mwn4kskiNk3F4qfN3G6Yu2am3VL64_0E4ggwDKQ.jpg?r=065",
+            "watchID": "81697986"
+        },
+        {
+            "rank": "3",
+            "title": "Let's Talk About CHU: Season 1",
+            "week": "4",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABe6SeYu18DEYRpi87P3DEVMjbwPNPXSBizv6iA8dty7h4ADtWF58veUvQvKcZvnaAzNkPu0bTMM1nHaRb5QB43RTmsAM1njz2tmgNB5U02ojCsImgraWg-NpBf1F4-NJ4QRX0Q.jpg?r=93a",
+            "watchID": "81718142"
+        },
+        {
+            "rank": "4",
+            "title": "Avatar The Last Airbender: Season 1",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABef4U8C736O4lrt_NKHpmiuPjTXk4EHytZsl8WWByhHW6EtlYUurZLuKG9PtSm6wUq4eocZzHPnBD4e9OYsUpx_o8VoXtx6rkRrpdK2plecfkCLaclpQyyRXGnaaosAZDIxsig.jpg?r=6bf",
+            "watchID": "80237845"
+        },
+        {
+            "rank": "5",
+            "title": "Solo Leveling: Season 1",
+            "week": "7",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABU7UkslAi2hxpgq04h4_ogElYv3q8ilxhHx886_5sVhiap-adtfnnOCoTLiGgUXrHyfbeFuSDLZZe4fkgYEf5w7YbsHqdjQpD2sW.jpg?r=3a0",
+            "watchID": "81749762"
+        },
+        {
+            "rank": "6",
+            "title": "A Killer Paradox: Season 1",
+            "week": "3",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABYJ9HrNhVpCZLIIk6K_bS9fun-MoD_GpGXO0rJDwc6itc28LsDm-vEPymtAXvNeKO9mqsBgfiwV6XtpvwlXdx9njW2v76hHSuB2sFFx_LIqmAX8Gzi9OqZdBwC_8gCEJqzHoXQ.jpg?r=2d1",
+            "watchID": "81607355"
+        },
+        {
+            "rank": "7",
+            "title": "Magic and Muscles: Mashle: Magic And Muscles The Divine Visionary Candidate Exam Arc",
+            "week": "7",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABaoWxAzudHlaaxWxQD8KwCLNCgCCspepCwu3qjfgQN3FuDVOdBkh0DAg6Nmf7UXH7Tk6EwFs_51vK0_2U-hdag5yEkc9CftYSRrk.jpg?r=36a",
+            "watchID": "81750729"
+        },
+        {
+            "rank": "8",
+            "title": "Warrior: Season 1",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABdUXiqLwya-Rx4MFz1Aga9-RVWhs2bAOJ_15hZlefPVbzr80g71nUEpUHqbCw6mSO796hvQrm-3q7qNrPwb7aDfzc2aTD4KE3baT.jpg?r=7eb",
+            "watchID": "80177387"
+        },
+        {
+            "rank": "9",
+            "title": "Risqué Business: The Netherlands and Germany: Season 1",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABT5mDBSx8wSEM1wAzwUN-4YbGxAfKz-eNxsQQcs2-pt2fBADoFdLoB64jepjxwwFk39uqnPzhfZ8CL3qUqUclzVfFm2rApOQm34XrX5cSEmxGbCS2bx4bIYTviHWNFIzXa3PXw.jpg?r=28a",
+            "watchID": "81700013"
+        },
+        {
+            "rank": "10",
+            "title": "Formula 1: Drive to Survive: Season 6",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABY1-5fQuX-DJ0oSdQmBkL5L0WX7ZLrWxhCToC_L70iYYnIJJxnPNHM3Eog1arIa064DV0Uv9j_A-3KnYg5OQOGQku4X67L38y8vGYKBc5xija9dvuCrrstLJUTYHggIaGBNp_g.jpg?r=31a",
+            "watchID": "81627184"
+        }
+    ]
+}

@@ -1,0 +1,148 @@
+{
+    "kind": "Netflix Country",
+    "date": "2023-08-27",
+    "films": [
+        {
+            "rank": "1",
+            "title": "Half Brothers",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABY2wAirJW_NEJvE-4H8RaOGmdLxndFmD0xROhLop5VpnepqRM8iUsKP5hpFEnPV_gqadOHa1RNZpoIox_dWB_QmOcOVeuaALXYmw.jpg?r=77d",
+            "watchID": "81350119"
+        },
+        {
+            "rank": "2",
+            "title": "You Are So Not Invited to My Bat Mitzvah",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABY6PJWnnVwQWTHWj_DefDb5JC0EBmIhJUGDDuFjdClOrBzKVIDyAvnQBwzkP41W7-UN6mBHXqNVAp4nMEBcaErFNyCpEXZDlFR6-k02YEzSzYCiRptm2EpnD2wO3QCz0j5qUrQ.jpg?r=16e",
+            "watchID": "81416306"
+        },
+        {
+            "rank": "3",
+            "title": "The Boss Baby",
+            "week": "7",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABco4tqwWt-9SfrSVS7a6V-nKr-pedZUYe0CohWobkJkFdbyNvep-LiH7RA6InWhzo3nxCe835s37TxCz_D7AbC7QZ4cpD2zE0wsQ.jpg?r=e1f",
+            "watchID": "80146758"
+        },
+        {
+            "rank": "4",
+            "title": "On the Line",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABW-nbUsa0yPIjcF_BlST4pviIWuxzT3WBoHDHphcJLwS3mu8pD6TQOC-0Xxg-oHEmbJyxAGdz2vwTF38FTDseNrAv2R2Ijcfmet2.jpg?r=0d3",
+            "watchID": "81640570"
+        },
+        {
+            "rank": "5",
+            "title": "Street Kings",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABZwRSa5q3_axbgsUVGQODHINLk1PAcNV1axxqAEIxtYBk84j-O1W84j_CFCZIQD8XDsYnq-yJs0qxQclGJIOhAN1ce2zM5Dpg_uZ.jpg?r=5b5",
+            "watchID": "70090336"
+        },
+        {
+            "rank": "6",
+            "title": "Monte Carlo",
+            "week": "3",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABa2AsjbWahDIhHYBNGD7Ex_WBioYJewuD3lxlNDvUIMBRgpW0Rhmfe3s51DVe5-FmI2nmIWSRsv1xuedHz989l-85OeX1dvBRy_x.jpg?r=b5f",
+            "watchID": "70155534"
+        },
+        {
+            "rank": "7",
+            "title": "The Monkey King",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABRlyXWDarbnOgsypIAB_9P05LNVZeIbrQJiuAmHkEb2iDGIabXJG4vn5Fw-nVZi6tDQCgE6BFKhGcpUbgrgXiNoAXEfkvxkwz-xHnhkOi_GIWulVF_i-MOvHtoOQPncSyw7oZg.jpg?r=70d",
+            "watchID": "80237245"
+        },
+        {
+            "rank": "8",
+            "title": "Heart of Stone",
+            "week": "3",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABVYGQMTdQ96KDEfgqxC-6lJUu4RzeG44dRKBR0pOSf9cQwqcMLch0LWnXBz3mSQfGk33Itr4l48dngdKsGIxpNUCs04poeUVImmgM4JULdPlR1isIL5xx8L3v-4dH4iIHe2_Rw.jpg?r=f52",
+            "watchID": "81416533"
+        },
+        {
+            "rank": "9",
+            "title": "Madagascar",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABbKgmGcDqmtnlIP6yxQpqDcovE4C2RLfCwe4JoFBEDNnOaOkgR1GvxCVSsbcfDqGDuCfOP0z4cvLQlDa9LxkvohD9F5QVk4RjIcX.jpg?r=935",
+            "watchID": "70021636"
+        },
+        {
+            "rank": "10",
+            "title": "Squared Love Everlasting",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABXwDXLg6PMUyvdZxrTgL-p14ZsdZG9kfgwTEH0kik897dtSKnuX3iJt61uCDAlRmLqFNKH_i8N1xXmJ4rYssq897rku-VrI9glMa7tA6k3B-fBomBoQ0IX6CsjOPJ7naPr-DiA.jpg?r=c92",
+            "watchID": "81513252"
+        }
+    ],
+    "tv": [
+        {
+            "rank": "1",
+            "title": "Who is Erin Carter?: Limited Series",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABYuTB9ht5TNVoROIcd1jcuD2hTwzF_Wb44EaSrmcxk_cuQIdSGWZWJjDQ1iRGji722IpA4OR9RBnFAYd9OzJxPNHkExLZUATiRO-uYf0sIH9oPg4WJqwgenj0pU6247sloevgQ.jpg?r=719",
+            "watchID": "81476888"
+        },
+        {
+            "rank": "2",
+            "title": "DEPP V HEARD: Limited Series",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABaW8dZI8B8y0HgkyAFBJ8vMpphbfvN0vH1fI38d6HM7PlxHhBf8dHf_xoeJgNY8gv8ummMgjfWFa07RtGatgaWIKQ0D68vBK1m4YhBvz6FNb0csYz51IMO7CdFy8-m9j_XNUlA.jpg?r=7d1",
+            "watchID": "81644799"
+        },
+        {
+            "rank": "3",
+            "title": "Destined with You: Limited Series",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABePyVuNarTxjYb_SqvvMo7lwkyJ3iHLpahTrCDEHNDTbbraFUNoDAy-e3xhrWdHVleKRp4tq7y8R9eByztM0ifIO6VGbROwZmcoPjfX3sEkqPr_z_yDWRw4oZAI-tJghvQ0U0A.jpg?r=f77",
+            "watchID": "81669780"
+        },
+        {
+            "rank": "4",
+            "title": "Mask Girl: Limited Series",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABdHs4DcfsE8B2fG3F8TRbdNOVB-9uUkIHU1UJ1SUkf6M2yaeTXdHAmJxTwgUyp08ZkAORXfXs-533EHVm7kfKPGcySwOeaabgOBIO6QlUvfLjDJgKaBh8H3ieP6lrRZycvpl9Q.jpg?r=778",
+            "watchID": "81516492"
+        },
+        {
+            "rank": "5",
+            "title": "Ragnarok: Season 3",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABXUpPzj0W169rHuxFulUJQR-GDO88nZCUMzHEjb4Y6PZt8emrvQgo45mxmC3NJHjjZcyK4OQux0LKC0rSFuXw0DnM5_1StkU3HRDEAVTqfPAFEWhrU1u6Ve5kpDR3fPwBLXkTg.jpg?r=5fc",
+            "watchID": "81135546"
+        },
+        {
+            "rank": "6",
+            "title": "King the Land: Limited Series",
+            "week": "7",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABcKmppFl9vs_Qd-9vHhPHiQUgSoxS7Q8bTyKViZZke8FB-z_wX8ok0BlcvFJmkZvLrh8YC2x1J1P1SZ_qnVhfn6AleEYfZ8s47XgdTDGRQoZ3PffsW4hhOL7rYwSWWfsdAXtAQ.jpg?r=b69",
+            "watchID": "81671441"
+        },
+        {
+            "rank": "7",
+            "title": "Baki Hanma: Season 2",
+            "week": "3",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABaXPyZWuBbaTj-p3ZSFznMeq-Ts5Wk0EM5PfqpzsWbqNcOjQNktZx4NbytLuB-CowiOG0szql9-FQ3pRttLgJs5aNYj_7SMfWUx5-T8qi9buz1tkHtetBPbBzjmN5jYw0xFXAQ.jpg?r=1ec",
+            "watchID": "81236346"
+        },
+        {
+            "rank": "8",
+            "title": "The Chosen One: Season 1",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABXzwkkPdY1PM3Tu38UgQ193b71Ka5BC64mB4jVS11VM7LJQaeItlq-EABh3Ft849rwe_gX5QzTDVLb52HI7QFcrMQcRL_CqREmioiueiaHRKeHEMIDz1YF2IHNjNEAo_Q1zDxA.jpg?r=531",
+            "watchID": "81013173"
+        },
+        {
+            "rank": "9",
+            "title": "Ballers: Season 1",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABbH03DFDEZgrlx44NOPuf7K2t_yzLE1cNAyAqsxPIwbi5twNBVpvL4kuqH9m9pnB631BdkkvHIW-bEYjCgefAM8FrKEaBl2GftXg.jpg?r=e57",
+            "watchID": "80049718"
+        },
+        {
+            "rank": "10",
+            "title": "Painkiller: Limited Series",
+            "week": "3",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABRSDu2hQyWorqk1_7CaGZKXCTB4mHWLUCvUj7dux1K_E-mucAio1IR9TeepnZAiLpukY6J7GSm0mOJfMO5BQFsBFoSlY3ZRfISBC4894fZeM9SP4WFvlQAYI7TbZLTm03v9B8g.jpg?r=edd",
+            "watchID": "81169975"
+        }
+    ]
+}

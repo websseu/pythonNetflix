@@ -1,0 +1,148 @@
+{
+    "kind": "Netflix Country",
+    "date": "2023-11-19",
+    "films": [
+        {
+            "rank": "1",
+            "title": "The Killer",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABeMhNcjvtxjfmRkloHJ12ig9XxvixqfdH14bZ-JZKR3AhrdLGJ7aslHE2sUhEb3wi4GzBHoVzSulSdDhJsH6PXakSLnBurZphSr9cYAr_yO1vyzH1JkgZisoHbF21lBeg_6u-A.jpg?r=fe1",
+            "watchID": "80234448"
+        },
+        {
+            "rank": "2",
+            "title": "Best. Christmas. Ever!",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABV9NtpXvECW2lc_lr04UVvQ8xk_7-V5BZxkW84qRRSDxkWh8Ncj8hOqfcHUG8CoySEbpw6zSBaFFUimee_PjyUtQSo_ix4F4okM4iI1X54DGogt0-ANFvTInFIcb3JWjoLCcZw.jpg?r=c95",
+            "watchID": "81416268"
+        },
+        {
+            "rank": "3",
+            "title": "Sing 2",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABX_VZG8yTtVdfSuslfBU7spH8stYENgFERRxnxMDUI9gZLpl09CwcyHvcYCl3cvkrVnUSYdHtf0XH8Jfc5LfoJISTIvnTBeYC2FR.jpg?r=f92",
+            "watchID": "81475311"
+        },
+        {
+            "rank": "4",
+            "title": "Spider-Man: Across the Spider-Verse",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABa29JNGAraeNVyLruvnphoK8zlVuRuYJwfVM0Ylu1bn6yqwTYWWXlzu3ITFlwX9grz9NNX7oMPgISIFY4q-Jgpv3-cDlMa4ZHI3S.jpg?r=f8a",
+            "watchID": "81594921"
+        },
+        {
+            "rank": "5",
+            "title": "Alien: Covenant",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABe4Dx7k5I7XkoSvy0Z-XBp8QDmNpYtpWIYf7X2A3W8cAq7NnitSNMop1R44YNbPeLy-C40uaLPyVXtk6q-UPbS0NQFXFb_9KXkpA.jpg?r=6f7",
+            "watchID": "80160717"
+        },
+        {
+            "rank": "6",
+            "title": "Dr. Seuss' The Grinch",
+            "week": "5",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABWhz3CzETp2fUHow5PLmIWiXZFrdSxOYQJH-lhG2XCaFR5r50kymplZgXMmbXeDZle7Rd8RyW3O3BlEuZ4mKl12xEJFLYE6iasc9.jpg?r=19c",
+            "watchID": "80996790"
+        },
+        {
+            "rank": "7",
+            "title": "Dawn of the Planet of the Apes",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABRhujF7WLZkzMF_0xTArst6Kbh7H4IdMBulpxS4REsJJG6GPOit-kO7YKj-1c06hBRIeItKpOEUbvFmA5-ADAtbx5bfJxZVvpPYc.jpg?r=722",
+            "watchID": "70300076"
+        },
+        {
+            "rank": "8",
+            "title": "Locked In",
+            "week": "3",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABe6AAWYnjdQgLZFtGM3-SxbBeJsozZRPX_bKbknvkKZAdVRkBH5AUTPdvTtAuWoi2BNeRJDyCGbtChAIcFcTjVL6NuD6GiUUbC5enQjbiws7QVOkJE-YMGFJd_Zj349UXUFAFw.jpg?r=f20",
+            "watchID": "81500381"
+        },
+        {
+            "rank": "9",
+            "title": "Pain Hustlers",
+            "week": "4",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABSCIbIAhy29Qvh4qN5seN1ckS6I5glHaeTOe3zpDvm9t6tbxBne8YuqAhW6IzlptsF5dTI8Xvskl2ApFK-2cG33h961xZ5b6HKMSTNK2csaxk70qNByBfVwhn_uWfasNHVIaxQ.jpg?r=c8a",
+            "watchID": "81614419"
+        },
+        {
+            "rank": "10",
+            "title": "Step Up",
+            "week": "3",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABcQMcQQ2SKVpu0csLKBd--4CM6TexpSkfo0PfpLyXXDTQgxZkRyrjoBbFt0vrWAxFDNmzsEEl8eljm2grtejcgS0jTx7t2PWb14Z.jpg?r=295",
+            "watchID": "70050484"
+        }
+    ],
+    "tv": [
+        {
+            "rank": "1",
+            "title": "The Crown: Season 6",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABZFrdhfsm493w0AffglymbLAf-7_N1JYMH0JMuX3ULYPU8YIVEXqWUand7SOtax3LpK-9goFxhNyWKNGn-tTXLl5sskv4ld7DMrfliCVj-yIAlVxK4JeOKBSBY1Rg-xBZW3tWg.jpg?r=8c1",
+            "watchID": "81318160"
+        },
+        {
+            "rank": "2",
+            "title": "Matt Rife: Natural Selection",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABb5x2UDSMtno2ogZnsaU5yaeO3oCeYSq1RP0uHAkrCtrHTtpcz1H6jLViYdePsnK618bMMv7vLpsPOj1Ukh__O3pzpdEuxfsL0e305z1Ua-S51Bh84HMfjMOamHXM-SX4MGpLw.jpg?r=9aa",
+            "watchID": "81708429"
+        },
+        {
+            "rank": "3",
+            "title": "Rick and Morty: Season 7",
+            "week": "4",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABVhD1vajTlnl33TScDEeWVyQdkBcVBvS0uCJ4UZQ1W6KdH9NnvGh8XYMCDz8PV-WFXzDH5MCsDVW9vFsVNOyZyyTXTDqEefpSXpl.jpg?r=0c8",
+            "watchID": "81717773"
+        },
+        {
+            "rank": "4",
+            "title": "Escaping Twin Flames: Season 1",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABfx4iFGj6efgfuViBlK-37s1oiWHG9MYRDBJeG1SLlg1TI0-bg9m1QQLzmxsDyxIHpywMOqy9pejsLnHQRI7by35nmyoIU1JH-oH7S_OK9GDl0afa_nx6aWNc_AJGuMGekG0dg.jpg?r=634",
+            "watchID": "81615920"
+        },
+        {
+            "rank": "5",
+            "title": "Robbie Williams: Limited Series",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABZ7eGh_BBSJo5i-bOxbspN-ZBNkgmnfotuJ2V3WNqXcp6YuPUe5Tw265qK8Mp3bD4eqq8aLIHN44fpIV02EvdDmNg69NQq5wtCKsE1oxG0VKAYPigPGF9Bct3TfSQDvtUxQwkQ.jpg?r=ef6",
+            "watchID": "81638711"
+        },
+        {
+            "rank": "6",
+            "title": "All the Light We Cannot See: Limited Series",
+            "week": "3",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABY75WYv2W3-SVs132Afvu3NFvgjeS8ayEdUtTDUIiY1Cnemyc4uLyYlCfpB-h975q9WuwpHLiivHK7x1mffFL0hK-IYOkvtIeUZzZoAqMCM4bGTY7fXXwuT69EE2gGWX3Q2V1g.jpg?r=c4f",
+            "watchID": "81083009"
+        },
+        {
+            "rank": "7",
+            "title": "How to Become a Mob Boss: Season 1",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABbbu6FXaweu1NlvVGZgSf_Y0Qn9CswKgtHEXOp4oowIVlxGF6-fZBwL1E52hUI_nJZBWcuPuvRo4B3deYHjimuUb_iYQh9GqSxYqKmK5CigQu4HO6tET_1dJTQFwBK0ibSorbw.jpg?r=679",
+            "watchID": "81553203"
+        },
+        {
+            "rank": "8",
+            "title": "Selling Sunset: Season 7",
+            "week": "3",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABc_8e9WGp4wE3RD7Vl5NtqiG6BYZj9KAyn33zz5-vWk-VvQghadBv4hk1ClyWMQLbPbXn5Rb5gRbO9eNaS3xax-whWEGF-0CWD1tmTaHCYlB_VYwqOJMh4RyKcMpbeAnN_Sq7A.jpg?r=ff0",
+            "watchID": "81613877"
+        },
+        {
+            "rank": "9",
+            "title": "Beckham: Limited Series",
+            "week": "7",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABfjGC7umIWYADp0ZcCQbLddexWIDMhTS9SqjJ1rXBSihC2iXYfpLGk8ea9j5FDA9w88cfuvf3dhDwkNZ-v_3VM2fv6k5JUj6t9oiscCgjkp47ALdaRZcHYDD8bmr6hqjKHSZPw.jpg?r=5bd",
+            "watchID": "81223501"
+        },
+        {
+            "rank": "10",
+            "title": "Bodies: Limited Series",
+            "week": "5",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABTaeKuu7BfKhRMGtGLsko372FFUi0a_mDU9r5IgVJ7UIFjmpVg5j7MOU6Pp5mjGMoNtg7J0YMeWKHXPOcB2H8lC9ToLL-C4tNMWAM8iO09xjVTSqRe14TYUCE1BPf3xIcMi8GQ.jpg?r=8c8",
+            "watchID": "81252917"
+        }
+    ]
+}

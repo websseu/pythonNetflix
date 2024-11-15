@@ -1,0 +1,148 @@
+{
+    "kind": "Netflix Country",
+    "date": "2023-11-19",
+    "films": [
+        {
+            "rank": "1",
+            "title": "Monster Hunter",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABal2m7qCWQOvwIPOzByIn7b5FR8ElZ9bGotCzwIbaY9wqpY_r1mF-RRM7xq-9NsP_5gMHZt1dx9v3cwR_mkWCOcaWEonacGMf9hn.jpg?r=fac",
+            "watchID": "80987626"
+        },
+        {
+            "rank": "2",
+            "title": "Best. Christmas. Ever!",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABXoAH8kVoOO0AbDKdu98Yy2OJ1Y93SFcMvFBIunXhVmGnBmi_lnPeoUldwdPg_RgW66OEaCltJbTbbkuXatRTWQ0k1dmVDjLwhw3-GOIxRP4JxH-OpKwJ1x9OSGcAMcyZr0xpw.jpg?r=dd4",
+            "watchID": "81416268"
+        },
+        {
+            "rank": "3",
+            "title": "F9: The Fast Saga",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABRxduFDBEOOsTEr9Q8KI3Gz88Jy0VPBTi_SZL5rgX-TGQtDpMkvPUwdJHLjEaIHJJ2zvmbQSjCKQi14JnumJHCaQ1IafUb7UH-Hp.jpg?r=435",
+            "watchID": "81198900"
+        },
+        {
+            "rank": "4",
+            "title": "Heatwave",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABUMf_F_tZCqwa94Tu6scBYoimsbqOI2jPbvRoF0Td_Ek8w2fV38a1dAbuOJf4ywltoBvnO94lgU_q9WYJEmcvIdDjGvhoEhqFKnk.jpg?r=91c",
+            "watchID": "81592910"
+        },
+        {
+            "rank": "5",
+            "title": "The Killer",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABXMEgUaJeWn-09eBIdxaMw4bbkt7he9MTjImlNBF267jVSveiOE4kMdnFNqu__M2m3DJ2kJmHBsEE1qFZi_FiLuvz-Llj8vpvtH3fo9vdblTKtLAYqUvC-rlEhmg_Q4_vnbUwQ.jpg?r=235",
+            "watchID": "80234448"
+        },
+        {
+            "rank": "6",
+            "title": "Playing with Fire",
+            "week": "4",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABaA8wilVcRzXVVWfWurG-OLqNofob0TwByR8G_BlqtQJpqWzEw9xwJhurlkVbxja3SmV5bdOGxM_C_lk2qTl_hwpvdls-8GDgBi0.jpg?r=70f",
+            "watchID": "81221835"
+        },
+        {
+            "rank": "7",
+            "title": "Believer 2",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABV_sOgxLa9yQRJkmL6DcXlwsNXuRwcOed3LdQMnq3rhBoEENu-CS3m7EPV6z2fOzSTP6rmaSzjJap3NY-Z8URjX3sOZVDS2e__WbKCc2f9kdPrGQOssCaZOfrJksx_qbeMRXOg.jpg?r=4e8",
+            "watchID": "81594923"
+        },
+        {
+            "rank": "8",
+            "title": "Wingwomen",
+            "week": "3",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABVCkTlzwzex9mbEDfXFIGZhRMeyuJSVrIfNxWt0zkdVyWvK5rAvU-mz6IsHfdq66saHo0PE-ZHGfJ6XwQPAGOb8dBaE0vMOxVQWHYc9XRBHNqekjOti6TirKRotpmHzztZkiYw.jpg?r=7aa",
+            "watchID": "81282091"
+        },
+        {
+            "rank": "9",
+            "title": "Deep Fear",
+            "week": "3",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABaRgDts3pfd8kKzS-J6Md50-XoLaFjYXuuU7h26Z3TW9XB_mOAqW7x7zg30b5v-4YCjFK9yMK5Yo5pwUjdWKlVdM2GQz1cW_i99w.jpg?r=d13",
+            "watchID": "81676435"
+        },
+        {
+            "rank": "10",
+            "title": "Underworld: Blood Wars",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABQ6vgI5BKrI70S53oN9R5K6x1r1SkPrsVtD7NK6oXUWFe6Q2E4XDPKJOVAy-JvtrwxdATOgUF57TjVsx6tqnSx-IjvrMLj_O1AB1.jpg?r=8bb",
+            "watchID": "80106735"
+        }
+    ],
+    "tv": [
+        {
+            "rank": "1",
+            "title": "Criminal Code: Season 1",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABcyNhqe-s1MHKlJ5nTvprrB36pC_4bRxmUkBlBysbjCx_1y7M7Uf3DwN4Fd7qx2YlnArqU0IFpKaz7w3HlvijTMQcVAKDjoccHHqMdH-KJqRx94DPURF8S6OxXC4QzN_zP15QQ.jpg?r=5ea",
+            "watchID": "81442395"
+        },
+        {
+            "rank": "2",
+            "title": "Unicorn Academy: Chapter 1",
+            "week": "3",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABb7jI2VoFpL9vB_HtmpP16b4JIphe8TTX6zsuprBnQbP7YHyVT4ewPGtlgjHO5Qznkva3EK25eavhIr33qoVyd8qXvfAnvgZY75CUqAQm88R8t_JgfEKnmlqaKIuFr1-dD1kIQ.jpg?r=658",
+            "watchID": "81279323"
+        },
+        {
+            "rank": "3",
+            "title": "BLUE EYE SAMURAI: Season 1",
+            "week": "3",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABekt6z0BDEpZFC9qWpsl9Nz1vNC6qcBML5miU7dIIcKZdqzFT99e750JU-b2I4U0S-3ycmMIWrzohPSqySBJqAv4Wbahjy7X0dkP-P08Uvaw9ln73yOjQdPDH_eS-srCB7eCaw.jpg?r=0c5",
+            "watchID": "81231576"
+        },
+        {
+            "rank": "4",
+            "title": "CoComelon Lane: Season 1",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABb_jRnrMc_J_dGjEoMwh_xLsW2eBteT5fM-xx9S1xJFGm-Cyogiq2ID_M9kLcRItWznigPj7NkYO-7dhOdMab8yA36mvj2HJszwhg3GxmU_OB11TLbyufVaiALGcKmNzpoQa6w.jpg?r=884",
+            "watchID": "81423473"
+        },
+        {
+            "rank": "5",
+            "title": "CoComelon: Season 8",
+            "week": "17",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABYmbnp7oVyZSMcjnWrHzPYSOGF5WUzXU-zoOfVGRE3M2qLfTzaWOXZ3Jpt_mazwRimGPmpol3UNnIVki29pFZbCmlB2_6Arv5GDbOpudxx-Dbc6IuaqWqbBXR31LY55SqAcF7A.jpg?r=46c",
+            "watchID": "81631469"
+        },
+        {
+            "rank": "6",
+            "title": "CoComelon: Season 1",
+            "week": "19",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABes4xOF4i4vs-2iLVy4fVNsN4r55sf5ksQ9s88ZLdkTiz8baztBBu1DiIzIPCxYggz95O0BzU4E36jPt-Pvr_amQjhhUg0UIZFWo6TsWYTGRhsTb41tTsbozpXHL0j1z-6B30A.jpg?r=d5b",
+            "watchID": "81273086"
+        },
+        {
+            "rank": "7",
+            "title": "The Crown: Season 6",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABZFrdhfsm493w0AffglymbLAf-7_N1JYMH0JMuX3ULYPU8YIVEXqWUand7SOtax3LpK-9goFxhNyWKNGn-tTXLl5sskv4ld7DMrfliCVj-yIAlVxK4JeOKBSBY1Rg-xBZW3tWg.jpg?r=8c1",
+            "watchID": "81318160"
+        },
+        {
+            "rank": "8",
+            "title": "Suburræterna: Season 1",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABcOrI3rgiln42FC2vVYtE_H6Z7pyxucJZKFnMUcy6aSyqXU6TWEaxF6Ur2jO_Cq_VLJ9kg-zxROitNVYTiTjaL6iBsTau8IuDbEfBn8lNZSQHoop4ViGkBSWRe6_0Qz3qJB95w.jpg?r=a43",
+            "watchID": "81440958"
+        },
+        {
+            "rank": "9",
+            "title": "CoComelon: Season 2",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABQkZosP9C8zbx6IX2ck_IraAmajIF66CSl1qkIInjWBccDS6QUjuSBfZGEsgqCjWzVUVn9KNI_whclvJ6lue9Kpm_rI44rwteQXP.jpg?r=fdc",
+            "watchID": "81387215"
+        },
+        {
+            "rank": "10",
+            "title": "Matt Rife: Natural Selection",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABb5x2UDSMtno2ogZnsaU5yaeO3oCeYSq1RP0uHAkrCtrHTtpcz1H6jLViYdePsnK618bMMv7vLpsPOj1Ukh__O3pzpdEuxfsL0e305z1Ua-S51Bh84HMfjMOamHXM-SX4MGpLw.jpg?r=9aa",
+            "watchID": "81708429"
+        }
+    ]
+}

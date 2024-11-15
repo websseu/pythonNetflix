@@ -1,0 +1,148 @@
+{
+    "kind": "Netflix Country",
+    "date": "2023-11-19",
+    "films": [
+        {
+            "rank": "1",
+            "title": "Believer 2",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABaAgjOG7WcAobJrL3IGYcUC8eAHjCXs6F2jc7WjN6Fgi9Sd5Z9Vf0DnKhXxQ-Xd5jZTC92aGjybfSC4Uv-40JgWqNcTL040MIVoPiNNCjvwSHLwF-9Sr6l2bMkxmijxrw25XeQ.jpg?r=cec",
+            "watchID": "81594923"
+        },
+        {
+            "rank": "2",
+            "title": "Ransomed",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABeSXTN59-AG8aTTvu8bplVAYUnKpe2To653UPsDCArtyKjJSsM89rt5rc_u8Mto79qQ3mZriz8in0_3Iz6gxSZ9q0up2VPJXwhoQ.jpg?r=0a1",
+            "watchID": "81726980"
+        },
+        {
+            "rank": "3",
+            "title": "Fast X",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABeuJmqXvVd6Too6lROUULWHwju9bu6u8GLGJePL8to5GR2XJ5DM3zlD3kZHtFpbVtW-SuM5lGNUFji44REaH8CPReXf4OLB_6Qk8.jpg?r=c92",
+            "watchID": "81649988"
+        },
+        {
+            "rank": "4",
+            "title": "The Killer",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABUHq-npcHZvh6SAxl-oFjPqDY8hthWO04-OjJzGFg-wxySdSkL16aMVMHR38Xkp9--k6bq2T8XBgo-xLrlg2kUtDH1mIe_UD7SqKzLIXYoApXlGJwh6QhGgumKaDngN_3zxZnw.jpg?r=9f0",
+            "watchID": "80234448"
+        },
+        {
+            "rank": "5",
+            "title": "Believer",
+            "week": "3",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABQoR76YUq0z5vI0wm8RXgUb0tDHokldUmbBp046RsIMV-TD472ATp0bjQgd4SeD8FtVO1vbd_b9xy341f-KhxPH7Y1o_hRu4S0Sm.jpg?r=e09",
+            "watchID": "81002312"
+        },
+        {
+            "rank": "6",
+            "title": "The Super Mario Bros. Movie",
+            "week": "4",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABcK4C9zs9COfVCIH02knuxprkFl9RkDk8iIEiGPA7P0_8dauw3GZw8Z5Frukfg5TuHFfABJo7zn2VDqRrgrUgGvYfpWf_c8mUJVY.jpg?r=088",
+            "watchID": "81640914"
+        },
+        {
+            "rank": "7",
+            "title": "Ballerina",
+            "week": "7",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABTgAbfSN2ck73HQ_n9WqBI2zoLrroPZDO0cEtGByJmFu-dXGJAAIPlxZLlKCzcQsibiXnoznRx9CgACO9-SWfb__FhFXSpXCFf1OkHcM1VoSZo0qgtT7jdDC63bbe0GucEa8dQ.jpg?r=980",
+            "watchID": "81572011"
+        },
+        {
+            "rank": "8",
+            "title": "Hail to Hell",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABUWkuT0VQWT_1bFvybgrI-UvW72nJ-mNWtzqeIhzzNwUuglJLQeqK6VfeFmjMkLu-tnvO1LZiakgeJ6YEk51maDGg6ZOCWEayl16.jpg?r=bff",
+            "watchID": "81726983"
+        },
+        {
+            "rank": "9",
+            "title": "Persona: Sulli",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABT2o1KXGyhqITokhp8zJTJg5G-mWxg1xTdzZKifRZ6zcHu8y2X4eJFqNnAuoCzW9QiEnBK__YBMZftxNpSzdoar6PFr40fCvkMEf.jpg?r=b90",
+            "watchID": "81354733"
+        },
+        {
+            "rank": "10",
+            "title": "War for the Planet of the Apes",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABZxoBh5EmmwVynGUYuWFv7gmNiB9tkNJjuFtZsZZQFFaEwzKS_I1_AorMxHVmcd9F7_8D1hf7TntH-MllKMrYECspof8Bm_1yD68.jpg?r=f55",
+            "watchID": "80168235"
+        }
+    ],
+    "tv": [
+        {
+            "rank": "1",
+            "title": "Daily Dose of Sunshine: Season 1",
+            "week": "3",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABXu9N-pgsjeTciWdzmIe5JjpzqyY6ZU3IUkLwE4CQvgVLWCG-E0M3F8AvOGzIbz8hbsBQn3Hssj27tR99qz_D2QqBQbLnAlOESzR66ief8pFVWQcPteFM5UBcUfuC0l5E8psIA.jpg?r=4e5",
+            "watchID": "81572596"
+        },
+        {
+            "rank": "2",
+            "title": "Castaway Diva: Limited Series",
+            "week": "4",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABTiPmhPNL3R3CeEiznyJoyN35omGeV6llAeyQbGiArAsFwmaYgkX7diDfK_2VMd1OSnd7l1Gy1epRXO5IAEsI4M3Hc7Ix7aMLo2J.jpg?r=374",
+            "watchID": "81701129"
+        },
+        {
+            "rank": "3",
+            "title": "Korea-Khitan War: Limited Series",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABcLEb2oBp7w1ztXpFCujj0EtZDyVt8tDFyroSqj-m0xW8b-a7u6kBmYr88_STZGsd3UNm8NbVwSateN0Q1hxI8sZGb4NJFA4ost5.jpg?r=054",
+            "watchID": "81721620"
+        },
+        {
+            "rank": "4",
+            "title": "Strong Girl Nam-soon: Limited Series",
+            "week": "7",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABYNgIgXACg8prQas-tRk-_h0rbJgsQsg1fQ6PR8tk6CgZIXDxFGlhgJzHxxOBAZewovuimCSjkVHCmUOwY33UC-SwXH9A3WTSQq4.jpg?r=f0e",
+            "watchID": "81697982"
+        },
+        {
+            "rank": "5",
+            "title": "High Cookie: Limited Series",
+            "week": "4",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABQGtd0_Q0PndgWE5MXmZCnGh9aQ6fjgypAPObT2pEVZbyS2i5QOroT9Y5Qe11Dl7EjtjVmmRbILnfHzMSkXMCnl2x04k4MNT5qf0.jpg?r=5fc",
+            "watchID": "81730972"
+        },
+        {
+            "rank": "6",
+            "title": "Perfect Marriage Revenge: Limited Series",
+            "week": "3",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABW4QGi8sq6ZGS10ZmOlxRVw4OYyA54x4jZdMWnDtCOp5w74GCQHwPRuEL4cP-5IVLhDX-cpsnRxT2cN0dZc5mK1YbVypLMGa3zCm.jpg?r=f1b",
+            "watchID": "81726660"
+        },
+        {
+            "rank": "7",
+            "title": "A Good Day to Be a Dog: Limited Series",
+            "week": "5",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABafAU-6gPA5cVDazcIDA9CMOgNFSjreRDTHxVxNfQJs3BaC-lXlWeUCubuT55AVeFhDkGjxg6h-PDX_KnOjQuuUnXrXacGldeeIj.jpg?r=106",
+            "watchID": "81728203"
+        },
+        {
+            "rank": "8",
+            "title": "The Matchmakers: Limited Series",
+            "week": "3",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABU2xPSqNce9FMIy0CPurCAth68mVP--eLe716X1HgxL1D3hMq0bH_k3Fe5OUbyeXAUlp-jcZNcNd9bIW93X6eHbeXnrYnEQHMuyV.jpg?r=e51",
+            "watchID": "81721654"
+        },
+        {
+            "rank": "9",
+            "title": "Doona!: Season 1",
+            "week": "5",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABYzVjcfba0J9HhDbkPxol_YI441I2MSs28-mGa9gmALJqHzQfb4Xyj_-DiTFYzyU9q17dWG5aKBaMykS3WhLlFQzHrYVtA11BFZZW5v-EQzP23w48bar76llDP4rCLRJ0EvnBw.jpg?r=bb0",
+            "watchID": "81595047"
+        },
+        {
+            "rank": "10",
+            "title": "Attack on Titan: The Final Season Part 3",
+            "week": "4",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABZzA733Q9OJkq_N4dFeOUhcdL4Dm8RAVLgp53tsfSOO-FaLZQYBvbnRmhfwUdJeSm2pMLYJbZheCGu2_tu0AHqDYTGcNqMM6f6_A.jpg?r=102",
+            "watchID": "81624055"
+        }
+    ]
+}

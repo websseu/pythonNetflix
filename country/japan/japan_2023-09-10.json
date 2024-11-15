@@ -1,0 +1,148 @@
+{
+    "kind": "Netflix Country",
+    "date": "2023-09-10",
+    "films": [
+        {
+            "rank": "1",
+            "title": "Black Adam",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABelFwZvzWz7OnQduppRAGfAPdHTQKvWSxTwhbdcrcjj6wCue7X2sa9W8Rpbv9rADniiMkYhs91vP10uHI2iEwAAhoOFZkq7uPPCX.jpg?r=c21",
+            "watchID": "81416258"
+        },
+        {
+            "rank": "2",
+            "title": "jigoku-no-hanazono ~Office Royale~",
+            "week": "3",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABYKNwj1IUDeIvP08UHrQ-EsuJ8kTT6LY7gn5LHd-Dp9YIbHm_fFue9cBkGjhYWXHe_6hgkRvRq6paijY1NUx5SnCTEsG_25tMe4A.jpg?r=e17",
+            "watchID": "81705361"
+        },
+        {
+            "rank": "3",
+            "title": "The Roundup",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABZ2KJUSkK6Cg_7PJpz7JWtT2fQ4nFWjzIIdVx5mF28_VxigrqJ1OQe_CfkyEkTkQoOU8-fW14nx4uuNIC2MdiXD9xDEOJ-Wvk3XO.jpg?r=b36",
+            "watchID": "81644771"
+        },
+        {
+            "rank": "4",
+            "title": "Everything Everywhere All at Once",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABVYdrAa7LV6JGSFUmC5lmCnqNLaod7ps3E4deVBsuNElMjHafrDn_G7AoZUFphb2hw_WMNJoNBfUD1r-hZk_sDEKDukhuPf9hPAg.jpg?r=15d",
+            "watchID": "81569721"
+        },
+        {
+            "rank": "5",
+            "title": "The Way of The Househusband: The Movie",
+            "week": "3",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABczGoU2LweXsjOEI2Ngikqjy5Bl0xsDUYQN6sWHG09pHodoyk-_SVL7KrnH7FdfgsOzaOgdwzkDC4KZh4Gj5XE7m8V2G_a-yHti2.jpg?r=64b",
+            "watchID": "81663411"
+        },
+        {
+            "rank": "6",
+            "title": "My Hero Academia: World Heroes' Mission",
+            "week": "3",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABTNSiIDSRUm-IYwSjzftbios87l9vY4RTVaGsd94ee30MlWKqWbLS9y8SOJylsN3w8UOt8JEVYLNDEZxK_iEiMek5IjiRticmz3z.jpg?r=d08",
+            "watchID": "81642996"
+        },
+        {
+            "rank": "7",
+            "title": "The Art of War",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABU9uC_WtIom3PbtzAwlDVPGyc0Z8VL6rIg9X6Rs0ffIIJi9jZECIknPzhw2nN6jYYo3d5Fxrl5Wgh3WY0N_mMLySzSka_mwMPGx5.jpg?r=b72",
+            "watchID": "60001867"
+        },
+        {
+            "rank": "8",
+            "title": "The Confidence Man JP - Episode of Princess -",
+            "week": "3",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABb1AZaUsdHp_IVMqhkP30-tT8COdgP7NKmFvp9Lyj7iKYw19eNop0CyIMT6A2PTz7GR1W_dlYs_dNCYsqYN_5nXYoYPGDNIwlxNL.jpg?r=487",
+            "watchID": "81590936"
+        },
+        {
+            "rank": "9",
+            "title": "Spider-Man: No Way Home",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABTdgiFq2HrQdNJVe5VofwaXl_6SyUZeceZLZ3XFS1UupCWYAptJg-SYyzg4ZxW6N0Ad8HjnFwts90v_Hf6Gbavbj6_rePfp-LuVi.jpg?r=c56",
+            "watchID": "81465707"
+        },
+        {
+            "rank": "10",
+            "title": "Dr. Seuss' The Grinch",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABfeGHkWa-Sf5N4K0tz-ByPn6xUkQ7qmVHjOw1M8eRzRQzqftjsNqMpASRLqWlvFWoyDEyCuXL0O9vFQV5PjGv1_N1xOtoUNwy533.jpg?r=4ac",
+            "watchID": "80996790"
+        }
+    ],
+    "tv": [
+        {
+            "rank": "1",
+            "title": "ONE PIECE: Season 1",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABao15KxcWZhc7Dvql1YYraJ11GUjSpwbt2MZYmfDnff3lr3Aa2l7dJXD2inE549Min_OasYa8_RF52v_pWZKQiGkno9XBVydiCwm9pYEyEgivGqk4BC0sdNhNHU7Epydt8CZYg.jpg?r=4fc",
+            "watchID": "80217940"
+        },
+        {
+            "rank": "2",
+            "title": "Jujutsu Kaisen: Season 2",
+            "week": "9",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABQP0gq__eMxmAuXIG1ieyQaG5r6anANlekcUnxWFe3tpn9tyLIa7xCOC-UCyvraDwBcLntSPu8XGPPYJresDhK04ybUEi5oxZyNC.jpg?r=933",
+            "watchID": "81705280"
+        },
+        {
+            "rank": "3",
+            "title": "Destined with You: Limited Series",
+            "week": "3",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABeGIm0juql1NvOtPfg5Z2iw0HfPhdfeTB0iniJrfSi8rnoQKc2fVKRyh8HvV7wDtEpsOE2NHIQtyZFKqhx9FBOwxWAuk0nn4SdB4voz4SEvRUYlAl05Oyzq7eBqAQ6fDuDT-ZQ.jpg?r=214",
+            "watchID": "81669780"
+        },
+        {
+            "rank": "4",
+            "title": "Mask Girl: Limited Series",
+            "week": "4",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABZ-6-7Eg0xwR7ylJpYu6huKWFe6EeDM5FtZCeDQJY0gYl4iRGH2zmOptEbYoS_ddgWgNT7bNNuPNpTNmA7gADKKYXH5ib4SQmelNNgA6eMAgLRoOLXV6nvyA6MJ8rOuCx0WgkA.jpg?r=54c",
+            "watchID": "81516492"
+        },
+        {
+            "rank": "5",
+            "title": "My Happy Marriage: Season 1",
+            "week": "9",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABebVBETlOUpaE7wfOkfwqbc-L74mOAb2LtBVFNXR5zbIW2duqWJAJNfxoA0xT1M8NYQthF44Nazh_JPnxxD748C5Xqs7KjbE3UhZ.jpg?r=34e",
+            "watchID": "81564906"
+        },
+        {
+            "rank": "6",
+            "title": "Zom 100: Bucket List of the Dead: Season 1",
+            "week": "8",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABQQhMilgL1Jef1ImTYII-HTuPLSpgMr8Hdccp6E0oKRVntY77NX75GOcdcDGn0OBAoi2Bbd7rdMtl-UKWglY-AVscOyoBMWK3lO8.jpg?r=8aa",
+            "watchID": "81680102"
+        },
+        {
+            "rank": "7",
+            "title": "Hayabusa Fire Brigade: Season 1",
+            "week": "6",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABfZwaA6VYMXs9npZXaXS2ndZ49vDhFVmQxigYTOiDa7iIhpxZeJFtnLwWOiRwPZKefytsdixSLJ2p0IycWT-URb-rNXBgMqiKHqA.jpg?r=7a2",
+            "watchID": "81709633"
+        },
+        {
+            "rank": "8",
+            "title": "The Good Doctor: Season 1",
+            "week": "6",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABdVEtIGYCwemLIu21n5NTZ697fUnio-TO5weMyX9mY5iu8XsTki4PA9h5pbuHy5vKKY5vZ7fK1NH_acIq6bq6ZFKN0TrUKlb0If9.jpg?r=cae",
+            "watchID": "80177108"
+        },
+        {
+            "rank": "9",
+            "title": "GAMERA  -Rebirth-: Season 1",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABSBzuxwE6QMPVBQ_4_irew-eyJprWiES2N3kdgOOpzSl8ViffAjkLrI94EB0Ny7KxC8-DrFj6TYFgg12l09yz1OHniSoQnjTxh2_BlmQUIEWCVx7sTXf7XMlcBL_i5ilFsfhVg.jpg?r=2f3",
+            "watchID": "81144017"
+        },
+        {
+            "rank": "10",
+            "title": "The Masterful Cat Is Depressed Again Today: Season 1",
+            "week": "7",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABd4KjR-EJLHWECZW_Ai2zQ_sbyguS3i0ep6OqSS1Sy_u6wQND9vlpnSgUWw5PasRGzj-cBFhLGv74NG-ljmaDHIb88lwrCQatzin.jpg?r=673",
+            "watchID": "81705344"
+        }
+    ]
+}

@@ -1,0 +1,148 @@
+{
+    "kind": "Netflix Country",
+    "date": "2023-10-01",
+    "films": [
+        {
+            "rank": "1",
+            "title": "The Black Book",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABbDWxWVWDw3TWECPQHszgV8Imvr3iFa4Nc07m9uOCx4IkKpPd-I0_D8wzqkYpg2wNx42epHOyvpFaE1buLKbHlLbecxQGqLv-5BDmDUkt_UeZkrdSXpwQDGvhA3988tsHvP8FA.jpg?r=fd5",
+            "watchID": "81698992"
+        },
+        {
+            "rank": "2",
+            "title": "My Worst Neighbor",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABdo6OXNpYzBHG-JaaMbDY0nLDS3yxVqcN4mjZkVIyj1oVcDoiUw8mY8120l2DhPoooYhbdCWYYDlOZXsWf-iWDM4v-_FkW83dQvC.jpg?r=64c",
+            "watchID": "81715842"
+        },
+        {
+            "rank": "3",
+            "title": "Nowhere",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABX-PJXUZcchcxNqFnCLuUNL6e8H9K0Lp2rPWJCRJX5jO4W2b6cC5r7FpcdBnRXaSALCjQT-jITrXy3RLwG8UaJcsXO2Lt5A7OZLkjP-Jti-IDsrlZUEvHGcNU72De1mH_wojxQ.jpg?r=df3",
+            "watchID": "81449034"
+        },
+        {
+            "rank": "4",
+            "title": "Cocaine Bear",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABa1ufH_Bk7KSiQiCgew7mW67szIKtVvTwOsqWkeDErBfbEB32j8PaOTxDmctpxEfwxS_LXjrXryXXBseS9l8K72wm1_OvETdmGzR.jpg?r=2dc",
+            "watchID": "81629411"
+        },
+        {
+            "rank": "5",
+            "title": "Friend",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABbAQwzzJOlYrhr_182Chc6avMB8S7Ts5oPRaXG9KP5JnNkKB1rbGKAXxsX2iOPAMrNfF7CZUN2UkF7oilc2ji62vhlUwHzQ2cUkx.jpg?r=f57",
+            "watchID": "60023541"
+        },
+        {
+            "rank": "6",
+            "title": "Windmill",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABQCp-26_8zA_LPqbjfIKnaqZCip5sSUc_E8Qu95aWlkj0ltdXxyudDozu177P1RR2NFVDn_ovNhPCnuCdHO5xxZXWfiaxdjrva1y.jpg?r=0af",
+            "watchID": "81717616"
+        },
+        {
+            "rank": "7",
+            "title": "In Time",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABQejrs_9e9bnbiq_Wi4EPrHtWD9hoW_RVm0Rvk95JcdqNQek5d3rLsFbucX_wHa2m4KCTNXzlPjDRrveORbDz0f6cy801vrkcWxk.jpg?r=64c",
+            "watchID": "70202129"
+        },
+        {
+            "rank": "8",
+            "title": "Reptile",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABbGrKwbMcwSFPJNkR1MDQ3C_TOnln6lIvUbAMyXhjsPgzjfLdq4y8j5FuyFE4I903jeJl9rgGZjieFrC18m0rcNheCJmy0DehmNGrQ18DHnQ5O6ZqPE2hgidXcNGp9j5Ble3iA.jpg?r=ed6",
+            "watchID": "81463014"
+        },
+        {
+            "rank": "9",
+            "title": "The Woman King",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABdyCN-GWNc9gO1YNwLdJdxUO8_BQmOZGcoWOQr_BHto4bt1cRHvOopbe4WGMxxiHvl49AT_Xei_TRSUhiavkJi7dV1HVhi2OO54j.jpg?r=f58",
+            "watchID": "80218506"
+        },
+        {
+            "rank": "10",
+            "title": "Spy Kids: Armageddon",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABRh6jfwmt_lA3_YnLmSpFrA6hQAb6X0LwweZ5X-FcLUiS8__Kcs3uTzkFdWXzrzGQJBhVCBxPatc6m3I7H-VcXPT6CZXr--k5IAK5PB6s2_RiLEoY80Uig42PQUndKQG6rmoLQ.jpg?r=84c",
+            "watchID": "81588091"
+        }
+    ],
+    "tv": [
+        {
+            "rank": "1",
+            "title": "Song of the Bandits: Season 1",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABTLWtrESXPRUrhBO5P4ux7ckoOznU0xzyHsxwUssOfOc7L85eseBFUh9UKba2vwpFjfmOOLdpAY_bB713FTyo2ax7Usa5dy89dKvnTh2urskvhpRhrKS_vAZJvqx9Oz8lwQFvQ.jpg?r=7b7",
+            "watchID": "81484052"
+        },
+        {
+            "rank": "2",
+            "title": "The Devil's Plan: Season 1",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABQOgOgX6i2kdKwZLyDf_445tAZQvZOir2IeRjCivRQiNL0W6BduF8HLl1UNwOaT4VSj-5H_-jKYSdn-cv0J6DlkCM4W-McJFem3W-B48VhewPzUzJvtU0DadKpxjdQJQw22xDQ.jpg?r=22f",
+            "watchID": "81653387"
+        },
+        {
+            "rank": "3",
+            "title": "The Iron Squad: Season 3",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABXZ1PXafxj5LV-Oe17A-8SIlJN6t08kMB6WYyx9liuhSBQcro7tAmmMwA6BpeK945ABwBI1-jH81L-myQdmoFc-fl_G6b97r0lDj.jpg?r=c3a",
+            "watchID": "81715583"
+        },
+        {
+            "rank": "4",
+            "title": "Behind Your Touch: Limited Series",
+            "week": "8",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABS6APFUhx3XSLdjMWhUkcQpK8fH7q6_OceUDxcTWRjpeFOJ8Yav5yKKVn0ibajAjSB6d86p0setdLR9YlQUsi4noXL11tRClTYDl.jpg?r=6c5",
+            "watchID": "81669778"
+        },
+        {
+            "rank": "5",
+            "title": "A Time Called You: Limited Series",
+            "week": "4",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABZZzFSAGEfT_zyJrzSKmbn86WczBC94Iz7rnQXN3tb49CHWFIoQrPAuPD0fdBPfUmZO5fWFUU53dOdLdpwhZNVUNeExCUq31JCk8gO0XLU3S8YkzqC0eYDUUNrLkfSiFh6uuig.jpg?r=a54",
+            "watchID": "81569770"
+        },
+        {
+            "rank": "6",
+            "title": "The Killing Vote: Limited Series",
+            "week": "7",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABbA730m9Oc1P1iFKvBpR3eBDQJ6gEX4uR0uDjfbC1cQs0TOHYS1o8X2Eakt05Kg5zGZJJ5ndzCZAuUa5LNQXBFZKeFqEaovgo0Q6.jpg?r=e52",
+            "watchID": "81718226"
+        },
+        {
+            "rank": "7",
+            "title": "Mask Girl: Limited Series",
+            "week": "7",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABWsXVekuYCMPJbZl3hGMmZ5gG6UnUw8pc1KxitUrlTRLJqVV7Hbn16_smy_AzznGTc0RmB14npnz-3MnLHR8nddOjua_4fCGoKzUiRy2Th63s2ayA_BkG36cADHy7ECtpNx8dQ.jpg?r=9f9",
+            "watchID": "81516492"
+        },
+        {
+            "rank": "8",
+            "title": "Destined with You: Limited Series",
+            "week": "6",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABXMR-XFdcPF-T1z4DiOArzRJ19F8oUiZsIsWE0B078q1yHQ-KuNGbxZGxwrMQv4422DfVSU3_NAZurbMRRIjPyYxqGGvu4Q-GHTV.jpg?r=1b2",
+            "watchID": "81669780"
+        },
+        {
+            "rank": "9",
+            "title": "Jujutsu Kaisen: Season 2",
+            "week": "5",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABUA2WAXBNNpoTsLMeLn9CcTmn8injq2qSN7Uz2R9SyUVQSHZPqgMNEWlLUyy1zJX9hlOnt4L4ib88vWYocLVW5PZDQhOn3jCTBJ7.jpg?r=79f",
+            "watchID": "81705280"
+        },
+        {
+            "rank": "10",
+            "title": "Love After Divorce: Season 4",
+            "week": "10",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABSvmfOFlGNeSEi1qW1SluzSigqRGVexukbdb9xvwgBmQC8dvFamELnzgibsYuKWNP24qqStufL9PyB81AtXPC9c8I1gNL-AcGiLy.jpg?r=660",
+            "watchID": "81688490"
+        }
+    ]
+}

@@ -1,0 +1,148 @@
+{
+    "kind": "Netflix Country",
+    "date": "2023-11-19",
+    "films": [
+        {
+            "rank": "1",
+            "title": "The Killer",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABVTLwyreIQTtPfhlQW1vJXTlMvVzs_Iu33wqIK1e38ArSaRekGogh3cR5Qtnw0D4XE9L0Ri8DMWi1TMR7gRj2cgf8sP1hEnekIfp-0m3L1aaz2Ec1MAW0Iewz9LXdmnfbYLkQQ.jpg?r=84a",
+            "watchID": "80234448"
+        },
+        {
+            "rank": "2",
+            "title": "Best. Christmas. Ever!",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABRsmBzbdQmsJ5EwthmCj8yCgvnvnDuqfInPyBD5wq-h0cg5w3pba4z57yOYzaqyYK0XnQglb9caN9KEiL1n1sxlB2RxYnPdwi-2_VhYqBLDFkK23d334mwN4bHM82bB6B9CXLA.jpg?r=b9b",
+            "watchID": "81416268"
+        },
+        {
+            "rank": "3",
+            "title": "Tips for Cheating 2",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABbVAEHEAAmTj0ThwdbnSHquffDX8Kx2dlg7tWOJZ61gh2c8Hn_WT-YDPqmz-0dwgqG9ozIswvvgHQJa-t5Eg-XyHerl9U26OFP9R.jpg?r=1c8",
+            "watchID": "81739377"
+        },
+        {
+            "rank": "4",
+            "title": "Hanna",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABdG_P_hw9tTypFxm_BEqLzGwYZqL1A1DopW93cb_0yREukt5_9RsE0v132sX3wVFv3q6LCEAFrLovv0FA6RgaFTomVwRlE_FLqfN.jpg?r=054",
+            "watchID": "70142823"
+        },
+        {
+            "rank": "5",
+            "title": "Alien: Covenant",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABe4Dx7k5I7XkoSvy0Z-XBp8QDmNpYtpWIYf7X2A3W8cAq7NnitSNMop1R44YNbPeLy-C40uaLPyVXtk6q-UPbS0NQFXFb_9KXkpA.jpg?r=6f7",
+            "watchID": "80160717"
+        },
+        {
+            "rank": "6",
+            "title": "Locked In",
+            "week": "3",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABVQKHcHoZwtCIMaXRX7q6i2Z_zM27W8KYLeCGor3pZRihf5eBopEq1IdA-Kk2_CFRQeOJvt-R24e4BSPN7l7sczV6IzG4nYXO6OV7pGzv16STu7OfurPE77mnV-ioTwmB9T17A.jpg?r=05d",
+            "watchID": "81500381"
+        },
+        {
+            "rank": "7",
+            "title": "Sonic the Hedgehog 2",
+            "week": "3",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABeGEjHPF0y4fIRh-IQWGg1K5AwNhWoKyiykebokSjlSwAqMZm-mndWjPCnY4Vi4VCMv_Ko9vOLHmEkAZBcBQ4luuYcnzmLhzhByg.jpg?r=973",
+            "watchID": "81511780"
+        },
+        {
+            "rank": "8",
+            "title": "Paw Patrol: The Movie",
+            "week": "21",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABSYegpjnuK_85jIUt3o7uGiKB5Vgg0h6MEsSRytMqMAJ7oHRLYTp7qWUWp5M36fuuNfPnBrNcXvmtWdFdpzQhktyS0ChJHVUtjwx.jpg?r=1af",
+            "watchID": "81416774"
+        },
+        {
+            "rank": "9",
+            "title": "Dr. Seuss' The Grinch",
+            "week": "3",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABaoX2JLKGfv8c5MS-iU6CvsgO0BqgJpOUhmyU6_IPjz84obQFNwqG5b0nap5f8c9QbTSbJFRGuAC-LDw_MoR7F5SHPcnpje9wRDx.jpg?r=6ad",
+            "watchID": "80996790"
+        },
+        {
+            "rank": "10",
+            "title": "Enough",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABeDyDIhxXxrPmn5UaVJhOdIhKAdTpV9mR5rm6PGiaL-fhvOurfchYPUrQOlPe7wDY_5AnXA7qH76ufsxfthiKLklYJgjqMNXmAle.jpg?r=53b",
+            "watchID": "60022967"
+        }
+    ],
+    "tv": [
+        {
+            "rank": "1",
+            "title": "Feedback: Season 1",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABRSJKnq-upnyeL_YV-NrlZ1piKlK0vSpt3GZcXZWornURVVGiC9OO1qeZS3fvMPnY72F90VqV0ywRASFz_wxM6cr4cq-Dvx3rveKC_fVY1htXOSio_dTdeQJ_nUS6m3ytQAh_g.jpg?r=811",
+            "watchID": "81507266"
+        },
+        {
+            "rank": "2",
+            "title": "The Crown: Season 6",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABZFrdhfsm493w0AffglymbLAf-7_N1JYMH0JMuX3ULYPU8YIVEXqWUand7SOtax3LpK-9goFxhNyWKNGn-tTXLl5sskv4ld7DMrfliCVj-yIAlVxK4JeOKBSBY1Rg-xBZW3tWg.jpg?r=8c1",
+            "watchID": "81318160"
+        },
+        {
+            "rank": "3",
+            "title": "All the Light We Cannot See: Limited Series",
+            "week": "3",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABWeQ6vrzKciOK9ioxW2kj5Ri3Udz_rJr5_ko0bEzdIsvBljNwg5PGdCLyjeMQkxpibI2RUbNch6zRfuXWimUQfbvhUM5zDlioGtZcE1cu6DR_2Rbvh9S9FsyhFhdCsmkEYMBQQ.jpg?r=c85",
+            "watchID": "81083009"
+        },
+        {
+            "rank": "4",
+            "title": "Planet Single: Eight Stories: Season 1",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABbrtrIg44C-TcPZo2xdqyiGqEL5l47g8RAhFSv_KDbUa0d9se2_fGFLP8X_CWRJr-HwpIBCVekNkAulWiaFcYFUQuKcDqN1d2Bg3.jpg?r=c45",
+            "watchID": "81703066"
+        },
+        {
+            "rank": "5",
+            "title": "Criminal Code: Season 1",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABYB0KGzUQvvcWLwXIXrEXa6zXlHkBhhonbHyaLwqD8_epD-54SqdBdQJoA5ogeTrnBLdo13tP36YKvTQsT9sy1knVUkBfp6YRtbEZTsplQL8zdB9aaX68rt1hKryJwU8xIIvyw.jpg?r=5d7",
+            "watchID": "81442395"
+        },
+        {
+            "rank": "6",
+            "title": "Suburræterna: Season 1",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABcOrI3rgiln42FC2vVYtE_H6Z7pyxucJZKFnMUcy6aSyqXU6TWEaxF6Ur2jO_Cq_VLJ9kg-zxROitNVYTiTjaL6iBsTau8IuDbEfBn8lNZSQHoop4ViGkBSWRe6_0Qz3qJB95w.jpg?r=a43",
+            "watchID": "81440958"
+        },
+        {
+            "rank": "7",
+            "title": "Little Death: Season 1",
+            "week": "3",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABT7HQD6ukSR7Kx2yo_tO8dqsgMUFjA3HOm-w0DsdmWEb-z-eWuyiMnYJ48WzGwmoQEUGavNtkJG5eTt-Wax1ZlxFiy2Jg7_5rSwe.jpg?r=a1a",
+            "watchID": "81703099"
+        },
+        {
+            "rank": "8",
+            "title": "Bad Exorcist: Season 4",
+            "week": "3",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABa2hEDYpwFWZtccqxo_WWes-wDsBGhF2d6QuXTsp420xjrZlhchIR6gNYA3lyIruxYEQ8Et8mBDihTGbat6nqnlW3mojh58HiQJAVCoIt2LiJtr2pnpNgXXRg4HWvGpGOQTEVA.jpg?r=f58",
+            "watchID": "81675435"
+        },
+        {
+            "rank": "9",
+            "title": "How to Become a Mob Boss: Season 1",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABcXjRaxpVhiAzy_vd3gRoU1qEUaLVkpsL-puoGjxO9wsNz7r-jFKf3dC-Gi4Qpst8csBcf2_kU692_PjzhyKy1Iu9DgaWeorKxKvXyZjVuMWVzICYmZq17b6bo6HyQYZPkPPjw.jpg?r=cb5",
+            "watchID": "81553203"
+        },
+        {
+            "rank": "10",
+            "title": "Bodies: Limited Series",
+            "week": "5",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABVzLid0auyfaOVSSWYD-R_BkrHee3co8kw10NnP1MYD3KbP72ZU7W-HHfPKpxWcmidHpbShy44GXcrPF_3UEpNT4__h3dYPlrgu9TC4-2E7pOLgQXLbfegUs8FPq_znMi3nCdw.jpg?r=7f5",
+            "watchID": "81252917"
+        }
+    ]
+}

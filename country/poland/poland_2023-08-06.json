@@ -1,0 +1,148 @@
+{
+    "kind": "Netflix Country",
+    "date": "2023-08-06",
+    "films": [
+        {
+            "rank": "1",
+            "title": "Paradise",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABQsny83CmmZW-M00HdLu4HeBhoF4LfQ-ENWjno1MC5fg6uEg7d4ff94bcoRGqyKZuiGO6obsVdHx5SRW6uEcOT67Mvnsjs7oPltZi1QNCaeDFABKTscJCaUmkBzhJAQKvbOGVg.jpg?r=5cb",
+            "watchID": "81288179"
+        },
+        {
+            "rank": "2",
+            "title": "Hidden Strike",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABSnwfC4VJvawCyn7P_kYNYFKGAgsyU-BJFS6OQINO2plMYbhR1XhlBMGlbEy9Uz7aOklyAKu4X75g6MFAHvJlFuuOZztR2zNgrwZ.jpg?r=571",
+            "watchID": "81322579"
+        },
+        {
+            "rank": "3",
+            "title": "Soulcatcher",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABU93arSQ85ogotOGggbLRqQWyHLoVCXNLuqmmE1FGqqd6ZlSiikL4RZpLUgPHuy5jfxJGskqdicII5-ehEvv9gEK7dCU_gXJvJDMYeYucxm1TRU1l7_zxzP44XZ-xSflJljdfQ.jpg?r=135",
+            "watchID": "81498378"
+        },
+        {
+            "rank": "4",
+            "title": "Spider-Man: No Way Home",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABTuqCV3ugoPWOABQo9GU0IdS5j9Ge_KFkdpsNcehukpy27stlQQSKE6niXBwplbUkr7WlgfKZh7_Xau5YGgQ2ErcgaBgJ_qDGjO7.jpg?r=b7b",
+            "watchID": "81465707"
+        },
+        {
+            "rank": "5",
+            "title": "Happiness for Beginners",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABQDIQQv0BpMZIEYLM8YG3wFCh_x3HHI-qnRkITRmrsCuNn1xva6QiwMF48f5yrI-vdPkXpSd8lm2NLVSgm3FypYRuXDjy-hyUMJ71o9sde7kD4rrKHN_rgCu5COtRPLlP7bbiw.jpg?r=19b",
+            "watchID": "81418617"
+        },
+        {
+            "rank": "6",
+            "title": "Crisis",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABWWQ194rhkmXzJUO8LM-q7HkekfSg0vlYZgE4RXOAd9rpK27xjllMg0TjJr4WBjOl23KZAkMGBi_VXqlyXfzINSre6fTwKVS3iI2.jpg?r=8fc",
+            "watchID": "81410837"
+        },
+        {
+            "rank": "7",
+            "title": "Babel",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABbmmABtCXjlxonjXZyJfnVO-AzhDwsmbCcPVm2_NV_dHLIH7GDqxG-dyJHb-cfwewjPjb0satyBo31-9PFrWojacSBfsmfk5bDCb.jpg?r=f0c",
+            "watchID": "70045866"
+        },
+        {
+            "rank": "8",
+            "title": "Girls to Buy",
+            "week": "8",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABWa1bWHHQ2yWXkaT-cDeRhTVI2gdt50GVD1UyanlNB4Az6un6OVww0trxLGbEnr84eVRNm4ymfH7lr4jBsS7hhhTuIF4owiG7qHo.jpg?r=900",
+            "watchID": "81700296"
+        },
+        {
+            "rank": "9",
+            "title": "The In-Laws",
+            "week": "5",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABTC3YeJROqt0UV1cMrZRqU8x5zO4OiKqDlw7Kci2wCgZAIx5RkrAc_wOeMXult_ExteZkwlSUMVCzg-StWpC-QM94l73A6fmFIWE.jpg?r=c17",
+            "watchID": "81343520"
+        },
+        {
+            "rank": "10",
+            "title": "Poisoned: The Dirty Truth About Your Food",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABYhhQnoutQp0JNFwuF1UKuVU9sW_fgDxxVyYfAu8OvFmKPJ5DsV16Sz_Vn3SPY07IcL3I-gXtRx85FA89Enmjr2J8KQ5iQC_8AVcDiuQQWs1FKAepValGhlTzaFNO8O4k91TzQ.jpg?r=d6b",
+            "watchID": "81460481"
+        }
+    ],
+    "tv": [
+        {
+            "rank": "1",
+            "title": "The Witcher: Season 3",
+            "week": "6",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABeCWVwuLgHLDxgQWZg3uSh3a9Wn_1Nrp2fy-pMnP2ec7nMErVIFs8OHdKxbzfG_ksSW07PhIGYtuI3H1BszvfYEIQbDMqVzEX3QB936IQwfg5BtJ7Jrlnt6vHGK6tS0uDurkpQ.jpg?r=0a7",
+            "watchID": "81106534"
+        },
+        {
+            "rank": "2",
+            "title": "A Perfect Story: Limited Series",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABV1EMg6ganuqtfqFpRBbK-Gs7g--HnFQaLy-VPUqOUzNpRZFnT1qRHlPDYeFuk38faPHrR8cQb4FCJQ6YODuO_j5e8MpRXUOfuYQlNIyUuh3np0cNAJvTyY4pFT9mulgNoh_9w.jpg?r=dc2",
+            "watchID": "81388034"
+        },
+        {
+            "rank": "3",
+            "title": "Heartstopper: Season 2",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABUte9hsjesXuC4TbOChTh3JXSQTH9YJuQVQ5Q1XZtjcYkWLdkR9AHb7DZKX5e-QW8ChFIfIkBPNqXEHa6B8_PTlmTIfi8-Cj4OrTAg2L6Ck_RMi8oT5GKcu648ONGB_uDwNSdA.jpg?r=8b6",
+            "watchID": "81486126"
+        },
+        {
+            "rank": "4",
+            "title": "The Tailor: Season 2",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABfKqbPtjCMNv_5HaLw8ujigRD2w648FKpqydo9Me7LGDeVMUDQNuvMkRMW_J6tkMkH3k-r-n2GJTsBNA4tvxEDRq94dHUOCO-aH4MFfnopgyJG68sZxq9wVxxCR578UmAZtZtw.jpg?r=a4b",
+            "watchID": "81590778"
+        },
+        {
+            "rank": "5",
+            "title": "The Lincoln Lawyer: Season 2",
+            "week": "5",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABeZ1YGN_xZwVUF7rzb7g34VpGNID0M8rcbIfrtSG5Rn-jseylNmravzRLtFRfHzWJKWnUid8APUClqmmDlDoFkUpftKbJ4a7UsM75BSGQPlYlAM8QNnCgKPGaA7ljCT0l-BEww.jpg?r=808",
+            "watchID": "81331784"
+        },
+        {
+            "rank": "6",
+            "title": "The Good Doctor: Season 5",
+            "week": "4",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABfxkyLuY5KkRzKCJJXSCAIVIBg_8KVckov7JebC8ddRMBeUdFLc1zH3UBkjI_85cwHBAYN9EWNxlHXeMWpVA6gh_cqZLBfiFIUdT.jpg?r=e44",
+            "watchID": "81615049"
+        },
+        {
+            "rank": "7",
+            "title": "Fatal Seduction: Season 1",
+            "week": "5",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABX1Y8hAwaVTTrJKaIY-aQlstrtL_FSobdFaZo5KAWOa3CIR2BMQJOYevMmrfwp3S6PXHXePMGI9qT9mRQwQy4VcGPJ1m6WIVIM_6zCoJxpeSR5fZHuX11mYXVLpSzAX263m72w.jpg?r=688",
+            "watchID": "81553438"
+        },
+        {
+            "rank": "8",
+            "title": "The Tailor: Season 1",
+            "week": "3",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABdVZpxx4kpbZNSSZW5fbT5dBdVMK1ItsoUDkoWYsDSasBU9PR6EMb4RhXDrduRhw_Jxq-Y6c-Pv56_4PAYKN9xIEY39PgLPSjEWM2HxfVaJs7KiKP6F42T9AFattvyYvTwyABg.jpg?r=fb2",
+            "watchID": "81590492"
+        },
+        {
+            "rank": "9",
+            "title": "Sweet Magnolias: Season 3",
+            "week": "3",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABR6zIx-dmmTmedeNMUU4j7yTavvYNevNaX3hdtSJuTN6nzJ9DZLaIfEdxfi_R0KkWeytL-OnQrc6QmAu1NTqW0_nob2nbQzgQ4iNVvFs342o3oQnyIDqadgX97B90PuiY8iVtQ.jpg?r=7a0",
+            "watchID": "80243666"
+        },
+        {
+            "rank": "10",
+            "title": "The Lincoln Lawyer: Season 1",
+            "week": "6",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABVliME6zb82N0tq78xGTL8ymwZ1HBvakcOualk7QOsnUtK0OGlzNTh37pCivADr8pChwWegrwLyrD4ZLjhSIlnFdfXOfopmNo_1z1XbfmL53VxLyzeNrlTiJTR5tUYkALefv_A.jpg?r=a53",
+            "watchID": "81303833"
+        }
+    ]
+}

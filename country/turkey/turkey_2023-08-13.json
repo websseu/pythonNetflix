@@ -1,0 +1,148 @@
+{
+    "kind": "Netflix Country",
+    "date": "2023-08-13",
+    "films": [
+        {
+            "rank": "1",
+            "title": "Müstakbel Damat",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABZEfjU5biHW3RSKDFU-vuq1kAK4H6JM-a6aHCoKF9my6Wlj1A23PMudrpNdQ_oDzHDKueLEmiVsJ6dptjwW_EiTf_SGiYCnWhoNa.jpg?r=635",
+            "watchID": "81701106"
+        },
+        {
+            "rank": "2",
+            "title": "Heart of Stone",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABWKZ9K-GimsY5ywsg4BfD-NgCxB0tP0xJ0e_0P5KumY62SJIrpr9Q25qJccLKJp3ZyGiZeGX1Sk4I_H5JRm8NUZKXrt44SdGMpG8D5HCmTbKiUGkI5oerCoAcA6i7khwmgyUbg.jpg?r=545",
+            "watchID": "81416533"
+        },
+        {
+            "rank": "3",
+            "title": "Paradise",
+            "week": "3",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABTgxr8vVe7vpiK0GUxLPOBju1xu-RTAIF9Odr4qufd8fFrLVbSkH5IBInD-Bk5N_x1MBqyrKqXoxO4o0RJbvHmbVKOABs51CAQKVArx9RyrM76hHAp5BeNjbo9Z9DW08mMNMig.jpg?r=9d7",
+            "watchID": "81288179"
+        },
+        {
+            "rank": "4",
+            "title": "Jumper",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABd4_eKjNgjy3SpQYQf_o8Bs3_3hZIy2MEXsCS6CJ0fG9qzGzn3j2cCOSnoMJ3p1oxpc9BXmVOL8ldrRCBo_2UuVsWYeQyyJUl6PN.jpg?r=c46",
+            "watchID": "70083113"
+        },
+        {
+            "rank": "5",
+            "title": "What Men Want",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABSLV1cJVenr_8BQn_2euTRWeVXfGnDgQY4btl3zlFXDrdZ5x5ufCLfFRUbnj6vlUrUeb5Knvf-2381t0wh7BusyRVjjQwwG80jmX.jpg?r=64d",
+            "watchID": "81010973"
+        },
+        {
+            "rank": "6",
+            "title": "The Craft: Legacy",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABfp-OR2MF9eTSK8xQMgh5JxqVtopibEhVcMvER7Hx0YhkHf7gpKZU2b63RqDpo1942qHsjxmBysoj7rB0qDAbz8MRSTGi5MmYCoN.jpg?r=232",
+            "watchID": "81351571"
+        },
+        {
+            "rank": "7",
+            "title": "Soulcatcher",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABQez7QKowgduYTbKhF31hGZe_quKhgdQB80OrE9F1IHXqAswGLm52K3NKLfJN7X6Jb5bEjMzAeFNfztNqocA3V1fxpJsreAzCXxSIEftEGkyC1JKSWHJ_2da234nm1hIGqZyuw.jpg?r=509",
+            "watchID": "81498378"
+        },
+        {
+            "rank": "8",
+            "title": "xXx: Return of Xander Cage",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABUMkqBrZWFiEf5eZlsJ4RTopopIe-8blfiiKP12JvSy6Veang1Ub4vVNEVnM84KCsk4Zi79j5_DJGjxtHK6itnJV1CJ7c3MhtsET.jpg?r=71f",
+            "watchID": "80124486"
+        },
+        {
+            "rank": "9",
+            "title": "World War Z",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABZCOhTGrQsvVPrlwwbH1D-Q6-4mY3AJh71MfYD4jW1khhlGyFSK36bafscVHjJqZ1tYfbQ6hiqMWvOk862YbOIdq2IGASs86WUX9.jpg?r=dab",
+            "watchID": "70262639"
+        },
+        {
+            "rank": "10",
+            "title": "Head to Head",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABcnRtXn3HRcJSeOKyS7LwWSZUVvPuHbarpVJayzjIe9z9Ar90y6rEPS3eIi7TVsmAxQk9HJvOK8_yebhzvtLV44Y0ZbPyfPvjZxh9hb5raplseuvzo6Qwq7CPNMxG_FXh9YS4A.jpg?r=eb3",
+            "watchID": "81324382"
+        }
+    ],
+    "tv": [
+        {
+            "rank": "1",
+            "title": "The Tailor: Season 2",
+            "week": "3",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABU1T13yqc0hM36DJItVwG5Jh1SUqjYdeNQx0E1_q48cIz-ofcWtotLVEb4yO0wYmiSxlk-CKffVaIIhvfEO1HkJ2nYLVhHNfyYHD_81nDbufs8G56Ukhnf79BoHplSKiKkIKvQ.jpg?r=f36",
+            "watchID": "81590778"
+        },
+        {
+            "rank": "2",
+            "title": "The Tailor: Season 1",
+            "week": "15",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABTEQFwv75A8U2Ro45ZRZ_MeQH5Vfr4vHwJSGXCO5MpSWhYy0orT78ktol4cH0kAYaCIj4sDtshB_x8BIGpgZO6OXfs8ggBjFzuqC9oNTuHECZd815SoVBrHU5fY3m2gNh7m9FQ.jpg?r=2c6",
+            "watchID": "81590492"
+        },
+        {
+            "rank": "3",
+            "title": "A Perfect Story: Limited Series",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABahE0UEzJCIR8jTI8anHR8uqQQaurkDPhiyTx13TsGD6cgRVDW3KTz4ybDRTfLnrdkld8mgglSB1VKoVs0eB6Xo1-0gg7bJuT4hClumQzFyf_Js2oATGq2czQFstu9y9Fsv6KA.jpg?r=df6",
+            "watchID": "81388034"
+        },
+        {
+            "rank": "4",
+            "title": "The Witcher: Season 3",
+            "week": "7",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABfXyTm5DyRxcrwqZsfvtG5nSH0UHj7ro8XWvMKU3czKkxP3tIXywYG7A64sA3oWWBHUQYaJ8eaK_O9TUYqTUMdyltveajJe-MIlZ3sywuFFF08mG3YPh_sgYeJ670vfLamoiFw.jpg?r=23e",
+            "watchID": "81106534"
+        },
+        {
+            "rank": "5",
+            "title": "Gabby's Dollhouse: Season 8",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABYyxQGRFOMJoacRqhfPSh-VZVZp-EeEfA2Vf1ximvE0eDYJBmnd8W9dbB-SxVqQQlZwVlDxfyi7WE3f3cVhDz1vwT-qfiDjLRYYxelmaqHT5kfiE-kCQlaHrUb0_-wNFbNmGog.jpg?r=5e7",
+            "watchID": "81586953"
+        },
+        {
+            "rank": "6",
+            "title": "Manifest: Season 1",
+            "week": "6",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABSmwmbvniILlJQzHPONpTNgLgDdWBc5T3IyZ4dF64-mIFaeDJNIOD60YjGcO6T1O4kwcsk6R3QtFmpcFINRmEkYhGBVT_OZDbtJc5LeOdJaIpco-1mN56tzG0wDoT3jXhdv9zg.jpg?r=2fe",
+            "watchID": "81015482"
+        },
+        {
+            "rank": "7",
+            "title": "Fatal Seduction: Season 1",
+            "week": "5",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABcgLUVDE_vVEdrNsms1Di_386EKe7qfKyXStw-6qvgQ4ZVWz_aX79Q04U_F1Dlbi2YFHldRiU1GVEiwIcHigwgnLm-Fa00kHchc6FXFEZpAmNLDrWfBsKdMCMMzXLRO-9MLEnQ.jpg?r=bcb",
+            "watchID": "81553438"
+        },
+        {
+            "rank": "8",
+            "title": "The Lincoln Lawyer: Season 2",
+            "week": "4",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABWqdwB1TXZDE2h6v6EQIxRcEPJXyHQ38Zr3uJ5cEO_dX-nhsUX28QFBk6KWUt5T945F_uX0OFuPURzo56UiEOzR5aG06iOGCug936FoBEi_H80b8b93j5ey2TjJOxmo9zcTuUA.jpg?r=e74",
+            "watchID": "81331784"
+        },
+        {
+            "rank": "9",
+            "title": "Cem Yılmaz: Diamond Elite Platinum Plus",
+            "week": "11",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABUPdiiLg8IwbcbMB1b1U4aLvtmEfpIRiiqXViqyb_T2pqGnRLC5d0S6EjphiH8HXp4LBWtRJ8ixNCAM7wzZKDQeAHUgB8nqgiG2c7CjatIJTOMz6NVKp8ValZWL1oF_C-OaMUw.jpg?r=6a8",
+            "watchID": "81222770"
+        },
+        {
+            "rank": "10",
+            "title": "Om Nom Stories: Season 1",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABea26i4kt230ePBmrc4hwri3hDQpkK-4NfOd5vELV9hiyJYvd4oEy8ueU91l2JDbEau9s2aiQxpj9l0hfo9FalVgsHHox6SbhczV.jpg?r=1b4",
+            "watchID": "81699965"
+        }
+    ]
+}

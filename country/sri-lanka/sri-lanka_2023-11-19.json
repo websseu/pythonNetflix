@@ -1,0 +1,148 @@
+{
+    "kind": "Netflix Country",
+    "date": "2023-11-19",
+    "films": [
+        {
+            "rank": "1",
+            "title": "The Killer",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABeMhNcjvtxjfmRkloHJ12ig9XxvixqfdH14bZ-JZKR3AhrdLGJ7aslHE2sUhEb3wi4GzBHoVzSulSdDhJsH6PXakSLnBurZphSr9cYAr_yO1vyzH1JkgZisoHbF21lBeg_6u-A.jpg?r=fe1",
+            "watchID": "80234448"
+        },
+        {
+            "rank": "2",
+            "title": "Jawan: Extended Cut",
+            "week": "3",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABY2X5NH4H2zGcmba_kFEPbUYsV1_WAz4jXSU5Bl3zpAOuhoyJVZzrIQwP9ht9qgDiejQ8yMn9U3FzDbfyvLzJBPFuApgznHwclxW.jpg?r=cfe",
+            "watchID": "81493411"
+        },
+        {
+            "rank": "3",
+            "title": "Irugapatru",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABep4hk6pq-oY2A6HT7CHlULMQVqyhJ7yuMhbj7Zs3yk-Lfo7mQEY6ebyiZoxAPgzjkW5-WrPAxY7eX4_8lChorLm_758fVYa5Ydq.jpg?r=842",
+            "watchID": "81600221"
+        },
+        {
+            "rank": "4",
+            "title": "Paw Patrol: The Movie",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABZIa_sYDgJmWe93qdFoLzGl9wpeT3bLLp1jeAhdxR1u9A0BJlzgY5A1Vw1R9270tD_9lcnRktFmaAEZT2nmUeJtfrfm0qcz8TPD2.jpg?r=c74",
+            "watchID": "81416774"
+        },
+        {
+            "rank": "5",
+            "title": "Best. Christmas. Ever!",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABV9NtpXvECW2lc_lr04UVvQ8xk_7-V5BZxkW84qRRSDxkWh8Ncj8hOqfcHUG8CoySEbpw6zSBaFFUimee_PjyUtQSo_ix4F4okM4iI1X54DGogt0-ANFvTInFIcb3JWjoLCcZw.jpg?r=c95",
+            "watchID": "81416268"
+        },
+        {
+            "rank": "6",
+            "title": "Love Again",
+            "week": "3",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABVccLVVU4-QjcUQlwIuEuOlf_hEFhHaJvSiz_Cu4IryApbbbd6igxZovylknX6nGCz1aYqflLbNsSIo5VPGpIVPQ5-9CemPU3syB.jpg?r=17b",
+            "watchID": "81627351"
+        },
+        {
+            "rank": "7",
+            "title": "Are You There God? It's Me, Margaret",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABRDftOUuMGPbmu3h9eoAoy_WGveBXOuYyAa0T2LKU0-MliGcoYSozVXvzr0LCcA1UIKNEoOm83kuQ35xfQW2wdexPFGIY5Nlcv5o.jpg?r=e74",
+            "watchID": "81590252"
+        },
+        {
+            "rank": "8",
+            "title": "Sukhee",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABVQmgQBhPYiXJPkTfgJoLouwffqx8HiqftvGkxpmQ-uRXJsAcgvc1longMI5ayKAO80O68J99CDzI5tzHd9qpLdpWahqLknTFlgG.jpg?r=330",
+            "watchID": "81514143"
+        },
+        {
+            "rank": "9",
+            "title": "Playing with Fire",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABfxrMgKmUwO2onYS7Jdsh4ggf8Nu3SCeJwgj3GrvyHJ9eZ20S38SnVaWp1Uck_ZuyGPvEkhBTenl8QI0sD5aM3d6ZYBoY5HNvqX6.jpg?r=b7b",
+            "watchID": "81221835"
+        },
+        {
+            "rank": "10",
+            "title": "Locked In",
+            "week": "3",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABe6AAWYnjdQgLZFtGM3-SxbBeJsozZRPX_bKbknvkKZAdVRkBH5AUTPdvTtAuWoi2BNeRJDyCGbtChAIcFcTjVL6NuD6GiUUbC5enQjbiws7QVOkJE-YMGFJd_Zj349UXUFAFw.jpg?r=f20",
+            "watchID": "81500381"
+        }
+    ],
+    "tv": [
+        {
+            "rank": "1",
+            "title": "The Crown: Season 6",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABZFrdhfsm493w0AffglymbLAf-7_N1JYMH0JMuX3ULYPU8YIVEXqWUand7SOtax3LpK-9goFxhNyWKNGn-tTXLl5sskv4ld7DMrfliCVj-yIAlVxK4JeOKBSBY1Rg-xBZW3tWg.jpg?r=8c1",
+            "watchID": "81318160"
+        },
+        {
+            "rank": "2",
+            "title": "Matt Rife: Natural Selection",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABb5x2UDSMtno2ogZnsaU5yaeO3oCeYSq1RP0uHAkrCtrHTtpcz1H6jLViYdePsnK618bMMv7vLpsPOj1Ukh__O3pzpdEuxfsL0e305z1Ua-S51Bh84HMfjMOamHXM-SX4MGpLw.jpg?r=9aa",
+            "watchID": "81708429"
+        },
+        {
+            "rank": "3",
+            "title": "All the Light We Cannot See: Limited Series",
+            "week": "3",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABY75WYv2W3-SVs132Afvu3NFvgjeS8ayEdUtTDUIiY1Cnemyc4uLyYlCfpB-h975q9WuwpHLiivHK7x1mffFL0hK-IYOkvtIeUZzZoAqMCM4bGTY7fXXwuT69EE2gGWX3Q2V1g.jpg?r=c4f",
+            "watchID": "81083009"
+        },
+        {
+            "rank": "4",
+            "title": "The Railway Men - The Untold Story Of Bhopal 1984: Limited Series",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABWTCEi28AusTj64-RUqzTfxu1nbh-mZBTU-v-4rjSh-F_KLu9rbEzpw01OvTQ7OkE8YpVQ5tdKoTYh0KoXrq8lROzoCB265xVeLD-KVF2jB73_LDYp8_L4NS_peroWto6oxO7Q.jpg?r=5da",
+            "watchID": "81711004"
+        },
+        {
+            "rank": "5",
+            "title": "Young Sheldon: Season 6",
+            "week": "7",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABRRPLixXZCp93Y6n6K3NIZc7Rzkb6YvA5j_msy7eFu4Bpci1P3V4gef43p0umHpj9Iah4LJVmHHdvMikKFs8MVjlb9NGq4PkWnxJ.jpg?r=563",
+            "watchID": "81629775"
+        },
+        {
+            "rank": "6",
+            "title": "Young Sheldon: Season 1",
+            "week": "8",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABRRPLixXZCp93Y6n6K3NIZc7Rzkb6YvA5j_msy7eFu4Bpci1P3V4gef43p0umHpj9Iah4LJVmHHdvMikKFs8MVjlb9NGq4PkWnxJ.jpg?r=563",
+            "watchID": "80192611"
+        },
+        {
+            "rank": "7",
+            "title": "Young Sheldon: Season 3",
+            "week": "7",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABRRPLixXZCp93Y6n6K3NIZc7Rzkb6YvA5j_msy7eFu4Bpci1P3V4gef43p0umHpj9Iah4LJVmHHdvMikKFs8MVjlb9NGq4PkWnxJ.jpg?r=563",
+            "watchID": "81190667"
+        },
+        {
+            "rank": "8",
+            "title": "Crashing Eid: Season 1",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABb3bTHm432aZyMgCjz8_7KCgClUlWbJbJ07g-m6lJvyHcfuyGZ08pxt3wNX32Y-qy3VG9A-5NOGSXAxOkScIq1Yv3I426IYBhgvrZIV_CfN_WJuhgD6QGoMJ8ee7Cy6TAb5NsA.jpg?r=a1a",
+            "watchID": "81613816"
+        },
+        {
+            "rank": "9",
+            "title": "Young Sheldon: Season 5",
+            "week": "6",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABRRPLixXZCp93Y6n6K3NIZc7Rzkb6YvA5j_msy7eFu4Bpci1P3V4gef43p0umHpj9Iah4LJVmHHdvMikKFs8MVjlb9NGq4PkWnxJ.jpg?r=563",
+            "watchID": "81511847"
+        },
+        {
+            "rank": "10",
+            "title": "Young Sheldon: Season 2",
+            "week": "7",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABRRPLixXZCp93Y6n6K3NIZc7Rzkb6YvA5j_msy7eFu4Bpci1P3V4gef43p0umHpj9Iah4LJVmHHdvMikKFs8MVjlb9NGq4PkWnxJ.jpg?r=563",
+            "watchID": "81016636"
+        }
+    ]
+}

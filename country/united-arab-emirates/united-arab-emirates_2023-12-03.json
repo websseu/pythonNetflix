@@ -1,0 +1,148 @@
+{
+    "kind": "Netflix Country",
+    "date": "2023-12-03",
+    "films": [
+        {
+            "rank": "1",
+            "title": "Family Switch",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABQLC8RYDRa-ouNcAysM3zzZuLHH_s6c5fhUCYkZYBtvcVSxdeBCrf2ewvaVhLAkrEGSvmbghlKW9rlzJ9dc8COlM5UzMdqNrcrlRpVPXdAm6Lfztw5M1_YL-AO4Ji2JR6ge7TQ.jpg?r=388",
+            "watchID": "81305096"
+        },
+        {
+            "rank": "2",
+            "title": "Leo (Tamil)",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABRnzeYVrausTl9WpH9jeGPJXOQr4nAk_nQIu8Zj4NwJzF5cXSUWzluHUK3IVYG_hrHZBD2AE85jmHGjksrzBEERNew-kETiEXwKU.jpg?r=0cf",
+            "watchID": "81639319"
+        },
+        {
+            "rank": "3",
+            "title": "Honest Thief",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABSesl2PbZ4MvnMdVe2mj56EZwZ95WIu2GZDjpZQ6lPITszsVKkxUSGczpt6zjVxhJ4ix9pXGJzh5GQpPLV3txEOOuU7fK4G99TdE.jpg?r=07b",
+            "watchID": "81013492"
+        },
+        {
+            "rank": "4",
+            "title": "Last Call for Istanbul",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABbnqTpC8BCP2kp4EZaDmpuCyEKi_6HIha184UVBeHuHXBdp2OspFvBwKj2SsnM7k7cRP7gK8tG0H37jyOJMVNOkITaekkkcCSoxiz_3Gy3hAjpuyx-aWonEPAqyi46SiBnyJEA.jpg?r=24d",
+            "watchID": "81610272"
+        },
+        {
+            "rank": "5",
+            "title": "Mission Raniganj: The Great Bharat Rescue",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABU1ks8a_ooUeAvILWsKX3CQaidMCGKP-zJnk394_uY6d0QRHmM5WZXLiGvYOYMtzfSkgcC8C3VJq8g2IllTr49zHh_r6RVHB8rMj.jpg?r=874",
+            "watchID": "81471784"
+        },
+        {
+            "rank": "6",
+            "title": "The Bad Guys",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABeHSgkEhhD6lm3BBucWqw9ZYmEYmpT59HWdXvKC_DlSfVUo-gauhJyjp7u_w7-DvbRKnR_UPhG7WM59gReHrSoncQonbUZuQV-s-.jpg?r=fda",
+            "watchID": "81513703"
+        },
+        {
+            "rank": "7",
+            "title": "Leo (Hindi)",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABdfaMcJ9xWFNciNt6c-42QXeguujN0obnDEqEIJyUyNNz74-oFTh4XvnQ3cI90DnoKMVzkji_EKQFt9YgiXECX4-SeljeiflHASg.jpg?r=0c8",
+            "watchID": "81639323"
+        },
+        {
+            "rank": "8",
+            "title": "Ambulance",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABZ8MeyQzK2loLLBL6s3ggVA2UbCbD_6XV4-cqwre5fRBMwz_2v4ekpxKL3tijiEP8OlBoJ6sO8Njmnwq-ZOZL646gML9g88Zo5-7.jpg?r=e6c",
+            "watchID": "81495232"
+        },
+        {
+            "rank": "9",
+            "title": "Leo",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABUhdSIazcPCDCS2pw3mtk0c9q7zeuOxCPqD9weD8jtw_iU_QZRotBCCOYVdLeZXq-B0ApfaDCcmWmArH5lRj6T5CAr-JMxodeSKAVm08WYtyv2FRGLB-UeN9h-vFMtxYZEUUlQ.jpg?r=dcc",
+            "watchID": "81218917"
+        },
+        {
+            "rank": "10",
+            "title": "The Lost City",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABePBIuJd1-iUcGRM1zPCNks1xT7SPSmIUHVkx0JO2fR6UEk_AVI-WruI9LHiKyqtZ3A15QoT9HxVDAgE_pA5HLeJzKay-di33wMe.jpg?r=6a4",
+            "watchID": "81489832"
+        }
+    ],
+    "tv": [
+        {
+            "rank": "1",
+            "title": "Squid Game: The Challenge: Season 1",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABYg7GyiBfVRu_D905VgpU3IdbKzex51sTEXkNqBKUo6jPZ7N5yuXRnbREfYbhfx4DV7GFZfLDr2YfSTTZoOdSD0FxE1GrMgYVhtfpmMcVp-kS4s0FePVlXFjNHsqH4AZCENvkg.jpg?r=d73",
+            "watchID": "81615541"
+        },
+        {
+            "rank": "2",
+            "title": "The Railway Men - The Untold Story Of Bhopal 1984: Limited Series",
+            "week": "3",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABa0CODVSKn_7UEYgKcY4YIdxF46xgXpzYS7E0hRDe4y0AI0l0qKlsUpW6nonUAwd7Ps7AA_D9gkJgg-d3xw8BRKX4e7DUUSUOYb_4L2gTE7AVvMEn9kgynPmsCYYGvUVP62GwA.jpg?r=74f",
+            "watchID": "81711004"
+        },
+        {
+            "rank": "3",
+            "title": "Replacing Chef Chico: Season 1",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABXgrmvP-DSMFiks2wr0glSsKdA-pxWdyjWqxv13SMeBiRhH7OeUGBgroCv4PFrnUXECNgdUmmjfyb3wMZZwuhDsoh3kLOWOAdOODAGWEuQ98zMcPfHbtEbBlLYckt56ArkWPzQ.jpg?r=a7e",
+            "watchID": "81612938"
+        },
+        {
+            "rank": "4",
+            "title": "Bad Surgeon: Love Under the Knife: Season 1",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABat0kd7HL9q0w7JYyosecTAEgz4zoGLg9DfyeQnzvtUXXs7DgahuU5iFsbiHLZnpqZ3vUXxoL2pndgdEtRVu8CSaYdse7pGREIIoOy7pw_lUt8j3m1YueNineMZzt86R-iZUjg.jpg?r=cb1",
+            "watchID": "81607098"
+        },
+        {
+            "rank": "5",
+            "title": "Obliterated: Season 1",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABYYH3aB3WijFGF2EEAKZMP8ZqxKIbv0wfFl-16zb7xVzENeTNj0jOPGEe5HscJKQzhfyIfbB2CeVtx0FhoqWSDZ4c1z4ffCZspk3Sc8ONFjFhz8d--huF92cVUuGAS9GKu9sgQ.jpg?r=f6b",
+            "watchID": "81413929"
+        },
+        {
+            "rank": "6",
+            "title": "My Demon: Limited Series",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABd_zoqgU_JkWh3lhk3a8N3oj3xJhNYSQAk1JSTs-yNxMYZuGqxlccQxYKeuPKtEkCRMBpqyGucYaOk525rwuJNsM8YkB4ZenGnbzgXSl-gJDcFdCgAjEkqTULa40B0bBQco1yw.jpg?r=b83",
+            "watchID": "81716081"
+        },
+        {
+            "rank": "7",
+            "title": "A Nearly Normal Family: Limited Series",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABQCIFSGkVIksn-ksrGJd7b3JX1L9XBEkpXzTlQwi3lIdyk1WevAgWuSApFFjFAJgQ8eHEkd7pfmk_kG0N83WKX8l37EhURsQTrPKccCiVEYvcTi9oLXbTsHf3Jvggw21zKEFcg.jpg?r=e26",
+            "watchID": "81392164"
+        },
+        {
+            "rank": "8",
+            "title": "The Crown: Season 6",
+            "week": "3",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABZFrdhfsm493w0AffglymbLAf-7_N1JYMH0JMuX3ULYPU8YIVEXqWUand7SOtax3LpK-9goFxhNyWKNGn-tTXLl5sskv4ld7DMrfliCVj-yIAlVxK4JeOKBSBY1Rg-xBZW3tWg.jpg?r=8c1",
+            "watchID": "81318160"
+        },
+        {
+            "rank": "9",
+            "title": "Rick and Morty: Season 7",
+            "week": "6",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABdvZ06Lc-frpEu5F1g46iNqTOpDVvQDgGGeldcrjEEWyRoZJmsg5wMRq3ZSPf3W69S8zCPAHClfemFQcGqJX7lBOQIk9G3U3trBP.jpg?r=615",
+            "watchID": "81717773"
+        },
+        {
+            "rank": "10",
+            "title": "Crashing Eid: Season 1",
+            "week": "3",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABZXBfUlXpn0gtDBy7DeUcby12LSEB3iCpKVmVPGUWgWTisYwjj3mnetIz7Wx-tEWtnAH1jZ2yqMabY9ybJkUeB6SkOBTTVUe3cQNM8VjXUHH5139M1nKGhhSJlECt6Lqoj7ifA.jpg?r=5a8",
+            "watchID": "81613816"
+        }
+    ]
+}

@@ -1,0 +1,148 @@
+{
+    "kind": "Netflix Country",
+    "date": "2023-11-26",
+    "films": [
+        {
+            "rank": "1",
+            "title": "Ilary Blasi: The One and Only",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABRUzPAi6KV4ZvwB0S-K33RFXg9ekKe9XdxyrUfHZ1jwBBTs_zODrktjTIoI0cBN0oK1sPlyPeMQQO9ciLQC33ySf7SH8I95SJbyvnSNwh1cDNPjamSY0zznrdnfvWUnfwWby0Q.jpg?r=532",
+            "watchID": "81683799"
+        },
+        {
+            "rank": "2",
+            "title": "Leo",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABR9YD02PmX03dknG5uSpiOyCaRW7plNAeRYlh5pmRaYLHNxs2cDpZ5Xtv9gO58GkuEQH9ZXQy-qPxKUvILFzTmDAjSSuJQqodOCxhGnnLgAGm6T2pI5W1UtFUra9IKx-3wRkJg.jpg?r=650",
+            "watchID": "81218917"
+        },
+        {
+            "rank": "3",
+            "title": "Last Call for Istanbul",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABVttmfwr2DLwoIFZ5a4XIydKzPNdLJTvCols_8MptaydBWb0xhzmCeYhplVBDQRy28blXLC7VaXmFCkRJMV_S0clANagnQb86oqzkQWuInJAl6F4I8_3SXx0E47VHWAuiCtkRw.jpg?r=72e",
+            "watchID": "81610272"
+        },
+        {
+            "rank": "4",
+            "title": "Best. Christmas. Ever!",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABV9NtpXvECW2lc_lr04UVvQ8xk_7-V5BZxkW84qRRSDxkWh8Ncj8hOqfcHUG8CoySEbpw6zSBaFFUimee_PjyUtQSo_ix4F4okM4iI1X54DGogt0-ANFvTInFIcb3JWjoLCcZw.jpg?r=c95",
+            "watchID": "81416268"
+        },
+        {
+            "rank": "5",
+            "title": "The Killer",
+            "week": "3",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABeMhNcjvtxjfmRkloHJ12ig9XxvixqfdH14bZ-JZKR3AhrdLGJ7aslHE2sUhEb3wi4GzBHoVzSulSdDhJsH6PXakSLnBurZphSr9cYAr_yO1vyzH1JkgZisoHbF21lBeg_6u-A.jpg?r=fe1",
+            "watchID": "80234448"
+        },
+        {
+            "rank": "6",
+            "title": "10 giorni con Babbo Natale",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABQUmsX57in7v3DVRjXDc_UCo0qrjlhSgSvhQkcoTWU3aedugbLShhd8PnuOtB8wCL0YhIhftL0rimouuasMgrvfS6cAiLiu7BDeJ.jpg?r=2d4",
+            "watchID": "81232458"
+        },
+        {
+            "rank": "7",
+            "title": "All-Time High",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABS898-1CtY6Kdi4FiMp4J4Ju1FfdrMh3nBqQ3I93WjakrtriTAYBaCs_FtAutr2uJIeveiqbzEtaCc07cSoRpeEB8eOYRj_3iMwGprxSjlqc5DL_B1mp897Zx7HGyqw9RQySWQ.jpg?r=af0",
+            "watchID": "81630883"
+        },
+        {
+            "rank": "8",
+            "title": "See You on Venus",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABbsSJDKw8dBKedXndAy07XscH6gI4yFVc6NCi4CTahNsXwUCygSvXplavrdhI98tynK1_-dlJj4T2QNGelb1VXN6_oTr7kp1vMkJ.jpg?r=ddc",
+            "watchID": "81648162"
+        },
+        {
+            "rank": "9",
+            "title": "Crime Diaries: The Celebrity Stylist",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABYHtPdCyIXlX0Kb84jnAr8wgVFEqpam_GaZ-0CMDMAUWcBi6P_FDT657GRtr4bVmnK2ifI_--p0_bDbpcCHu6pD3On6p67TMiYJF.jpg?r=6ac",
+            "watchID": "81581999"
+        },
+        {
+            "rank": "10",
+            "title": "Dawn of the Planet of the Apes",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABVQ9QrWjbWRpMZvtbyM_wHE3PMB-ObqSJwXdLX55AdX7tjdxLvlYumeu2GPAoVZ3bu8nH8TkkqfW29JMaGBOTS-JAbVtAB5ta0i1.jpg?r=2dd",
+            "watchID": "70300076"
+        }
+    ],
+    "tv": [
+        {
+            "rank": "1",
+            "title": "Squid Game: The Challenge: Season 1",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABczzGPYoH68PpZ895AdhBGNTSh5raI0ozLGh3hYIRGKRTjzHrb5tvRvqBzGtKQ8sOalSBUSZ7rkgwQu98wjYPyU3Fq5uuzseH9N1GGa7kryRownDBAbThDABuAjKXg5_psHvhg.jpg?r=b5c",
+            "watchID": "81615541"
+        },
+        {
+            "rank": "2",
+            "title": "Suburræterna: Season 1",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABcOrI3rgiln42FC2vVYtE_H6Z7pyxucJZKFnMUcy6aSyqXU6TWEaxF6Ur2jO_Cq_VLJ9kg-zxROitNVYTiTjaL6iBsTau8IuDbEfBn8lNZSQHoop4ViGkBSWRe6_0Qz3qJB95w.jpg?r=a43",
+            "watchID": "81440958"
+        },
+        {
+            "rank": "3",
+            "title": "The Crown: Season 6",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABZFrdhfsm493w0AffglymbLAf-7_N1JYMH0JMuX3ULYPU8YIVEXqWUand7SOtax3LpK-9goFxhNyWKNGn-tTXLl5sskv4ld7DMrfliCVj-yIAlVxK4JeOKBSBY1Rg-xBZW3tWg.jpg?r=8c1",
+            "watchID": "81318160"
+        },
+        {
+            "rank": "4",
+            "title": "A Nearly Normal Family: Limited Series",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABXkGRP8DSW74z7JAFxIlvfGoMriuQYbxchCdaBqdDi3HiYYB6a7-Zqm0k3KwyFRhoO5NWyde-JuiTvaheYP41B8LUTicxW2WjgvU_csYcMv3AbfSCQ70pHDoSXaNLCZwJijO1g.jpg?r=25c",
+            "watchID": "81392164"
+        },
+        {
+            "rank": "5",
+            "title": "Criminal Code: Season 1",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABVUf4U2QsUqS6wEk3RSbHfD-R974r1JCRlbvP7u6da8VdLEx7r0K4wu6LlAyydrp3Yz2C6r2ZRX8A3bZnVIZ8YlMqTcneqw6-vLBu4sABItScePA0iG7B8UKEmF3OQeEpuKbyA.jpg?r=c08",
+            "watchID": "81442395"
+        },
+        {
+            "rank": "6",
+            "title": "The Professor: Season 1",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABbFBkrPOfocvzJz4uiTItnoJiAcDS438YkenY3wVXMgoeXemXVcbFfAXEYSdIsffHSKQ53jurNegcDNGFefaDp_Q6EUhWWZcxb5q.jpg?r=930",
+            "watchID": "81734011"
+        },
+        {
+            "rank": "7",
+            "title": "I Hate Christmas: Season 1",
+            "week": "5",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABQat3hmX0CvtVe_485M4al54hIETwDZumFsalUzQzf_sl6dad5JLDyFXp3k4n2398dmnhV-edrYtK6ZvMeJjcBIghN8djftDMmfV8GZKT_7jIA0NqlK07PfYDcUfZPXryS7BpA.jpg?r=4b8",
+            "watchID": "81414649"
+        },
+        {
+            "rank": "8",
+            "title": "Me Contro Te - Il Concerto",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABbVKufkAzsfYAy4uk5rlBaniicodNFLIU--5uT4WEn1Ama-sn6O1xMWT9gA69iSSTbKXssPzKNa2zckxNV99cOZRZWXiCPJxo3NR.jpg?r=d8b",
+            "watchID": "81713857"
+        },
+        {
+            "rank": "9",
+            "title": "All the Light We Cannot See: Limited Series",
+            "week": "4",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABVgGga9aXug7ZD25alDJtNjowvlLQ9kKNQv-ELR3OnyPPr6X7nVGDzKa2Hf7LtVN2n9Irl3DSF8VPgNe1V0BV8biYQUJq1lqh4iQPKZfEe2MeRJMyoVESTFsQ0WEh8-EcQ9i4g.jpg?r=bb5",
+            "watchID": "81083009"
+        },
+        {
+            "rank": "10",
+            "title": "Holy Family: Season 2",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABU_UOyVSUfV2vJass37rj3fuMy5watS3QbUzh7jMF4QTsEOyT7c42Stt447WxOftkabhuPFp46lCTjh_9UCMIsYhtjwog4SCUFFkZLznxi2BA-5C8fb1eVhPd8ASlq0e1YiT0Q.jpg?r=01b",
+            "watchID": "81488155"
+        }
+    ]
+}

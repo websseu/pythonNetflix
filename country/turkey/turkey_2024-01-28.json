@@ -1,0 +1,148 @@
+{
+    "kind": "Netflix Country",
+    "date": "2024-01-28",
+    "films": [
+        {
+            "rank": "1",
+            "title": "Sixty Minutes",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABaIYJUop9gtj4F_iuQq8351vEODA_r_LN51-8xMh2y9wr8ub7elgXHdGLwezkvF0WLVPkhM40y9ZbNfaA_qnBNLD62K3vk-5cKKqcydJdXITwz8bqwAXC6SQfrADP91rZN9K3Q.jpg?r=962",
+            "watchID": "81486233"
+        },
+        {
+            "rank": "2",
+            "title": "Badland Hunters",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABVS-tnBexj99hByO81E2HXMcN3LxawJmEu9WZiXLYL9KiVs2yOCHdP4Hj-OZCAqa-3HHXYU76o1gr16TkWwia_SogyaeANKCxALo5M9DSeSQXvF0d3hPkMFqOEIW6wjgtWFPAQ.jpg?r=853",
+            "watchID": "81721676"
+        },
+        {
+            "rank": "3",
+            "title": "Recep Ivedik 7",
+            "week": "4",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABbDRAeoxxvz2reHjPsR9yJtyjPXhn2ZEbb9R_bvjqVi-L094a_sHTMWVdxOj0RGjxDM-5ziBVX9rR1VcmYn1UeWFnwgJEhIfiG5I.jpg?r=17d",
+            "watchID": "81750915"
+        },
+        {
+            "rank": "4",
+            "title": "Lift",
+            "week": "3",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABTfU9rX8fZ8XtalHyhYv6qv7oV0uKXTJdqnfOSIeDrhJ1snVAC4J4e8BQO6t2jXwMUV7XCE0zkOCHAZAN5_AU9vBSQsFAAn2rJSuRYy24xmxYk6gOGQja_D52JUVf0qSrANP2A.jpg?r=baa",
+            "watchID": "81446739"
+        },
+        {
+            "rank": "5",
+            "title": "Redeeming Love",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABdpyTOjtC3LOiMmILciq2OEqQKX2FKZVBGb_2OATOvZNDDxeHo5TUPhiodt5sWgJ18CLx_BMgCQHGvnxwCd_VV_AnenjnnFpQcFB.jpg?r=f2d",
+            "watchID": "81522433"
+        },
+        {
+            "rank": "6",
+            "title": "Society of the Snow",
+            "week": "4",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABSIN8I_CCB9V4BW3jWKU96EHdOhdM-L5Y-0CF6nJ3lQc2woJTtmXIbgJOoPFkv6I-Y39U8lMYGtVLqi3EpVRxVuDU8osPGStqgF8i1tuapWrvzB-QMsvERJWxFG5rThNPmc53A.jpg?r=fa4",
+            "watchID": "81268316"
+        },
+        {
+            "rank": "7",
+            "title": "The Kitchen",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABekBNAAgRjpjwIoSJq7erdLRhlHfxoh4YUlzzk_Y-IBLuQqK2d4lTiKpHHHhmpO0w148V7_0PxKft39k_gVO2m7LJ2sxTC7y0CwMzNK3UuOGELqAeo1YlgVewY0Vdw7Kft_yUQ.jpg?r=600",
+            "watchID": "81557731"
+        },
+        {
+            "rank": "8",
+            "title": "Murder on The Orient Express",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/U6_eu_lw5TPOkLCYXBHQsUANDp0/AAAABXXz3C04yXhimPyzXnF2ShL_LlrlE29CTsvXU3CX3mwdd1uFiN3T8Wzwf3Xc-Zsw4bHj-LbG.jpg",
+            "watchID": "80188988"
+        },
+        {
+            "rank": "9",
+            "title": "Ambulance",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABbyY17VXWDNb9RMcMiqSiWYZQjKAbXDni2a2nKaReg_aay-o9vjffxqcgd7Su6NuNGX5ztLe3EwziEi48HlnK2VQDZr70KAMc4nB.jpg?r=798",
+            "watchID": "81495232"
+        },
+        {
+            "rank": "10",
+            "title": "The Favourite",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABVNyROGWFMekTA07EjbUlBfIucdOSm-1zKnbYmnRoG56PKUPsmB9oqtU4hz0hVYI7eYEyWqHB3Lo7GxYtcyAPYQftrbs4asKNmMt.jpg?r=fd0",
+            "watchID": "80998988"
+        }
+    ],
+    "tv": [
+        {
+            "rank": "1",
+            "title": "Kübra: Season 1",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABcAk6WFGjvOfLFl_vjwiCTTQz8DAGUqszdwnJBbfmYtulhlh8G6jHHNj_mS1njfhfH1HeOUXjZMYrkj8JzTklnQlJPqZBhKn65o66ic7Rs7aVoJT9sI99Gwf3tGanzuKWBBa1g.jpg?r=311",
+            "watchID": "81681295"
+        },
+        {
+            "rank": "2",
+            "title": "Griselda: Limited Series",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABaAiLMDp35XkQFC1L1NSaoGL5Ibgseo1Bx3FTj65GGT8Cm0Dwu6rL7LorViz3B3ji_EURTWiI4Sg-iwhqp503HaRqdM152sC80jMdcYcAnIZtzxwv0NeSg9lRNLBfe4gT4XB4Q.jpg?r=f7a",
+            "watchID": "81133452"
+        },
+        {
+            "rank": "3",
+            "title": "Berlin: Season 1",
+            "week": "5",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABR5s54at5blMVFdYYSN3zRS8SsBdB3_OgprCDeT-z76hL8J2_V1GDM_RertvYUn8P6umxuZejY53GXZ6P_Qr7BcicbvTpN69lOaGFmwhhLa0e5ADhzQ2cZx0JQixbe6Iuzg-Wg.jpg?r=4a4",
+            "watchID": "81586658"
+        },
+        {
+            "rank": "4",
+            "title": "Fool Me Once: Limited Series",
+            "week": "4",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABQiUMUPmxnwUfvB2-0bnupK1R3gjNljN2lET9kPwez7WOY6uWriHBz50xibELJLoym31wzFCTNltBi8XXGmm003c_wDYX3XuL26u-AAGO1jqPU3Av5NzSg8SNjZ3dvAkqIzlIA.jpg?r=002",
+            "watchID": "81588094"
+        },
+        {
+            "rank": "5",
+            "title": "As the Crow Flies: Season 2",
+            "week": "7",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABSR1qmOWCONqu-RU7WwUS3gPSQDpq-A-1DvBkSqid2vsCDkaB00v6_KLxiKmcCxWJnTtMCi_RL3XokxAvz6-HQ0Cyct7_79N-JcVO4dXcSHXv28AqMKnz_fMQXuXibfn8eK_Tg.jpg?r=f47",
+            "watchID": "81458346"
+        },
+        {
+            "rank": "6",
+            "title": "The Bequeathed: Limited Series",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABd1EueOHYj7hyhLgmj74RJMQbt2GpOm7gC1FrKHo4erYuMngEmKKIJ0grVPKphcyIhU_7mKmsvpRSxRHh2Ib78T381IPGj07Rjssl_NbC-tTbBlkuY_EtG2jLO8JBQ6e6D9E0A.jpg?r=9a3",
+            "watchID": "81608593"
+        },
+        {
+            "rank": "7",
+            "title": "American Nightmare: Season 1",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABWHmBLI6otYiRljuPQfbxcT-HoXacm0JtawjPpYEfE4GUShhG77k0kB244mAFIRMyqK0U2Mj-g2-rLIhgxOcQMLhv2sS95JNdfKRAwXLR_dKp2mgZq3Mohx14OiRZqlaT_WvKQ.jpg?r=c49",
+            "watchID": "81620853"
+        },
+        {
+            "rank": "8",
+            "title": "Cem Yılmaz: Diamond Elite Platinum Plus",
+            "week": "17",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABUPdiiLg8IwbcbMB1b1U4aLvtmEfpIRiiqXViqyb_T2pqGnRLC5d0S6EjphiH8HXp4LBWtRJ8ixNCAM7wzZKDQeAHUgB8nqgiG2c7CjatIJTOMz6NVKp8ValZWL1oF_C-OaMUw.jpg?r=6a8",
+            "watchID": "81222770"
+        },
+        {
+            "rank": "9",
+            "title": "Detective Forst: Season 1",
+            "week": "3",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABXayelR2P3sjEAql3ITzoBZs5rsIkI4J-V3WlicuiWgKmMwPZXgScMKn-4EyH9snp0s3ux91RggR0KuuXJ3I-plQqz6-9e4wh_SDA4aAG1C7UNK3K4Y1aMnrONtr7IvlBPaqHA.jpg?r=e9b",
+            "watchID": "81488785"
+        },
+        {
+            "rank": "10",
+            "title": "Masha and the Bear: Season 5",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABaOfTEjJkjbqnTD78Z8gVRZZ1-m3H2iJv88lPz_nDwWninwyKeo35-b2ve9b1XZc9ItJ-UWHJE0V6Pxd9UqkjEO_lJT4B1M8QZFh.jpg?r=f1e",
+            "watchID": "81500447"
+        }
+    ]
+}

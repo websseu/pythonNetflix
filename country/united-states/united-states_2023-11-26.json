@@ -1,0 +1,148 @@
+{
+    "kind": "Netflix Country",
+    "date": "2023-11-26",
+    "films": [
+        {
+            "rank": "1",
+            "title": "Leo",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABR9YD02PmX03dknG5uSpiOyCaRW7plNAeRYlh5pmRaYLHNxs2cDpZ5Xtv9gO58GkuEQH9ZXQy-qPxKUvILFzTmDAjSSuJQqodOCxhGnnLgAGm6T2pI5W1UtFUra9IKx-3wRkJg.jpg?r=650",
+            "watchID": "81218917"
+        },
+        {
+            "rank": "2",
+            "title": "Best. Christmas. Ever!",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABV9NtpXvECW2lc_lr04UVvQ8xk_7-V5BZxkW84qRRSDxkWh8Ncj8hOqfcHUG8CoySEbpw6zSBaFFUimee_PjyUtQSo_ix4F4okM4iI1X54DGogt0-ANFvTInFIcb3JWjoLCcZw.jpg?r=c95",
+            "watchID": "81416268"
+        },
+        {
+            "rank": "3",
+            "title": "Lone Survivor",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABfg7arX1JDZaEhLyUklRywIsqurtJ0f6zBQlhb94VGWqu_AeyqJQBSMAod6ewQFYcpLd63gULYSk2yMeHzI-EV_jWDvt7ukr2OLs.jpg?r=0f6",
+            "watchID": "70259795"
+        },
+        {
+            "rank": "4",
+            "title": "The Killer",
+            "week": "3",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABeMhNcjvtxjfmRkloHJ12ig9XxvixqfdH14bZ-JZKR3AhrdLGJ7aslHE2sUhEb3wi4GzBHoVzSulSdDhJsH6PXakSLnBurZphSr9cYAr_yO1vyzH1JkgZisoHbF21lBeg_6u-A.jpg?r=fe1",
+            "watchID": "80234448"
+        },
+        {
+            "rank": "5",
+            "title": "Minions",
+            "week": "5",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABSaUjl884aXsPwvkWkQa3-5lbgjxAMxW9TLr0kwEDth8hQEFQeMordZFc0XVPpHrYM2IZ7oKkbAoiIjWBcyCcRN12Coz0iPHvlM5.jpg?r=7d5",
+            "watchID": "80033394"
+        },
+        {
+            "rank": "6",
+            "title": "Spider-Man: Across the Spider-Verse",
+            "week": "4",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABa29JNGAraeNVyLruvnphoK8zlVuRuYJwfVM0Ylu1bn6yqwTYWWXlzu3ITFlwX9grz9NNX7oMPgISIFY4q-Jgpv3-cDlMa4ZHI3S.jpg?r=f8a",
+            "watchID": "81594921"
+        },
+        {
+            "rank": "7",
+            "title": "A Walk in the Woods",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABVnc89vvergGhXXbzvXkUgyeECMtapi8ScOgTdpEhcnTcQB0xj-ZMUJjuWp7fOaj7f28hhDZHIsf5bnV2r7SbdANabuq92vANlB5.jpg?r=81f",
+            "watchID": "80039049"
+        },
+        {
+            "rank": "8",
+            "title": "Real Steel",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABe8RQ7HoThMhIUyh4FjbDlN8mUa-Ya6j0rtDRxKSvU39yHxWFUGa-NB_Ke7GXAezsdXnIep4Kq113kK3HDUk_LYD72qqDrXmojMg.jpg?r=058",
+            "watchID": "70172929"
+        },
+        {
+            "rank": "9",
+            "title": "See You on Venus",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABbDlUhk_4cKE5YaQwTo7KFeLtuK6NMOQDl6v-GlnnsRI6JLtUkhTSdC_I4PTudTJ2DSFN9WsjlKjrhG3eNby6f5DxvLLqiCA2xGZ.jpg?r=0f7",
+            "watchID": "81648162"
+        },
+        {
+            "rank": "10",
+            "title": "Trolls",
+            "week": "8",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABXnhIUibDpTAjAH-HUjTMmJgb8_-CNqGxmFDGzHyIlH2Fx_WYqxTG2mAr2ws8k34MmdCW9kv4GVQj7bRQLZdsBRg_ZkMH_RokZln.jpg?r=02a",
+            "watchID": "80108182"
+        }
+    ],
+    "tv": [
+        {
+            "rank": "1",
+            "title": "Squid Game: The Challenge: Season 1",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABUMzkgqWDR5QEYwgZhxT1MUY_dsgz3S4-f1DwTVkdji4wK20KMFUWVZZoM7ei37PRVxjQUSTqPRapq7-5qvT2b-3xuwVierWgEGnY5yJ7_nH9W_MXUZxCylYVIE595bixtDLKg.jpg?r=9df",
+            "watchID": "81615541"
+        },
+        {
+            "rank": "2",
+            "title": "The Crown: Season 6",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABZFrdhfsm493w0AffglymbLAf-7_N1JYMH0JMuX3ULYPU8YIVEXqWUand7SOtax3LpK-9goFxhNyWKNGn-tTXLl5sskv4ld7DMrfliCVj-yIAlVxK4JeOKBSBY1Rg-xBZW3tWg.jpg?r=8c1",
+            "watchID": "81318160"
+        },
+        {
+            "rank": "3",
+            "title": "Matt Rife: Natural Selection",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABb5x2UDSMtno2ogZnsaU5yaeO3oCeYSq1RP0uHAkrCtrHTtpcz1H6jLViYdePsnK618bMMv7vLpsPOj1Ukh__O3pzpdEuxfsL0e305z1Ua-S51Bh84HMfjMOamHXM-SX4MGpLw.jpg?r=9aa",
+            "watchID": "81708429"
+        },
+        {
+            "rank": "4",
+            "title": "First Wives Club: Season 1",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABbFFrHPQjPWoNFJlZ2AVjeUJPhAjIWo_8-XeS_-lm7xpov0i3vcK-63LlEYGJ78gOGsQ7n34BxB1RmKNjU6Izrst5M1mibrFy4R7.jpg?r=b68",
+            "watchID": "81706056"
+        },
+        {
+            "rank": "5",
+            "title": "Young Sheldon: Season 1",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABRRPLixXZCp93Y6n6K3NIZc7Rzkb6YvA5j_msy7eFu4Bpci1P3V4gef43p0umHpj9Iah4LJVmHHdvMikKFs8MVjlb9NGq4PkWnxJ.jpg?r=563",
+            "watchID": "80192611"
+        },
+        {
+            "rank": "6",
+            "title": "A Nearly Normal Family: Limited Series",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABc7LBY4X4yQ9afQx_DxZthXimDMXECD7zVGPK1_hZmw4uYpcF3wCq2ka5YjkJwey7ueTwZOUPDNhjwvbSpMFfF5dFbwDysj0LSoAkD9NPFM2Zx20tfC3SukBoFxCDWAomvMRHQ.jpg?r=408",
+            "watchID": "81392164"
+        },
+        {
+            "rank": "7",
+            "title": "CoComelon Lane: Season 1",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABXdrgS6sKq60gjhhgmmYrxj8PnveKkcP1CJ09eASAVoiCAdy5S1WfGb6T7NiZkonmIgghgMgCS2TaEWFEvl3bDZGg-FpiC3zr9Wh-NseIRNNKxw98H43cQWUhX7IQqMowE--HQ.jpg?r=919",
+            "watchID": "81423473"
+        },
+        {
+            "rank": "8",
+            "title": "Mike Birbiglia: The Old Man and The Pool",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABeIOz2rbk_AQj6heZjmbVh0YLyqswlR9iFxl73CgGDmt46gkagv64b0g0amq98eqqBrvY5DYBXAXKtNS0HZ4W9YGqNbr8m6rGIey5RQYDm_t0UAmK9TOa2QBHK8P6UmwXfxY0Q.jpg?r=7b7",
+            "watchID": "81665900"
+        },
+        {
+            "rank": "9",
+            "title": "First Wives Club: Season 2",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABbFFrHPQjPWoNFJlZ2AVjeUJPhAjIWo_8-XeS_-lm7xpov0i3vcK-63LlEYGJ78gOGsQ7n34BxB1RmKNjU6Izrst5M1mibrFy4R7.jpg?r=b68",
+            "watchID": "81706066"
+        },
+        {
+            "rank": "10",
+            "title": "All the Light We Cannot See: Limited Series",
+            "week": "4",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABY75WYv2W3-SVs132Afvu3NFvgjeS8ayEdUtTDUIiY1Cnemyc4uLyYlCfpB-h975q9WuwpHLiivHK7x1mffFL0hK-IYOkvtIeUZzZoAqMCM4bGTY7fXXwuT69EE2gGWX3Q2V1g.jpg?r=c4f",
+            "watchID": "81083009"
+        }
+    ]
+}

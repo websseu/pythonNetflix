@@ -1,0 +1,148 @@
+{
+    "kind": "Netflix Country",
+    "date": "2023-08-06",
+    "films": [
+        {
+            "rank": "1",
+            "title": "Paradise",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABTgxr8vVe7vpiK0GUxLPOBju1xu-RTAIF9Odr4qufd8fFrLVbSkH5IBInD-Bk5N_x1MBqyrKqXoxO4o0RJbvHmbVKOABs51CAQKVArx9RyrM76hHAp5BeNjbo9Z9DW08mMNMig.jpg?r=9d7",
+            "watchID": "81288179"
+        },
+        {
+            "rank": "2",
+            "title": "Müstakbel Damat",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABZEfjU5biHW3RSKDFU-vuq1kAK4H6JM-a6aHCoKF9my6Wlj1A23PMudrpNdQ_oDzHDKueLEmiVsJ6dptjwW_EiTf_SGiYCnWhoNa.jpg?r=635",
+            "watchID": "81701106"
+        },
+        {
+            "rank": "3",
+            "title": "Soulcatcher",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABQez7QKowgduYTbKhF31hGZe_quKhgdQB80OrE9F1IHXqAswGLm52K3NKLfJN7X6Jb5bEjMzAeFNfztNqocA3V1fxpJsreAzCXxSIEftEGkyC1JKSWHJ_2da234nm1hIGqZyuw.jpg?r=509",
+            "watchID": "81498378"
+        },
+        {
+            "rank": "4",
+            "title": "Happiness for Beginners",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABU-3qIU_7eLZAI7BGrF1N1-KhxBfl_3wOKdGVqC5Vvf1pOtJRbrImFjBKq8Y6oqhr9R8X2_Z29PTaPhURXm4MnSK0fotLBjSnb8eFKk9bUQvNUHbMBwvMnSRmj-h796vaMSm4A.jpg?r=dcd",
+            "watchID": "81418617"
+        },
+        {
+            "rank": "5",
+            "title": "Crawlspace",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABU9oUsrt0zQ7sGIX2SE1slAL46OdsB8o6E411DnAwM92YdyC2xXJlpJ8OKvDCd6w5C8Cr_7Yh4y5EsYXYtGaU4Ya1e8woRhHS94i.jpg?r=84d",
+            "watchID": "81621600"
+        },
+        {
+            "rank": "6",
+            "title": "Love Tactics 2",
+            "week": "4",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABaxtFRWEGVTA3RS6k2Cfx13z8UHVTaaBGbF73aA3HHnY5qPuIbPTkvTrVH8uQpzfbuIvD65wMYP1w2oSCSudNWV9AWw_a0tbYijKqTLptZWIbG6-A7ePhot8gmQSCeXWWVHpOA.jpg?r=f3a",
+            "watchID": "81616015"
+        },
+        {
+            "rank": "7",
+            "title": "V for Vengeance",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABY2KqDuPt5BhjIDEN8fGErv-dToelwY5Ew24tBFbXjuGeIgZZJhnlAlw2epcubqcxGOx20ROAlvQwu71sPw6FKg1fz70lpf99oJE.jpg?r=a93",
+            "watchID": "81621599"
+        },
+        {
+            "rank": "8",
+            "title": "İllegal Hayatlar",
+            "week": "8",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABYwehlyhVp-2OyTuFObIbqXDhMiDqwEqCGIzG_pHkP1FLpAW1qGvHhK76xCWl60lOKl71WfkZj5Nd0NAsCvPRKHEXJWKo_T0iSbc.jpg?r=ddd",
+            "watchID": "81670660"
+        },
+        {
+            "rank": "9",
+            "title": "Kutsal Damacana 4",
+            "week": "7",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABWdosPbSrIE-Etfp8P_Z44839NtS-JZBaS1e17G7e9buqiySZMSAO7CYeZtqiwzZ62UFDo6QMlGlG5ArJoEi5RmHsQlYQ1keHMQC.jpg?r=69f",
+            "watchID": "81680691"
+        },
+        {
+            "rank": "10",
+            "title": "Bird Box Barcelona",
+            "week": "4",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABeAkhOz7isvXDi8zQ11Adzjt4xtCFgMLsJPVwcCyt-M5sQbI-A-qckaIG0s9A8jZAakuXTEi2BVhs6mFn_gv1x2cwMqSlLXAAXL6LU5MWpIzlqBAkwbXXm9ORQAIv-wxOVSvzQ.jpg?r=e32",
+            "watchID": "81404810"
+        }
+    ],
+    "tv": [
+        {
+            "rank": "1",
+            "title": "The Tailor: Season 2",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABU1T13yqc0hM36DJItVwG5Jh1SUqjYdeNQx0E1_q48cIz-ofcWtotLVEb4yO0wYmiSxlk-CKffVaIIhvfEO1HkJ2nYLVhHNfyYHD_81nDbufs8G56Ukhnf79BoHplSKiKkIKvQ.jpg?r=f36",
+            "watchID": "81590778"
+        },
+        {
+            "rank": "2",
+            "title": "The Tailor: Season 1",
+            "week": "14",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABTEQFwv75A8U2Ro45ZRZ_MeQH5Vfr4vHwJSGXCO5MpSWhYy0orT78ktol4cH0kAYaCIj4sDtshB_x8BIGpgZO6OXfs8ggBjFzuqC9oNTuHECZd815SoVBrHU5fY3m2gNh7m9FQ.jpg?r=2c6",
+            "watchID": "81590492"
+        },
+        {
+            "rank": "3",
+            "title": "The Witcher: Season 3",
+            "week": "6",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABfXyTm5DyRxcrwqZsfvtG5nSH0UHj7ro8XWvMKU3czKkxP3tIXywYG7A64sA3oWWBHUQYaJ8eaK_O9TUYqTUMdyltveajJe-MIlZ3sywuFFF08mG3YPh_sgYeJ670vfLamoiFw.jpg?r=23e",
+            "watchID": "81106534"
+        },
+        {
+            "rank": "4",
+            "title": "A Perfect Story: Limited Series",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABahE0UEzJCIR8jTI8anHR8uqQQaurkDPhiyTx13TsGD6cgRVDW3KTz4ybDRTfLnrdkld8mgglSB1VKoVs0eB6Xo1-0gg7bJuT4hClumQzFyf_Js2oATGq2czQFstu9y9Fsv6KA.jpg?r=df6",
+            "watchID": "81388034"
+        },
+        {
+            "rank": "5",
+            "title": "Manifest: Season 1",
+            "week": "5",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABSmwmbvniILlJQzHPONpTNgLgDdWBc5T3IyZ4dF64-mIFaeDJNIOD60YjGcO6T1O4kwcsk6R3QtFmpcFINRmEkYhGBVT_OZDbtJc5LeOdJaIpco-1mN56tzG0wDoT3jXhdv9zg.jpg?r=2fe",
+            "watchID": "81015482"
+        },
+        {
+            "rank": "6",
+            "title": "The Lincoln Lawyer: Season 2",
+            "week": "3",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABWqdwB1TXZDE2h6v6EQIxRcEPJXyHQ38Zr3uJ5cEO_dX-nhsUX28QFBk6KWUt5T945F_uX0OFuPURzo56UiEOzR5aG06iOGCug936FoBEi_H80b8b93j5ey2TjJOxmo9zcTuUA.jpg?r=e74",
+            "watchID": "81331784"
+        },
+        {
+            "rank": "7",
+            "title": "The Uncanny Counter: Season 2: Counter Punch",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABbaoZo_whGwzWm27GyjtG35wDT_h4eHKJHpY01dAC6DE3fPek7vUcfnbPw0XRWWpS3mHO0AAoW-CKkH2FiHgiFpoilknlXZbdy3VhyubdRnkxfvl4OGA8R5_EsW10ETGNTmHkQ.jpg?r=e0a",
+            "watchID": "81697445"
+        },
+        {
+            "rank": "8",
+            "title": "Cem Yılmaz: Diamond Elite Platinum Plus",
+            "week": "10",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABUPdiiLg8IwbcbMB1b1U4aLvtmEfpIRiiqXViqyb_T2pqGnRLC5d0S6EjphiH8HXp4LBWtRJ8ixNCAM7wzZKDQeAHUgB8nqgiG2c7CjatIJTOMz6NVKp8ValZWL1oF_C-OaMUw.jpg?r=6a8",
+            "watchID": "81222770"
+        },
+        {
+            "rank": "9",
+            "title": "Manifest: Season 2",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABSmwmbvniILlJQzHPONpTNgLgDdWBc5T3IyZ4dF64-mIFaeDJNIOD60YjGcO6T1O4kwcsk6R3QtFmpcFINRmEkYhGBVT_OZDbtJc5LeOdJaIpco-1mN56tzG0wDoT3jXhdv9zg.jpg?r=2fe",
+            "watchID": "81239443"
+        },
+        {
+            "rank": "10",
+            "title": "The Smurfs: Season 1",
+            "week": "3",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABYfkomdRQEwPsdMlH1lAhnzaAiJPREwMX-NPCbrStap_X_3b5JDwy46O5Fq6S_FtzSUbP8q3Ics3Wcm5BQVS8fcxZ2hqqNGY5Rnw.jpg?r=241",
+            "watchID": "81330961"
+        }
+    ]
+}

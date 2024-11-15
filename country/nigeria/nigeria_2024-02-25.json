@@ -1,0 +1,148 @@
+{
+    "kind": "Netflix Country",
+    "date": "2024-02-25",
+    "films": [
+        {
+            "rank": "1",
+            "title": "Mea Culpa",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABfzqt_VOwzrELfHX8eFXNfa6OiZ-LkntKkPOuo0i3qGPGHti8i4QYTMeMzsZK4nQtLeEfzQteUpcAUu8avO0P0vF4di4YAg2Ibj-AY8oXe77eEZDt5GBlcr4XEWvkVNS02bCvw.jpg?r=4dc",
+            "watchID": "81577005"
+        },
+        {
+            "rank": "2",
+            "title": "One Too Many",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABSOzIM7bVv_g8v2RmbLEgy3z5IyjGZENkAQ0k1MBRwF5WXkpZcl0d-wKvKrS7zszfqAHdxYjaZDK6hfLemSexMTnz37ubAYvoABa.jpg?r=6f4",
+            "watchID": "81709705"
+        },
+        {
+            "rank": "3",
+            "title": "Bloodshot",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABUCyZy-9iPdTLIaovlOgu44xlOB8_2fsUouLD4ZJQ0ypvrcoFap11y6lL_FkhOpkoaQTFf_IBAouU-e_jBoF-2aM8K32-3US9Ljb.jpg?r=ebe",
+            "watchID": "81171201"
+        },
+        {
+            "rank": "4",
+            "title": "The Abyss",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABaR-a_-JdayXc0AnWznVMDf7BlPCNulgL6asp3Y0EZ97QbefrJ3RNSB5aj6lc_1OaqOAYiWsIFUtqJZ4cFhYmDKomkU33Ixa59X7TlZ-MDtDiZ-d0pPNGRUOY05CAa01KT279Q.jpg?r=946",
+            "watchID": "81621532"
+        },
+        {
+            "rank": "5",
+            "title": "Players",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABdkaTTysILjjhOLv7xRktkS3WtxIbIXUCo6eMGZ4BPR-P53FuYK4KEo5Y99qtn3-uUa4UkJib5XArAy10mxQ70giACBml1INDrdqpYL5e0XPA8PIHOBwNgEoz_zvKR9n_gMkMw.jpg?r=b0f",
+            "watchID": "81034895"
+        },
+        {
+            "rank": "6",
+            "title": "Dunki",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABXCvdSZtlfrCZHtbxBUaTKYhoPEWRr2tQvF9_DgPU9uw310yFWpVwZZyvb181SM6wBiU_HHi02Ra0saLdLdalsNPsIGucXkJxxLE.jpg?r=e65",
+            "watchID": "81731618"
+        },
+        {
+            "rank": "7",
+            "title": "A Soweto Love Story",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABUjxMU57mEPNBf85hYittN5NhTmXOVK6Cs6xFXehNb9P4boEUCDHTpbxpUJlhUIY_oXBGYEmF7wuAMqX-tl-2LjDqSNUvBhV1w6J0ycdeBfEe9wzhKmuFRkMNQ1hGOgOQyWCJg.jpg?r=970",
+            "watchID": "81675070"
+        },
+        {
+            "rank": "8",
+            "title": "Through My Window 3: Looking at You",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABQm3u0zwei9pYBLe2O49l3Hz5MXcFjzK9MH3lVAdhR53FixmjErL99b_hKzAAqjBMZ--MIn5b9UD7nXrBmNVK92203qDR3ux5sQ6Ey7OYQBFnryQREoYRYFfgDqk95ObmwhxuQ.jpg?r=6df",
+            "watchID": "81484069"
+        },
+        {
+            "rank": "9",
+            "title": "Adire",
+            "week": "7",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABarhXkaQa8mtIQDIzgvXJT2hsNTn34PrBqbiIiVLDOzW-3axbTSlxIIgR0ZPRrBhtj4XuRSGzmt0YI2-malKvgbfFgTYsVtatEWf.jpg?r=4ec",
+            "watchID": "81730156"
+        },
+        {
+            "rank": "10",
+            "title": "Piranha",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABZvp8HwJYkjRo-2yLiU5BVI4NxgcTCekQGta3TcL3WfOQWoZCsvSqVYjprGB5Zj35UWB9DyPD5moJAB4BGi4nGoWBhN4WBxs6puo.jpg?r=bcb",
+            "watchID": "70108986"
+        }
+    ],
+    "tv": [
+        {
+            "rank": "1",
+            "title": "Avatar The Last Airbender: Season 1",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABdyImloETWzQKzaohq2yU1aqJK6-Xz-zFBAhYx93up4kdxc7FYwza_47m5FIIFkHZJ45VRn0z7zbefvR7OdEN6bRG4kWyLIa03niUBtyc3vovEQ9_x6SRNM7Afc0D2d29fyWzA.jpg?r=09b",
+            "watchID": "80237845"
+        },
+        {
+            "rank": "2",
+            "title": "House of Ninjas: Season 1",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABb58AFDaYudTnVNZD7HHh-I9e7bYJJ5tVCY40WWHvhUuO1Peoj1BL5uxM4eIMvy--hM5MaOi0VerM47JIi3ibpXk76ObUUdFFAges8rC3qUppdMcUpsk7Cgts4nw9-HI_y-ccw.jpg?r=cd4",
+            "watchID": "81465102"
+        },
+        {
+            "rank": "3",
+            "title": "AlRawabi School for Girls: Season 2",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABQy9ocmC50inUhdcftBCta5So9GazPpaCZhrKdStGjzWYqCembz3-DL76LjgvuO-egCWTt0vsyUWBF-7LvD1516X-KuWdr_3_58J_2PcYWzVUUcAXg2HLN_DJ22ESSgFgqY99w.jpg?r=f7d",
+            "watchID": "81218890"
+        },
+        {
+            "rank": "4",
+            "title": "Ready, Set, Love: Season 1",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABT3KN-ETF8lRn9Zf4LjR8KpgX8HSZ0ibMlB8PGLDyng-wlq_xsRYLxzfCV8Mi80IuSt4e5wi0SDnkOhSdwvybw8tK7KfuesX7yvM3lCr0pA807rgk5j5yE3U9lvnlQKwMnjVTQ.jpg?r=3ae",
+            "watchID": "81517159"
+        },
+        {
+            "rank": "5",
+            "title": "One Day: Limited Series",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABbES4aGx-B3Kpbiwx4w856Xes2OcVuj-YtXfaK12dK_2o_ZH99BHq_KPkmUXQmCjaG_ALTu6dxGJ47rjr-Mf0Uk5DZhOvq4yPaKVcv4wB8-pCbbooxFDJYnCDiNrLP915PMs6Q.jpg?r=1c8",
+            "watchID": "81256741"
+        },
+        {
+            "rank": "6",
+            "title": "Love Is Blind: Season 6",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABYa37NJFm0AIRtANJiRWtcpVFlaReYxZhzT4cHkLxxgd1WreSZzkB2SuThWHNoMiF54Pp6cVxHEGzC_6xd0DK7MskdU6m1rJBI8ixrizcirEADHx5ZvuDjSiXqvM3k0KFr4HXw.jpg?r=5b6",
+            "watchID": "81639894"
+        },
+        {
+            "rank": "7",
+            "title": "AlRawabi School for Girls: Season 1",
+            "week": "4",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABcIVBq4EGflHjR4oAqpYE7pEm9sw8p4ezQ5n_Hvl5MMQzvdg-0Qjt0LXhdNIYwzo8AkLXLItZ-O8avL8-X-LKAynGyJ-cErsb0IsXV1uNstJnmNBWC4b3XozQx8oFlSVKFXPxw.jpg?r=7fe",
+            "watchID": "81034662"
+        },
+        {
+            "rank": "8",
+            "title": "Griselda: Limited Series",
+            "week": "5",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABaAiLMDp35XkQFC1L1NSaoGL5Ibgseo1Bx3FTj65GGT8Cm0Dwu6rL7LorViz3B3ji_EURTWiI4Sg-iwhqp503HaRqdM152sC80jMdcYcAnIZtzxwv0NeSg9lRNLBfe4gT4XB4Q.jpg?r=f7a",
+            "watchID": "81133452"
+        },
+        {
+            "rank": "9",
+            "title": "Doctor Slump: Limited Series",
+            "week": "4",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABfQIXkFi3AMRnwGYE6JzvSLbSxhebS_x48KtB6QPYDdSEvJ7D4BCOXXkh9kJxxmB63XOuij3IpgRHBGfkIIhVqJPFFe1bb9sjeDnMkrjhJNPP3hPLG8TMBAdGoJVwtXmtInFWw.jpg?r=98a",
+            "watchID": "81697986"
+        },
+        {
+            "rank": "10",
+            "title": "Captivating the King: Limited Series",
+            "week": "4",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABW_TdgpQwA1gfaI9FF1attC4ty1Ibd8ewZ7v3viJLrhTzvCTNVfoOp3cRrlpJ967eQ9f5jXlg2UK6Cx_BgWuW37-iWvt2_-whXLmp7KhvPjwt4Nlx9BVhxQxi5YNls9XJOQWcQ.jpg?r=fdf",
+            "watchID": "81742989"
+        }
+    ]
+}

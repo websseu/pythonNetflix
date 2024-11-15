@@ -1,0 +1,148 @@
+{
+    "kind": "Netflix Country",
+    "date": "2023-11-19",
+    "films": [
+        {
+            "rank": "1",
+            "title": "The Killer",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABeMhNcjvtxjfmRkloHJ12ig9XxvixqfdH14bZ-JZKR3AhrdLGJ7aslHE2sUhEb3wi4GzBHoVzSulSdDhJsH6PXakSLnBurZphSr9cYAr_yO1vyzH1JkgZisoHbF21lBeg_6u-A.jpg?r=fe1",
+            "watchID": "80234448"
+        },
+        {
+            "rank": "2",
+            "title": "Best. Christmas. Ever!",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABV9NtpXvECW2lc_lr04UVvQ8xk_7-V5BZxkW84qRRSDxkWh8Ncj8hOqfcHUG8CoySEbpw6zSBaFFUimee_PjyUtQSo_ix4F4okM4iI1X54DGogt0-ANFvTInFIcb3JWjoLCcZw.jpg?r=c95",
+            "watchID": "81416268"
+        },
+        {
+            "rank": "3",
+            "title": "The Bad Guys",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABRniME-HasRI23PQ-eTC_nJFh4xeWuvnyc7IT7M868s0t3-7DwaIlGijtvsgv2WSZNWbKpjRbb1u29GdOXIfRP8W5vWAun8SNkds.jpg?r=a6e",
+            "watchID": "81513703"
+        },
+        {
+            "rank": "4",
+            "title": "Marry Me",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABcAJqWibP1koHwJCgBf25UpS2mBBLKzXJb4wK_FceJFiFt9IbsFs_jd8FF7xs0WCJjqgBmFvov6BqAAoo5OyqHESirAhjYxvN9K1.jpg?r=ad0",
+            "watchID": "81041317"
+        },
+        {
+            "rank": "5",
+            "title": "Pain Hustlers",
+            "week": "4",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABSCIbIAhy29Qvh4qN5seN1ckS6I5glHaeTOe3zpDvm9t6tbxBne8YuqAhW6IzlptsF5dTI8Xvskl2ApFK-2cG33h961xZ5b6HKMSTNK2csaxk70qNByBfVwhn_uWfasNHVIaxQ.jpg?r=c8a",
+            "watchID": "81614419"
+        },
+        {
+            "rank": "6",
+            "title": "Dr. Seuss' The Grinch",
+            "week": "4",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABWhz3CzETp2fUHow5PLmIWiXZFrdSxOYQJH-lhG2XCaFR5r50kymplZgXMmbXeDZle7Rd8RyW3O3BlEuZ4mKl12xEJFLYE6iasc9.jpg?r=19c",
+            "watchID": "80996790"
+        },
+        {
+            "rank": "7",
+            "title": "Locked In",
+            "week": "3",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABe6AAWYnjdQgLZFtGM3-SxbBeJsozZRPX_bKbknvkKZAdVRkBH5AUTPdvTtAuWoi2BNeRJDyCGbtChAIcFcTjVL6NuD6GiUUbC5enQjbiws7QVOkJE-YMGFJd_Zj349UXUFAFw.jpg?r=f20",
+            "watchID": "81500381"
+        },
+        {
+            "rank": "8",
+            "title": "Sonic the Hedgehog 2",
+            "week": "3",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABS4qT22lFWnu-JjuIzgwDpjtnBq5CxB-Noh5w4l3L5ZL5ryqWTuemv3vdl5Gf_SnB_oqvWRn0njnlJlukrnvrSpz_mb6WQN2L96t.jpg?r=9ee",
+            "watchID": "81511780"
+        },
+        {
+            "rank": "9",
+            "title": "The Lost City",
+            "week": "3",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABX7lrc1RD5E7-3Ozxm_3BpIr8gm7XhPXu8jvE4M0u32f9yn56XLW_3E-w1zcuG1Y9zluaT4YbT7B3NXXzsbfUs9azpQUrdV9omlb.jpg?r=396",
+            "watchID": "81489832"
+        },
+        {
+            "rank": "10",
+            "title": "The Secret Life of Pets",
+            "week": "17",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABYmjR57wfDhPtq2FSDt_r6mJu-XL2n1X4jqeSukwo5sAMQoA8wJLVb7QqyDDnAnuJoCxAzXjzGwnEnx7FOSur-CidDXykUe9zTXF.jpg?r=5f1",
+            "watchID": "80095314"
+        }
+    ],
+    "tv": [
+        {
+            "rank": "1",
+            "title": "The Crown: Season 6",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABZFrdhfsm493w0AffglymbLAf-7_N1JYMH0JMuX3ULYPU8YIVEXqWUand7SOtax3LpK-9goFxhNyWKNGn-tTXLl5sskv4ld7DMrfliCVj-yIAlVxK4JeOKBSBY1Rg-xBZW3tWg.jpg?r=8c1",
+            "watchID": "81318160"
+        },
+        {
+            "rank": "2",
+            "title": "All the Light We Cannot See: Limited Series",
+            "week": "3",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABY75WYv2W3-SVs132Afvu3NFvgjeS8ayEdUtTDUIiY1Cnemyc4uLyYlCfpB-h975q9WuwpHLiivHK7x1mffFL0hK-IYOkvtIeUZzZoAqMCM4bGTY7fXXwuT69EE2gGWX3Q2V1g.jpg?r=c4f",
+            "watchID": "81083009"
+        },
+        {
+            "rank": "3",
+            "title": "The First Days: Season 1",
+            "week": "3",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABeRlrXBxc01HUHDi-Jr37fj72mxmd2NvjYITEq-aJfpWEsU6-MkrcMXgJlCI7RqdbKf51GUBj6XYC-tFy6EVH4TlCBJG4N5UWgCM.jpg?r=58e",
+            "watchID": "81697046"
+        },
+        {
+            "rank": "4",
+            "title": "The Fall of the House of Usher: Limited Series",
+            "week": "6",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABdc5-i_cpah9S6NQ9Nv6s5PVSSrJJrHguFVrd2DlPochb7z9SGHyw7EKvfifCP7RWhCPtHQWidkAHIh3v0C-qpblXOGKaf-4WxBFfunUKyPZlUD8UBTkbC8Eq74-YzRFUbXXiA.jpg?r=c10",
+            "watchID": "81414666"
+        },
+        {
+            "rank": "5",
+            "title": "Lupin: Part 3",
+            "week": "7",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABVyy3lz0VWzIXapBxi_XaQGGjn3j3PJcMEepgXoHGlEmFRRRzVhYBJQFgHSqNWwo1syQkLKjQpLK3xU6VIJdtV2s74NymJFx1e97Yqx9EtJn0mowFQkdGekScU-bNDhUGOeDjQ.jpg?r=0e0",
+            "watchID": "81410569"
+        },
+        {
+            "rank": "6",
+            "title": "I Hate Christmas: Season 1",
+            "week": "3",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABWbREAihu56e0I4dA94CYb9ffJLudV-N6W-GjoNvQYcmjnFkQn33cvA1f7spbqGDvU4oLCcNT02XEFMae6g_sAefZ59yyZKS6ANcBBavbN8PCQB9Yw4eHiCXKTM0g2qB-enJpA.jpg?r=130",
+            "watchID": "81414649"
+        },
+        {
+            "rank": "7",
+            "title": "Lupin: Part 1",
+            "week": "16",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABQVWRa2FVdtmigVWmJvWKgDZ9EnM_mtZEgdM9oYM9Q4XdgQgB8kbVyJNQUokRn912RSnU1nVUk0zuozX53aZysq2wgpKoBULK3iNfxx0GkPmY9NXQc_Mh06y84C1CbvXg0tejw.jpg?r=a75",
+            "watchID": "81010119"
+        },
+        {
+            "rank": "8",
+            "title": "Life on Our Planet: Season 1",
+            "week": "4",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABeIILt0k4_ETBwXQvHG709HoIt4de3n6dWbi6S4nZQTxOlphMWO5EmjmHiYBsJYSAQFQHG87u8r0pLvj0w90YqvsI0Qkb33sh8sZ2B804NGkF2kWO5CzL-TpSciRiiRw8-idZw.jpg?r=4ba",
+            "watchID": "80214514"
+        },
+        {
+            "rank": "9",
+            "title": "Lupin: Part 2",
+            "week": "17",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABWS2njitRY-0ofDhj4aJAr3CTZ-vdtU97pr4J0IbIF35hSSQMMOQwMGiYoECXxFXg_w5wvI72hU5ja4Dmfo10CjiYJRxp7jQ4KjbSzB10hCgpgDOJN-NCEF5P6pvqFN8dkSTbw.jpg?r=a03",
+            "watchID": "81031848"
+        },
+        {
+            "rank": "10",
+            "title": "The Fall: Season 1",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABV1IAAmLB-s37a1HuDlifMvL6f_zoxaP_na3xjW1Sy9815U6HGEBS2fw73ydSGpAB4dV8tAmR3FQ26zAxJ20mTQByizxCeN4Exx2.jpg?r=521",
+            "watchID": "70272399"
+        }
+    ]
+}

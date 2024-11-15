@@ -1,0 +1,148 @@
+{
+    "kind": "Netflix Country",
+    "date": "2023-11-05",
+    "films": [
+        {
+            "rank": "1",
+            "title": "Wingwomen",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABaYkq6mnbFgc6DR7QCUgQ80aRt8wD2LHWnIBL534gdY-dt3zsL3L4feYz2KQZcZaI-jw0jbZJzAS4_wveZD-9D-tCs_AFVTv1xLm4wW_kadSkPtjtiU4UA-Nr10R3xSNyjjmdQ.jpg?r=dcd",
+            "watchID": "81282091"
+        },
+        {
+            "rank": "2",
+            "title": "Locked In",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABe6AAWYnjdQgLZFtGM3-SxbBeJsozZRPX_bKbknvkKZAdVRkBH5AUTPdvTtAuWoi2BNeRJDyCGbtChAIcFcTjVL6NuD6GiUUbC5enQjbiws7QVOkJE-YMGFJd_Zj349UXUFAFw.jpg?r=f20",
+            "watchID": "81500381"
+        },
+        {
+            "rank": "3",
+            "title": "King Richard",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABWYlJd80IoQ9gv5nlcXMzNGRmmh64Bi_kNNMWAXpYZmG7Qr9Uis6zBBbIyk677GKJoecWsGG77ScUt1wZ6851EOyQgYANKO_-uVT.jpg?r=2ac",
+            "watchID": "81039550"
+        },
+        {
+            "rank": "4",
+            "title": "Pain Hustlers",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABRGpf98-Tn3qT_KkOCgHCtLRVCLt4a8XoENwUnrRxPWkCywRYz_3snWOH8Dl5n4cJ7_00GweY5FxRXkH94m7_3z_LbKX1JxaG_aL1rVBWkakuwBHNS2xN0N80J1OziUnYmoeMA.jpg?r=176",
+            "watchID": "81614419"
+        },
+        {
+            "rank": "5",
+            "title": "Nuovo Olimpo",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABXz-FdMJZXhc6p4dPNO9216WOiuya55yyP1zJt5XwHOTJ0R-ePhWg-gnVrBgBZtboZvj8ksXx5pCYAE-9bqa_xrh7Z8NVkgatg7nu8mVvxOYTXZU1akdumhmRs3CsZ-UYOSb3Q.jpg?r=c59",
+            "watchID": "81645391"
+        },
+        {
+            "rank": "6",
+            "title": "The Unbearable Weight of Massive Talent",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABYUF3KwGn5CGBQQX2rxCB0Mgb1VSyK18hkmuO9_Efb1qCC-grfE0XYfhUpxW8S9rMIZAtNAyBH-DmhS5h0NBNicaKJvP77rSXf3X.jpg?r=b68",
+            "watchID": "81333286"
+        },
+        {
+            "rank": "7",
+            "title": "Sister Death",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABXOC9DAj_r7LuFo_YZhkVqjGfMuLnPwzwbTpeoNJjlRIaHiGX_UJzAn_Sw6HNwhcma7fd0FyNCUQBh7aRU09i_b6x3BNV3yN4EsPxLNzfHbby9HhOTrpQ9zS856YD78VX2oc7w.jpg?r=0ee",
+            "watchID": "81478662"
+        },
+        {
+            "rank": "8",
+            "title": "Burning Betrayal",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABYMYthUTLx645t4XAirCzA0m3uJUteK7Ifzwn2mHbbaimalsi_ummUXz0alB7Nb2uNYJuT1v0B04ryn1hQvwYg8val24wyd6x0a2VIu8QgKrvY4WhVeoVQssCGKN07our0d7KQ.jpg?r=25c",
+            "watchID": "81446391"
+        },
+        {
+            "rank": "9",
+            "title": "Monster High: The Movie",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABTvNQyYoVKcQwnTvUof9ImTN4YrFP4mrSN_h0u1KvGHJOm-blhHfSJCJeRJneo3TR9n8EE0lqfQDZVjUhuP894dt43jalh6r-exp.jpg?r=2c2",
+            "watchID": "81719217"
+        },
+        {
+            "rank": "10",
+            "title": "The Lost City",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABX7lrc1RD5E7-3Ozxm_3BpIr8gm7XhPXu8jvE4M0u32f9yn56XLW_3E-w1zcuG1Y9zluaT4YbT7B3NXXzsbfUs9azpQUrdV9omlb.jpg?r=396",
+            "watchID": "81489832"
+        }
+    ],
+    "tv": [
+        {
+            "rank": "1",
+            "title": "All the Light We Cannot See: Limited Series",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABVgGga9aXug7ZD25alDJtNjowvlLQ9kKNQv-ELR3OnyPPr6X7nVGDzKa2Hf7LtVN2n9Irl3DSF8VPgNe1V0BV8biYQUJq1lqh4iQPKZfEe2MeRJMyoVESTFsQ0WEh8-EcQ9i4g.jpg?r=bb5",
+            "watchID": "81083009"
+        },
+        {
+            "rank": "2",
+            "title": "Bodies: Limited Series",
+            "week": "3",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABTaeKuu7BfKhRMGtGLsko372FFUi0a_mDU9r5IgVJ7UIFjmpVg5j7MOU6Pp5mjGMoNtg7J0YMeWKHXPOcB2H8lC9ToLL-C4tNMWAM8iO09xjVTSqRe14TYUCE1BPf3xIcMi8GQ.jpg?r=8c8",
+            "watchID": "81252917"
+        },
+        {
+            "rank": "3",
+            "title": "Lupin: Part 3",
+            "week": "5",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABVyy3lz0VWzIXapBxi_XaQGGjn3j3PJcMEepgXoHGlEmFRRRzVhYBJQFgHSqNWwo1syQkLKjQpLK3xU6VIJdtV2s74NymJFx1e97Yqx9EtJn0mowFQkdGekScU-bNDhUGOeDjQ.jpg?r=0e0",
+            "watchID": "81410569"
+        },
+        {
+            "rank": "4",
+            "title": "Elite: Season 7",
+            "week": "3",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABXrYvK-viBtJTwCyskNF3HHabzDJ_4lYMC_d80SCflwlxlQ8Cb59q_smVvvbZnu8Kvb1HR8Wr5_UGT8y1HfslAPbj2qZLoGxROjrYdDbltLQyCFjOnMT-UcAtCMhvCNkhByGzw.jpg?r=f35",
+            "watchID": "81588713"
+        },
+        {
+            "rank": "5",
+            "title": "Life on Our Planet: Season 1",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABaWpWl7oP2GUlMuEkP6Fx8iH6xWxdBDUqY1Qi39uP4FN5RdheeaBRXYDoiHlRVUqr7z8kJsRxtHcJPH6AbuaK0cRIj8yvCRvwbIIqq4odJoVHnKLYZPTEdDTa7ejdLLqOgAfGQ.jpg?r=3d2",
+            "watchID": "80214514"
+        },
+        {
+            "rank": "6",
+            "title": "Beckham: Limited Series",
+            "week": "5",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABfjGC7umIWYADp0ZcCQbLddexWIDMhTS9SqjJ1rXBSihC2iXYfpLGk8ea9j5FDA9w88cfuvf3dhDwkNZ-v_3VM2fv6k5JUj6t9oiscCgjkp47ALdaRZcHYDD8bmr6hqjKHSZPw.jpg?r=5bd",
+            "watchID": "81223501"
+        },
+        {
+            "rank": "7",
+            "title": "The Fall of the House of Usher: Limited Series",
+            "week": "4",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABRbseSmmbiDDeu_TkAWGqbWITeqUAyJmYogBXkKrwPYzCILigq7sv0bwQUKi4gF2OGeyoXqETGhOeNqP22JNBe58ilYqCWtcmw_odSK1ghAkrdoXXAxVslCFnhW7BmQiyOZLxw.jpg?r=312",
+            "watchID": "81414666"
+        },
+        {
+            "rank": "8",
+            "title": "Lupin: Part 2",
+            "week": "9",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABWS2njitRY-0ofDhj4aJAr3CTZ-vdtU97pr4J0IbIF35hSSQMMOQwMGiYoECXxFXg_w5wvI72hU5ja4Dmfo10CjiYJRxp7jQ4KjbSzB10hCgpgDOJN-NCEF5P6pvqFN8dkSTbw.jpg?r=a03",
+            "watchID": "81031848"
+        },
+        {
+            "rank": "9",
+            "title": "The Tailor: Season 3",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABTwoxthpFhR56eEtBi4J3AUMt5jhaPDBDQAm38O2Zf09DT1Vt9N4aQbutgC-DkC5jSK7KTeg6Metzb8xuCxtIJOJR1ujTdT2pPYxyA6Pvoep4J9gLgJ4gxSwFw7_J0YXVqNYKA.jpg?r=fef",
+            "watchID": "81636524"
+        },
+        {
+            "rank": "10",
+            "title": "Lupin: Part 1",
+            "week": "5",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABQVWRa2FVdtmigVWmJvWKgDZ9EnM_mtZEgdM9oYM9Q4XdgQgB8kbVyJNQUokRn912RSnU1nVUk0zuozX53aZysq2wgpKoBULK3iNfxx0GkPmY9NXQc_Mh06y84C1CbvXg0tejw.jpg?r=a75",
+            "watchID": "81010119"
+        }
+    ]
+}

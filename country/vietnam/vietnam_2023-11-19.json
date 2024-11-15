@@ -1,0 +1,148 @@
+{
+    "kind": "Netflix Country",
+    "date": "2023-11-19",
+    "films": [
+        {
+            "rank": "1",
+            "title": "The Killer",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABeMhNcjvtxjfmRkloHJ12ig9XxvixqfdH14bZ-JZKR3AhrdLGJ7aslHE2sUhEb3wi4GzBHoVzSulSdDhJsH6PXakSLnBurZphSr9cYAr_yO1vyzH1JkgZisoHbF21lBeg_6u-A.jpg?r=fe1",
+            "watchID": "80234448"
+        },
+        {
+            "rank": "2",
+            "title": "Believer 2",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABTUhk-eacuBVhZ-_mvEmAxrN3yWmvw9VcJzDTF0GCWyhntzc_Paroeva9t0c_zEMiXfVj2K2LZDtcRFswJSBMFBB4hqFeMpaksNj2rlb8MCO7a-6PjP5Ey7enm_73guMNnDaBQ.jpg?r=9d4",
+            "watchID": "81594923"
+        },
+        {
+            "rank": "3",
+            "title": "Home for Rent",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABbdsgyQ07vmmZNEF20omQtS8KYslwFxYkDB8QJq-k2gac1tg53i1EAEhNxaw9OarWy5xYaLxpnK1Gfqen6z6WT7oxX3s1xEowq6M.jpg?r=f37",
+            "watchID": "81696795"
+        },
+        {
+            "rank": "4",
+            "title": "Hustler vs Scammer",
+            "week": "20",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABZrQSOh5ozpcYAFItvwyTRd5fp05rBZ30WU5iYsXh6fXkdZhvP2DXM5VYiDOz1jRPXJ_abCdIo5iWPQ2AJI7u6eFlOQ1Fkfq5R_e.jpg?r=296",
+            "watchID": "81676438"
+        },
+        {
+            "rank": "5",
+            "title": "Face Off 6: The Ticket of Destiny",
+            "week": "12",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABZ6x38ukvtjEXbtj9JEIm_gtxEruL3oMsUB2RMQddLu3nCosx8I_Bf-qNMbv2DxKZk9YFL5NP2MlSlvmh05li_pqLYLsgtgyIAaE.jpg?r=752",
+            "watchID": "81716251"
+        },
+        {
+            "rank": "6",
+            "title": "Persona: Sulli",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABb2rDx8UUNtwRFt1w2IoQ__u1xWko9ZaucVdhVFyNi4eMuf-9YiGs2OWN6cOdpCGsKi_mowPZnfLqJEQxwnhpwuWroalJ2MG_Sav.jpg?r=db8",
+            "watchID": "81354733"
+        },
+        {
+            "rank": "7",
+            "title": "Believer",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABTKufybPWqe9QUq3DnzyYKmPCkk3u06eXEbEqHpN5YeV_qFflWhVAi9XDo82s3ZtDnZjoyoIif1eGPNmNWef53W7VTrmmLQCSvRs.jpg?r=b57",
+            "watchID": "81002312"
+        },
+        {
+            "rank": "8",
+            "title": "Paw Patrol: The Movie",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABZIa_sYDgJmWe93qdFoLzGl9wpeT3bLLp1jeAhdxR1u9A0BJlzgY5A1Vw1R9270tD_9lcnRktFmaAEZT2nmUeJtfrfm0qcz8TPD2.jpg?r=c74",
+            "watchID": "81416774"
+        },
+        {
+            "rank": "9",
+            "title": "Layer Cake",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABfoMaVb0OYE0UOHSvUPcDhHaCpKHAu5OrhFhVpD2smGQZo8z5S_Dak_4-hQ64qQx3wKYZ_e3Lhn7KgPiEkfYVMpj65g6FbwZsyT-.jpg?r=b38",
+            "watchID": "70020730"
+        },
+        {
+            "rank": "10",
+            "title": "Murderer",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABSse41oCPG3wV8mciDTaI3ahxJ-x5yk0E-R9G3aD2pHh7VCXbyYQHrnz6OauFhyy5JA8ZI6zhTXH0Nu4fdVE6auGtBgPRUH-CSnu.jpg?r=c4f",
+            "watchID": "81725760"
+        }
+    ],
+    "tv": [
+        {
+            "rank": "1",
+            "title": "Hellbound Village",
+            "week": "4",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABSRzVOuCUtRJepX1ZpEsKuEXAVUNoRw6AP-e75E0Ghu1Vly-47FtGnS3cjA1455XqDKtUDtmzaGHu0E7CmwAcJJknNxiKEp3CcJz.jpg?r=a15",
+            "watchID": "81731698"
+        },
+        {
+            "rank": "2",
+            "title": "Strong Girl Nam-soon: Limited Series",
+            "week": "6",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABVRbt7mc5idOj29q7_0_fg4sJKQ_aLlJvdgbnO2WKxA8M1tcjd8d3l-AE0lu20JoxO1eVk9CkQgMJTIYFYKudm-FYgaPD_75a_GWpS8qF4QeguvJeIB-W2mQz5bOCA9YmWNKWw.jpg?r=b45",
+            "watchID": "81697982"
+        },
+        {
+            "rank": "3",
+            "title": "The Apothecary Diaries: Season 1",
+            "week": "4",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABUUgVYRkxtofA8UYyjBtZq6wm48qZKjhgv3k-UOWCVhZgwWM_-jl2JxQj4ie-O2Mp_hKxEG8cdmL3s8QuX2qM3mkxVd_ETRtMY-d.jpg?r=b98",
+            "watchID": "81712071"
+        },
+        {
+            "rank": "4",
+            "title": "Castaway Diva: Limited Series",
+            "week": "3",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABdX5_IVyyFmxvu7xIkPwXJMDrPh9A0sCkZKWpjL6PKav5YLsJetUc2sggaOWGfwu4gjl1p41msXn4bJ5uoGitIblJfQSD064BWIAhgnTsgRxr6alt6TmYlKaxA1c3Rooe9tIRg.jpg?r=fdf",
+            "watchID": "81701129"
+        },
+        {
+            "rank": "5",
+            "title": "Doona!: Season 1",
+            "week": "5",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABdrZ-UDPJiFfs3Ghv0HpzWpABGNhIw-hUc1r7k8ssN4hMDxtJmRNWggQwFDYfwGbgteUFzitAkJTIZIEjs6r7p9cJJdOpIIJqBiCaqqziwWcjzMpmuyD3xJjqCHNCYsUvgIlRA.jpg?r=2e5",
+            "watchID": "81595047"
+        },
+        {
+            "rank": "6",
+            "title": "Daily Dose of Sunshine: Season 1",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABSoCsrSCP4QUx_1zxKEji5KO9y07Pf8jMAWpxAkXXcZEJmJaANJC89_plAKWDSaC1s5qbjrH3vti7pmuQKMFWLJbi4eG_YEi2mRyM_TZ3719KkYAgqz6nYeHhLbaMbOFXM_7tw.jpg?r=f7d",
+            "watchID": "81572596"
+        },
+        {
+            "rank": "7",
+            "title": "Criminal Code: Season 1",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABRMx1u6uQ6IAEA9Ci-pg2MD5jSQ6N27mhVb6PNO_D_pXkwWQx7v0SXbY8_2mODRzaawfatMdu3XI4AwHMWPxYqk7GAdFw-hDGRcalnfOyAAQY3iBxuc7CZ3VloNRgt1aHOFeOw.jpg?r=eb7",
+            "watchID": "81442395"
+        },
+        {
+            "rank": "8",
+            "title": "SPY x FAMILY: Season 2",
+            "week": "6",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABcoFiMbvAxeQPhQXmfhs_1xcg12oEfP4TKjUQ6EdFphMRmh5D2ybpm3QFgEgcTZ_D1tE_XmIGdeQoj-f4T2KpQMIGNlWgh9CIU5g.jpg?r=d41",
+            "watchID": "81728979"
+        },
+        {
+            "rank": "9",
+            "title": "BLUE EYE SAMURAI: Season 1",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABZR02peZX3oz8PinY0974DWBCbUz66X6mBNZGEGiRuVsGCfDVqykMPT5wvnUUTAU3nrRb38npVmMqQcD0ElkDb2hX-Kc-c71HEgJLCzl5ZnzLroFlb-KWTqkZcHdI-uQtLG-Og.jpg?r=17a",
+            "watchID": "81231576"
+        },
+        {
+            "rank": "10",
+            "title": "Jujutsu Kaisen: Season 2",
+            "week": "17",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABceqBhMOfhNVONyEDDHsxgu5M_RfeAp0QIXJ43zJ_TW59kKqilsGdpED51WD1JZgixwaxvMaH9LvDqD35-CR-_oytBZQ4Ua1CwHE.jpg?r=932",
+            "watchID": "81705280"
+        }
+    ]
+}

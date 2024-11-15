@@ -1,0 +1,148 @@
+{
+    "kind": "Netflix Country",
+    "date": "2023-12-10",
+    "films": [
+        {
+            "rank": "1",
+            "title": "Suzzanna: Kliwon Friday Night",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABXpnf_axL06c9to7up9jKyhP-sEWrM6QbPtUzLwnZiMGSlyfuGQcwF55iDHcgYmr590Yoe29sPNfyWeOfAN8iLQt1rwLdyycmge0.jpg?r=1df",
+            "watchID": "81720031"
+        },
+        {
+            "rank": "2",
+            "title": "Sing 2",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABX_VZG8yTtVdfSuslfBU7spH8stYENgFERRxnxMDUI9gZLpl09CwcyHvcYCl3cvkrVnUSYdHtf0XH8Jfc5LfoJISTIvnTBeYC2FR.jpg?r=f92",
+            "watchID": "81475311"
+        },
+        {
+            "rank": "3",
+            "title": "Leave the World Behind",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABQ2M698cS290lYfZ5K2qMdLBU8bvRtIjZJB2gEpifmuRGSDYpZtT19Btt4OxvPu7KOH6AMKkSFCZeTIkUpn4cSMUDhl5STPNTMKwdtHZHtErWPfgLOAbPA8-BsM2jtwmTHY6Gw.jpg?r=a50",
+            "watchID": "81314956"
+        },
+        {
+            "rank": "4",
+            "title": "Ketika Berhenti di Sini",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABcLcWQKg5SIwdRsntnKXBcO0lYyE40Hiw2KuQqjxYYUNTDq0ez80ybdtW74mgUmx9qZn7kzwIAbHt30QCCLsu3KFHtP1oYyIbFoE.jpg?r=e23",
+            "watchID": "81716462"
+        },
+        {
+            "rank": "5",
+            "title": "Spider-Man: Across the Spider-Verse",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABa29JNGAraeNVyLruvnphoK8zlVuRuYJwfVM0Ylu1bn6yqwTYWWXlzu3ITFlwX9grz9NNX7oMPgISIFY4q-Jgpv3-cDlMa4ZHI3S.jpg?r=f8a",
+            "watchID": "81594921"
+        },
+        {
+            "rank": "6",
+            "title": "Family Switch",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABbfh6iFgKTtSPKKipjVCfq2s6YB_TcVY5vwqUVuv3f1XAsqSabulcFbL0BBMTVLC-U54oEJ9Nsg-0DbofadBwVpBy9RLXsiFjRNmcAfO_gP1wMnXbA29dJiDPIwJml1IktN1jg.jpg?r=825",
+            "watchID": "81305096"
+        },
+        {
+            "rank": "7",
+            "title": "Doraemon The Movie: Nobita's Sky Utopia",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABVKHX0cT30z0oIZuy043pwDDNr4Z51iyyfA92kr6_k4gSK_22l2UlvzGpuPfaEJL_YDjBUkS9nohX85bkkGEI9ZP_Iq8Yq5Jkm0f.jpg?r=c47",
+            "watchID": "81734386"
+        },
+        {
+            "rank": "8",
+            "title": "The Fast and the Furious",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABbAAWdnY2B1JP80kRAoNQAaOtifN6X_YDwRMU9OOi2YvaMAxOZ-QiOLj2fkpFcGs-wS6nL7Zdxlm4hrtopFKR-o0UOJLhGuFHySu.jpg?r=927",
+            "watchID": "60020747"
+        },
+        {
+            "rank": "9",
+            "title": "Bloodlust Beauty",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABQT0PKBC20veiA64i_nVlqlsQCvOdkVLfPnG7R_dsMA88221NwU8s2mozINK3AuAID9vVC8CzFYH7k9GITnDMLmIKUr9UASgXHe1.jpg?r=e7a",
+            "watchID": "81714271"
+        },
+        {
+            "rank": "10",
+            "title": "The Fast and the Furious: Tokyo Drift",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABSvlUKw2bIMb8BWXDfGn_m1jksPiikXLXYIz2Qa2WKttwPfoh0c6Uzl9TaE_H0-lHNSc3SKtw2YqwEZK_uyZaRoHf4JJKvMjhomE.jpg?r=194",
+            "watchID": "70044885"
+        }
+    ],
+    "tv": [
+        {
+            "rank": "1",
+            "title": "My Demon: Limited Series",
+            "week": "3",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABYwuwYQ4ssxwotf7JDovNGLTKTcoWHanQfXRtz75vTorJvwtqRP9J4F0QDSYQL58VclW-rNgZ03YOKeGi9y0XwB7TBK9KNyQ2PXSzhhmC0ZcCDRcX03Ov2QUYeqU_vFvQcJ0nA.jpg?r=44c",
+            "watchID": "81716081"
+        },
+        {
+            "rank": "2",
+            "title": "Welcome to Samdal-ri: Limited Series",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABW9JP26X8CTpM58aJ-BfFGApu3VTokw1GmdGo3VeUgVRaTrg-lGXiNwiNxS_w1ydFh1HBwrsOdHgHW7UIGrJhM4uoQgzlXPbcwSdLAidHsJJOiONtH0zxUkxxhaytRNkWoeVIA.jpg?r=3e9",
+            "watchID": "81697984"
+        },
+        {
+            "rank": "3",
+            "title": "Sweet Home: Season 2",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABRYyQbZdpJE9UeJ9zmIv7E-8oSuubpKeM4nHI8YYSgfy2jT19CFR3Wb5cZq2VTk2PguwP07DVz-VLH4L3DH2myQGDZhOpVUpzisJ2VoAJZ6HJERdJrDlHIVMPOodG5fBdu0grQ.jpg?r=454",
+            "watchID": "81239189"
+        },
+        {
+            "rank": "4",
+            "title": "Cigarette Girl: Season 1",
+            "week": "6",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABUqCYPkHJWwM4xfKYtYpRU27crF1upVXsnFY2o0PEiqbpY8FXbISq2H8d8vZoulP8sqrSKhcUF6xbwAbKHl4Yzu3KPg5ZRflrBLC5dIkTr2aXVWeoq0y0k9TmYY0TiPHGNchZw.jpg?r=4bb",
+            "watchID": "81476990"
+        },
+        {
+            "rank": "5",
+            "title": "Obliterated: Season 1",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABfw6GkrGJg9tnxDYI1BoTeoLlzsXG04Ty0Y1ZvoKtAVBLiPdOYVa0cPrjk1XFbAQWmdOYgGqHkqbRN0QOOCbNdL7d2AQgHmG-DKLNJo2N-IomvpUYAImJQRrZqz3kaDlbC49TQ.jpg?r=f32",
+            "watchID": "81413929"
+        },
+        {
+            "rank": "6",
+            "title": "BoBoiBoy Galaxy: Sori: Sori",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABYPgOW9FVVP-N5ln8_jbsGeKRFAzwFiOg89j9KhJTxitQA0QJNn0eREONtCZWgi25D6EqXDSaGFq2TLDf8VKTybA0S8uOhzKMFCI.jpg?r=d45",
+            "watchID": "81728369"
+        },
+        {
+            "rank": "7",
+            "title": "Sweet Home: Season 1",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABUVQkyBoI6jkkRIfKDSZTqC7-N3VswlvoZlrrqY1poy7OMYHGTPPFfPtMADrwQvZYMU6FCjLupJTpoQqVNiuRw2XbWjKbgqbTw6VDj_qsVVLcClI-99pV4O7khfmUN23anUQ3g.jpg?r=4b9",
+            "watchID": "81105849"
+        },
+        {
+            "rank": "8",
+            "title": "Castaway Diva: Limited Series",
+            "week": "7",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABdX5_IVyyFmxvu7xIkPwXJMDrPh9A0sCkZKWpjL6PKav5YLsJetUc2sggaOWGfwu4gjl1p41msXn4bJ5uoGitIblJfQSD064BWIAhgnTsgRxr6alt6TmYlKaxA1c3Rooe9tIRg.jpg?r=fdf",
+            "watchID": "81701129"
+        },
+        {
+            "rank": "9",
+            "title": "Squid Game: The Challenge: Season 1",
+            "week": "3",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABUMzkgqWDR5QEYwgZhxT1MUY_dsgz3S4-f1DwTVkdji4wK20KMFUWVZZoM7ei37PRVxjQUSTqPRapq7-5qvT2b-3xuwVierWgEGnY5yJ7_nH9W_MXUZxCylYVIE595bixtDLKg.jpg?r=9df",
+            "watchID": "81615541"
+        },
+        {
+            "rank": "10",
+            "title": "Daily Dose of Sunshine: Season 1",
+            "week": "6",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABSoCsrSCP4QUx_1zxKEji5KO9y07Pf8jMAWpxAkXXcZEJmJaANJC89_plAKWDSaC1s5qbjrH3vti7pmuQKMFWLJbi4eG_YEi2mRyM_TZ3719KkYAgqz6nYeHhLbaMbOFXM_7tw.jpg?r=f7d",
+            "watchID": "81572596"
+        }
+    ]
+}

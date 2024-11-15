@@ -1,0 +1,148 @@
+{
+    "kind": "Netflix Country",
+    "date": "2023-07-02",
+    "films": [
+        {
+            "rank": "1",
+            "title": "Extraction 2",
+            "week": "3",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABfuNn2w-w42wgn1a_u5WzBIQDVyJpn1qRexmwUiv4tzENFGzNneCKE33iN9dADiNUlTaXXqH1pqxt8dwwUmBVwU3yH7m6S2DZuGEDAxC28HfQWDixMJ72qNjt1v3QZUnAkATqg.jpg?r=a98",
+            "watchID": "81098494"
+        },
+        {
+            "rank": "2",
+            "title": "The Perfect Find",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABYmoyfeUUZ6IJGy2CLtdXKZKh8eFSG-N3XcLv4h45CufVCOx0Q1Z3TQJZTm9Xkqk9xGsRWt3RzUKIMnn-9ucvY3giWmAF6u-pCGC-RabuMXjKYPcS05wZLolDg4JDGD2dzmuNw.jpg?r=bf2",
+            "watchID": "81030422"
+        },
+        {
+            "rank": "3",
+            "title": "The Wonder Weeks",
+            "week": "4",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABQfVP_F0hpS3Tz2xwR6VF-sFfIrHxOLPr37wOmiXsWLwo_oyEwLDOy_3d9Xchmcxj_o54R56F9D9fGPHqdX9n9se6TN8s34ck1mIbTC-rjB8VmPWisMClmuspSp0q_jYLdlt3Q.jpg?r=928",
+            "watchID": "81319110"
+        },
+        {
+            "rank": "4",
+            "title": "Extraction",
+            "week": "3",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABRcOGaDhQbkcWI2Mqr1i8ES9OI5JjXpR52Swv78__Ex3LJ7hZKy6bKTxHPoiA3fpBsMhF8YHYnvdKl2gj-cmvDGcSmtqDbXunGMUFSIHXg0T-6BkRGO6_NJJXCTYmtJFEi7W4g.jpg?r=362",
+            "watchID": "80230399"
+        },
+        {
+            "rank": "5",
+            "title": "Trolls World Tour",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABX67_-2u1peMhJUPoTbRRLfxpCXr54yk5cXKiDcbER6LcLlQAhx2VAvCJTV74ocGsB083KzLzOJinkEw3YxmCprKq28LC-gCa66g.jpg?r=0e0",
+            "watchID": "81198527"
+        },
+        {
+            "rank": "6",
+            "title": "Make Me Believe",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABYZW7f0sEl32OqRLfMO_Kjjk_l5YeYUpyA-bw-9keyC6JqmdHTkqTTlyD0GieRTP2W6ZNKyU1PROvlRgXX0wOlO3O6Rb2djvEU07frmR0zH1UddBiRPzmSjSW4GDydPVU-Ucfg.jpg?r=03d",
+            "watchID": "81622697"
+        },
+        {
+            "rank": "7",
+            "title": "Take Care of Maya",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABfCRNiRnhIagj8JklfXHhBsUZzsiNhriHO4eGk_ayxKts85uMo8hejWT0UeUYuCaGqfnSclfydY-hbDiUIqwnp0xptrqhF4kONTEglY2uiHXm5s67-7Q_t831CxjoOyI02WuXQ.jpg?r=b90",
+            "watchID": "81349305"
+        },
+        {
+            "rank": "8",
+            "title": "Heatwave",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABcdZM2iINu7bXsdb5s5uH42EktQapEvE8jU5cUHzoMIsSwYG67uI1fWN4LHp0pNiwtGyv5nQqL2PiriUV3cMdWpMxOMnDKGkTLO1.jpg?r=528",
+            "watchID": "81592910"
+        },
+        {
+            "rank": "9",
+            "title": "Through My Window 2: Across the Sea",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABYYO-8x_awEmbmiBN0CbNr_vPBUm-lJzeUH-jHpZSMgsv9-N3Q5qCo-1YEGmQWb5xeBybuso0uUw-At0J4hwLIxMsUJbPKMHqTC-PcxFVHyiSYybtpdHVSYGcf4rqWWJhCQ-qw.jpg?r=ee6",
+            "watchID": "81484068"
+        },
+        {
+            "rank": "10",
+            "title": "Whitney Houston: I Wanna Dance with Somebody",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABW0Qlu0OJoUZQNProLOIyF8yUMvshtY2xPsxpajLOLkB6CjMdvFqA09TguT19ym6-Z1xUCvH0ZnvB0rpWUxZidElYycbTTgOcei3.jpg?r=c27",
+            "watchID": "81672780"
+        }
+    ],
+    "tv": [
+        {
+            "rank": "1",
+            "title": "The Witcher: Season 3",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABfXyTm5DyRxcrwqZsfvtG5nSH0UHj7ro8XWvMKU3czKkxP3tIXywYG7A64sA3oWWBHUQYaJ8eaK_O9TUYqTUMdyltveajJe-MIlZ3sywuFFF08mG3YPh_sgYeJ670vfLamoiFw.jpg?r=23e",
+            "watchID": "81106534"
+        },
+        {
+            "rank": "2",
+            "title": "Sleeping Dog: Limited Series",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABfeqr3539jS2uspv2b0MB0Lex26SIDI89n1ylCMc0e-deAWTDVFoqlCP1KFqfc1p36MOi1XWyicEDPXX2eRz9E5VnaMrGjpHPrfURWGWKmp8E546s4KL-ImW_e9Avs7L6LkGoQ.jpg?r=55c",
+            "watchID": "81493690"
+        },
+        {
+            "rank": "3",
+            "title": "Black Mirror: Season 6",
+            "week": "3",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABRuMzOvtNincvCCMVNCx7AU6YERRn2CYjq6C7DNvbCgS1isD-MRaFIcj2dbksWjAslJjAiNDdgpI4C8gSeTrtDzYsyXwVFGDKFXpXSuDlzRkKTP3ifULg2CuLnxN6OWxOuJwxQ.jpg?r=795",
+            "watchID": "80195834"
+        },
+        {
+            "rank": "4",
+            "title": "Glamorous: Season 1",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABf61Uf2S5QxW4iESkEIvT2LvpFeolCegtVdtGV0zBze8omgmSddaKCCVTFRDp8V_ELiKrOe40LYwm_CePZevHVzwO7r-dXbD8_Ns4Q5466IHKV5H6LvE5ne5w55FM_MbiAW5rQ.jpg?r=2a5",
+            "watchID": "81196780"
+        },
+        {
+            "rank": "5",
+            "title": "Catching Killers: Season 3",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABROJQZh5EfXTnLKXgu9vRKQ5iKkkd5HzFnvFrxj8XTKW8t87a8Jvd53C9TMXwL4alewA0sg7G_I6YMbR6Alo4G4zjGJNbNRoyVE3hCm0vSDXUsz9jVWiirwKuRBSWscdLeSjlw.jpg?r=74f",
+            "watchID": "81292129"
+        },
+        {
+            "rank": "6",
+            "title": "Never Have I Ever: Season 4",
+            "week": "4",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABSiDpeJ20P3m0Q2i457y4-ggBT-nKC71N8cKcL6JlvtsPkZvEolf9CLj6X5AD1BpRIBCBo9zuF5afMNs6K9666El9pTgvr2RM1dACeaO1gHdRc2pvfDxd-nVrMZkFXZT9KXUiQ.jpg?r=fb2",
+            "watchID": "81518760"
+        },
+        {
+            "rank": "7",
+            "title": "Our Planet: II",
+            "week": "3",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABcIHW2MseYOty8lVpnJs1-40tgD7FdC-f4v3HKjY3glW34_oVVccM6ztxdtVhbfO9BzwVlAKQP-o-Afh2Q19spQXBDwQUwDoxZ4PkC8Oll-4HHI4Ksi6BlnvQ3XgSXzvgkg7QA.jpg?r=3b6",
+            "watchID": "81222801"
+        },
+        {
+            "rank": "8",
+            "title": "Papadag: Season 1",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABUhrUAHRJ7at7LAhg-faG9wfd6TGCjOFIQY4_Wrxjlf-nmEYaVvuca4M-3yChMpdS8jxiKNn8qbqB4d_iAtmNrQG3lrsOI8VFylE.jpg?r=885",
+            "watchID": "81671310"
+        },
+        {
+            "rank": "9",
+            "title": "Fake Profile: Season 1",
+            "week": "5",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABSyLr7WFPvYOmwEPsr2njKYuYc4F0f4HgCgTz1vaw-QZNQyYKsRod7l5uY-_8m_tzsEyaJi4IxuEsVQoJIugaDDKo3v9F9xJ1TtwnJAM-2KtpWiEgr0WNje4B15v1cjFFPmj2A.jpg?r=fe1",
+            "watchID": "81304949"
+        },
+        {
+            "rank": "10",
+            "title": "The Surrogacy: Season 1",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABWEVcZEOQIxy3juXIAF6JvHOOcZ-v4Dq2mFM3WzT2lSrUEZ0nFOXKtBYzdjkRuLjKO4LkbUteLnbLUBZqyZZjJ2LI3_bf--vqL4BqZPyBAUHLN3HpOE9_vCUUS6klpj4pqxX8w.jpg?r=bac",
+            "watchID": "81406599"
+        }
+    ]
+}

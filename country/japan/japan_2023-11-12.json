@@ -1,0 +1,148 @@
+{
+    "kind": "Netflix Country",
+    "date": "2023-11-12",
+    "films": [
+        {
+            "rank": "1",
+            "title": "The Killer",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABTsZUnQDIZdxlqfvLoqo_zlv1ROT7S7zbuMiqzVVw1R4Hy9wVwr4TunU9g1rIXL04Ze10vGlxvhBJmlRKDHxuosEZ1kReWt5jxE4SAu0uX3IFDLA-Oml96RQQBCezv9ExN4tGg.jpg?r=7f7",
+            "watchID": "80234448"
+        },
+        {
+            "rank": "2",
+            "title": "Wingwomen",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABch97H1Znzxs6XsGzNcKtHlQ5LOtv4raQV0DZ-WaZVlHFQClu6ZOw6zPwyURkQ81TznWR4KNDZ759lUgRlbo5zfziZ8KTOjtczDsPgc959xrpYzcrtHeEA7NmQKKsqAf6TzTFw.jpg?r=c48",
+            "watchID": "81282091"
+        },
+        {
+            "rank": "3",
+            "title": "Dreaming of the Meridian Arc",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABRV9wsXh5YEqN7RRK821hFePyK3aZkUrZsxNw0HE-vIb2zuh4GCqNRbA8kwPCj5XYHCatgX3SSoaJPPiyaD5RSA7osMyDbC5mBXP.jpg?r=4a2",
+            "watchID": "81730354"
+        },
+        {
+            "rank": "4",
+            "title": "Bikers of Shonan Beach",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABYIJAnhg3ylHH2kogfDnHYvDLvdI67FDZpJAhn0qxicz9jVSTQ4jx_6a1A21tGl3GryXdVHg1nxjnk8rkLbt4kd2ZBjgv9yCetYM.jpg?r=6d6",
+            "watchID": "81726514"
+        },
+        {
+            "rank": "5",
+            "title": "Serve the People",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABRdUpgMs-J4X2qXZu20ulzfdVR5sKE7e3Vxq8PQwLj3l_gR7WlClFTMTLupDDZQjTlCrG_Q13kR-Wz-5LQvZCfVfGb5fJuZ_Fc4s.jpg?r=f6e",
+            "watchID": "81678588"
+        },
+        {
+            "rank": "6",
+            "title": "The Lines that Define Me",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABUDq_3roEfWsjizLMTXu8G6j-ERRxDM4OSJpxFlJbEN44CcBThW2zALdecHqxmRWjZPnBr5nSSG16d0BIeFoUbAjZAZUwYsuhLBE.jpg?r=28d",
+            "watchID": "81710306"
+        },
+        {
+            "rank": "7",
+            "title": "Last of the Wolves",
+            "week": "3",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABRYLu-T0Yc7i61354hcjDEqK5B5XQrvJdga_51ZtU-hnpsET54mAIN35GlP9DGwC48R1ej9h-LgrJ-l6Fsq81hhXk0S_0bNrgBxh.jpg?r=587",
+            "watchID": "81726510"
+        },
+        {
+            "rank": "8",
+            "title": "American Underdog: The Kurt Warner Story",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABak9JkMreqccd4RRf2cQ6ugxcaJBQi359WLE73Fks0oiAuAKMuoVA0LWGuDqHohDfd99AtUyOE2jvGqVVKxesqkTlcKiIcLt4Cdf.jpg?r=a95",
+            "watchID": "81274014"
+        },
+        {
+            "rank": "9",
+            "title": "The 355",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABZ1G9KoqOqhWaoKaeW6Mc32lZrJ5QF6EeaETrnucK9WIdDC5g3OU7hmwvAG-uMTT4gQMuFyv7IhBgKWIjoWGR2SBLx_7V7eD8gjA.jpg?r=787",
+            "watchID": "80999724"
+        },
+        {
+            "rank": "10",
+            "title": "Memoirs of a Murderer",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABefuohAKksgnvTdcAQADx-VaW5WXSDs5v1tWqCfdiGYcZty1p9t1GkvPhLM_9V-IG5wybLPZ8Ov5GJ_btHVgijAfYcMhyI1JxHQb.jpg?r=e2c",
+            "watchID": "81280987"
+        }
+    ],
+    "tv": [
+        {
+            "rank": "1",
+            "title": "Attack on Titan: The Final Season Part 3",
+            "week": "4",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABcOGYky1QsF53njcAyKcAjB-6N2DDMzTpTyS7WGRoZdGNr2wQIQ1FMrHBiTBQ2_EYsR1i4aIYmDKb8m8wa416LpfjVW6lKutETQ2.jpg?r=102",
+            "watchID": "81624055"
+        },
+        {
+            "rank": "2",
+            "title": "The Apothecary Diaries: Season 1",
+            "week": "4",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABa2R5hiHjSjdI9YBWCwfJZGTitnFpsFHGgNt0O33KppPWK-_5Pa1GAOxva6fji3uDeOLxUgSr84wRaLgM4qiVo5L7XxVRGtGo-9G.jpg?r=fb9",
+            "watchID": "81712071"
+        },
+        {
+            "rank": "3",
+            "title": "SPY x FAMILY: Season 2",
+            "week": "5",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABUXtp2xxOp3UFSLBZK76vet2-pJMUT8qNgZxn1Lg4DTdQ0_Use8ywPuHcOBUhWfuEQICNW_1dm927tth3RnXqFDTMSjVceWE5Fcg.jpg?r=004",
+            "watchID": "81728979"
+        },
+        {
+            "rank": "4",
+            "title": "Daily Dose of Sunshine: Season 1",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABeza9YghBC0EO2FfwhziFPgLm_ueAtUUWnUMrm4fg-toJIum6fHGwZxB0MMNi-oMAiPdPwPQX2N3qzaVnoVq9lIy4LibZlwm5ulKdWir-8JI6rm8AdtsckjrJZgeubtJrO75-g.jpg?r=504",
+            "watchID": "81572596"
+        },
+        {
+            "rank": "5",
+            "title": "Frieren: Beyond Journey's End: Season 1",
+            "week": "7",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABZ5FThJaZuu3HMHeJPjKMC94QkC2KUo6nnopNaREueKhEiPjK9JSvi-565aOztdkTurgD2nqhDxsZlL2TiA2__Uh5RBB25-OkYfz.jpg?r=333",
+            "watchID": "81726715"
+        },
+        {
+            "rank": "6",
+            "title": "That Time I Got Reincarnated as a Slime: Visions of Coleus",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABT9KqAi05yaWn7u5BQ3ocn0TqtsbH4ZgUIGnR-B4l9oS2anRUTlB-eP0kK0BDYW914xNT6sTpYn9RqXdzA9ViSHryCu-_hfsL6B7.jpg?r=94d",
+            "watchID": "81702998"
+        },
+        {
+            "rank": "7",
+            "title": "Jujutsu Kaisen: Season 2",
+            "week": "18",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABQP0gq__eMxmAuXIG1ieyQaG5r6anANlekcUnxWFe3tpn9tyLIa7xCOC-UCyvraDwBcLntSPu8XGPPYJresDhK04ybUEi5oxZyNC.jpg?r=933",
+            "watchID": "81705280"
+        },
+        {
+            "rank": "8",
+            "title": "Tokyo MER: Mobile Emergency Room: Season 1",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABYizaQYaW3qZMVqr9kT054StML7eml7dh6cVodwHWfbNFW8wJ-Y0kaqyvmh4_25iMq-rm0xoJMGCQAALCBIWkHcYDQ-uB3H6rTg3.jpg?r=c1e",
+            "watchID": "81714987"
+        },
+        {
+            "rank": "9",
+            "title": "Onimusha: Season 1",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABRhoG5nh3X9PUaz72TYmSAqes9DGxtULIWVu7kxgXMpMGYJASz93KbUlz5-84qIJ_ISOOuKTOjCnp9frY-z2HUKf1CswIjTGeASxd3on8H9PCoXnVMzq_3EFdmFk2Y4NJ0E_PQ.jpg?r=847",
+            "watchID": "81186817"
+        },
+        {
+            "rank": "10",
+            "title": "My New Boss is Goofy: My New Boss Is Goofy",
+            "week": "3",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABcPq95vvsUyovOkrfCowWYRougdKIk75Jo48rk50DtpuAJ8awMY2npF0JpbrdeBCzzUheoMBBPUpKyFeauCyIKmgw8d1N7qJexHh.jpg?r=277",
+            "watchID": "81726497"
+        }
+    ]
+}

@@ -1,0 +1,148 @@
+{
+    "kind": "Netflix Country",
+    "date": "2023-07-16",
+    "films": [
+        {
+            "rank": "1",
+            "title": "The Out-Laws",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABVLPDzMLzJqL1OVKbeY6ojl6BG2ypRKP1_szOo7UIcMFzLfmBOrDF_LrmB7_ws6zLtwNylkHwaOYZ9L7JXO9tUcGZUI7LkM-QqPg3QqKtBhRLDw5RKIVCR---NQpx27Hgy35Pg.jpg?r=af4",
+            "watchID": "81186234"
+        },
+        {
+            "rank": "2",
+            "title": "Gold Brick",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABcpr0RMYztZkJf_WiCUfYxzk0yEEpawFLOWYWKebuMD_-HntCIzPdpfWE_wsU-Oo8jnuoFTSCG80U8E8zvliyHtNc_daZ6jUwJE2D-bzsmmyQuGSXnZPkaSXd-eoAEAlJhJ8Pw.jpg?r=7fb",
+            "watchID": "81597242"
+        },
+        {
+            "rank": "3",
+            "title": "Bird Box Barcelona",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABeAkhOz7isvXDi8zQ11Adzjt4xtCFgMLsJPVwcCyt-M5sQbI-A-qckaIG0s9A8jZAakuXTEi2BVhs6mFn_gv1x2cwMqSlLXAAXL6LU5MWpIzlqBAkwbXXm9ORQAIv-wxOVSvzQ.jpg?r=e32",
+            "watchID": "81404810"
+        },
+        {
+            "rank": "4",
+            "title": "Love Tactics 2",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABZGMcyyVeOcl8mSkFGsIoZ8RXNIGmZxVD95IRhKU3EW5ut0jeoGnpxCyOSWKaBDFe5nd6vEBeBPntflVv6zAincKbLAYnBnF36q-W38kwsUK5jCxBvuuDCUVhNCiT-jMBr5a-A.jpg?r=c43",
+            "watchID": "81616015"
+        },
+        {
+            "rank": "5",
+            "title": "Scream VI",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABaNP2eUdc2t6VskieXr6v8Phon_wbtuCmmMm_TQc4bSTszf3xFp_gxPYJsp9JRyMJqKu24kl04HSoc-V6NqLPrpumDHYTDFuNfLj.jpg?r=af1",
+            "watchID": "81639205"
+        },
+        {
+            "rank": "6",
+            "title": "Hadik",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABeSJqwwUQSecLNCW8ha_tob7xcajiIcyKtud8em_Qnlu1HsW_BJL89R-kOI2vmC9IqGOCpymNanFVHJi0N_ym3M1Sbv3lxjHCdrT.jpg?r=cc1",
+            "watchID": "81674904"
+        },
+        {
+            "rank": "7",
+            "title": "Mr. Car and the Knights Templar",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABd9O1sTvLg-2x4yAnvQq5Bk7g3EnBa26VtK6wIOfb5iHydFXoiy8JFMOn9a8LBj3MscJaYJcvWhQWS_FflNXSvyRGh68TMscuX4JtDmHFWVNPJCmBHtGkjYZAwKp_Pewfd8KOQ.jpg?r=a10",
+            "watchID": "81500432"
+        },
+        {
+            "rank": "8",
+            "title": "Nimona",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABdOgV6eD5o-bg2HZERlH-QXLJfdmwgUkbO6Vb_ND3RROIzCMfwwJevj9k3yRlZaeEMhEfC1LT8ismb2P2Su-X-_p2qY6pdof-EY-jRLb01xBIpksF_cckSWH-89fS6wwIFGGHA.jpg?r=930",
+            "watchID": "81444554"
+        },
+        {
+            "rank": "9",
+            "title": "Skyscraper",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABcjzLywFCEWStzg08LOIa5aWb7sIT5rugvRRAys-07npsBYxdOyGnBc0sBdTBuIrL9VdjHAA1iHeZSVSkmcsXNBULswLBghZvYUM.jpg?r=22d",
+            "watchID": "80233783"
+        },
+        {
+            "rank": "10",
+            "title": "Pacific Rim: Uprising",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABSwGCBks6dQR--_NdLW3ggqYu87yuC6xgA9ZjqZsdZBSu7sNctfzVqL_BVBc5x29Le47DoKXEpFOqo5MO8BcSxM9gV6P945b6pvy.jpg?r=45c",
+            "watchID": "80203059"
+        }
+    ],
+    "tv": [
+        {
+            "rank": "1",
+            "title": "The Lincoln Lawyer: Season 2",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABaHBMWXwaH2ZQEHUq-tarihA2uxjfj1d9zSS2w2HJGg4RJqTqXyS9ciIEbrlgKRNnjn3LXq3uzGRduPJVqKmU4VNJRxK2NMJMc4bB3CF7Ev2Q76Ki4E6pUUTcRVLzFqbyLmgGg.jpg?r=4d2",
+            "watchID": "81331784"
+        },
+        {
+            "rank": "2",
+            "title": "Fatal Seduction: Season 1",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABZaX-wsUb8ZSQTZo7kE5xmKW-_haRiMYeyFxcuHTz5nluMqR5VVV8xpqcRutqG1l-DRZmL3jAI2_T5UF8f9K_QkIJIorj-Qis1Eatr4x8S2KoVLCzp2uP8U3ij_bco3N2NDHXQ.jpg?r=b96",
+            "watchID": "81553438"
+        },
+        {
+            "rank": "3",
+            "title": "The Witcher: Season 3",
+            "week": "3",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABfXyTm5DyRxcrwqZsfvtG5nSH0UHj7ro8XWvMKU3czKkxP3tIXywYG7A64sA3oWWBHUQYaJ8eaK_O9TUYqTUMdyltveajJe-MIlZ3sywuFFF08mG3YPh_sgYeJ670vfLamoiFw.jpg?r=23e",
+            "watchID": "81106534"
+        },
+        {
+            "rank": "4",
+            "title": "Survival of the Thickest: Season 1",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABf7OE-K4fYqTDGJdvVgrWq8dsd6c45JGMuSiyw7krBWuRdpISPidnbMQh5QCbtCR99rEbl5B0dr_VM1a01TkXvscSg6-WYWsVqvS1WVtkd4mnAbVfA2smYwBeD9mogKqLon75w.jpg?r=837",
+            "watchID": "81354525"
+        },
+        {
+            "rank": "5",
+            "title": "Too Hot to Handle: Season 5",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABVYL6pIF2ml3kab8OiDin-OWTp0Ut-kdzAj-A2Y9cJsk0g-BN_46iDa7041QlGUOkHHgXybSd557hsNLGMABjFRaE5n75TrXWn3tmBeZhlRSHIaLICLw3N9Q5VnZsiO7aSFALg.jpg?r=f67",
+            "watchID": "81438823"
+        },
+        {
+            "rank": "6",
+            "title": "The Lincoln Lawyer: Season 1",
+            "week": "7",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABcYgIH3b0xV_wpTZ_FwmnF_p9vdhFO7Qk1dSZxIvmThPpueruahelcFV5G3mV3OIb5fT_lQpjjqCljfbVPx_QeJz-DQEzI7d_w34JQr5_As1WiqMYtBEU0umPhqPw9Ikz15q9w.jpg?r=d95",
+            "watchID": "81303833"
+        },
+        {
+            "rank": "7",
+            "title": "Is It Cake?: Is It Cake, Too?",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABfAmFFUk1OUKOcP35wscCPGnv6R4baG4sgkUt5tbM2XhKNNZuNeRDFUkXNHJ-cNKz3lv6fVG2vOcz9pHFuhiU6UUamTHzh-a4SS-knF18D7wOOYotIDXOHzhGHumU-ajvzyB1A.jpg?r=d76",
+            "watchID": "81361149"
+        },
+        {
+            "rank": "8",
+            "title": "Black Mirror: Season 6",
+            "week": "5",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABRuMzOvtNincvCCMVNCx7AU6YERRn2CYjq6C7DNvbCgS1isD-MRaFIcj2dbksWjAslJjAiNDdgpI4C8gSeTrtDzYsyXwVFGDKFXpXSuDlzRkKTP3ifULg2CuLnxN6OWxOuJwxQ.jpg?r=795",
+            "watchID": "80195834"
+        },
+        {
+            "rank": "9",
+            "title": "Glamorous: Season 1",
+            "week": "4",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABbiLEvO8L_Kh-ClDmDi7M0RMjJcS-LaEFmM0jAi1rAetXciD7PNkziKvK-nOt6-nFo-e3YyyQKgv4lJelmDBW_6aVBbeSbEZRNFU9HdUyGLvPPeqj0AFGmgaGwTB70bL2gLA6w.jpg?r=ff5",
+            "watchID": "81196780"
+        },
+        {
+            "rank": "10",
+            "title": "The Witcher: Season 2",
+            "week": "9",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABVwOSgQMPTY6wfnQPjA26m_ECaagJNO6tP0vFqwvZ3baTeKyF7XyXW9xSqrhUkfJGjMYwRcpLXdatyiUhUmnGS2nZpT7Z6e2Y72AhOo3H2vXpRSrabr2dkktJU2ABPN0KjUvAA.jpg?r=592",
+            "watchID": "81031991"
+        }
+    ]
+}

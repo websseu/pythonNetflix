@@ -1,0 +1,148 @@
+{
+    "kind": "Netflix Country",
+    "date": "2024-02-25",
+    "films": [
+        {
+            "rank": "1",
+            "title": "Dune",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABecSP9x9h2RYkS_qOcOrwII6aDSTF9j04l1chrj3W-fmicNeoMA63yw7kGPAR4kiABUteUQAToOF3b_wnXd_c-BJnNRytizYehQS.jpg?r=1e3",
+            "watchID": "81199139"
+        },
+        {
+            "rank": "2",
+            "title": "Gran Turismo: Based on a True Story",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABdBK_bYecIT4xHArcfoRXUj6uLWkE4NCH_g8FtQShk4ukXNIvg-lJZBxZdZXLDrL__2jfS8SmzwCfpSzjika0ZURcc016QMudCxX.jpg?r=6a0",
+            "watchID": "81672085"
+        },
+        {
+            "rank": "3",
+            "title": "I Love You Two Thousand",
+            "week": "3",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABcMBVhg5bvCDdo0gXKRt2u44ySJOU19VISXkAcMkGtKLKvB4ZUE8v2Tl806iBQ4GObn9ZHejSR2ZY-KNZiscpNKM2bC38U74aGy1.jpg?r=fc8",
+            "watchID": "81677623"
+        },
+        {
+            "rank": "4",
+            "title": "Mantra Warrior: The Legend of the Eight Moons",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABbE362rHk1PS0rT8zLvsztWsiI4_8778HBEIGYzTfpCEBRtHTeWZdXdIiDUX-OKDanHAdP-srvuBaD-X3fArSnXg_9IAREJIuQXy.jpg?r=5f1",
+            "watchID": "81745953"
+        },
+        {
+            "rank": "5",
+            "title": "Godzilla vs. Kong",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABVUXiAGoxZaI0nBcqosxll3D4jrtjRUAYJzaThWpsSRa996vV2E2hR6Gg15hExVUFMaYnK58c7jaueA2i_OGLjAeeEuoRkD9eHY3.jpg?r=259",
+            "watchID": "81183713"
+        },
+        {
+            "rank": "6",
+            "title": "Ride On",
+            "week": "3",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABf9GdpUrU6ftDyx3r14hBZi4j3AWlDR-vpACWc2SFUAJh-4q5l9ocY2JGhD_lo6CyEJaXDlsx7f14I1hOXsJuu_xpVNw6YmZKAbt.jpg?r=ff6",
+            "watchID": "81751797"
+        },
+        {
+            "rank": "7",
+            "title": "Mad Max: Fury Road",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABXNKkTrPaxEMMNpDhqspqAdqzjE7JTWV4CuOXYBDRN1QKxEDZJzIktxLgFijVbBWtNfa2GPCifvTm4Pe8OhB9PkfsS2zpQFngfbg.jpg?r=afa",
+            "watchID": "80025919"
+        },
+        {
+            "rank": "8",
+            "title": "The Huntsman: Winter's War",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABVmtNbXBoLdPgQ6yYlqSftbT4Mor3-GQwF22WbxCTUdGb6usDZl_pXKPJmdqvjq_ofmY8gkaw25ee5b3ci4_FG5OG5o6Gv4UwkQ-.jpg?r=55e",
+            "watchID": "80085316"
+        },
+        {
+            "rank": "9",
+            "title": "Fantastic Beasts: The Secrets of Dumbledore",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABQrhwBf3IeTb4Vv2QShXOyBz9ZuEau86RTd7pK0EURUeAZBrkIo4gIS8AIhsVLA9q2wSI1gdVtw8Cc0o7TJDbNAMPeVVA-fgxWyk.jpg?r=887",
+            "watchID": "81516447"
+        },
+        {
+            "rank": "10",
+            "title": "RedLife",
+            "week": "4",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABeu29u6gzVt_JZPa9SVMxdTxKhNqt6qgjZxVH2f5wf3Lm7RATdF5ompQao0093fwp9cjdOnphtE76toQwjg3dBT1six0FZY8ujmK.jpg?r=9f0",
+            "watchID": "81713705"
+        }
+    ],
+    "tv": [
+        {
+            "rank": "1",
+            "title": "Avatar The Last Airbender: Season 1",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABdyImloETWzQKzaohq2yU1aqJK6-Xz-zFBAhYx93up4kdxc7FYwza_47m5FIIFkHZJ45VRn0z7zbefvR7OdEN6bRG4kWyLIa03niUBtyc3vovEQ9_x6SRNM7Afc0D2d29fyWzA.jpg?r=09b",
+            "watchID": "80237845"
+        },
+        {
+            "rank": "2",
+            "title": "House of Ninjas: Season 1",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABb58AFDaYudTnVNZD7HHh-I9e7bYJJ5tVCY40WWHvhUuO1Peoj1BL5uxM4eIMvy--hM5MaOi0VerM47JIi3ibpXk76ObUUdFFAges8rC3qUppdMcUpsk7Cgts4nw9-HI_y-ccw.jpg?r=cd4",
+            "watchID": "81465102"
+        },
+        {
+            "rank": "3",
+            "title": "Ready, Set, Love: Season 1",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABT3KN-ETF8lRn9Zf4LjR8KpgX8HSZ0ibMlB8PGLDyng-wlq_xsRYLxzfCV8Mi80IuSt4e5wi0SDnkOhSdwvybw8tK7KfuesX7yvM3lCr0pA807rgk5j5yE3U9lvnlQKwMnjVTQ.jpg?r=3ae",
+            "watchID": "81517159"
+        },
+        {
+            "rank": "4",
+            "title": "A Killer Paradox: Season 1",
+            "week": "3",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABWSH4l6xTBLLFyslZqEkLanfM_3AuUl8kAie7gaf7Bay-bQ6s0Od6Y4TJkyrmVfEgZcNpa8tQnPZ8Q0tTUzpF4u_F7HK1g6VgYu8ltMX7YtKlr0BtZNutXdywd3DYYYapIFgcA.jpg?r=e2d",
+            "watchID": "81607355"
+        },
+        {
+            "rank": "5",
+            "title": "Doctor Slump: Limited Series",
+            "week": "5",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABfQIXkFi3AMRnwGYE6JzvSLbSxhebS_x48KtB6QPYDdSEvJ7D4BCOXXkh9kJxxmB63XOuij3IpgRHBGfkIIhVqJPFFe1bb9sjeDnMkrjhJNPP3hPLG8TMBAdGoJVwtXmtInFWw.jpg?r=98a",
+            "watchID": "81697986"
+        },
+        {
+            "rank": "6",
+            "title": "Blondie in an Ancient Time: Blondie in an ancient time",
+            "week": "7",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABaHdgmIcSSS08d_MF6lw_gejQnb2eXxg9bPP_bjlRLjOa7wRyseJOf96XPmUGn0UDYs3NbYcojaNopO-ORPi1evlws0pCBWOYomC.jpg?r=9b6",
+            "watchID": "81692063"
+        },
+        {
+            "rank": "7",
+            "title": "Captivating the King: Limited Series",
+            "week": "5",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABW_TdgpQwA1gfaI9FF1attC4ty1Ibd8ewZ7v3viJLrhTzvCTNVfoOp3cRrlpJ967eQ9f5jXlg2UK6Cx_BgWuW37-iWvt2_-whXLmp7KhvPjwt4Nlx9BVhxQxi5YNls9XJOQWcQ.jpg?r=fdf",
+            "watchID": "81742989"
+        },
+        {
+            "rank": "8",
+            "title": "To Be Continued: Season 1",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABRGoo0rA6AD4H7NUB7kfV2NIaZLM-qGkuQ6Uwbg7xh7XYOc6SOFiiAlWPh6aWqnpyqj1zB8Mgq4JxRx6L0hUTIPzl8LVryefk-d7.jpg?r=701",
+            "watchID": "81756576"
+        },
+        {
+            "rank": "9",
+            "title": "Solo Leveling: Season 1",
+            "week": "7",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABXX_xFmyJtNcCpWNQXVus4oudts1oKX1Gms5LmEhP_pWvSTI1McWTFvhC0V4XrNudEuIiZrzNa5-7fCpbD4JzQqKEzWLI6xfpC-6.jpg?r=632",
+            "watchID": "81749762"
+        },
+        {
+            "rank": "10",
+            "title": "Delicious in Dungeon: Season 1",
+            "week": "7",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABYmfSfLscVYVzUOPVOcUGqSFPzrxejB3igu_lsV3Bsfw9YfQcE21jeAxqj4_-h72HhdSkKO8bQpGN1zNqPkZjYBw5NfXrpHXozXfa470TrHbAFuq9rM3pqPx1LeJW1KaLv6FZA.jpg?r=071",
+            "watchID": "81564900"
+        }
+    ]
+}

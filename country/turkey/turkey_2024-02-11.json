@@ -1,0 +1,148 @@
+{
+    "kind": "Netflix Country",
+    "date": "2024-02-11",
+    "films": [
+        {
+            "rank": "1",
+            "title": "Ashes",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABfrHdrdX4hYdYHicOMtRT9GoeVCv5g2TibS5RK8yaWbPQseSb4UX-dH-2PE8amKGKiiKce-sOf6JTvQi_jPRuSa0MJkYAXTrUulOHAt3jzOZ8yb9rL5uEGsPUU12cVYJE3RYyA.jpg?r=33c",
+            "watchID": "81616617"
+        },
+        {
+            "rank": "2",
+            "title": "If Allah Wrote It, Let It Break It",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABaoYNAvxJ1Uc0O0TLjoxFS3N7clhhdp74txRCXaAaUmGR7kPbDpP9bhpGfVYl4rzgCnBlfr0_26Gczi0YBXk_9QtKgnT1E724GJf.jpg?r=b0e",
+            "watchID": "81735261"
+        },
+        {
+            "rank": "3",
+            "title": "Top Gun: Maverick",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABZ6A9lHS8QGabtZO43tExb5lXRThOGQkuMj6KHTSWLufVgaKy_G32ECikD3fDoCCIPSJopprlYdXHBUIh2jPbIoXrUXe9iSz5cs1.jpg?r=67e",
+            "watchID": "81198910"
+        },
+        {
+            "rank": "4",
+            "title": "Despicable Me 3",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABWVmEbBkBfZXZyZGRarj09JsUqAsFa_57GuBHRa3NBk9KZPbhGfkc82K49Tlyx_-1P6j1FMyskcuBHKXBb5J-y6JokdL3X6-Kz7t.jpg?r=410",
+            "watchID": "80166314"
+        },
+        {
+            "rank": "5",
+            "title": "The Devil Wears Prada",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABfWD3c_uz8w3KStrIVeFnPCY5ARTCI2ziruDmwlVGq9-zDHqBZ5E11910r0YlhoUgy8wUUA2sDEI_DhMEkIbQ-TJ8vjIIVzFL2QN.jpg?r=f52",
+            "watchID": "70044889"
+        },
+        {
+            "rank": "6",
+            "title": "Despicable Me",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABUvmneSztDhZNoBKnwqaH72AzXue-K1l_syVe7D__U2-kowpJ9boxucOgFOioVr2V1xQGMBF8WurqNuynrpYIYn6t3H1HAI7kqDv.jpg?r=9cc",
+            "watchID": "70115629"
+        },
+        {
+            "rank": "7",
+            "title": "Despicable Me 2",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABTTGkntDNY24kLjo6-unkD-HOPGPwGJ3ywYyY8FIN8EKaI_m3AzNsys9NBJh8KRyDROMQJwf3YYEgvVlPhnBBirldmE-PNiDw_oy.jpg?r=941",
+            "watchID": "70264803"
+        },
+        {
+            "rank": "8",
+            "title": "Badland Hunters",
+            "week": "3",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABVS-tnBexj99hByO81E2HXMcN3LxawJmEu9WZiXLYL9KiVs2yOCHdP4Hj-OZCAqa-3HHXYU76o1gr16TkWwia_SogyaeANKCxALo5M9DSeSQXvF0d3hPkMFqOEIW6wjgtWFPAQ.jpg?r=853",
+            "watchID": "81721676"
+        },
+        {
+            "rank": "9",
+            "title": "Minions",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABYcujXFBINW0xtXj1ND65uPeDe3ZwXUdlimYq5JKuHRcl7XtV_Nt2DqUO0I1pKnIeJSJLo6AyYEirX_BMusdv91DuCm_WJ2vtubh.jpg?r=558",
+            "watchID": "80033394"
+        },
+        {
+            "rank": "10",
+            "title": "Home Alone",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABbNKisBtNJGPFt5HU2EO2n9hDfnpPfJxwvnv0w1VY95cS-E5re7eaA2l6IiwoERQsmX2ElVmYT5S5saodzyUBBEScj7v4tBchV7U.jpg?r=0ee",
+            "watchID": "596974"
+        }
+    ],
+    "tv": [
+        {
+            "rank": "1",
+            "title": "Kübra: Season 1",
+            "week": "4",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABcAk6WFGjvOfLFl_vjwiCTTQz8DAGUqszdwnJBbfmYtulhlh8G6jHHNj_mS1njfhfH1HeOUXjZMYrkj8JzTklnQlJPqZBhKn65o66ic7Rs7aVoJT9sI99Gwf3tGanzuKWBBa1g.jpg?r=311",
+            "watchID": "81681295"
+        },
+        {
+            "rank": "2",
+            "title": "Griselda: Limited Series",
+            "week": "3",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABaAiLMDp35XkQFC1L1NSaoGL5Ibgseo1Bx3FTj65GGT8Cm0Dwu6rL7LorViz3B3ji_EURTWiI4Sg-iwhqp503HaRqdM152sC80jMdcYcAnIZtzxwv0NeSg9lRNLBfe4gT4XB4Q.jpg?r=f7a",
+            "watchID": "81133452"
+        },
+        {
+            "rank": "3",
+            "title": "Alexander: The Making of a God: Season 1",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABTiscSTxV5rg_jdQPK9JgYqoeXbOPAKuXI3iDUjlTLMpSmVIviC_QCpzxerdRd6CAYGddYE5FU3jy-DNBGT9SPcp6G7uZU8QO_ES6gBVxuWEUyiDHt_Q__BWRDPPuPUj30x9Cg.jpg?r=c8f",
+            "watchID": "81325195"
+        },
+        {
+            "rank": "4",
+            "title": "Young Sheldon: Season 1",
+            "week": "3",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABRRPLixXZCp93Y6n6K3NIZc7Rzkb6YvA5j_msy7eFu4Bpci1P3V4gef43p0umHpj9Iah4LJVmHHdvMikKFs8MVjlb9NGq4PkWnxJ.jpg?r=563",
+            "watchID": "80192611"
+        },
+        {
+            "rank": "5",
+            "title": "Rick and Morty: Season 7",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABT7BCPZBvDwjgNZk7xe-WnhCN4_t_PryRo2jNrOEe1KaJsoRyknir-WHRFU34DWOpDsK4sJFAQSlfoNlLdy15ujFpmqdHlUMT758.jpg?r=727",
+            "watchID": "81717773"
+        },
+        {
+            "rank": "6",
+            "title": "House, M.D.: Season 1",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABbk4qTwYyn18iOXXOzpA7_pMEMDt7hqAUk4e701-RBOrZDMO2EWw2BmlWCvvH8q8SjYrARnO6r1F3XNLK2WS3o9vLAgMJyRSGgvg.jpg?r=82b",
+            "watchID": "70032271"
+        },
+        {
+            "rank": "7",
+            "title": "Fool Me Once: Limited Series",
+            "week": "6",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABQiUMUPmxnwUfvB2-0bnupK1R3gjNljN2lET9kPwez7WOY6uWriHBz50xibELJLoym31wzFCTNltBi8XXGmm003c_wDYX3XuL26u-AAGO1jqPU3Av5NzSg8SNjZ3dvAkqIzlIA.jpg?r=002",
+            "watchID": "81588094"
+        },
+        {
+            "rank": "8",
+            "title": "Regular Show: Season 1",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABXGHLZBJJuJn08-IV6xgMvueWWoNqkyGwxiKOJGeS16OEHJTVeRzsNVk9d_urLRD0E0cKwTKqHZo3mvsUNThQy1epB6heYbAa7zm.jpg?r=817",
+            "watchID": "70266597"
+        },
+        {
+            "rank": "9",
+            "title": "Berlin: Season 1",
+            "week": "7",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABR5s54at5blMVFdYYSN3zRS8SsBdB3_OgprCDeT-z76hL8J2_V1GDM_RertvYUn8P6umxuZejY53GXZ6P_Qr7BcicbvTpN69lOaGFmwhhLa0e5ADhzQ2cZx0JQixbe6Iuzg-Wg.jpg?r=4a4",
+            "watchID": "81586658"
+        },
+        {
+            "rank": "10",
+            "title": "One Day: Limited Series",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABbES4aGx-B3Kpbiwx4w856Xes2OcVuj-YtXfaK12dK_2o_ZH99BHq_KPkmUXQmCjaG_ALTu6dxGJ47rjr-Mf0Uk5DZhOvq4yPaKVcv4wB8-pCbbooxFDJYnCDiNrLP915PMs6Q.jpg?r=1c8",
+            "watchID": "81256741"
+        }
+    ]
+}

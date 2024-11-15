@@ -1,0 +1,148 @@
+{
+    "kind": "Netflix Country",
+    "date": "2023-11-12",
+    "films": [
+        {
+            "rank": "1",
+            "title": "The Killer",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABTGnv2j7aK16JlKLY6T2oey9cBAk558_e6WU5MnhwFJaGIFwwonpg-kgHe14OrcprV_o53y9gA8FRrYz_RFtBZpFrFwnLUpdGJ9oUkWi2X9NmAj-Td0tFVYnCWCPIyuW8M6WLA.jpg?r=72d",
+            "watchID": "80234448"
+        },
+        {
+            "rank": "2",
+            "title": "Another One",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABVaxH9-GV-APmgCie4Ky6IrvP1xYeYlltY3St-g7Upw3XuMNxADFLoIows-_IaYoIemWHhXJQqLyP6D1OMJ2bcKTPjC1zjyxxXDH.jpg?r=9bc",
+            "watchID": "81683596"
+        },
+        {
+            "rank": "3",
+            "title": "Wingwomen",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABT006n8aawmAgj7X7GLqubChgB7VHXfHSLjC6r7JM-cfmFrNtMjyNcgmBzFjiYEFgbIX_4AoUHkcdBi00K-nSPHHjlTa5EdhbiN0OCvZ64Clk9sTNyw67Z4kLb2siENNP_OkIg.jpg?r=43d",
+            "watchID": "81282091"
+        },
+        {
+            "rank": "4",
+            "title": "Locked In",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABUgsC7Np2eNGeAqIlIWyranHSyXPTAD3ewDiyyyv-3hN6x7L5y7u05jQX3C2tij0PP5261WMw2btf0UzI4nZcuQRkSyFlmLj0rJ11y9jTAZdHw-i-_hj1oJKEhOaEv83ymHyYg.jpg?r=05f",
+            "watchID": "81500381"
+        },
+        {
+            "rank": "5",
+            "title": "13 Hours: The Secret Soldiers of Benghazi",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABRSDHDTzOZinf3yKlNhaWfJ2xbFuLQG7kvMic6HPQLRkXepGI0dNvJIEij9uJXA2lGNssVHNGd6LctdGLML5iQmf5R1efxRW3h3S.jpg?r=2b9",
+            "watchID": "80067930"
+        },
+        {
+            "rank": "6",
+            "title": "The Outcasts",
+            "week": "3",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABdIufoOYdeDccjUQylbeTF0_fllbWQPaXHFx2SYGEIfrFifm3AiqJ94nLMU8N5KdcRwk0SLeSk_22gPiDx1EMvriXSkTRxBynb2Y.jpg?r=11f",
+            "watchID": "81716252"
+        },
+        {
+            "rank": "7",
+            "title": "Pain Hustlers",
+            "week": "3",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABfRQBd3HyfjYhZYBPKgLqaHFXB8a-LnRuiLJoHqzCUCM_1vTmmtVHGHcBExFaDoBi6Z2kyfjJm4urZm0GGtrspXt0cjnR9eW2uKtMLg7UOmklDrvUpztn2WRd0MyWAvQniq1kQ.jpg?r=bf6",
+            "watchID": "81614419"
+        },
+        {
+            "rank": "8",
+            "title": "Nabil El Gamil Plastic Surgeon",
+            "week": "7",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABW8lYAptjFxK6Y1K1SEliD0gs8DctclKnWYrrSNkfveQtadqAfj4CyZlycv2JxLCSYj3PgxEu0wywt_yINZ5k8t4pemrRXmZREk2.jpg?r=956",
+            "watchID": "81716242"
+        },
+        {
+            "rank": "9",
+            "title": "Wizzo School",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABYZvyajPqPfp_XWedCdRKkHuemIm6m4mO3AwuLiaCRza_ge7GRbazRTzqvEk_i0tfgWlB-LnYNLRTINYpFtr-VyODmgCncXl7dWl.jpg?r=20b",
+            "watchID": "81716253"
+        },
+        {
+            "rank": "10",
+            "title": "The Quick and the Dead",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABcxoGPH5pEsap1GOVU6aORdGjsLizgJzxcU9j7YTJDNHUAvjxYahpyfGvqhMWOeYnnjVIThA1xczMdnqBzQ8kqp3MKaqG6wILZhv.jpg?r=37a",
+            "watchID": "885014"
+        }
+    ],
+    "tv": [
+        {
+            "rank": "1",
+            "title": "All the Light We Cannot See: Limited Series",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABR_nYR92jlFICg4eUT4Tr6_Mz_84pgTBZ6DMWlP6rf4IMU2E19-59TLAobW5sNs-m3vat9DZ4XWmvuTU4SmuYeA6sHwCBfd4niQS_IITVIgxt1yNea-xS9x03hG_Zzejov1sSg.jpg?r=592",
+            "watchID": "81083009"
+        },
+        {
+            "rank": "2",
+            "title": "The Tailor: Season 3",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABa7RmKYpXdgC6pOmUrRBdWt83_lL6avx-0WV7SL6yxrskY7KY8w9gaLD3w-_dih-nuQzvdop2b8UASKVrUT1NEyMHSOukAR9RaiHDSOBsb6xbdpnRhSP8ToEIv4e4xEYEImVaA.jpg?r=11d",
+            "watchID": "81636524"
+        },
+        {
+            "rank": "3",
+            "title": "Rick and Morty: Season 7",
+            "week": "3",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABdvZ06Lc-frpEu5F1g46iNqTOpDVvQDgGGeldcrjEEWyRoZJmsg5wMRq3ZSPf3W69S8zCPAHClfemFQcGqJX7lBOQIk9G3U3trBP.jpg?r=615",
+            "watchID": "81717773"
+        },
+        {
+            "rank": "4",
+            "title": "Lupin: Part 3",
+            "week": "6",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABVOWtl9tlSH5eW_Ominbp-PvZatM24GadNOCMF8MwTHeTEadGO3f93RhU0b0XI5YGzdWm0K1JBi0ogQCZi3-jebXOZ2aQTr5HNYWDPKYinEzhMdF3qUNrP-0SYpMO3hp5Nagcw.jpg?r=09e",
+            "watchID": "81410569"
+        },
+        {
+            "rank": "5",
+            "title": "Bodies: Limited Series",
+            "week": "4",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABVYFvBcs9-Rctc4P-FtyE4k2_DXbKR5EmTcrgcISdUCvGAU_-HHvv3SRs218lDXOtS0dW7VfWtDosl0JD4ln5fTgUOWkSi2TYsVBeDa42HGwhVCcn1_BQgQPly4vvDCglNyFwg.jpg?r=7e4",
+            "watchID": "81252917"
+        },
+        {
+            "rank": "6",
+            "title": "Unicorn Academy: Chapter 1",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABZHITdH8Ox0LeSpjbKSav8QIPjeJTrGfOgfbCBvDWxeYuU_TscYhGKoBDANmXAgAFXQVmgDCiB2clLQcKjJGMZr0lbH1TRzKsbVC0UuKuA9orYcu5VgCf-Iu4oodbzojQjHZlA.jpg?r=9c0",
+            "watchID": "81279323"
+        },
+        {
+            "rank": "7",
+            "title": "The Billionaire, The Butler, and the Boyfriend: Limited Series",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABbo7w8oZwVSeLnP-fKNpmnUN65ol1FT9lPyLFV5EUa8QHJLUrFQpUhlSRH4ByKnpEACbvcR6u7pywvc7RLPAdALShiVNpkwEsIJng4lrfqD3Zy4R-haiyh3pucKDZSCHltRXMA.jpg?r=120",
+            "watchID": "81306327"
+        },
+        {
+            "rank": "8",
+            "title": "Selling Sunset: Season 7",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABUonfB95AtgMXGyK43izbJoitIrKn_1rDNM2l2cyWGknBtBjWMuDFMmSvD_q3B8osem30Xaor5YNKKbcC998ROgswVrysiCJzbS5l-ZoPF9iUkr_ux_z3WaKxe-uf6QckgxQPw.jpg?r=d00",
+            "watchID": "81613877"
+        },
+        {
+            "rank": "9",
+            "title": "BLUE EYE SAMURAI: Season 1",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABRBbn9VswykYpXHdQPPCJnQk-3Jq0nIXF9-DXU63_k4F_esnR-5bctWK1nAmH7X7gKUUoS3Cjq1073NHzScQvtuWoF7nepoI3ysr1FEbJrVBYMTJXe4LBKusrfCOR0MVo9zUXQ.jpg?r=1ff",
+            "watchID": "81231576"
+        },
+        {
+            "rank": "10",
+            "title": "Friends: Season 1",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABfM077GG2e_SWmo6cTzh-kdX1UWUXPVJwXl6wQpjyTZ2kS6QHnPXkUlNynwK5HtKokoRk1g3f5V812VF3Z4vqFz6MtZhz99VynBT.jpg?r=1fc",
+            "watchID": "60030455"
+        }
+    ]
+}

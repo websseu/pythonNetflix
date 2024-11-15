@@ -1,0 +1,148 @@
+{
+    "kind": "Netflix Country",
+    "date": "2023-10-08",
+    "films": [
+        {
+            "rank": "1",
+            "title": "Khufiya",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABT00z0itH2kLUVAtWyB9CpN7_YoRVRQqXrOoPNr0Kk6q3LCk9fGfAQd8VxtEjQRPfogDljJlPbG4WHiajvS_0SM1U_cH_PZBg9_KcxhIbD6a0qw6d08CJacdE0H-UMpEsWcU-Q.jpg?r=3e9",
+            "watchID": "81252372"
+        },
+        {
+            "rank": "2",
+            "title": "OMG 2",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABeIXLtsUR_AozMOtbEHiB8XnqtVLsiOsQxA5bfLpeoIgFuNwbS17k-OjnxTGIAhA5yJ2H7_jDs7bj6FnfYQA8NyiONKFmOl79jF4.jpg?r=62d",
+            "watchID": "81722145"
+        },
+        {
+            "rank": "3",
+            "title": "Miss Shetty Mr. Polishetty",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABSSQkzLFjkU24luvcQzyrfr9XSxFJuqlNjnmteQqBESGEg3IH_SnpQZCF3jaz2ZYO59wYoeaCgZgXHpWdz62ZiC22WRucRRq4U6v.jpg?r=a5f",
+            "watchID": "81382265"
+        },
+        {
+            "rank": "4",
+            "title": "Kushi (Hindi)",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABbGGXDJWtlWs6EsSmeLPgQsmp355NpGxpXdRcunuMVbJ6xkM9p2m3nOw12fi0FWyju9y8FysEq6YGfaFlQeicnzL35MlsbE9TiKt.jpg?r=41d",
+            "watchID": "81719491"
+        },
+        {
+            "rank": "5",
+            "title": "Kushi",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABab5CKBzbTJCe2C5QjKP2J-YX93FE007tJ14UAiHp5-lrzogeGHbBYcHdylQYHZgH8VYr_OlnWtjTDbQVTfUGM1m5BQfbKoGaJFu.jpg?r=548",
+            "watchID": "81719490"
+        },
+        {
+            "rank": "6",
+            "title": "Jaane Jaan",
+            "week": "3",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABS-Vm46mUEEWfg5h9y1PW7uOEBzNaaLMM3vIlLmc0b29G5o45a3kS6iZJhkke4rZ8O1TYvtMzU6FVQs8lNXTzPX6XH3MHlkynYDFAITcRbpf7nGTVlxUx5Dqdf8acJS-YSUkGA.jpg?r=f4d",
+            "watchID": "81586376"
+        },
+        {
+            "rank": "7",
+            "title": "Nowhere",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABXO7vl5IkxSAncH3wooWQOmjrEgEY7XkW5YqYrNpT5IJUlNpqSiY6n5Hfdy6FbVPYs5mnPnaGC2HaMo3M1-NC3OY9TysHIvSIGuJZ19B7m26b1nicmXOudEG3PYskyN9Srr07w.jpg?r=4f8",
+            "watchID": "81449034"
+        },
+        {
+            "rank": "8",
+            "title": "Spider-Man: Across the Spider-Verse",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABa29JNGAraeNVyLruvnphoK8zlVuRuYJwfVM0Ylu1bn6yqwTYWWXlzu3ITFlwX9grz9NNX7oMPgISIFY4q-Jgpv3-cDlMa4ZHI3S.jpg?r=f8a",
+            "watchID": "81594921"
+        },
+        {
+            "rank": "9",
+            "title": "RDX",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABcOEVsj7oW8qs8a42CT4Er3EwS6fxi8pyJWt2ua6BDId8NkEErNN1tRz8BBVWlHO5tipXzuZXd6tYlkBlOKpbAexR4yFTYH7nO7p.jpg?r=7df",
+            "watchID": "81721164"
+        },
+        {
+            "rank": "10",
+            "title": "Kushi (Tamil)",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABc-jDttdxFd4hWz29BTicaO-aIC-eoqEt5Kt0jgV7rGO-BD2YMkVJVhJ5OHr1rTrboyyEB8MfwVgY27Qyp91lqm8FbIxH0XJLURV.jpg?r=949",
+            "watchID": "81728992"
+        }
+    ],
+    "tv": [
+        {
+            "rank": "1",
+            "title": "Choona: Limited Series",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABb8jTuXYA2Dii9sqAaFsRv2ZDqSWwdgofLC8y3FxyfrkGoW-Nm1OGzDputkQcEYNAb8rxPK14XPJUQmJkPx3fh2SnCz5q6xHKDWq3cwj61doF7N7uSfujFcUVXYvGE91dkl1jA.jpg?r=78d",
+            "watchID": "81264056"
+        },
+        {
+            "rank": "2",
+            "title": "Sex Education: Season 4",
+            "week": "3",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABfksvvtCc60oeZ6iDgMXx5kA3njunTmsxHM4hfyWUbH69F4CXnkpd9JzQnKBcWfPN3sk4h9WqtuM-ueMHcbVcW2qO3JhzFBmMssp_wNRtFmn0dICXwewPYjwNXlYvC8iN_022Q.jpg?r=a3d",
+            "watchID": "81322140"
+        },
+        {
+            "rank": "3",
+            "title": "Lupin: Part 3",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABVyy3lz0VWzIXapBxi_XaQGGjn3j3PJcMEepgXoHGlEmFRRRzVhYBJQFgHSqNWwo1syQkLKjQpLK3xU6VIJdtV2s74NymJFx1e97Yqx9EtJn0mowFQkdGekScU-bNDhUGOeDjQ.jpg?r=0e0",
+            "watchID": "81410569"
+        },
+        {
+            "rank": "4",
+            "title": "Beckham: Limited Series",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABfjGC7umIWYADp0ZcCQbLddexWIDMhTS9SqjJ1rXBSihC2iXYfpLGk8ea9j5FDA9w88cfuvf3dhDwkNZ-v_3VM2fv6k5JUj6t9oiscCgjkp47ALdaRZcHYDD8bmr6hqjKHSZPw.jpg?r=5bd",
+            "watchID": "81223501"
+        },
+        {
+            "rank": "5",
+            "title": "ONE PIECE: Season 1",
+            "week": "6",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABao15KxcWZhc7Dvql1YYraJ11GUjSpwbt2MZYmfDnff3lr3Aa2l7dJXD2inE549Min_OasYa8_RF52v_pWZKQiGkno9XBVydiCwm9pYEyEgivGqk4BC0sdNhNHU7Epydt8CZYg.jpg?r=4fc",
+            "watchID": "80217940"
+        },
+        {
+            "rank": "6",
+            "title": "Guns & Gulaabs: Season 1",
+            "week": "8",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABU18zhf9C-hBoVAYvrR8lpYnNeFHqBRqIT4nz3vLPV3P4moAAxaWNTpyRnVjI9UwrPi6ssb60EHkD3V2b-veTvpzvFjTMhg5WebQi8fisY1nLuzrr7RuO8IJq1Zu0Bv346fdSw.jpg?r=82b",
+            "watchID": "81313532"
+        },
+        {
+            "rank": "7",
+            "title": "Destined with You: Limited Series",
+            "week": "7",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABaTDtmrP9lfCQRLCha5d7v8wHLByA4n5w09HbGG8YKXNR4u38YuPfLUyu4YkumrsZfVs3mfsHraDfdeJaZhj_38K4pjRbmTErrASXdCNO2IHf7yQQx06U8hAtkye51cbJleAbg.jpg?r=cac",
+            "watchID": "81669780"
+        },
+        {
+            "rank": "8",
+            "title": "Jujutsu Kaisen: Season 2",
+            "week": "10",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABceqBhMOfhNVONyEDDHsxgu5M_RfeAp0QIXJ43zJ_TW59kKqilsGdpED51WD1JZgixwaxvMaH9LvDqD35-CR-_oytBZQ4Ua1CwHE.jpg?r=932",
+            "watchID": "81705280"
+        },
+        {
+            "rank": "9",
+            "title": "Lupin: Part 1",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABQVWRa2FVdtmigVWmJvWKgDZ9EnM_mtZEgdM9oYM9Q4XdgQgB8kbVyJNQUokRn912RSnU1nVUk0zuozX53aZysq2wgpKoBULK3iNfxx0GkPmY9NXQc_Mh06y84C1CbvXg0tejw.jpg?r=a75",
+            "watchID": "81010119"
+        },
+        {
+            "rank": "10",
+            "title": "Sex Education: Season 1",
+            "week": "5",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABfkf1MhRNawLmaLV23uA5AVw6Rr34yE_OcWk2pTh87QMLMqUWp7FOvuJnmdXkEdGjeZY6uJ4s-taQkSG-zgUDFbLkZ-QQSmzXQ1i_echHnl_kIW3mCFRbGZlyXj7bvkUhYauxg.jpg?r=2b5",
+            "watchID": "80210937"
+        }
+    ]
+}

@@ -1,0 +1,148 @@
+{
+    "kind": "Netflix Country",
+    "date": "2023-10-08",
+    "films": [
+        {
+            "rank": "1",
+            "title": "Ballerina",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABWvrBd5r4z7PS05yYIOg0My6XN7dObl_xLLYOKFE18FTGc_1J3JH7lomWgpOXtGquu3BFexnJsqIIoXxg3zscn83JJHhy1gVAbfHmTTQm0wd5lYBQGTho-JYKZNQSYf5_U3IHw.jpg?r=2b1",
+            "watchID": "81572011"
+        },
+        {
+            "rank": "2",
+            "title": "Nowhere",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABXslKOp8ANLVyupZ6tHOiFbxcQ2FTl_zOUrSHU-m9JatTbxjvQnqX393j6qI6vR3Vm-_fFRAn3rrMRsBx51R5-8es-L4VFJKhiIODvGNY-zhMRM22MnyRJ4qDLtcdgechtwiaw.jpg?r=947",
+            "watchID": "81449034"
+        },
+        {
+            "rank": "3",
+            "title": "Once Upon a Crime",
+            "week": "4",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABWRlImL-Jqerp0drsr-VE7WXzWq9UJiZ9tV8wygdaeLflZzwzUv2zI8PZjSYZO5ij7rijm7TEYKfOi_NbtPIt9fZWfWAZQIzZb0yp5UnLdCN5A-OD3d7wI_53JfcyogKnaUN8w.jpg?r=7c4",
+            "watchID": "81450775"
+        },
+        {
+            "rank": "4",
+            "title": "Maquia: When the Promised Flower Blooms",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABarfwOqhV8R6KnFZzlpw1cjFHo5Ey4TPJK7vVQ0doca51umXcMrmLznk1ocw3KZODDxPDZhtvEj0mEuMWWFt_EWxyIlxKZkjoGOW.jpg?r=c8f",
+            "watchID": "80998990"
+        },
+        {
+            "rank": "5",
+            "title": "Smile",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABXyheAlPCGuWaUym_6IKooqvSrYdhbzfWy-7CTGjJXy-DgMjRK3oZ3e9tXqNXpDOVkxG2sYqDTA25JNQ6xjEBa8NhhTH0gLA1oIU.jpg?r=41c",
+            "watchID": "81616656"
+        },
+        {
+            "rank": "6",
+            "title": "Reptile",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABYqTaLXFJUR4uyCIKqB03wxq09I40rGlV3jlomC2LWcbJNp-oX35tadJXknz6LKic9HG_cO2eIz6FhXrZYD_u31LavEx-DT1xf7rJvqeXudukMoVm6Ntlk__fojEdfoFh5dwZg.jpg?r=376",
+            "watchID": "81463014"
+        },
+        {
+            "rank": "7",
+            "title": "A Man Apart",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABSShCVfyuz-DMiBkdC0_FD5QIrFRe5EjeYgn4W43NXNh_fIeUkAgm8K44k0Fv4-AkUZV0gkvL1i3dL-F3ugRng2qtJtU2vjbxF7z.jpg?r=fe4",
+            "watchID": "60027580"
+        },
+        {
+            "rank": "8",
+            "title": "Jujutsu Kaisen 0: The Movie",
+            "week": "11",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABemLq2_AlEUxhy_u48wFgyrlrE819RPI2TIqrYvLT6XgdXMHVKuUSf4OEQF5xt9juNWpie89t84AzCbAVN9-thmB10mmdHsfPrj9.jpg?r=300",
+            "watchID": "81602834"
+        },
+        {
+            "rank": "9",
+            "title": "Gothika",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABSsPEvto3rCVgrLIuNZNmUFJ4wf2MXnFL7M7aZjbolobDN5E7oLWu9M3uxgNK96upGeeuTxLdGX58mAMsA4lJ36LUqW_pBDciiq6.jpg?r=179",
+            "watchID": "60031247"
+        },
+        {
+            "rank": "10",
+            "title": "Voice Of Silence",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABTqxJLGb67I39-cNkRNN5Fcq9O_s0RE2q58Oe9yGekXQfaQiv16MeT3hWM7jESEU_UmmRMa0ofDmvaB8M-dM3QqXrdt5rzDAzu7R.jpg?r=0e9",
+            "watchID": "81402894"
+        }
+    ],
+    "tv": [
+        {
+            "rank": "1",
+            "title": "Frieren: Beyond Journey's End: Season 1",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABZ5FThJaZuu3HMHeJPjKMC94QkC2KUo6nnopNaREueKhEiPjK9JSvi-565aOztdkTurgD2nqhDxsZlL2TiA2__Uh5RBB25-OkYfz.jpg?r=333",
+            "watchID": "81726715"
+        },
+        {
+            "rank": "2",
+            "title": "Jujutsu Kaisen: Season 2",
+            "week": "13",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABQP0gq__eMxmAuXIG1ieyQaG5r6anANlekcUnxWFe3tpn9tyLIa7xCOC-UCyvraDwBcLntSPu8XGPPYJresDhK04ybUEi5oxZyNC.jpg?r=933",
+            "watchID": "81705280"
+        },
+        {
+            "rank": "3",
+            "title": "Shangri-La Frontier: 1st Season",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABW8Injlx6UgdOIMZ8l8QIqIDGxxR-3AYAvdo23jLk7x9TKMQ1f91hhGMPTidmKm32t2dn0s8h9trDuqPkkkYny42LHl5af8lOSlH.jpg?r=577",
+            "watchID": "81727243"
+        },
+        {
+            "rank": "4",
+            "title": "Company Ain't No School: Season 1",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABUtqARNbXxkELMqLvz5cKGhB5LDherxiAI1FXHORIw119mFBVkDrL5ZzVpp22d4J6r_J2j5MauAgksSaarwX1FHCn749UAeFnkoe.jpg?r=073",
+            "watchID": "81716796"
+        },
+        {
+            "rank": "5",
+            "title": "Destined with You: Limited Series",
+            "week": "7",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABeGIm0juql1NvOtPfg5Z2iw0HfPhdfeTB0iniJrfSi8rnoQKc2fVKRyh8HvV7wDtEpsOE2NHIQtyZFKqhx9FBOwxWAuk0nn4SdB4voz4SEvRUYlAl05Oyzq7eBqAQ6fDuDT-ZQ.jpg?r=214",
+            "watchID": "81669780"
+        },
+        {
+            "rank": "6",
+            "title": "17.3 About a Sex: Season 1",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABYP3qHTu30ChkJirP3AmlYZhK2vnlNKw7czURB_MmL7FRp-qI7Gg9umV93sN2vJD9b1Ee3py2Bo04vKgT0OMHO9MjcCrvsyrvIDY.jpg?r=ca7",
+            "watchID": "81716827"
+        },
+        {
+            "rank": "7",
+            "title": "Company Ain't No School: New Generations",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABUtqARNbXxkELMqLvz5cKGhB5LDherxiAI1FXHORIw119mFBVkDrL5ZzVpp22d4J6r_J2j5MauAgksSaarwX1FHCn749UAeFnkoe.jpg?r=073",
+            "watchID": "81716899"
+        },
+        {
+            "rank": "8",
+            "title": "Strong Girl Nam-soon: Limited Series",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABVETQ0oumoZNd208VOEyER62WBIjAATtpOENIpgooLzbD6p5Ym_3W8jiVNCNsKh9dECjwTJxflozXwMM8SLDVSmrkCflwsIncEWSK1WYgOL31cROV_PyvAUo7rVGDQRppkFRKg.jpg?r=883",
+            "watchID": "81697982"
+        },
+        {
+            "rank": "9",
+            "title": "Tale of the Nine Tailed: Limited Series",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABZ3w5kCh3mbWoKGT6eQmu0zygktXw4gvGawWfPT-hEhWa33UmRH5Yec0usLHU1UZgjUurKttkwVytD4HMUHxoVGvmlcBNyeKVXiT.jpg?r=a50",
+            "watchID": "81357287"
+        },
+        {
+            "rank": "10",
+            "title": "The Devil's Plan: Season 1",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABbrTUMWBTp57-pgtTELAxQRumJgFjSev05lgRzbDYIWkxan_ssMQ8mA01vgg2MIrKyPFqbKf7logW4X_kYryIqBA046p3HkvRmIFMQvVthb0oo5NFcpGLt6wOR_vasFapprrQg.jpg?r=3e9",
+            "watchID": "81653387"
+        }
+    ]
+}

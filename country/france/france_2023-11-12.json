@@ -1,0 +1,148 @@
+{
+    "kind": "Netflix Country",
+    "date": "2023-11-12",
+    "films": [
+        {
+            "rank": "1",
+            "title": "The Killer",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABeMhNcjvtxjfmRkloHJ12ig9XxvixqfdH14bZ-JZKR3AhrdLGJ7aslHE2sUhEb3wi4GzBHoVzSulSdDhJsH6PXakSLnBurZphSr9cYAr_yO1vyzH1JkgZisoHbF21lBeg_6u-A.jpg?r=fe1",
+            "watchID": "80234448"
+        },
+        {
+            "rank": "2",
+            "title": "Wingwomen",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABXcPrjl5_eV-NO3NmRjCfScwMOWVfaeE1HwnXH3UmeoNuYk5PRhDyCNOT0IyN0QFimZi61V_fwJfwoIS1N_M6NWjqQzcUiO4QO5LARRG_QB4pMrc5M5uYPE7pldZerae3UivBw.jpg?r=089",
+            "watchID": "81282091"
+        },
+        {
+            "rank": "3",
+            "title": "Locked In",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABe6AAWYnjdQgLZFtGM3-SxbBeJsozZRPX_bKbknvkKZAdVRkBH5AUTPdvTtAuWoi2BNeRJDyCGbtChAIcFcTjVL6NuD6GiUUbC5enQjbiws7QVOkJE-YMGFJd_Zj349UXUFAFw.jpg?r=f20",
+            "watchID": "81500381"
+        },
+        {
+            "rank": "4",
+            "title": "Nope",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABVfSYwVtYFF2da5mnacGS4S_slS8Fme-C6eW_FRr_Jvto9IeBDr2Ig3qPfNVnN0j-75MJnmcVeWHXw9jNz0R_UQmDynZywzWCuCE.jpg?r=7d0",
+            "watchID": "81573297"
+        },
+        {
+            "rank": "5",
+            "title": "NYAD",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABQ6zBkE4sK7BYNvYELCZUs0belKIcfJCca0mCtrtSR3M6cSLABTJG8XyBpgOZtytzFh5YS--fGFS_FZ_ze51yQwI4tuYD7SkbfYWIxg8qG3GwLTUSMyQnsrX0rEoUDyeMYa6Ew.jpg?r=3f7",
+            "watchID": "81447231"
+        },
+        {
+            "rank": "6",
+            "title": "Playing with Fire",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABYfxkj0-FP9AJoQyqBqa4x2qRMzfBCgHsioXrQ8ZLgicp2JM9iqOAUkoFPpHvxbjR4xeqKawaGdIi9sV7S8KfEBlOY64_xpEt1zK.jpg?r=7cc",
+            "watchID": "81221835"
+        },
+        {
+            "rank": "7",
+            "title": "Cradle 2 the Grave",
+            "week": "3",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABfsHFQgrrF4tVsiXjyGtVn0faRApMWtOhhIrFQetZxj43WNUhOZRGiJhrktJQTENzaQObz12QoB61Dh8pLK13731Gxq5Y4HiksqV.jpg?r=e67",
+            "watchID": "60026133"
+        },
+        {
+            "rank": "8",
+            "title": "Sly",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABdk8wYPiADFq6kVYINjLfx-dbToAPiyaS_VdXGvlXW5YYYkIVY-42h5FQ1wKyobkUlDJHiOzShq2LDLhw4CkPgAmKztg_FQGbFCGxwyMBvXfRFbV-OSXXoorNZKxn9enni5D2Q.jpg?r=7d9",
+            "watchID": "81450717"
+        },
+        {
+            "rank": "9",
+            "title": "Monster High: The Movie",
+            "week": "3",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABTvNQyYoVKcQwnTvUof9ImTN4YrFP4mrSN_h0u1KvGHJOm-blhHfSJCJeRJneo3TR9n8EE0lqfQDZVjUhuP894dt43jalh6r-exp.jpg?r=2c2",
+            "watchID": "81719217"
+        },
+        {
+            "rank": "10",
+            "title": "Pain Hustlers",
+            "week": "3",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABRalRuEvmL2PkH5CqMXrKYkCWm-AcG6_HgVT1iFhS5s-fzoQHc20-8AYk6LwOMdsRk95Ung7Xb-bBmlJ0JOTi-VKCoRZLjzNOsm8hbfm_xnp5dEqh2jAS4xYGtzaF91BKC-mwQ.jpg?r=34b",
+            "watchID": "81614419"
+        }
+    ],
+    "tv": [
+        {
+            "rank": "1",
+            "title": "All the Light We Cannot See: Limited Series",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABY2PB1Hi29TNBz_Keo76sghDjKkQlC5hC0ZsxRckDPofxSOSY2bSa7keCsIPcYZyoV0ZrYWnIeB_7Uq-Q2Hmkasw-z1pgxFQR7m4EI4OfCe6oriyz30PO0IqvqFCoxJHTMkURA.jpg?r=703",
+            "watchID": "81083009"
+        },
+        {
+            "rank": "2",
+            "title": "The Billionaire, The Butler, and the Boyfriend: Limited Series",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABSfDp0SCKLJf9tSDvEUrrmTcP3QEQusGsozK1bp7qJQ6HP7NXBbxyEz_KsFIKxz8kMAvBC5tSgyrYaeORa_YfbA_1WmoRbLcFfhjG4rNu74BK-50t4PUzCOgJ9uJUbwvyDyyVw.jpg?r=d2f",
+            "watchID": "81306327"
+        },
+        {
+            "rank": "3",
+            "title": "The Tailor: Season 3",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABfaJLGqd-iUfyIoB4miaDqQXtN2f69NyFOS3FNHxse8I97rvoCrGSDk7x9TvHYKaGdmXqiLq3SkrIRLnPvFMi1a-HOclM69m9ya9yqb2hNGq5F0apPZloNf7ZM0HwPichpj2Mg.jpg?r=582",
+            "watchID": "81636524"
+        },
+        {
+            "rank": "4",
+            "title": "Ferry: The Series: The Series",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABU9y317U9-o-mwZnyNjVEnxtcMeQ1BMhuv_G0QSolYZjjoJl0I6hByzBTqckTE77B83V8cWKrGcnidz4Uxc2BCrWt0EXE5kweluItuy9Zy5C4lkFXv9EvTkeukL0MyijyBVNNg.jpg?r=96b",
+            "watchID": "81579443"
+        },
+        {
+            "rank": "5",
+            "title": "Bodies: Limited Series",
+            "week": "4",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABTaeKuu7BfKhRMGtGLsko372FFUi0a_mDU9r5IgVJ7UIFjmpVg5j7MOU6Pp5mjGMoNtg7J0YMeWKHXPOcB2H8lC9ToLL-C4tNMWAM8iO09xjVTSqRe14TYUCE1BPf3xIcMi8GQ.jpg?r=8c8",
+            "watchID": "81252917"
+        },
+        {
+            "rank": "6",
+            "title": "Lupin: Part 3",
+            "week": "6",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABVyy3lz0VWzIXapBxi_XaQGGjn3j3PJcMEepgXoHGlEmFRRRzVhYBJQFgHSqNWwo1syQkLKjQpLK3xU6VIJdtV2s74NymJFx1e97Yqx9EtJn0mowFQkdGekScU-bNDhUGOeDjQ.jpg?r=0e0",
+            "watchID": "81410569"
+        },
+        {
+            "rank": "7",
+            "title": "Unicorn Academy: Chapter 1",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABQTZVUhB07EeZzdH5EV2vxkZDV0hiqPFZaso2OqCduE2y0BO4Q25vQ4k1EhI5ERLKmhwfjPygoqo1fabOCwsPXT0c-8gUP3LAi0Z6ModehrtZ3jeHnn---hVZr4Nh1MqV76uFw.jpg?r=c15",
+            "watchID": "81279323"
+        },
+        {
+            "rank": "8",
+            "title": "Pact of Silence: Season 1",
+            "week": "5",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABZ9dhq650DMqd3gVwv6_sjfXg_z_lBUVEZcvQFgg8sMnsPThCMtAQGiZK1Rp0ikLIzEEBnrmY2NEEEUougna-4hK8U5e9NCDovhhktS37EVrW6wytCkMBaThq--1-nrjLfGdvw.jpg?r=011",
+            "watchID": "81506666"
+        },
+        {
+            "rank": "9",
+            "title": "BLUE EYE SAMURAI: Season 1",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABZR02peZX3oz8PinY0974DWBCbUz66X6mBNZGEGiRuVsGCfDVqykMPT5wvnUUTAU3nrRb38npVmMqQcD0ElkDb2hX-Kc-c71HEgJLCzl5ZnzLroFlb-KWTqkZcHdI-uQtLG-Og.jpg?r=17a",
+            "watchID": "81231576"
+        },
+        {
+            "rank": "10",
+            "title": "Elite: Season 7",
+            "week": "4",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABa-NXfw4PSuS3AiN-OGUJdoH3zoh7ZA-KNv8hZtyq6O8wGQcIfGYhouoeAK9fNhitSUhqHI5ByiGMus-lY3MuW5oOva7EJd2dm-VIBJrrg8umq81HGBN-RiGTQsyV5dE3nrkmQ.jpg?r=3f8",
+            "watchID": "81588713"
+        }
+    ]
+}

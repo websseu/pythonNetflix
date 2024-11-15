@@ -1,0 +1,148 @@
+{
+    "kind": "Netflix Country",
+    "date": "2023-08-06",
+    "films": [
+        {
+            "rank": "1",
+            "title": "Paradise",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABQsny83CmmZW-M00HdLu4HeBhoF4LfQ-ENWjno1MC5fg6uEg7d4ff94bcoRGqyKZuiGO6obsVdHx5SRW6uEcOT67Mvnsjs7oPltZi1QNCaeDFABKTscJCaUmkBzhJAQKvbOGVg.jpg?r=5cb",
+            "watchID": "81288179"
+        },
+        {
+            "rank": "2",
+            "title": "Hidden Strike",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABZPZhlTnrqg21qaBdNeZi8_pyX78ONRBsBSp2Rqu3oXf3aPG9B0FivsZpvKluqvEG-Cyjtf7_yBknwI5d_I13dIfboGGC7TsoM3L.jpg?r=5f3",
+            "watchID": "81322579"
+        },
+        {
+            "rank": "3",
+            "title": "Miraculous: Ladybug & Cat Noir, The Movie",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABV5554SmybpDWO4qZJOk0kWRiz6JOrom1oTGdQ21Mhn1ilHicsKhpKkejuwo1YyaVefeU9RcWz6COoXzHsvNoOGgmrIyPjHuS72JxVkeQ9IVIpsuV8aV6Gd35aRw4hXUkXEdeg.jpg?r=b2b",
+            "watchID": "81383247"
+        },
+        {
+            "rank": "4",
+            "title": "Soulcatcher",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABR8uHkR5hhg98KRsh-X5fTgW4YWVPiL5LP4vCTkS6vAvv3mO19PgywlY0pypGeGxg4iIrQ5AYbUmTiPKpnlpX7YyKwIk1qK3cgctlkp8ta7jBqaHt5YfZ13xe99CRO6yXyjsMQ.jpg?r=fd8",
+            "watchID": "81498378"
+        },
+        {
+            "rank": "5",
+            "title": "Happiness for Beginners",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABYYFqukehjWaPuB-TJfbtABWPk4AN8mBj--p78Rk5-D0QstpwGlHJfnBhZXM51qtkT0d8Tn83daI9KnlRlIym0gWQ1Zr_NSlv89k9YbeiEZwYUgQDlTDrgMdO96D1l2YM9wQWA.jpg?r=b83",
+            "watchID": "81418617"
+        },
+        {
+            "rank": "6",
+            "title": "The Meg",
+            "week": "4",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABVzXGFZzr3Phhq_-qR8MGsdK_mnvNwqMyQ0WGFNIbyh8abx0VydjEu-lVLlu7XXCuCbIMyQh2SNie7Hl8LiVFsGCnB8iClpBraQu.jpg?r=337",
+            "watchID": "80237937"
+        },
+        {
+            "rank": "7",
+            "title": "Total Recall",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABRJZeokcyCMK57rp9C_3R7m3CeSWgLZEPH7iIGPzEhVK4gTvh6rtBpgLbe3Vp5R4knmPtf8YaBH2v9BLyEY7AmoKrw4vKeCHYj5C.jpg?r=791",
+            "watchID": "70219498"
+        },
+        {
+            "rank": "8",
+            "title": "The Legend of Hercules",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABURrMAhjKPSAPuPhNGCFeXiHIL4NWNkj1MD3f2B8WyiYaock1CqkitJvezNmwvEnBG8Z0S8S3EPNcKRFORK_Y0gi5mGrEKj2wJAH.jpg?r=315",
+            "watchID": "70295173"
+        },
+        {
+            "rank": "9",
+            "title": "Pelé",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABXkboWdi9vlYtdfDNbDAnjW9IvEgkapLKUoad2vj9mMwJT2Rxf_PwCd4jicQoOWVVkRU2TldKth9fR-MBY4_cHLlzEa8raSZaZse.jpg?r=a94",
+            "watchID": "80080113"
+        },
+        {
+            "rank": "10",
+            "title": "Hitch",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABQ0UPKqE4sF7HfHt7pYRSH6344HWmtcSrDDGosi1hmM_lN2LDMDTJOUGYwU1QozhGVJWeHqGUKuk6e9gKKN-WlnkmZ_QidgF7jgG.jpg?r=0e7",
+            "watchID": "70019506"
+        }
+    ],
+    "tv": [
+        {
+            "rank": "1",
+            "title": "A Perfect Story: Limited Series",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABdBB7Bd8hNVAWwYLca_3TsS1KnL6zBV-fCIPHlWgXDVJMdrJnZew_G_uZIfi5gy0dpkqTHxNqhDpamsRxjGNJY62zzwdKFAfuwsJ6I3Ps608QrHP4IkWVW6vL8_xVZz_VbuCjw.jpg?r=be0",
+            "watchID": "81388034"
+        },
+        {
+            "rank": "2",
+            "title": "The Lincoln Lawyer: Season 2",
+            "week": "5",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABRUsa4TS6Sus0cbVM9nQLK9AFKeaCmEwUZeYARgtr_E1vVShSBtTkAeRJclpn_edZwqrgRl4BH8kK8HVHFIkrlholTkexIZ436xdaH0Q_tvaXFPnulcs4Acpewf9Zng9io3jGw.jpg?r=060",
+            "watchID": "81331784"
+        },
+        {
+            "rank": "3",
+            "title": "The Tailor: Season 2",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABXqMHfsWntj8wZypQ5C__Tki3PcSR-aApbZTFZeruuvg2XpFwMwlPpMxHZymKr2XylQ-9f0iYlZKArGhfcfSkjzDeP1oatbzdRuR4QwcfXl3jVywFVw0lIB0sz8DPB3s0Mwiwg.jpg?r=e5c",
+            "watchID": "81590778"
+        },
+        {
+            "rank": "4",
+            "title": "Heartstopper: Season 2",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABUte9hsjesXuC4TbOChTh3JXSQTH9YJuQVQ5Q1XZtjcYkWLdkR9AHb7DZKX5e-QW8ChFIfIkBPNqXEHa6B8_PTlmTIfi8-Cj4OrTAg2L6Ck_RMi8oT5GKcu648ONGB_uDwNSdA.jpg?r=8b6",
+            "watchID": "81486126"
+        },
+        {
+            "rank": "5",
+            "title": "The Witcher: Season 3",
+            "week": "6",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABfXyTm5DyRxcrwqZsfvtG5nSH0UHj7ro8XWvMKU3czKkxP3tIXywYG7A64sA3oWWBHUQYaJ8eaK_O9TUYqTUMdyltveajJe-MIlZ3sywuFFF08mG3YPh_sgYeJ670vfLamoiFw.jpg?r=23e",
+            "watchID": "81106534"
+        },
+        {
+            "rank": "6",
+            "title": "The Last Hours of Mario Biondo: Limited Series",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABSkBzghbTTOrOHArYrCjotT6AUd-o98NaHDUQgYUaNWNVuV0Z7fhkzDeDRMV1ST-td7OWV35wN6yJC4TSIXZmm0uCgQaqQ26HtYVrPC1hxy4lMSNrR35a3joDVtjsb23-Fw_9Q.jpg?r=9af",
+            "watchID": "81648988"
+        },
+        {
+            "rank": "7",
+            "title": "Baki Hanma: Season 2",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABaXPyZWuBbaTj-p3ZSFznMeq-Ts5Wk0EM5PfqpzsWbqNcOjQNktZx4NbytLuB-CowiOG0szql9-FQ3pRttLgJs5aNYj_7SMfWUx5-T8qi9buz1tkHtetBPbBzjmN5jYw0xFXAQ.jpg?r=1ec",
+            "watchID": "81236346"
+        },
+        {
+            "rank": "8",
+            "title": "The Sea Beyond: Season 3",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABTTJg2IfuBTg9VQ5TVDt2I63SylFLiTLbnrV6j-R4AvGgozEnOhgJPS2WeCWDsZ0ON3usOIhe22aiJSCrM7bWl0DcoMIPk8A8UWL.jpg?r=2ca",
+            "watchID": "81588940"
+        },
+        {
+            "rank": "9",
+            "title": "The Lincoln Lawyer: Season 1",
+            "week": "9",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABXLpTQi4SeZ8XrxPcBFtGKeunIn5qWsSjtRFzr0mzXs1abSMm2qY5vA3EjTtIee7-4lQ8eo6UzDe5_BGPRKbPKVhihJjBhoR4U1bcrsKJYD3Ul_WoCZRcTJcF3mC_0FGbr5zrg.jpg?r=48c",
+            "watchID": "81303833"
+        },
+        {
+            "rank": "10",
+            "title": "The Tailor: Season 1",
+            "week": "4",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABdOu1PSkuJUBWcBmvvlbZRxjonhpoQUPWbxEL3f0GkW-KQYrRkuq55tqjkh7RmTBFHsqjwZ5dcjeHKIbt_UpOjqa5ORpEvgZppNEK2mUfWbKDm0Zf9CimuPbEzEfjwCimXiDHA.jpg?r=faa",
+            "watchID": "81590492"
+        }
+    ]
+}

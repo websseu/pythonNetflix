@@ -1,0 +1,148 @@
+{
+    "kind": "Netflix Country",
+    "date": "2023-07-30",
+    "films": [
+        {
+            "rank": "1",
+            "title": "Hidden Strike",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABfHMS3LMlAYRqr39l2W3S-Zckj8Hs9o98H1VFgRTPd9vBny7P29AAuiTrLqAZ2PHpT7z1H6j7myW9af9CJe_GOqXsaCC7qQr9ESG.jpg?r=136",
+            "watchID": "81322579"
+        },
+        {
+            "rank": "2",
+            "title": "They Cloned Tyrone",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABbFmQz1za7_K1QdYx-AARkn9HCgG4TsdalwAPI4WfL0SaASGU_JKX3nD5uUGSw7Sy5cbI5JhjH_o2U3tOy81Pe9RUBzkgUYlmTeHh8054h6FqswbBsNn8w5N4_ymOARJ6XhCXA.jpg?r=fd4",
+            "watchID": "80996324"
+        },
+        {
+            "rank": "3",
+            "title": "The Client List",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABQM8xZFl28IrSZ-p0MLOvhjb9EEq-9S6F2lPOdmM-YmHQ5Uj2SKRdLF97W9MfWIklcqNAfr6AHcpPUAtXVHYc2l2JXeK6GDZFw88.jpg?r=31a",
+            "watchID": "70158047"
+        },
+        {
+            "rank": "4",
+            "title": "The Invitation",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABeskTuxcl3qMdzGl8ZZfFA2Ka4h0MYK_qNDf9-VuaJJkyyfXTSsrbgz2ywKhgD5D-PZLU9daUoOc8IZoZ9b333LBuBF3WaEgxKUm.jpg?r=2f3",
+            "watchID": "81623510"
+        },
+        {
+            "rank": "5",
+            "title": "Miss Bala",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABdNYYp0LHpuw7pLyW92etvNU1l1ua8ssjTr5v1MHm9JGELDtW8kTxe-iGng_tELGjZfpWtgCwpbQQ_C-HPkurtQP_G4mqFkPlf1K.jpg?r=16a",
+            "watchID": "80993017"
+        },
+        {
+            "rank": "6",
+            "title": "Happiness for Beginners",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABZQOwPBMTPMn4UwpGFVhUoaZXErIN0Kjo-1XT-K9PuCvKsogl2dAWG7zbwulef_F_ZGeqtsAManxJ0pymwMznNrqXV8tqA1SyAsO5tsTOf01Vgx-BWYCHt1SMjSnUGgW8kABhw.jpg?r=5d7",
+            "watchID": "81418617"
+        },
+        {
+            "rank": "7",
+            "title": "Faster",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABYGtlNOGp5NxJ3qbN6Ja82-wupkYPWoU3Mvd-7BnP4jCrSY8hd-21QQlcHVoptBttrD0L0H5Xp-pE7iMtG52UCpaUCvO9B1VH3Ns.jpg?r=062",
+            "watchID": "70140907"
+        },
+        {
+            "rank": "8",
+            "title": "Paradise",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABQsny83CmmZW-M00HdLu4HeBhoF4LfQ-ENWjno1MC5fg6uEg7d4ff94bcoRGqyKZuiGO6obsVdHx5SRW6uEcOT67Mvnsjs7oPltZi1QNCaeDFABKTscJCaUmkBzhJAQKvbOGVg.jpg?r=5cb",
+            "watchID": "81288179"
+        },
+        {
+            "rank": "9",
+            "title": "Elysium",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABf19nm5wZvZdfxWnmy_7gJofkMCqa2MAoZ7kliJxNWXoKxhOtp3PrEcXIXXgWNO99IyyfEqjpJV4ycGPQbFni7FsTA79m2NXkFaF.jpg?r=fdb",
+            "watchID": "70251536"
+        },
+        {
+            "rank": "10",
+            "title": "First Daughter",
+            "week": "3",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABc-A0hzXe_WYPdulNfsNvz2vdEoGBWRc4wq63-8PdGjLASiHBXGczmMynvGQamD3hKhZcGDpjS_LH5qfmDe0M2NxLjKnbHYPkmgr.jpg?r=f9e",
+            "watchID": "60033290"
+        }
+    ],
+    "tv": [
+        {
+            "rank": "1",
+            "title": "Fatal Seduction: Season 1",
+            "week": "4",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABZaX-wsUb8ZSQTZo7kE5xmKW-_haRiMYeyFxcuHTz5nluMqR5VVV8xpqcRutqG1l-DRZmL3jAI2_T5UF8f9K_QkIJIorj-Qis1Eatr4x8S2KoVLCzp2uP8U3ij_bco3N2NDHXQ.jpg?r=b96",
+            "watchID": "81553438"
+        },
+        {
+            "rank": "2",
+            "title": "Too Hot to Handle: Season 5",
+            "week": "3",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABVYL6pIF2ml3kab8OiDin-OWTp0Ut-kdzAj-A2Y9cJsk0g-BN_46iDa7041QlGUOkHHgXybSd557hsNLGMABjFRaE5n75TrXWn3tmBeZhlRSHIaLICLw3N9Q5VnZsiO7aSFALg.jpg?r=f67",
+            "watchID": "81438823"
+        },
+        {
+            "rank": "3",
+            "title": "The Witcher: Season 3",
+            "week": "4",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABfXyTm5DyRxcrwqZsfvtG5nSH0UHj7ro8XWvMKU3czKkxP3tIXywYG7A64sA3oWWBHUQYaJ8eaK_O9TUYqTUMdyltveajJe-MIlZ3sywuFFF08mG3YPh_sgYeJ670vfLamoiFw.jpg?r=23e",
+            "watchID": "81106534"
+        },
+        {
+            "rank": "4",
+            "title": "Survival of the Thickest: Season 1",
+            "week": "3",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABf7OE-K4fYqTDGJdvVgrWq8dsd6c45JGMuSiyw7krBWuRdpISPidnbMQh5QCbtCR99rEbl5B0dr_VM1a01TkXvscSg6-WYWsVqvS1WVtkd4mnAbVfA2smYwBeD9mogKqLon75w.jpg?r=837",
+            "watchID": "81354525"
+        },
+        {
+            "rank": "5",
+            "title": "Young Sheldon: Season 1",
+            "week": "4",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABRRPLixXZCp93Y6n6K3NIZc7Rzkb6YvA5j_msy7eFu4Bpci1P3V4gef43p0umHpj9Iah4LJVmHHdvMikKFs8MVjlb9NGq4PkWnxJ.jpg?r=563",
+            "watchID": "80192611"
+        },
+        {
+            "rank": "6",
+            "title": "Young Sheldon: Season 2",
+            "week": "4",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABRRPLixXZCp93Y6n6K3NIZc7Rzkb6YvA5j_msy7eFu4Bpci1P3V4gef43p0umHpj9Iah4LJVmHHdvMikKFs8MVjlb9NGq4PkWnxJ.jpg?r=563",
+            "watchID": "81016636"
+        },
+        {
+            "rank": "7",
+            "title": "Young Sheldon: Season 3",
+            "week": "3",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABRRPLixXZCp93Y6n6K3NIZc7Rzkb6YvA5j_msy7eFu4Bpci1P3V4gef43p0umHpj9Iah4LJVmHHdvMikKFs8MVjlb9NGq4PkWnxJ.jpg?r=563",
+            "watchID": "81190667"
+        },
+        {
+            "rank": "8",
+            "title": "The Lincoln Lawyer: Season 2",
+            "week": "4",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABaHBMWXwaH2ZQEHUq-tarihA2uxjfj1d9zSS2w2HJGg4RJqTqXyS9ciIEbrlgKRNnjn3LXq3uzGRduPJVqKmU4VNJRxK2NMJMc4bB3CF7Ev2Q76Ki4E6pUUTcRVLzFqbyLmgGg.jpg?r=4d2",
+            "watchID": "81331784"
+        },
+        {
+            "rank": "9",
+            "title": "Young Sheldon: Season 4",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABRRPLixXZCp93Y6n6K3NIZc7Rzkb6YvA5j_msy7eFu4Bpci1P3V4gef43p0umHpj9Iah4LJVmHHdvMikKFs8MVjlb9NGq4PkWnxJ.jpg?r=563",
+            "watchID": "81370447"
+        },
+        {
+            "rank": "10",
+            "title": "Sweet Magnolias: Season 3",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABTkfTi8vHqeS-UvxRcxDkhAK-u_EvKCLILwHtHFIIz8N17hPWwf9wUUZseE4yZXIERKbNj8x1EOWavwsXeomOs11ngij5uzi5obh9CL5vcK-6i6lTShLy0rJDrb6CqnJQmbjow.jpg?r=e03",
+            "watchID": "80243666"
+        }
+    ]
+}

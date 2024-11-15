@@ -1,0 +1,148 @@
+{
+    "kind": "Netflix Country",
+    "date": "2023-11-05",
+    "films": [
+        {
+            "rank": "1",
+            "title": "Pain Hustlers",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABSaYX7cEAathueP7xBvr5aTYkne9tNWfa9KNJgae6y7iRh8xJ7IukDnkdL0kDm4SOGvH0erVlJx1v72WnbytypmzhUIGJCguL8dmxJsZX8zpfQk0POB-11v78lRdVLSzE1KrGg.jpg?r=194",
+            "watchID": "81614419"
+        },
+        {
+            "rank": "2",
+            "title": "Wingwomen",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABckdmJE5Jt12LNTs0P6nYQHVYYPSlKNUZ-T7Zyxei4qmL0PXdMHO-9yNWAKS5_huq-R5zLFV-MWdR1ZTSYKeHPaEyDJSuP-qzgQPUA6LEmnQSOztBDuOrc7Xk7TdrdI4MIB2Tw.jpg?r=ad2",
+            "watchID": "81282091"
+        },
+        {
+            "rank": "3",
+            "title": "Locked In",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABVvctJGX7qGwSNiHfRQkGKRIYcsaTqxM1Xp4ylVlC1ehFYCCtAjgUbxV0WrZl_Ra7zVYFIi1CrTKege_s5N37ufGqJFbxG_ZoWst8LKzq4Xkzjqz7BVEUHqI6P6lrQj6AQHZcg.jpg?r=f0c",
+            "watchID": "81500381"
+        },
+        {
+            "rank": "4",
+            "title": "Sister Death",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABeLx7Of6JHh6g7w7dH3iRMoS9DqrQ5TQ8s_cuVyf6qaPVUBTWsAv6dylPM4dhYEVfTIPWM1ztUq2vQRA2wp1Szf3R2jxfLHG_mpA505OGTmeVb43Eimpu-D4s95Hxfa66t2noA.jpg?r=83a",
+            "watchID": "81478662"
+        },
+        {
+            "rank": "5",
+            "title": "The Possession of Hannah Grace",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABT2nwvAG8s6GH__MIv-Ut_b5FHHgX7mGiKvlgekceE_DNXR2_k-ctAkFLFuMwqXiw_yXsmveJC9aJChu1_uQcyUZDO-7iCT2voAA.jpg?r=0ea",
+            "watchID": "81069919"
+        },
+        {
+            "rank": "6",
+            "title": "Burning Betrayal",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABdRhOpO_uKXC77ANbckoL6-tQl5J_J3uHEZ-6QbJKo-FKrf9784x-nUkwZTIkVx1Oz8vq_p7X5VeYDvj6eIraCKBvCo2D8xGvREENcZT9RFrXFbbolpit6452Q6WWbiBYc4rGw.jpg?r=63b",
+            "watchID": "81446391"
+        },
+        {
+            "rank": "7",
+            "title": "The Hungover Games",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABXHnqc9Ag8jB6a3giN0ds0VMjTjsHBLX9Sf7STRZjLzVLZWPJ_prpF6XQuXB8Kg9HXCbgXCr5jA1ERDkKG_1Thym-WuddFNe8Cc7.jpg?r=aa6",
+            "watchID": "70297814"
+        },
+        {
+            "rank": "8",
+            "title": "Lost in the Stars",
+            "week": "6",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABRDs8T6Q-cyAQoKoZx-DAmuYVuUTDrMDFOjy44ANussZZ3C45-fLPzs4JEb5mLiPi1lqXgCmZIwLanzYn4RYRqsMlSqZgNzKr9F1.jpg?r=47b",
+            "watchID": "81711455"
+        },
+        {
+            "rank": "9",
+            "title": "Ballerina",
+            "week": "5",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABTeApJg8cCZbFhukbzI-lkGE1beqWTXgnepK8fp0x7A9ecNDL2Oe4LR6DN-xaEff09N1oeNGOrdPYTfKkJwKyMoZqPZb1Eayzn1EhfY6R-lWKkJBQz0I53lQD-kilivTdIEWdQ.jpg?r=267",
+            "watchID": "81572011"
+        },
+        {
+            "rank": "10",
+            "title": "Sly",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABWBqS44EpAaU2Fa4gmbPZToihkMLAgwi4CPtzalskjJMikdfVSiXxsl42lslcMzg6kOezdh8PPyZEz-VRkia_lW4UgRvySolecT7S0J46Rtd5M6hM8c9AFpFWjiu8DwuDarf6Q.jpg?r=eb0",
+            "watchID": "81450717"
+        }
+    ],
+    "tv": [
+        {
+            "rank": "1",
+            "title": "SPY x FAMILY: Season 2",
+            "week": "4",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABcoFiMbvAxeQPhQXmfhs_1xcg12oEfP4TKjUQ6EdFphMRmh5D2ybpm3QFgEgcTZ_D1tE_XmIGdeQoj-f4T2KpQMIGNlWgh9CIU5g.jpg?r=d41",
+            "watchID": "81728979"
+        },
+        {
+            "rank": "2",
+            "title": "Doona!: Season 1",
+            "week": "3",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABShNhy8BGGdmrmRNk_sWrGyzytI6PpdOnEyFWXC74Tc-wV3bGR1O-fhVBkjpzWZ2OknE-28HQ9rZP9hqWn-mT5A66r_V91mLMvj12pl9IUkzAwMr2mXa3LWeav0ymAbyCXkWJw.jpg?r=0ba",
+            "watchID": "81595047"
+        },
+        {
+            "rank": "3",
+            "title": "Castaway Diva: Limited Series",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABY3i21LsroIJrnKcXfjI7x-row8eJy_mt30JXYmQKbuQ6nX0_OsbreIHi1dl2eeNjTfAv8TmNixUy2JkHfnUcvAC9FhQ-ZUhJuzGyejcdjT4MBlwSBuPlZcvls2Mswj-fOGmJw.jpg?r=e61",
+            "watchID": "81701129"
+        },
+        {
+            "rank": "4",
+            "title": "Strong Girl Nam-soon: Limited Series",
+            "week": "5",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABeMkNH7wdrGXnwOBA3nqiwWQJsYfFdzr5yNmIBHV6JbBd_vAT3_rlK-2_CPfq5IDTyFZ6B7VbAUZSo6mg9jUNnLRsJrNkWUX9nu1eNJHukFYuCNdoepY8JMhm-ONLFrtjJvJ5g.jpg?r=e0c",
+            "watchID": "81697982"
+        },
+        {
+            "rank": "5",
+            "title": "Attack on Titan: The Final Season Part 3",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABZm4hv05Zv86km-LIUE9zuCDZfvQwTom3x4UY4wDhIC3gIAp3wR8SMrHOscYshMXX6lrZOvwHQUzF_l9NmXrsEeAS9yEVwKb6BMb.jpg?r=8d2",
+            "watchID": "81624055"
+        },
+        {
+            "rank": "6",
+            "title": "The Apothecary Diaries: Season 1",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABSfnNk_UcwOY274amsnK_Rr0JfmPiuK8MhwA3QFbEscnplViBwq4fDR6NQ5TyGQjR0IiW-ES8BQF3wYW1sLJMLZPEOoq6QBJ8gxD.jpg?r=293",
+            "watchID": "81712071"
+        },
+        {
+            "rank": "7",
+            "title": "Jujutsu Kaisen: Season 2",
+            "week": "17",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABYKEAS7J7WpXhWU9Gft2jCNmgiQibZmocMXKdPdmy1qyOZDaOXrTGF3BVRm8fEM9prQj7usfuz1w0JjDidLojrY_v9lHJ84g5n_c.jpg?r=bbf",
+            "watchID": "81705280"
+        },
+        {
+            "rank": "8",
+            "title": "Beckham: Limited Series",
+            "week": "5",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABT6lj6EUlGbNwkZhoo4Si6q4oMYotTU3piLhuJdMJpEBR7Wa3VEpWzwPl-o8XwLBrueWr_rDd7bvcuAp9Tl4QeQnAmVeOJMQlvGYujxRZZk5qU7d9USeb5e_187oTz6oF2RGLQ.jpg?r=a62",
+            "watchID": "81223501"
+        },
+        {
+            "rank": "9",
+            "title": "Onimusha: Season 1",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABRhoG5nh3X9PUaz72TYmSAqes9DGxtULIWVu7kxgXMpMGYJASz93KbUlz5-84qIJ_ISOOuKTOjCnp9frY-z2HUKf1CswIjTGeASxd3on8H9PCoXnVMzq_3EFdmFk2Y4NJ0E_PQ.jpg?r=847",
+            "watchID": "81186817"
+        },
+        {
+            "rank": "10",
+            "title": "Frieren: Beyond Journey's End: Season 1",
+            "week": "6",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABRQW51zCHbRR-cDpP6PA4CmKZS22jCXIF2tikWyG5P_UlZilYMQ9VIL3kunlq-1NowC_obYNoJuebcB3jYisozA-yuO7sC--RzGX.jpg?r=12a",
+            "watchID": "81726715"
+        }
+    ]
+}
