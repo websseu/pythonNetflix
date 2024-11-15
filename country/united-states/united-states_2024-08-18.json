@@ -1,0 +1,148 @@
+{
+    "kind": "Netflix Country",
+    "date": "2024-08-18",
+    "films": [
+        {
+            "rank": "1",
+            "title": "The Union",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABee2f5a9dXQwZttCn_Aldju3-h56YuCGDfdJ4tG9ENRhFJqGX55aJhrMx5xHuPzEO-BW8x1s5ZbAU7HZRS8VvbLvl7eY02hyqrHI9BeAmhJa9cqfL7sw3EulM8vztL9uMKfvdg.jpg?r=bb6",
+            "watchID": "81282732"
+        },
+        {
+            "rank": "2",
+            "title": "The Emoji Movie",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABZacb4UQZ8aze7RunBM_5iiguCwUbcMBicay2Hc5jFNde8hWsf57KJbFYMKu0xZIiqg3_Gp0JLbhGHs3jrWb8gqiyXEOzJxXDQhG.jpg?r=bfa",
+            "watchID": "80121840"
+        },
+        {
+            "rank": "3",
+            "title": "Night School",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABU1OVjJQlsclvYCvxUAvOQJ_5ak0Y9SreG77lqjevInhGOFHmYxSwbcw32XEkXwl3VxhrFKthdcJQFbCTH5Gs51xEhl3JwD6dStH.jpg?r=b84",
+            "watchID": "80988894"
+        },
+        {
+            "rank": "4",
+            "title": "Trolls Band Together",
+            "week": "5",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABVAETSRrQ5XD5P1ZcTZ3Cyu1Nek1XgjLFyFvNJXmqZM9EThXWszG22pvG9BsoiL0dDBSbrxTQ7PJKfDwe_3vGLJ5Z5vjmwr1OU9G.jpg?r=852",
+            "watchID": "81725540"
+        },
+        {
+            "rank": "5",
+            "title": "Dr. Seuss' The Lorax",
+            "week": "6",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABbSSBVk1zKGsWZBUwypPrZ9dFUoU8SxsLTGB79A1RjxwYVHdz44TU_LRupflh5Xsg_12V7zLXjujZExb8-v7IaG4eNEnNByedH_e.jpg?r=b38",
+            "watchID": "70208102"
+        },
+        {
+            "rank": "6",
+            "title": "Inside the Mind of a Dog",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABXjsdMjYkhC7__NbsQpBsk2To5CJqR-RRJ0SPg66AeROSZ7UCatA9MWMb1CtdAdFsMxl2G_-y2wdRyGLiCjy9KLRdX8NhSJF-K41u9enXtu0wwCW3D63yz92Gy11oE78kRHxmA.jpg?r=2e2",
+            "watchID": "81681888"
+        },
+        {
+            "rank": "7",
+            "title": "Jack Reacher: Never Go Back",
+            "week": "3",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABbZf9zfUTYto_ElNW8hI1ie7P9vVFdCyJQuOpT3bchSmru5A2YTEIzFNYoiuo97A-E_bm37tdrVbI7f65_Zulx-BzYPLV3M_3bxw.jpg?r=f6c",
+            "watchID": "80106762"
+        },
+        {
+            "rank": "8",
+            "title": "Saving Bikini Bottom: The Sandy Cheeks Movie",
+            "week": "3",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABe5unWx296cmcLiG8IErsggi6vghJJFqxoZfzzdWTFCGH03-5aiq-rAVePVvBhI-ZDx7lMS74P9JMZucbmfKpkNE6tUeIeTj8pO8PTIIrlNOSiiDfX_j_0-D29ABIqZFcctjbA.jpg?r=2b2",
+            "watchID": "81221340"
+        },
+        {
+            "rank": "9",
+            "title": "Jack Reacher",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABQ8B8cYPkSTvNGvoyqnCi-N4kmxmsklaJEeZC4Q6IXYtIvkFkcSbf9EiZyT33hScr4q-AUe3GIxMol7-obZRSLjPEZ5_xD4rbcr3.jpg?r=581",
+            "watchID": "70243455"
+        },
+        {
+            "rank": "10",
+            "title": "White Chicks",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABR2OQALWCK-lM2_rP8uoXfNNOcp9beC4No7exammINQhiXOlwR5SpQeLffmSwDtT2i82s-PkPjHIxYHf3GBtKxi4zQXNcI3Mlg2c.jpg?r=ea2",
+            "watchID": "60034587"
+        }
+    ],
+    "tv": [
+        {
+            "rank": "1",
+            "title": "American Murder: Laci Peterson: Season 1",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABey_6sXk-GP9WoNU7JrSs-5216tq7XKQcKMVDsh1Mg_pekB6276IReUe0b3bempClAdqOhu9hCTXX3INnmKAV_BndM_hZM_I9_9Cmr2g3zdvonG3GvX6pz67zEaV8waoAV9AUA.jpg?r=879",
+            "watchID": "81582795"
+        },
+        {
+            "rank": "2",
+            "title": "Emily in Paris: Season 4",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABd0X1PrB5uIerkNJlglL1IP9oKAs-UP8qKuIc9fp--Tg4b76t4jhsq4p_RyUTg-FNkyeY51TFHmiHxBInkWyQOSEBkdbBDfNRyhNVg3XacH68C_Z0jVUvsC5g6-ab5SlTf-cSQ.jpg?r=4f9",
+            "watchID": "81580261"
+        },
+        {
+            "rank": "3",
+            "title": "Matt Rife: Lucid - A Crowd Work Special",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABRMm6yIlq4VI_G-FlvD1v_5coBxdKxzF7NNxkyu9C3Aur4xIKgkPizzlmAsONaiWWDZ0IRFv_3jccHRFKv5FKPB72rJNUNeNyhAVRj5CLYM-4VFj7QUS7hvdpc-ej3nZuKZRkA.jpg?r=822",
+            "watchID": "81764466"
+        },
+        {
+            "rank": "4",
+            "title": "The Umbrella Academy: Season 4",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABZfJvtW-c2PJ4fZaGefH7rMUVTEoxIpON5VoEC00ci9WXfZoQ9yT9AOYDTh_zVf5pUKTWEr0_KAhpGEqrfOAdtY_50s4HRZ2ABx_cCOUNg0M-c4DjKNCR5IavbUIQNaYc6Spaw.jpg?r=401",
+            "watchID": "81458844"
+        },
+        {
+            "rank": "5",
+            "title": "Fire Country: Season 1",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABT-vEcA8PHMKeM0kL6GLkACHCgm3GI63LoH3y5F1UeflCIIYfEj0KIbFL5Arv5owLeatJIBsVyf_uP3DSkvMJMU5rygBJ1W5x46T.jpg?r=e55",
+            "watchID": "81640598"
+        },
+        {
+            "rank": "6",
+            "title": "Love Is Blind: UK: Season 1",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABUoAaKz-48QNjIplXTs8gqLqR1LBQ-8LxAmNfEkudS0T2M2md8uQrkmRnye6HsIVsQ_y9luS5MmN4_0GD2DEFv6h6Jio4crFewDIoTaUp-VBV3_qse7mTqq5PHrGc2Vhjz91uw.jpg?r=6f9",
+            "watchID": "81676359"
+        },
+        {
+            "rank": "7",
+            "title": "A Good Girl's Guide to Murder: Season 1",
+            "week": "3",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABcifdzPVBunE82iuu97Z93MtUqgOKLTQ3bfGCxG-sCgX7QXNn0cbPSIgRQy-_Nf_sEudUKB4NwkLhDx6iK5MOUOapYcuOInOajzpX4cKTYZDV8Bn0vTaVxK_6UEznUWgW2zpgA.jpg?r=317",
+            "watchID": "81759465"
+        },
+        {
+            "rank": "8",
+            "title": "Prison Break: Season 1",
+            "week": "3",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABS5VdzfTxOiANzAMcTeLj3K7LpIi2YKEixOyZWDmss71w9xB5wJM0a_jutdYsZDQwyb_gPe4YNlBJ4yh55nmnEiF4AuISgTujvsO.jpg?r=dbe",
+            "watchID": "70040250"
+        },
+        {
+            "rank": "9",
+            "title": "Average Joe: Season 1",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABWtdesb1EKp1kWkmCUjR0Kt1wamuJQh4pqbZD_l_s6Pevq3DqxatfPuK1UBr58UQE-HwgjjaDvEuGzjKIIEv_Ntya87oq77MyJmX.jpg?r=dc8",
+            "watchID": "81774527"
+        },
+        {
+            "rank": "10",
+            "title": "Blue Ribbon Baking Championship: Season 1",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABTNEyIZnBkzI3YyntR1PBCE3pTNv4h4-cerLhR6EAvQPDt-P_SqBo_uHJEodSFiNNDxWzeEkWdgVSQDCUCLvsf8j-JpcpLnMYV14m7YCW70hBB-tamo5ZCyW8rAJq71HBW3Zqw.jpg?r=b18",
+            "watchID": "81701569"
+        }
+    ]
+}

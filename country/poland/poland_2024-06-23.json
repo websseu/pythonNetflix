@@ -1,0 +1,148 @@
+{
+    "kind": "Netflix Country",
+    "date": "2024-06-23",
+    "films": [
+        {
+            "rank": "1",
+            "title": "Inheritance",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABUlyQetFh00rq_-4pE1pM7WJiZKPft--A5SEj3yXGsXorjKXdpQQQZQawWxpQaRHEq-8oHFD1lXcTVNEM5hFY4a8VNs-KWrs-onp0mQgArCo1lNDl4cc10vxdSgH2oPLO-m8iA.jpg?r=efd",
+            "watchID": "81500431"
+        },
+        {
+            "rank": "2",
+            "title": "The In-Laws 2",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABXfPWHckXmWFsOFliZikiBB-27qnlzz3jHdRmkNDl11IcwdXVSUWMsXdlJkG80YwXqv2-Q2KM_VTrQhwxMcczR3McXEPq6w78SCB.jpg?r=050",
+            "watchID": "81686998"
+        },
+        {
+            "rank": "3",
+            "title": "Trigger Warning",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABU33GJWpnjcDI2856oQJPKFmTlLEib_LrZZwfLNTG12PGpP-OlF8R0FyHaTFRQXoswBqm_hPD0ss_vtRykMmrot9VP5oEfVRfaoA1NgcsZyHJmdgujZvn8L-0-NxA1QJ2C4Glg.jpg?r=705",
+            "watchID": "81064546"
+        },
+        {
+            "rank": "4",
+            "title": "Love Like Honey",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABVLE_nMu_UoMu8zQNdOBdxlAiCQlQT4d0ar4IPW13XW29QvbBypWNjK-eSLt2IX5i8xGSDJXfpYyLgiJ2SK8R72ZWUJrygTdjJAX.jpg?r=843",
+            "watchID": "81751661"
+        },
+        {
+            "rank": "5",
+            "title": "Get Out",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABbgICtCPn8MOYN7IpryL9M8M8SmkjqjJviUcssxj5zGaD5NDF1NiFWYG-28BEzjFTPDnd-rAmihfgh1Bfkn9seSyYA1GdxN-9Jpv.jpg?r=e5e",
+            "watchID": "80149258"
+        },
+        {
+            "rank": "6",
+            "title": "Colors of Evil: Red",
+            "week": "4",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABcH14w8ZjwEifDEz6siOtIv5zQYQ7g7oZSm30TR5Ubiz0j53pLXAMHGKD00er7rdmnlY9pemTzwn6ybODryHIuyAskeWq3ZfM9hByMlIT8xbIzMWXmWO6cmaau8a6eefW6Ua8w.jpg?r=266",
+            "watchID": "81619384"
+        },
+        {
+            "rank": "7",
+            "title": "The In-Laws",
+            "week": "7",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABTC3YeJROqt0UV1cMrZRqU8x5zO4OiKqDlw7Kci2wCgZAIx5RkrAc_wOeMXult_ExteZkwlSUMVCzg-StWpC-QM94l73A6fmFIWE.jpg?r=c17",
+            "watchID": "81343520"
+        },
+        {
+            "rank": "8",
+            "title": "The Invitation",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABX3lDTpZj16J06YP4Fx0Ftty6okSALSB4A_TZ2fFtHsRORGPgzu0gxJzSvGhc6VWXlJ5PGuRFZioi8q5ZjgTRwVe_s0iOvnvFnJ4.jpg?r=736",
+            "watchID": "81623510"
+        },
+        {
+            "rank": "9",
+            "title": "Dracula Untold",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABUg07XtaxCqeGtiyB9uHF1r230uzKwEs5Wk8NSNaU0Ymc4cTgK3PvHPzlpiSJWJWMjgGBdwMrL5unzKw95tjYCvMHm_Z_A-o5ohQ.jpg?r=924",
+            "watchID": "70305899"
+        },
+        {
+            "rank": "10",
+            "title": "Too Old for Fairy Tales 2",
+            "week": "4",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABU4bkW8GCzbdNTmkLDtX4nFl_6xVYoTrNhGimdT5PQY6HRomEAfbpcYVWgBRmImcDLENl_Gssl1CEmR8Ns54THkvjJGdqQYIsMyq.jpg?r=243",
+            "watchID": "81688773"
+        }
+    ],
+    "tv": [
+        {
+            "rank": "1",
+            "title": "Bridgerton: Season 3",
+            "week": "6",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABdVrxvGLXcATO2bfeVlWAzUcAQ5a4fCB851_EQLOrhvrDii2ycHNo6QIsPxwfHwkTW0dbtjM8LuNkt6Kk7sHr34_GO-WW95KRb72UbjWb7riuaZgeq2QxMttCOCkNwWozfYujw.jpg?r=4ea",
+            "watchID": "81487890"
+        },
+        {
+            "rank": "2",
+            "title": "Bad Exorcist: Season 5",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABT-46-sGtMm9A5zYl7Pr7S5_VrDw_JEf53e1Vel-k8If1cq6_9dbL4N5s9lIurBHHnHPG4LHUm-MOVmTju9b2Pu8NuKtvDYTbnG15t3i454AOftcV6bmcSrZLyahan5Me2eBXg.jpg?r=0b7",
+            "watchID": "81675436"
+        },
+        {
+            "rank": "3",
+            "title": "Kitty Kotty: Season 1",
+            "week": "29",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABVFPPWeURXcpgmIfRa8iA_BRORyz_vGhgqeVyEasAJnX1f65Gg7yRVRr2I0NLmpN9F5sdBFq_2eCVIi0Mnu8kohgOi9CKsJC9kSN.jpg?r=e06",
+            "watchID": "81685957"
+        },
+        {
+            "rank": "4",
+            "title": "Gangs of Galicia: Season 1",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABTzHc-fZz8L_E2bLOeHZvCZpTLCKIohu9oWmlLXpNKuIs1afbB-sPg8JOAqLIMd3Tjgb33LAovZe_JtjRXvEjL_ABuiiSSvw2Z0GZq1VLZD_ap-V2PLvikunT9jqvag7R9NA_g.jpg?r=e5d",
+            "watchID": "81563541"
+        },
+        {
+            "rank": "5",
+            "title": "Raising Voices: Season 1",
+            "week": "4",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABd1tSVaw1x-G-ft6kjcsmeAR_JENzL60ixFZjm99KsUuLDferU4VTuhVPZnch9M6LSW2NZPggAxyHJbYJVig4tIWKxF_nR6nLL5c89hY3N6h1FF9icmZuphAJ7PENiGBoVrz-A.jpg?r=feb",
+            "watchID": "81557683"
+        },
+        {
+            "rank": "6",
+            "title": "Bridgerton: Season 1",
+            "week": "10",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABRYjrvBe7oFP8nYl9pJnpGeJDk1DYll2M4oWbzC6IPgfqucfoH7Bx0ExBKlZRLJYsx2DWQTfIWbfvgIZ8J-sDN4ZagyTeXaj-kZAfNYfqgDqvcYZkdA7OFZh_jP5stB8opGGug.jpg?r=29f",
+            "watchID": "80233012"
+        },
+        {
+            "rank": "7",
+            "title": "Bridgerton: Season 2",
+            "week": "12",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABZhcTOiMh-U6cHiV-zwnCqKbRBEjwZwGO8gAgE26hyM93DwT4w4dkrZLQKA2aY2-vzkx2Sz42icr6iaWRXjdL4nbzQMclab4Ro2OZj2f8ydKhA-Z1Iz5mArEYDDNuw62XX_EfA.jpg?r=c08",
+            "watchID": "81205162"
+        },
+        {
+            "rank": "8",
+            "title": "Krucjata: Season 1",
+            "week": "8",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABR_DVwOn8HBPlaVm67dXFobBQyZ7wTwDPYIPvopBGqShASr9jmbtp16o1LrZobkAwhakjPknsN3YCwG2yTBNMel1L8AOJg3cWqr9.jpg?r=752",
+            "watchID": "81774206"
+        },
+        {
+            "rank": "9",
+            "title": "Eric: Limited Series",
+            "week": "4",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABQBmPbCdnKqe-ZAa2l6fj_r2HirmTm9eyk5H_JkaoXZggkma9ZqfEHG5KtEO2A13phbNcxH3vAMMojhRLzgn0fIVWCEG5A4m6nd6woVaaWEHE-_seL8KdP4F9buxHn8LzlTnWQ.jpg?r=eb7",
+            "watchID": "81284302"
+        },
+        {
+            "rank": "10",
+            "title": "Perfect Match: Season 2",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABcRzepxLt_8gZZctjFqoKAZjdRymtiFKAHcsepg5xn3qwzEB7gL6O0_AYXKmrUnVNsPAGkHBRu9TxiELkwyJgda8RnwhecIa8aEtd586jItecbXiXjgYBj0yCRnXLwH-9qVKmw.jpg?r=002",
+            "watchID": "81504859"
+        }
+    ]
+}

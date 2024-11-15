@@ -1,0 +1,148 @@
+{
+    "kind": "Netflix Country",
+    "date": "2024-07-07",
+    "films": [
+        {
+            "rank": "1",
+            "title": "A Family Affair",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABS4055wMxvJUDwV-tPxBmuvv-M4J68LWkBqqxfs6a3WflpKbvypGj5HOMpay5sCV0UWhVn3TkCfxERYWC8Q6Abs9RBcUaFjo94l0gzTD3P07IpV5mKTgSCEmfp4-wDob5PRkzg.jpg?r=09a",
+            "watchID": "81361154"
+        },
+        {
+            "rank": "2",
+            "title": "Beverly Hills Cop: Axel F",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABR-hkti8tr8g_RD4_DN6fXi_K_ZCgLpp7xhA8es4EjaU0fXHsgpUW5VQ4-2wmO-XFZZfypQa4xpsEcf6sa28lntf7bnoBHI0Q3qWaVLMlgD-PxyPFvzV0Qb_iRCgTb8ujHjzbQ.jpg?r=125",
+            "watchID": "81076856"
+        },
+        {
+            "rank": "3",
+            "title": "Minions: The Rise of Gru",
+            "week": "5",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABb52OEQK6mjkp0b07VDPPGCOOA_a0XTmS73GX_1m1aI1S4qiE3Vc79a6h6pTAZY-NcKb9BBxMKbuEjnutCMhdHHJ7n9aMYlHwH9c.jpg?r=16b",
+            "watchID": "81198916"
+        },
+        {
+            "rank": "4",
+            "title": "Drawing Closer",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABRK0EVTZImf-pYAoQyccv0_ew8lEueB1bYJd_CaXcdrFU2chrPE3hd_te56hHye1fQlBLhxAIloytpjXkHQDIXSwS-d_8BQ5tDFAS89MtlBf3LgQBlFqVdnFtlHiYospP3h76Q.jpg?r=f56",
+            "watchID": "81581946"
+        },
+        {
+            "rank": "5",
+            "title": "Trigger Warning",
+            "week": "3",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABUkL1oxF--sFZRyM-TIP3NIma58UkCoGyDY7zrc7DIx3m2z8njAYgHxgE38m5ck2YfaqJMG7M4CVhzhM_N1_B0Z3y8JW38wEZJKgPOk-LawyRh9q1kTEzArqki2Kelif_a-Ekg.jpg?r=ff4",
+            "watchID": "81064546"
+        },
+        {
+            "rank": "6",
+            "title": "Madame Web",
+            "week": "4",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABUdxBW8HKJhauyXF5831MCGE9V5JpooA3fjKrChPjKK86t9yyJaxHVqpUdLtsjkLTddT1WPOiwLo6xb7seIT94F0IvM5kcoLfa2q.jpg?r=34b",
+            "watchID": "81762621"
+        },
+        {
+            "rank": "7",
+            "title": "Abang Adik",
+            "week": "4",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABWO2XIVEejVOAvCG-PAueMVIBPqSooutceC6SXmfxSGYGMdMq8jvHWaTH-YKOZGkL-7d65k3hMvcHITGcRLGMQTWxgX-xi4mIoke.jpg?r=519",
+            "watchID": "81753235"
+        },
+        {
+            "rank": "8",
+            "title": "The Abandoned",
+            "week": "10",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABZ1En3KGi8YdEQsrIKxnR2qBSS_qlLwhFv8mDHR6zq-Zwcid24M9lPDx050xQ5hP1ZABVZ6br2wTcH2Vi_yEu0bsOyF_RHlLe7_b.jpg?r=e2e",
+            "watchID": "81652564"
+        },
+        {
+            "rank": "9",
+            "title": "The Snowman",
+            "week": "3",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABSewzDSars-S1EhNenDVkLaOhh6JvYklPyglSSskNwxI43Zfun5bBhCrUOrkPxe57ACgn3TyrozKY3Fk2Ne3-T6fQfwr8U2VG7Rx.jpg?r=70e",
+            "watchID": "80185764"
+        },
+        {
+            "rank": "10",
+            "title": "Under Paris",
+            "week": "5",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABU29UdOD9Loc4yE1bVObZcfsg_ngT04kI2So7CSao4wRRsMLS9fKieHJu90Arq2QgVaiFaQi7O4xo19vYFnY4FiS7P3RPB3EwlHoqPd_rz7MXA1tENa4YSnvv_9TnC_Yszn-AA.jpg?r=e5c",
+            "watchID": "81210788"
+        }
+    ],
+    "tv": [
+        {
+            "rank": "1",
+            "title": "Demon Slayer: Kimetsu no Yaiba: Hashira Training Arc",
+            "week": "8",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABY4uReA9rRAmTW-M-thhVNfbHatLCTboWDGw3aEDKurqqHtGIQDbmjd2q5amqPW4KaUybmc5lb-pGQ7mBKgwVp_Y9EX9pLnL6YHc.jpg?r=9bf",
+            "watchID": "81743731"
+        },
+        {
+            "rank": "2",
+            "title": "Miss Night and Day: Limited Series",
+            "week": "3",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABWXCqp3kWbWieNFmOcoOZny57_Tk_vtREclagFnzh5JxQC8998nfIxmSK7v3wYLYkj9g7NGMUkhhzpZ66coFTdgS9-nFPXipaByB7dAchw8zpX-malzjRE2EtvfLwK4jKfPU0w.jpg?r=d8b",
+            "watchID": "81738995"
+        },
+        {
+            "rank": "3",
+            "title": "The Double: Season 1",
+            "week": "4",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABdBoHZmK0YjC51EvFB6IYAVDndVNU-wrToSOW7PGHNH2LYUCCsdFPGq36wb2DSwJGb5YaChhzr9fyxCXUtxq2N-cve_XSEyp9Nbo.jpg?r=b8a",
+            "watchID": "81900132"
+        },
+        {
+            "rank": "4",
+            "title": "The Victims' Game: Season 2",
+            "week": "3",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABS89tCdUy01b96qufloJRbxWnEbsZ204EDQRcL2OwBuohdCC19dLKrfxQ1809iDZEsl3ZVSkkwGRBAUWZZavxzCrr6fKYURAeEGlOm8LxjnzIqgkH6w3hpTQABB9ydYi20DTKw.jpg?r=619",
+            "watchID": "81318134"
+        },
+        {
+            "rank": "5",
+            "title": "The Princess Royal: Season 1",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABZ553YADrqrPl-15ggN2R8G2NHDtgX7ia30R28hfks0jPbZ8UOxnsO97f1d-VrG5x5qnrrHHPtfjZkg9Zi_QfOcXIlP8otE80STg.jpg?r=57c",
+            "watchID": "81912266"
+        },
+        {
+            "rank": "6",
+            "title": "Kaiju No. 8: Season 1",
+            "week": "12",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABdfF-7FkWcXlmvugNPJcD4YsYMqgDYWsvKmhZkS9-HXiwcD92bind7PxL34-bDqNdNVSk_xyctkO95rdnw8wQzAu2u9LBUu4weoX.jpg?r=fa4",
+            "watchID": "81759291"
+        },
+        {
+            "rank": "7",
+            "title": "The Victims' Game: Season 1",
+            "week": "3",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABbZOlZ7ujee5cKcSmFAjh5rNCBGRPoBG2oHw1Ix-e8Y74gM8ADM8beXyAX79IXTudGSjLwXcJ1zhRSVr2I_S3UUvxIsl3oLpP8PvzzbiBwmfR9PMAX0EvHjCB7nqzbBZ_88m4Q.jpg?r=783",
+            "watchID": "81227403"
+        },
+        {
+            "rank": "8",
+            "title": "The Whirlwind: Limited Series",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABSoKfjDvoBJK5z5_D00kSawRcYeHkq-beumCVQnTTmditB1I3psy3asn3ipi8Qmv-72R3JloRia2-c1y1nuHsT1Lq56Gu052ahH844EkElCFfhhvJ94_hlTbpTpC-3xDo5Tv3w.jpg?r=a13",
+            "watchID": "81661903"
+        },
+        {
+            "rank": "9",
+            "title": "My Unexpected Roommate",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABXAj0_8Z5QfcLDzErioioAqgjfPtfqIAcn5OSZE_1YVsZGAQW_GK_NBrf_vTiVNHp9CrFQ8GtcGde0LE3mJGu1ulu7yIlrbAE9q5.jpg?r=007",
+            "watchID": "81787809"
+        },
+        {
+            "rank": "10",
+            "title": "Haunted House for Sale: Season 1",
+            "week": "5",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABZZ_EdsOn8h6Ard14mJQkBSGS0cCNAXQIWCL1u-aBkkU_kKR1DPvPU3WD_V5pZhOQRHjxnY-0B6oWz7wniKg3aWWSINy7oClyrmv.jpg?r=170",
+            "watchID": "81779130"
+        }
+    ]
+}

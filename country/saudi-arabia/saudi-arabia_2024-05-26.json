@@ -1,0 +1,148 @@
+{
+    "kind": "Netflix Country",
+    "date": "2024-05-26",
+    "films": [
+        {
+            "rank": "1",
+            "title": "My Brother is up on the Tree",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABU90p_PKe1WbPq-6gEzjBtimZrZmwSjxKh22gLKo1wXglFsWOTILOrblBW_dbG09RGkW0PlxOtcA1HXlSIt2_teDY28WyCshzswl.jpg?r=8af",
+            "watchID": "81767058"
+        },
+        {
+            "rank": "2",
+            "title": "The Ledge",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABZES6ajoXvUyyYuChOwsJ5WCzB8arqKMiaJkBZRAQui3YMftVQ9tuyqXoXZ--ICAbOFmBKnuY3xJa58uy_mI3N9EQzwbXsaNo9o0.jpg?r=abd",
+            "watchID": "80144172"
+        },
+        {
+            "rank": "3",
+            "title": "Atlas",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABSSO4HAK0IoOfUJork9gi0W0D5s_RovAOhEJt440g0vUDtfCKc2YRDrtA_aZpelqM_U2DD3A-I_7zMAhMo4jjXIkchGEkf4Lj--wQRBqC8DJYt5qxsInK71vDbfT2B8EY4IpfA.jpg?r=03a",
+            "watchID": "81012048"
+        },
+        {
+            "rank": "4",
+            "title": "Trigger Point",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABZzBLm_sIyaPmhieMb7g3vyAwQFXf4EZbQqrvm_5sgsJJZc6iG2vkxY2163RmMRwl6OuMMe93pfo-1TVltWpZjq0cLr6XUpjch6S.jpg?r=96a",
+            "watchID": "81446107"
+        },
+        {
+            "rank": "5",
+            "title": "Crew",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABRno3ckZcBbzRwBpzpdo-CANAncG6VCsDJYla1Btb7rCPiE1dynQFywzICVDrOkRrfxS4P5fijaeJ8W-UlTbFJaIHrW9EVSuAS1v.jpg?r=4fc",
+            "watchID": "81672746"
+        },
+        {
+            "rank": "6",
+            "title": "Monster",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABZ34Od1BLpk-A9SOnoMJffjskSE4ZdJExxbLqdAUM11t0ICdzuy_OmNesKYqTvjWjRBovjp9EhAr5SsM7W4ttLIHUWQ90XZ_TG8hwEIYQM1BgEFrQ8L1ZInHT4N9kTvsO8cOTA.jpg?r=fd4",
+            "watchID": "81678617"
+        },
+        {
+            "rank": "7",
+            "title": "Honeymoonish",
+            "week": "4",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABbbRJL4terIr4EPwElNXevTfPemlp02udubpctm_mEctA92k-Dr-nuroeWzAzQfWFpyzA88RXzLXUiW3rcwShZZ4StPwzymLetBUqA79Uy1PQO8SG87mxC_XWcbjkKWBtEyNGA.jpg?r=ec6",
+            "watchID": "81711005"
+        },
+        {
+            "rank": "8",
+            "title": "Golden Kamuy",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABSVc3Bz7QcU95jhrR02vGdnUKtKdZOyXMZI8EMFpAgfIRMgVqMLilkZZ1utz9QkUk1xKNkF1QLkXcbRWjIXphNfmfbt2Y60yZ2GmK8ck0ZE65GXqY1gdxyllal25c-te_GFyVQ.jpg?r=c10",
+            "watchID": "81726698"
+        },
+        {
+            "rank": "9",
+            "title": "The Courier",
+            "week": "3",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABY18zuzQyPaGVdge6IMCepoorsqyfTITun224MrxRVsi358tNqeCBLQJI0s3Ao_BHm08OVVEev4-y5NroyRDKqbmKu4FgG0wU19e.jpg?r=f43",
+            "watchID": "81564307"
+        },
+        {
+            "rank": "10",
+            "title": "One Shot",
+            "week": "3",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABQ660mihAfpnskZu86IDxBP_ISVT9Vd1yLfXcfCJghV3evL4Y2AhkrDJDVHKvjzhQBHNYgCrPveXQWRcbz263YLFEjWmm9InOVXD.jpg?r=16c",
+            "watchID": "81509424"
+        }
+    ],
+    "tv": [
+        {
+            "rank": "1",
+            "title": "Bridgerton: Season 3",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABRoZs_OAwr9PbzYFDwxAR6E3LhjIsPcbIXt3tI_jgMWpYQ3jAF47UfD9pcG0JxMJkczozGLtYip7TFPKaRdlUZCq5CugMpc7GyPC7E-90DojSIRwhqL_LeneGhZf6fjlqinb_A.jpg?r=aa2",
+            "watchID": "81487890"
+        },
+        {
+            "rank": "2",
+            "title": "The 8 Show: Limited Series",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABZMRC6L6jEu0tWAKXEXM7srnZo7-2f0_vq484OfgYT4Kbigfmo9rSDb5kcL9lXmGRfWBfC-KYxitdsfh1zj72lgAI9WVKqGvn-1mtFRGpAHaZT10a6PU3EPa6Qu41PX4ANndbw.jpg?r=c4b",
+            "watchID": "81719584"
+        },
+        {
+            "rank": "3",
+            "title": "Heeramandi: The Diamond Bazaar: Season 1",
+            "week": "4",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABXyoIbH95PhB4xPMSzaNEEd1l3E99JdoFncqkSrET7txaMK168dYDFAJ1zhXYuhsdlcRvc2kfy7igzOFfk34nE2bE-DefyvGeGkwUyevw-m8Zl8k6oQU30LWzOJcdiY7PfdhzQ.jpg?r=f98",
+            "watchID": "81122199"
+        },
+        {
+            "rank": "4",
+            "title": "Thank You, Next: Season 1",
+            "week": "3",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABQW7Ft_wXxJzdhAdOfxk2aJ2f6c1W9wXMr1MSrA_Uwjp7aWXt0R6Gv1RfZZupEJTy8BP_mYIohpr-EjQ5y-ecu8n77g6OgutMDcpx6Y0UJXI0C0T5RLZwyS6u7E-9hIj3bxKfQ.jpg?r=4e4",
+            "watchID": "81637610"
+        },
+        {
+            "rank": "5",
+            "title": "Bridgerton: Season 1",
+            "week": "3",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABVUCrh2RQdnooDFp40WumRVt3jLSe2mw7YWlUNQdBoXe6dXWmm8GWYGGevyz_Xww81IkKw4yeimLcmfd0vm4WVHnwZdvmoFHP7cyQGhJKM0SS3wuRy_BqaF0vu41iiJD2jinbg.jpg?r=dda",
+            "watchID": "80233012"
+        },
+        {
+            "rank": "6",
+            "title": "The Walking Dead: Season 1",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABeCliqhSV2xH1NEZhM9HZwAuAcW7sZQUDhpH-jJz7iDHzALDyOBKYqTz3PbOrLrAjXHplaftgqfhowHFMhNj8JlKq6tCELzDQ5i5.jpg?r=21c",
+            "watchID": "70150447"
+        },
+        {
+            "rank": "7",
+            "title": "The Atypical Family: Limited Series",
+            "week": "3",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABWw2IO0RD9vsxNv3HIZbCzku4kSFFOXjcdlP2e4qGtMckxRKZIJzlxgRqs2_kwtmunaVtX0CiiSCb4mQXbIb8PXwTqrl8iUJyEP8BknVMfp3hT-xBL2WCqRFVhenj-9Tb36Tiw.jpg?r=845",
+            "watchID": "81773840"
+        },
+        {
+            "rank": "8",
+            "title": "From: Season 1",
+            "week": "8",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABYIkf32Oo9uG3WXR6KNVN8p6dhfg736Ih-n3PUF9E5jHFwh07BTltdxyZzCZn2e55KJSFkDKr2QijkAUquDr2W_jCljl3tQWy24R.jpg?r=ee5",
+            "watchID": "81446289"
+        },
+        {
+            "rank": "9",
+            "title": "Bridgerton: Season 2",
+            "week": "10",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABaGs3pHDMNMH6ddUyM5g7fROaTQqmPyqYso0f9f_ao9QXD5ov4aAzCe5sCnGUAfYLoeCCCAN77RJBRl8eac9FXX1OFLbMcHuo_AapHZuU8w7Lavpf3Uo1VZlnNMaGOWMG9sx_w.jpg?r=857",
+            "watchID": "81205162"
+        },
+        {
+            "rank": "10",
+            "title": "The Walking Dead: Season 2",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABeCliqhSV2xH1NEZhM9HZwAuAcW7sZQUDhpH-jJz7iDHzALDyOBKYqTz3PbOrLrAjXHplaftgqfhowHFMhNj8JlKq6tCELzDQ5i5.jpg?r=21c",
+            "watchID": "70170599"
+        }
+    ]
+}

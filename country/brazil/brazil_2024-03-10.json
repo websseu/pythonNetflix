@@ -1,0 +1,148 @@
+{
+    "kind": "Netflix Country",
+    "date": "2024-03-10",
+    "films": [
+        {
+            "rank": "1",
+            "title": "Damsel",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABetDMtE966VIqpFnvAxIZNfupN1tv1sANPeQxUh81oVglbvMLMFfpoIBL7AT3B2Cf_5KIpbv5WSFFhyiH6Ntf4rNuzGgITh_uA-AO0GsFQWO-qPgbyC46kZq-yFTqaRB8GWh0g.jpg?r=d54",
+            "watchID": "80991090"
+        },
+        {
+            "rank": "2",
+            "title": "Code 8 Part II",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABbarCrkXUbUYiVJ4PU2IRCmHYSxSn41yEPqsWFhfBoG3inD68YI2emcBMtPDjOimv4TxRagf1WK9bimnJjWOIs9ivpuRDAfwp1nb_fulJ0J4iNv_uluHKuA-lHO2KPVLoIDtpw.jpg?r=8b6",
+            "watchID": "81480320"
+        },
+        {
+            "rank": "3",
+            "title": "Anna",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABeGJ7k5kiSR5n6yBUFoVY_8MeL4fgaMpvdrlhAQmZZyW7y74TRYdvrS4S5hYwVcpfOgdp2QnMZVIMo8LhX9aV-Aw-lkdPeWfK8jZ.jpg?r=64b",
+            "watchID": "81112504"
+        },
+        {
+            "rank": "4",
+            "title": "A Simple Favor",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABX46iP023iyK2QYHYNWs5xTdrw42_skOCj1viF8D0iFOC7baP8Fu8Y6fvkKyWGteCBSY1Z4GIjGQd3jI0w2qwmc7nHWkH2F12RMF.jpg?r=840",
+            "watchID": "80988896"
+        },
+        {
+            "rank": "5",
+            "title": "Spaceman",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABb9ASpjToN2lUbIH4vAHBKK0M0S6AxLs1ccLqbjdOGJaq42R-xlncL-hNdedRDNybFV4r9xmCQ1lZHoRj7yvmDXhJqQ5GQJx2x9_AAWMFh_gjlkZeJGeCoX7kyqHcPkQe457TQ.jpg?r=124",
+            "watchID": "81301595"
+        },
+        {
+            "rank": "6",
+            "title": "Code 8",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABXFXlxGHrTbM8jEaIf-s4xvF659F6Hwy4FKBM1TZg15hVMAskVPCP7wiKmEJh6MCPLXC2eX1PFoDIwqjEIcVZLDHuN4NJ-YyXP8r.jpg?r=46c",
+            "watchID": "81194641"
+        },
+        {
+            "rank": "7",
+            "title": "Untraceable",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABcmRKCf26JqYzR_MB-v2VXbzMJJ6SFd9jfPdDbkSTUIzn4G38EY-w1ZYZG46k2gUThyXa6N0VW0bZCX-QkB-JVmbvBEr3k9ZL0sZ.jpg?r=0dc",
+            "watchID": "70082265"
+        },
+        {
+            "rank": "8",
+            "title": "War Room",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABTHAfBxp5cidKWhNUP3H8Ao2yxFB-B-n3_cPkkIzneIH7UZUss-VYTsBKk0oSe984yDBSvlVUYGv-mtvAa4O1x3kSEI7gtlV4Xjl.jpg?r=38f",
+            "watchID": "80044538"
+        },
+        {
+            "rank": "9",
+            "title": "Mea Culpa",
+            "week": "3",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABfzqt_VOwzrELfHX8eFXNfa6OiZ-LkntKkPOuo0i3qGPGHti8i4QYTMeMzsZK4nQtLeEfzQteUpcAUu8avO0P0vF4di4YAg2Ibj-AY8oXe77eEZDt5GBlcr4XEWvkVNS02bCvw.jpg?r=4dc",
+            "watchID": "81577005"
+        },
+        {
+            "rank": "10",
+            "title": "Ballerina",
+            "week": "3",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABVXOw1GkjASrlCpjfGzNUT10O7ffC_ssC2RIU8HlqVnPOA5miOGqmR7L-QWAZHkv2YeuDQWD9BNXkqApABujWTHYcs3GMGR7Kv28.jpg?r=adc",
+            "watchID": "80166318"
+        }
+    ],
+    "tv": [
+        {
+            "rank": "1",
+            "title": "Furies: Season 1",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABcReDRHtqCJ0ApeSIy3y0wOM5-bSVDY_Vs3DSo17cInPuCMdiPa16wgWCYmBdH34vQZ04P6SnBHTx3fiCqKalg3ylHHqpshQwb0T6JNIQ2C6I8RjJSLyJpCQeBBFnheIeocgKA.jpg?r=1f4",
+            "watchID": "81461531"
+        },
+        {
+            "rank": "2",
+            "title": "Avatar The Last Airbender: Season 1",
+            "week": "3",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABY66Ir6Nwc3Zyb71qE_Xy04jCAgos1Xni7kjh96e1drhG-7bNvSeEjvHdj3PfP1deJ4mHcWgUdNonbeuBuzeUP2l6qKqOdM6WIiDd3PWiIQ81iHPoPil2ydIw8XCo9WNalTZzA.jpg?r=cd9",
+            "watchID": "80237845"
+        },
+        {
+            "rank": "3",
+            "title": "The Gentlemen: Season 1",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABUBUeWe4Ko98aPvYGokMsSG2VBCxX7L6nOew9xXvPq0GVOdrE_1xlipzGX0WPDySksTJe4JRi7xQcjx7tCGrp6rqUkKHOX9m1YMiSf8uDxXGnIPk2TbVVuOdvU75RekGhmabOw.jpg?r=a11",
+            "watchID": "81437052"
+        },
+        {
+            "rank": "4",
+            "title": "The Signal: Limited Series",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABahrE5oRw4IcAFCz2LrM7uQpPxOrTwMVGXiaU3Rp6hfZ5Cs_egjj6hDhv_I3HfDHWBtLNtzyfKnjjdMTAihZHfVVLSzX5QHvanUzAFy24qyfzqXAfQj1iF_XQLX-XOHPnDZpEw.jpg?r=e62",
+            "watchID": "81441400"
+        },
+        {
+            "rank": "5",
+            "title": "Hot Wheels Let's Race: Season 1",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABUsHIKT8QGKS4RzwvfvI5zoS43bJBf5n4pj1otwy_aTHXlU8Z445OMrnJM38kiEF3Cspdp-TTNqZj0K6gtlUtJvCVgG-lzOStlZ_YAqeIK1CayxGqzcG3uHJCSqU0-tK87wN9A.jpg?r=46e",
+            "watchID": "81566730"
+        },
+        {
+            "rank": "6",
+            "title": "The Tourist: Season 2",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABeB87Y96SSDdQ54q99XgT1dlw1FGeaes69qi_fro1Qg3kMoIrkT4_-qxhVXWv-HPAZ5ApitRro-A6H9spQcz9-MkqJJiigkasKcu0-eEJa82eXNRFf7z6tdQZYCG1xkgRMdOjA.jpg?r=b97",
+            "watchID": "81719693"
+        },
+        {
+            "rank": "7",
+            "title": "Doctor Slump: Limited Series",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABZlj4Wq6KUXEO2FSk2hQ5d47_M3qQYYn7T3J-YP4o3XTFFvvM2pUKweHWk33WL3JugJ5p_CzBks12EQyhw_HvAoHqldhiqlm0L215FuLv5E9U5qxSod5dLzO6UZHJNIrcB4Rjw.jpg?r=f93",
+            "watchID": "81697986"
+        },
+        {
+            "rank": "8",
+            "title": "Lottie Dottie Chicken: 2ª temporada",
+            "week": "39",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABf_ompeasCpDJCTGIe9Ro9ZZRCdnH-Ivb28nLckLrf7gO3BuZ5QtfGvD4Eo6YzaBAK5zReKz-jLmJbWxX1bb5qXXDZSgsDNzNEO3.jpg?r=b39",
+            "watchID": "80094450"
+        },
+        {
+            "rank": "9",
+            "title": "Good Morning, Verônica: Season 3",
+            "week": "4",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABQKbrIMaoACxXoZCAggQi_OSPNyZr4At0ERXeyIE9p_Bz1ll8O_5KRR_8t2mVxD2y6g2KPZFPTjWiHBGXwWOO1-upYYDYeY5ar3FQqmQNhDXsk0lrdB3MH-iyVAzyTUdUtrR2w.jpg?r=27c",
+            "watchID": "81641768"
+        },
+        {
+            "rank": "10",
+            "title": "Wrong Side of the Tracks: Season 3",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABVY0v-QLzSr8PRdTA8T_OtWZBHuifM5S8U7QMRIpOfZ9pIFiePCfQWXj9k92GGqQbkUyphatwhuVF52Iu-UzBiXo_q3AWN-G3fpd3IOAqFBKdqO87ph2IuALICfb_T8RL5zJ2w.jpg?r=c1c",
+            "watchID": "81641437"
+        }
+    ]
+}

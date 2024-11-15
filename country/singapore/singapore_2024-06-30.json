@@ -1,0 +1,148 @@
+{
+    "kind": "Netflix Country",
+    "date": "2024-06-30",
+    "films": [
+        {
+            "rank": "1",
+            "title": "Trigger Warning",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABY5-YpysUCTsSNLUtPSPFZE8rjVVHmjgHSXf3GXQX5CxLX9gIuvhjVdz_0x5Ynyjg7776-e-aJCXE5JjrlXS93UYT0JYw0ohJNCID3i3ckscETdn5KLvKhRdZMBtp4xBKhFSJg.jpg?r=85f",
+            "watchID": "81064546"
+        },
+        {
+            "rank": "2",
+            "title": "Money No Enough 3",
+            "week": "3",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABZDhSgJyTwjiG9QxIvS2_ovsnQ8yAN7i8oFAD_vF4MGT6JrjqT-YTtsEnz7GQFTn-Ndud3Tr1ww_MS6ar8ZQgojBXOIdKZyUuZ5c.jpg?r=826",
+            "watchID": "81759513"
+        },
+        {
+            "rank": "3",
+            "title": "The Corpse Washer",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABeTLR4gP7ptzuo8DBtThFZXb3COlrJzJ8hzIZp1Mn5ilQY7iDAgMraRSjs0PsJE7vrPHgOXai2FHTx0TQnLE4xy8UjfP4J4OxcGJ.jpg?r=ba0",
+            "watchID": "81767375"
+        },
+        {
+            "rank": "4",
+            "title": "A Family Affair",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABUvm_3NSc5ybH-LVLeWNnB4gABM8Kj1d_eaUXq9kS_7jZl6qVPTQkJp2eacoKDy2-Qvz46XIhzvAAtN5ehEo6MMo_fPhBNy1CLlbe6R2wBNy5kvsaVsPgYt9mp1Qk24WMjXfrQ.jpg?r=11a",
+            "watchID": "81361154"
+        },
+        {
+            "rank": "5",
+            "title": "Madame Web",
+            "week": "3",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABZ9O9z8rwT99YQ440XPrO3pTfiMXxOs6kEhAJuXkX8a4v7C4FIM9pGZIfn-9Xrn352WsKj9U2FHMUEitNlWNvOu0MCZM4bpfUv7c.jpg?r=8ef",
+            "watchID": "81762621"
+        },
+        {
+            "rank": "6",
+            "title": "Maharaj",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABTMBo-0Fl-i2ffb90i3YgenaCrPgDPxYNUQwhyeeWFMdA02Uiw7m-ZXhbrmLxhSumizJc3gTLfDUzpSVRQoiN5iiT4QBatRWhXqTNaz4Gw9X68jL6_T-qsIYEfhYFPTQz60UAg.jpg?r=dc3",
+            "watchID": "81730920"
+        },
+        {
+            "rank": "7",
+            "title": "Kiss the Girls",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABZlciYVBL5c2JQz082uadSvf0Zk-ZLJDJ1aV22b_reDR2x4hqeaNNhhMiRPs2IB7_vY5ZjYeDbywwZHpusn2iAbB0wm5GqEc12rb.jpg?r=4cc",
+            "watchID": "1180086"
+        },
+        {
+            "rank": "8",
+            "title": "Rush Hour 3",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABeuBzxlgQazyWmT41Dodhbi7DEw6O_MyR9BZ72W3XiaHHzeoQvYkfqFV8SvnJDSAAg9lHfLArAAr7GVAkHkH0dkjlMS0uawlIFGv.jpg?r=50b",
+            "watchID": "70059988"
+        },
+        {
+            "rank": "9",
+            "title": "Minions: The Rise of Gru",
+            "week": "4",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABc8R4qeLuNP-f_pSaqmHOe72wXBuO_x1oTVg4cx4SCEsan4oSWV7h4hFDrZ7KGMTlGszXMhaMEPjM28DLiuPkEy3fPw4tDBBlDwD.jpg?r=8da",
+            "watchID": "81198916"
+        },
+        {
+            "rank": "10",
+            "title": "Power Rangers",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABcrOqgjqFu6Y-5Ls7hGYPMJOWr3rc8LG7pkOuD6RoSUMQVp7tC2UimlPe1uGLTMAewFIDaJLEkB0T8A0OS5Mv2sRT8YBM7LeWMjV.jpg?r=080",
+            "watchID": "80144309"
+        }
+    ],
+    "tv": [
+        {
+            "rank": "1",
+            "title": "Miss Night and Day: Limited Series",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABYGEbJ7DpXDt4uZPrmLKhFas-rmWrX-iuLp-uBI7aGJxCvgN-kFKn0A46yM-z6E29DA3pS7WZ8ZEX5Wp3iIa7Rjn2742UTGtTo_h3JWNF524pVN-6rJ26mRy6lhY6OLj-p53Qg.jpg?r=802",
+            "watchID": "81738995"
+        },
+        {
+            "rank": "2",
+            "title": "Demon Slayer: Kimetsu no Yaiba: Hashira Training Arc",
+            "week": "7",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABasaKygXkCkLxqGTkG_TogKIzPrgrqsm_-HVKkLihjwhE2cpAYmsG_DHoHV-GXOhDg5DXuNK-pI0AjrlL3i8wk2A3z9QBUg51uBB.jpg?r=535",
+            "watchID": "81743731"
+        },
+        {
+            "rank": "3",
+            "title": "Kaiju No. 8: Season 1",
+            "week": "11",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABdfF-7FkWcXlmvugNPJcD4YsYMqgDYWsvKmhZkS9-HXiwcD92bind7PxL34-bDqNdNVSk_xyctkO95rdnw8wQzAu2u9LBUu4weoX.jpg?r=fa4",
+            "watchID": "81759291"
+        },
+        {
+            "rank": "4",
+            "title": "The Secret of Us: Season 1",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABQRc68mCABOq3kacT4hGfHbGCoEcm2C-eKRRkMUYlghWpiftgNGXo6c9A-YJLTIdj9U2XQRacgWQJPb0KXgcIXI2v5RU29pGvmx4.jpg?r=591",
+            "watchID": "81756586"
+        },
+        {
+            "rank": "5",
+            "title": "Worst Roommate Ever: Season 2",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABY1fbRjXUA6likUTHorIbaeqBoa5x10sRwa-rV1CTNAiTIvdgcvSl2aR3JyVued6RDxZaSuTzI2k8MAdaL_Y_MV8W6USrQnDznBfraqsN9Kqwhxtl_pFJJ3liPUSkJBIsVMp6g.jpg?r=d03",
+            "watchID": "81666859"
+        },
+        {
+            "rank": "6",
+            "title": "Hierarchy: Limited Series",
+            "week": "4",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABfxNV9R-SJyNf_nsf9XgZCcsA-FoW1x0SgaBvRCinm023YlCMVB8xwa1BKMeq94OdeEyFtVlQds3uGkGvkwobRbHlUismtrbBLpGm97RSk4zuAf_77HhBDYYJ-TpSY5_10i3YQ.jpg?r=5e9",
+            "watchID": "81624365"
+        },
+        {
+            "rank": "7",
+            "title": "The Victims' Game: Season 2",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABfU1RXnO5kLwPQnB-4vu2saR-hMEZesSl-Ep00TCtkL0TNWQQzwnvEZFRZKlLIUpFBPtHo8gz3asHpUGtgvN_e3U6nemq_0flkMR70RWLAjoehDDxWNAeYLdITz1ux8Hb_DCHw.jpg?r=76e",
+            "watchID": "81318134"
+        },
+        {
+            "rank": "8",
+            "title": "Bridgerton: Season 3",
+            "week": "7",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABcUtTyPKKCh6fwPR0UMPrSbh9YKM7tivhz4HR9-ckQQmZX_c4r2Yag1L258oLB5Qc7vjDLGVaSAv8Qti3yGmr4rk8nXzqdyTH1xaOwtA8BP7cJJCvr_TJXqSWzrpym5-Y9Cgmw.jpg?r=5e5",
+            "watchID": "81487890"
+        },
+        {
+            "rank": "9",
+            "title": "The Double: Season 1",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABcW8CrkfxslSCZm2NaLkR-qkPMJkGAM8UauJqMNUbQJuvjpiR0mq9GYNwMZloMZbUhS1eFPZGGq50PkltCRM9HV4Az4cY5-YXyfs.jpg?r=3f4",
+            "watchID": "81900132"
+        },
+        {
+            "rank": "10",
+            "title": "The Victims' Game: Season 1",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABfJieqM4sKP9a9CqbTYg3_BbLrsp3pcHGck_p2C99q7v5xZot5kIJDwg6TiYSccal_BLfR3znjUCHh-VwIxLhevawF5nB1bs73TVx-1ldeLuhDKUz5-vkRgr3cxkY4SiW8FN5g.jpg?r=79a",
+            "watchID": "81227403"
+        }
+    ]
+}

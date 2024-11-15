@@ -1,0 +1,148 @@
+{
+    "kind": "Netflix Country",
+    "date": "2024-06-30",
+    "films": [
+        {
+            "rank": "1",
+            "title": "A Family Affair",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABUvm_3NSc5ybH-LVLeWNnB4gABM8Kj1d_eaUXq9kS_7jZl6qVPTQkJp2eacoKDy2-Qvz46XIhzvAAtN5ehEo6MMo_fPhBNy1CLlbe6R2wBNy5kvsaVsPgYt9mp1Qk24WMjXfrQ.jpg?r=11a",
+            "watchID": "81361154"
+        },
+        {
+            "rank": "2",
+            "title": "Trigger Warning",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABY5-YpysUCTsSNLUtPSPFZE8rjVVHmjgHSXf3GXQX5CxLX9gIuvhjVdz_0x5Ynyjg7776-e-aJCXE5JjrlXS93UYT0JYw0ohJNCID3i3ckscETdn5KLvKhRdZMBtp4xBKhFSJg.jpg?r=85f",
+            "watchID": "81064546"
+        },
+        {
+            "rank": "3",
+            "title": "Land of Bad",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABVUSIDTGq8Q7t0TbQ6KwGflgte9G2q2wzBVoX-5fezB8epHwRTu7W7Cwxh-jUwhxBBzFj_YE0wzCockSTxzB5dWObcO5F-Bq-Jkk.jpg?r=fc5",
+            "watchID": "81747468"
+        },
+        {
+            "rank": "4",
+            "title": "Kiss the Girls",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABZlciYVBL5c2JQz082uadSvf0Zk-ZLJDJ1aV22b_reDR2x4hqeaNNhhMiRPs2IB7_vY5ZjYeDbywwZHpusn2iAbB0wm5GqEc12rb.jpg?r=4cc",
+            "watchID": "1180086"
+        },
+        {
+            "rank": "5",
+            "title": "Hate to Love: Nickelback",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABfXBUjGVUwwtLCNvxCF6fMC2t5DBMH_W5NjspsPnkCR6o8Ts6GWgtc_NTiwXqiRn-sweMUfr_t9as8QH8ZY_LSVl_yjsd0fW5VPO.jpg?r=994",
+            "watchID": "81760200"
+        },
+        {
+            "rank": "6",
+            "title": "Despicable Me 3",
+            "week": "5",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABXQnsn_COkl16vc6vZ069ZaMB4amlBGwu2DGjHo56NU0WflzLOKiHLExEyXdoeb1l-ipY5LnlcotlILPE9chQPdUdvzHcxqPc29i.jpg?r=c0a",
+            "watchID": "80166314"
+        },
+        {
+            "rank": "7",
+            "title": "Your Lucky Day",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABR1Z4vRKTBSuHJKDiySPjgZK9TtOYwnQcJB-1-JVd5UEbLAKvceWKk4IuXaW7KdrYWFb6BPnB39JPujMPmZ6-jVyktEyjzBIAM_O.jpg?r=7c0",
+            "watchID": "81733939"
+        },
+        {
+            "rank": "8",
+            "title": "Inheritance",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABa_gyoQ7c41Dk5dlXTmKXlMkYUmw5QuicTsf_WlixUKINCdxSz7Is7GYXlLpM3GrAaiTiJR6_RH5WjZxhIOzcYqM9foenPMIIQ-WalaM_W0XKG05aHGiuGjHWoFFc3UTqYG-Gw.jpg?r=e05",
+            "watchID": "81500431"
+        },
+        {
+            "rank": "9",
+            "title": "Dr. Seuss' The Grinch",
+            "week": "6",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABWhz3CzETp2fUHow5PLmIWiXZFrdSxOYQJH-lhG2XCaFR5r50kymplZgXMmbXeDZle7Rd8RyW3O3BlEuZ4mKl12xEJFLYE6iasc9.jpg?r=19c",
+            "watchID": "80996790"
+        },
+        {
+            "rank": "10",
+            "title": "Bad Country",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABUCQ5Lx3eCSajHTZuvfMPaUO0id-2bHuGkgI185IHLdx1Jso8cvKj6O_9OBL2_Z9UG-BIdDe_T4eNZxjoxSDMM6VStZepua-qmSw.jpg?r=36a",
+            "watchID": "70299026"
+        }
+    ],
+    "tv": [
+        {
+            "rank": "1",
+            "title": "Worst Roommate Ever: Season 2",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABY1fbRjXUA6likUTHorIbaeqBoa5x10sRwa-rV1CTNAiTIvdgcvSl2aR3JyVued6RDxZaSuTzI2k8MAdaL_Y_MV8W6USrQnDznBfraqsN9Kqwhxtl_pFJJ3liPUSkJBIsVMp6g.jpg?r=d03",
+            "watchID": "81666859"
+        },
+        {
+            "rank": "2",
+            "title": "AMERICA'S SWEETHEARTS: Dallas Cowboys Cheerleaders: Season 1",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABXpEIgF_fsezs7x8qzeeU-CVr9XQI6JnEG836EZyFVANWXNDdWoxCDzOAEDCZdiDRPWF9PZp27Ts34oq59bORD9icHWtvIKFdQNk_s3cawGdwA_pjB70FPca1jKFqCjaE0TDCA.jpg?r=644",
+            "watchID": "81685879"
+        },
+        {
+            "rank": "3",
+            "title": "Bridgerton: Season 3",
+            "week": "7",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABcUtTyPKKCh6fwPR0UMPrSbh9YKM7tivhz4HR9-ckQQmZX_c4r2Yag1L258oLB5Qc7vjDLGVaSAv8Qti3yGmr4rk8nXzqdyTH1xaOwtA8BP7cJJCvr_TJXqSWzrpym5-Y9Cgmw.jpg?r=5e5",
+            "watchID": "81487890"
+        },
+        {
+            "rank": "4",
+            "title": "Perfect Match: Season 2",
+            "week": "4",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABaifqmGZejeqG0Sx4LjZI3_DcEmYa7emaEvM29P53ia_ri0LsEbAgU5OIm2kVZayCBm3x8CZTVhYS2Tz9xRVbXl6SgcI_4KjlKR8OCwEtAlsKRhtJai2WYarQeAkV75RdPw-yg.jpg?r=4dc",
+            "watchID": "81504859"
+        },
+        {
+            "rank": "5",
+            "title": "That '90s Show: Part 2",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABdjPqVuiHPgD1f4uBhgq0ENAS6350hU0w4SpZJmG3tIG-g_myChGlyKKptktEjuGIVrQb3qXeLV-Lb-NxzHXRWpTy6u5u3MO-kMlWsIniAak--iiu8qtOsqTjZFoD6QPll4CvQ.jpg?r=0d7",
+            "watchID": "81508339"
+        },
+        {
+            "rank": "6",
+            "title": "Supacell: Season 1",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABb97Hy-FO4uZicM-R4T8A2Ux01hljhlEQS7caAVJrvay_Gyg6ZMpY_qv7rv2vakmW_zOvupEUS2TStLOMrZcjWmjbuTML0fyxgJtR_E1PRgJgbM3FAJdZ8ujorhj33KPt0eD9Q.jpg?r=042",
+            "watchID": "81316477"
+        },
+        {
+            "rank": "7",
+            "title": "Gangs of Galicia: Season 1",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABbymFrZj7DvZdIchK0Q90vzVvfadYDDqEcvqM4EVvqSWn2yB2Ew3gOL-vjp_CH1ZeiJlFeBOemfElVdeLNj0nOEASA4K_H_Woi-SVh27_4UtFlRmMhmAABQ2Ep3wW8x8pjc_lg.jpg?r=d96",
+            "watchID": "81563541"
+        },
+        {
+            "rank": "8",
+            "title": "The Mole: Season 2",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABcX-5z6A-HI3JbCJFG_IgoZyXzBuCVl3OYH4eYVtDeDujQGodxoF-IEqJVkim1MZqoSLix5kZdG1bWGDYRIt_BjWtK-ofzivWS9ZScsY5a9KTSnWwS04fmYgKuQ2X9oc4jvqmQ.jpg?r=2fb",
+            "watchID": "81393278"
+        },
+        {
+            "rank": "9",
+            "title": "Owning Manhattan: Season 1",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABZBCihoBI9A_zGAr6toNOed2Y2kOfkW6t9dh2hur8HxFbCOOQY5bQURoNvsLghvHXq2L9A15qTVzjV0a25JgaEpnMMqdf1UPMaVoo9dq824Ec4czkDBs30Fz7aLmD7Xaf7QydA.jpg?r=40b",
+            "watchID": "81591299"
+        },
+        {
+            "rank": "10",
+            "title": "Gossip Girl: Season 1",
+            "week": "3",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABYoMFy4jBnezz6e7GtS-g1XBDyBbYOMoRGrmX8EVwKyMU8glbzzhEGAE8nJ8VTUkgKPRB0bxC4qSrpGUx3LCgt4rAmT83GPf-2xn.jpg?r=8e5",
+            "watchID": "70079096"
+        }
+    ]
+}

@@ -1,0 +1,148 @@
+{
+    "kind": "Netflix Country",
+    "date": "2024-08-04",
+    "films": [
+        {
+            "rank": "1",
+            "title": "La familia Benetón",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABTRknM-TtiTLoYk3nAVc1Ov-tuzvGsoVwmZ_mbS6dYe7wcg5kEDuHdoaGPYH0wqhbl5xaFxvhaqI1IYnp-5bJ-WRJpKkRzUVJ1UX.jpg?r=32d",
+            "watchID": "81701113"
+        },
+        {
+            "rank": "2",
+            "title": "Todos lo hacen",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABdz5F_erYRAz17W8Y9GiWPGrUY0Ajvhl03D7HAaBQ5tmrXL1hvY0a73r-J8SXYQe6tEl2vH9lRgKq2-99vxPp18rcQWhmIrNf2ta.jpg?r=52f",
+            "watchID": "81597500"
+        },
+        {
+            "rank": "3",
+            "title": "Where the Crawdads Sing",
+            "week": "3",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABZav_OqzdppsVspT8hbM-lzGCbrBjHqRkg-9igVApsgvjECi9_-ZuInVDbZaMPAEx34CreCXLPS5hZFSD_eslk1S5TmzKb2PPYT6.jpg?r=5b9",
+            "watchID": "81564396"
+        },
+        {
+            "rank": "4",
+            "title": "The Croods: A New Age",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABXk3HsF5vVzNN1_Z4UYj5kH42M_UkDizsmAZ7GuoXe0dKyhA5RxP4b_UxL8trfFfvEXhlB0KmSpG5zazK-uUVj_AnVNSfE3Lf1eW.jpg?r=ac4",
+            "watchID": "81199142"
+        },
+        {
+            "rank": "5",
+            "title": "Saving Bikini Bottom: The Sandy Cheeks Movie",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABfYJcuxQKm884_dsOgDwulyQJ2Lsl2Buqm8wwp3tT_G6aXcFagzipih1MbAQxx4NFuYgYeQt7AKC7duvFf28P7nZ5gwsbouOIuMBQv7CVtsd0PqiryKiKfgNyERq1VPNhicfJA.jpg?r=83c",
+            "watchID": "81221340"
+        },
+        {
+            "rank": "6",
+            "title": "Taking Lives",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABZ0J3-vJTIAjskaiLWL0Uxu19TKQ9oCA_wRKmWQQfDzdDJNn8tU9th_laoruiXKpONevrF7o4n8txRtrxPs3zJVXSALfFI_5gloZ.jpg?r=900",
+            "watchID": "60033314"
+        },
+        {
+            "rank": "7",
+            "title": "Failure to Launch",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABfNkF13dKSCEJdONtfx8dcTPRz8l45j8TIaoefvvMA5kM5lE2IFnb-4sV5AcTwoNvLmXuJD9oaOGooRoMU8fL45_hrFsFAduMNL0.jpg?r=49b",
+            "watchID": "70044867"
+        },
+        {
+            "rank": "8",
+            "title": "All My Life",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABWtFUcR2ejVSpyGYYD3wiJaxIgBDjlNEa9d47VWVrnFHLifLVmRtvZqGu0xR8dDSMN8tlo3Dft9_h19t2vE6baPFk98CT_yJvVKL.jpg?r=86c",
+            "watchID": "81463701"
+        },
+        {
+            "rank": "9",
+            "title": "Mystic River",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABV-BcPQwjv0zWczDag6yAY_1EyeH43hbc_RwUH6T9F8KvuSweEvLoGVViPCsQ3stXYPWOSUE0H9GrY5UBOXlD8MgJgkA99x20609.jpg?r=b47",
+            "watchID": "60031232"
+        },
+        {
+            "rank": "10",
+            "title": "Magic Mike's Last Dance",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABa4mRzkBaYUoLRCZzrymXca4wXp5dFU6XeFU0EnSBFeoW8G3gnqhrcB22RaXTYwpLTFMEvbSjJ3gBjMqXoszEPnaH9wDi57VM4SO.jpg?r=d76",
+            "watchID": "81643440"
+        }
+    ],
+    "tv": [
+        {
+            "rank": "1",
+            "title": "Elite: Season 8",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABW6stmiEiPBtTSV5kMzm_8r6g8jaYTJcshbwZS84mMbjogoxtpuqXM9IA3ig6T8OJh1af46Fj_MIan4k4llrRKBhhPgnAFoQ0OC2dpxhvud6eU7EOT7U00KmQS5vv-QLKNsPRg.jpg?r=db8",
+            "watchID": "81675496"
+        },
+        {
+            "rank": "2",
+            "title": "A Good Girl's Guide to Murder: Season 1",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABSCSd9N-X8UDk2mRaZdpAwkEdj5-pLhuFk1cDRo1Ft7YELVBA9dwfQGSXTn1rEfjp79UCmeVJanTOKLayxZQBCN6FQwK5tvxstVLZEhmLNyAkC2NULLlDfoPB5PYHrBjzU2ACg.jpg?r=0b7",
+            "watchID": "81759465"
+        },
+        {
+            "rank": "3",
+            "title": "Simone Biles Rising: Season 1",
+            "week": "3",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABQGSTBPGThExROXx02f2VQDNPHN7Qd-Uw8L3r8xIcsVggOcuBexg6LKYJLM4vww134UhYiD2XdwwQNa-yph65NDgsJRcVGPEEqchsssdhNBfT_L8VEkQTJTsnIroylXcQUTfOQ.jpg?r=bfa",
+            "watchID": "81700903"
+        },
+        {
+            "rank": "4",
+            "title": "Cobra Kai: Season 6",
+            "week": "3",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABY4o9AwJTq2HZgQGTR-OLrS_9OqDUT_7USq8sf7BvFJkxRBckLcN1wGGxTEfWnzudGfvvNMAs5lr25kFO7ccRvC3oaM9ogjuDwSIwRhN-MogYFON4KVn_2Srntd_2Ji-zmvu6A.jpg?r=6e8",
+            "watchID": "81576914"
+        },
+        {
+            "rank": "5",
+            "title": "Gangs of Galicia: Season 1",
+            "week": "7",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABTAMxvHWWX97OGwZg_CGp6gSpbWeRh8EgeP52FzBAV4XsNr5TZNiqlXxOTlYgLNdP6w8X9jY8UewGrnzGJW1W5AxNR54azhChsjothgO2uXOK8ztc7LgTP878w1xQkIMe8Yv0w.jpg?r=393",
+            "watchID": "81563541"
+        },
+        {
+            "rank": "6",
+            "title": "Master of the House: Limited Series",
+            "week": "3",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABZZjVCtn6E9bpj0VbSqwsNUaVAbtbNYS8JHpSFyH5wn09pZKOKr5sFPGNCykfeZoRbXJ73ZSo4XPnWIcIavSN00x61axwm74Frs43lPDU0N3-AIDkjm2hRPEV8_7gj64nLFvbg.jpg?r=1d3",
+            "watchID": "81622919"
+        },
+        {
+            "rank": "7",
+            "title": "The Decameron: Limited Series",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABR6rKaxPA42KBacgfo2Bsxqhj2GMfJMdOWGaBayVNRf8bEoKRkdcqallpyaqfVvyhe6t2mK1BIMmxVc5w4WjMr9qDYOBlhQJRYz7bHkIKF_aspSp3aMe9nXt74TnbD4qZPqzdQ.jpg?r=590",
+            "watchID": "81417085"
+        },
+        {
+            "rank": "8",
+            "title": "Too Hot to Handle: Season 6",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABRdzXknS_o45IJetjIfkMPwlt9DXfeGOR5ndgGjZ0O8G2_kw2JxdE5i542r_OfaqVOwH3eStq4x7NwZLKcgC6wHMwpr8ynq7AsKlvByDJzciW-L-ocP8ICOXeaQuTByJIrriBA.jpg?r=5f0",
+            "watchID": "81442462"
+        },
+        {
+            "rank": "9",
+            "title": "Vikings: Valhalla: Season 3",
+            "week": "4",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABeK68ggCUhOcVTFJQ3wBB0eJO7S_x44lF62urURHnsnB32oiKVUW9oCD7F6iHXdwOWULQYs-t6doSEPRg94sjy5K2ErhDFpUCo4FRCf5hrAsqllSZucWzuYT3XXIqI6uDKNPfQ.jpg?r=b33",
+            "watchID": "81220004"
+        },
+        {
+            "rank": "10",
+            "title": "Unsolved Mysteries: Volume 4",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABQsB_w-v65F8kb-_GGNrCvfftyJ5HwOT5VPZQOz0Gn7ivlA5tMBfBWESxZOfunmQC7W3RjpW_AJdjn95w8BBkLRvnF6uLyoT83fkNWkqWYg8jvkubwN_7C17NpAr5eBI3WAS4Q.jpg?r=64d",
+            "watchID": "81427720"
+        }
+    ]
+}

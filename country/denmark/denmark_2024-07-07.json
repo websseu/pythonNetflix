@@ -1,0 +1,148 @@
+{
+    "kind": "Netflix Country",
+    "date": "2024-07-07",
+    "films": [
+        {
+            "rank": "1",
+            "title": "Beverly Hills Cop: Axel F",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABYXJEeaL_-A3c-_9Pe1O3eBjuxl6bAgRqWEjRbi_-m8XI9668GhJBzQcpRq8zpr4ChoJXnV3IUBWbstpeeySNAYymlavmGEqfhjgkDASbI3heKjabvFdtPaWFBC09jIkOG0Tzw.jpg?r=0ed",
+            "watchID": "81076856"
+        },
+        {
+            "rank": "2",
+            "title": "A Family Affair",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABUvm_3NSc5ybH-LVLeWNnB4gABM8Kj1d_eaUXq9kS_7jZl6qVPTQkJp2eacoKDy2-Qvz46XIhzvAAtN5ehEo6MMo_fPhBNy1CLlbe6R2wBNy5kvsaVsPgYt9mp1Qk24WMjXfrQ.jpg?r=11a",
+            "watchID": "81361154"
+        },
+        {
+            "rank": "3",
+            "title": "Get Carter",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABSQfVfKh5oXbLxB0THr8zkdQ21Wzs0BZ9Uvh5GAeay2Cr6DadRfOaGROUeZntoihV3HbB7b0SBrV-NagXM3_Bsmyl7TZHRR4pUkV.jpg?r=ff5",
+            "watchID": "60002448"
+        },
+        {
+            "rank": "4",
+            "title": "War Dogs",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABd7G2ffQt66r_4x3xqnJa5uZ9iM9_0Z7wgE_72Y2SZe5-SzqYyNQulZMaGcZfvSe-Yb0hi5WrIDuyE-giHKv6DfNgnRfPpPNDoYs.jpg?r=16e",
+            "watchID": "80080359"
+        },
+        {
+            "rank": "5",
+            "title": "Trigger Warning",
+            "week": "3",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABY5-YpysUCTsSNLUtPSPFZE8rjVVHmjgHSXf3GXQX5CxLX9gIuvhjVdz_0x5Ynyjg7776-e-aJCXE5JjrlXS93UYT0JYw0ohJNCID3i3ckscETdn5KLvKhRdZMBtp4xBKhFSJg.jpg?r=85f",
+            "watchID": "81064546"
+        },
+        {
+            "rank": "6",
+            "title": "Kiss the Girls",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABcRhcAU_phU0CMb_4qw5TsVUjGhSHow3tl1TdUZYheylGmOtcc9EGLbvaUji1UHjm0Z4NZAcq3xjzu8wIdTaqjRF2W02UChTt5-B.jpg?r=e5a",
+            "watchID": "1180086"
+        },
+        {
+            "rank": "7",
+            "title": "Percy Jackson: Sea of Monsters",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABaTNmveKCr0ECLwFx6_pUSTxbImPxPDU1XDdRKWI1QIbQhntxCmKW3D3oFX1AZa-gmZDp-Sxh61zdagZ4CArx4FgRnqsETx0gEvW.jpg?r=fee",
+            "watchID": "70243343"
+        },
+        {
+            "rank": "8",
+            "title": "How to Train Your Dragon: The Hidden World",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABTjcKIS5iWJqTK14t0pL29CglOUQ6B1pC7BDriBV36011NNVV-MUoeFEy9pMfDZ4pLFj1dYYkJ-jq07SEqP-HMDgMAHbdEkIVHbX.jpg?r=3b9",
+            "watchID": "81021806"
+        },
+        {
+            "rank": "9",
+            "title": "Synchronic",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABR5D-ehDcC_FmVLuXMhQZ_QD_E_tBXuK7s9DmdNZ_pVpX0xOqIJYZ5oyNXynGfpUxeeMatD_hdsvRS1FNiV8ctu4AR8stfF--6Ri.jpg?r=35c",
+            "watchID": "81025509"
+        },
+        {
+            "rank": "10",
+            "title": "Beverly Hills Cop",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABVng3TcufWrg901oBS5tp4LYv_pbhXL9WwlhgykEkecKCqT6gUgcqgVxAR8t4OY1AnVsfwyNp0fAxUzUgQAH08agBMVyYrIIiIFo.jpg?r=137",
+            "watchID": "60010139"
+        }
+    ],
+    "tv": [
+        {
+            "rank": "1",
+            "title": "The Rookie: Season 1",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABSRhXipHozQoxR932RqLPnVH1foWkEZLV5sJIvYb3Z0VWy1MXe9yc95ekDCmMXf1cH6fGFvfqLJFjK3_PYzbWLBW-zJWP7zpV6Ur.jpg?r=2dd",
+            "watchID": "81666166"
+        },
+        {
+            "rank": "2",
+            "title": "The Man with 1000 Kids: Limited Series",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABQrqVDx4k16zPEtdXGGR8qhxNYSTE_iUKG4qb1S1iQ2b7JnD5bgntkUW5Gom7OXbjxOjySK0crrbkvxMJrY5guCR1YKUPhKC5MxmmO7NkHH5oikOjQPwHSiTZrnlQHPtn86Dug.jpg?r=46d",
+            "watchID": "81653510"
+        },
+        {
+            "rank": "3",
+            "title": "Supacell: Season 1",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABb97Hy-FO4uZicM-R4T8A2Ux01hljhlEQS7caAVJrvay_Gyg6ZMpY_qv7rv2vakmW_zOvupEUS2TStLOMrZcjWmjbuTML0fyxgJtR_E1PRgJgbM3FAJdZ8ujorhj33KPt0eD9Q.jpg?r=042",
+            "watchID": "81316477"
+        },
+        {
+            "rank": "4",
+            "title": "Worst Roommate Ever: Season 2",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABY1fbRjXUA6likUTHorIbaeqBoa5x10sRwa-rV1CTNAiTIvdgcvSl2aR3JyVued6RDxZaSuTzI2k8MAdaL_Y_MV8W6USrQnDznBfraqsN9Kqwhxtl_pFJJ3liPUSkJBIsVMp6g.jpg?r=d03",
+            "watchID": "81666859"
+        },
+        {
+            "rank": "5",
+            "title": "Bridgerton: Season 3",
+            "week": "8",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABVvH2xo41sE_-aZqECQFzAgx2pndcjqGSKYaTPwWUVNar54XH0cFnlMF3iduG1x1-Jlm1d6NfdaNpT9WWJUTfPuUCAjThvtEtk1Iob53NLpTzZY7l4opbV0XITEWk8FiM4amug.jpg?r=f21",
+            "watchID": "81487890"
+        },
+        {
+            "rank": "6",
+            "title": "Owning Manhattan: Season 1",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABZBCihoBI9A_zGAr6toNOed2Y2kOfkW6t9dh2hur8HxFbCOOQY5bQURoNvsLghvHXq2L9A15qTVzjV0a25JgaEpnMMqdf1UPMaVoo9dq824Ec4czkDBs30Fz7aLmD7Xaf7QydA.jpg?r=40b",
+            "watchID": "81591299"
+        },
+        {
+            "rank": "7",
+            "title": "The Rookie: Season 2",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABSRhXipHozQoxR932RqLPnVH1foWkEZLV5sJIvYb3Z0VWy1MXe9yc95ekDCmMXf1cH6fGFvfqLJFjK3_PYzbWLBW-zJWP7zpV6Ur.jpg?r=2dd",
+            "watchID": "81666167"
+        },
+        {
+            "rank": "8",
+            "title": "AMERICA'S SWEETHEARTS: Dallas Cowboys Cheerleaders: Season 1",
+            "week": "3",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABXpEIgF_fsezs7x8qzeeU-CVr9XQI6JnEG836EZyFVANWXNDdWoxCDzOAEDCZdiDRPWF9PZp27Ts34oq59bORD9icHWtvIKFdQNk_s3cawGdwA_pjB70FPca1jKFqCjaE0TDCA.jpg?r=644",
+            "watchID": "81685879"
+        },
+        {
+            "rank": "9",
+            "title": "Tour de France: Unchained: Season 2",
+            "week": "4",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABXXVteB5MLlo7UFH6bXExMcOsPMgc554-HqnLBj7LH44K4Veg_9tenwvISFoZhJAYPwCsDmrHmTZPn5qxY2mp0UlzoYkCswPnivI6NmvH1F6DcQ4OYnMqyF4MNK-64FezsI0Vw.jpg?r=c03",
+            "watchID": "81638049"
+        },
+        {
+            "rank": "10",
+            "title": "Unicorn Academy: Chapter 2",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABXfyXbQmeFAIV__BYNIO61zluMur5GESAZlfKxYJZbdA-Ar_sXsUal3IB3zH_Up0GJVp1mO9X5FbBAc9izQgUlUfS9KUS7xejEEwRqMFj-ZLXsxycQcJH69H75sfZVQk_pxSMg.jpg?r=990",
+            "watchID": "81404196"
+        }
+    ]
+}

@@ -1,0 +1,148 @@
+{
+    "kind": "Netflix Country",
+    "date": "2024-05-19",
+    "films": [
+        {
+            "rank": "1",
+            "title": "Mother of the Bride",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABVTsFhg9NjI3IS3kJb0o7xPChyHJSa_lDKn9JKSBfCAEFnlcQX7S9rWYD-M00C7hReH0Cl6MbstabGuSAxbtyf5RjF8-yHZEcAp1qzb9ZZpopSbdve5BEmGvkIHTzvdtlmFtiQ.jpg?r=f6f",
+            "watchID": "81459080"
+        },
+        {
+            "rank": "2",
+            "title": "The Courier",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABR-nacRxCssDNmtk-XwfS0Ks5oB1zPLwziexuBkqxDxeHcqzAQMwMpgEr5cUIPN5GGzKhHD4OxVkJEFXtJT2dsIn4VmX_OzWLYYi.jpg?r=64a",
+            "watchID": "81564307"
+        },
+        {
+            "rank": "3",
+            "title": "Disturbia",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABQyn0ZeknBUwbuVul4AL_ZoychMhzUJtYv-k6EHPEP_RfsZIDYpbzcFU2mePyir0sNYhto9VGHbmkGfQj3bbwW1BoQObO_Eqw7h_.jpg?r=f7c",
+            "watchID": "70059990"
+        },
+        {
+            "rank": "4",
+            "title": "Mercy",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABRaly-9SUhd25M5KgIjU1qi9pan1HoRQln1WH17MuZ-iVKKh0lqX3zy6IJsOthPaYXFU19-HNZbVycmyL2Ur5bN8-aYsxQXYKcXy.jpg?r=377",
+            "watchID": "81735590"
+        },
+        {
+            "rank": "5",
+            "title": "Partiu América",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABWWyhjHNVGL7pkKxufTk3_hqlMPHlfQzgyBcvrr5LZ0EGcYUFk2ad_Ks0pZDnY22r5cOUfBqYQ1ZuHn6yqy1bYRPKlklKWsLmZ63.jpg?r=ecc",
+            "watchID": "81721700"
+        },
+        {
+            "rank": "6",
+            "title": "Meninas Não Choram",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABVfDD2bmBq5BrgjGmNWALk6Baq0Vxmdrhfp6SDhyjbHJEU040c8Zd-HQuwRqTPeDMbkvR6ULFNCfG3PVyMybYqCSCkbztafHkLiQ.jpg?r=08a",
+            "watchID": "81735523"
+        },
+        {
+            "rank": "7",
+            "title": "Thelma the Unicorn",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABRgKHvuokPFXc9FlQuh1cMdslmNATgMCLw4cBjpKOYtAL-z3Ajs8t6-M3N2qY_b08CzSSfyBmFjGJonFKQ2wOHNwu0KAsuFegM60H8FV5_9Huy3dLNh89FWmkA2bhN2H59YZeA.jpg?r=752",
+            "watchID": "81110501"
+        },
+        {
+            "rank": "8",
+            "title": "Stillwater",
+            "week": "3",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABaHXzTgx3tHEAFIdklDW3ABXhAShQP86hF3T3rRXWwVyjBFifvh71-DoNl3jvGbvYkT4KhsoFg1H-dNS5W1FnlCPCX8Xqd-2DZGy.jpg?r=a9c",
+            "watchID": "81198448"
+        },
+        {
+            "rank": "9",
+            "title": "Monster",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABWUC_9J4TdmvHHt8EUib3bpHqdXOaUB-czV3PFm5i0a6nn8Vil7__qKzgQQ3YKmFGYSjJMM_25xd5_fj5B2ewJ9ZUOqzLJi3do6d-LvVVHnE-uYJ5tjLRgSJfddEFQyDWts6zA.jpg?r=111",
+            "watchID": "81678617"
+        },
+        {
+            "rank": "10",
+            "title": "Honeymoonish",
+            "week": "3",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABcqnR1KGEk-_NyWqccDG24ypMatPQ9XPXR01eKLd9fpYGot2z_iaw2RyzKUk6uWLF0Ju5CxjaC--E2GzzSr5e2REOln_6UySoU41VuIE16QakfXoIpDhQwQMkiZG4FdC_JsYEQ.jpg?r=10a",
+            "watchID": "81711005"
+        }
+    ],
+    "tv": [
+        {
+            "rank": "1",
+            "title": "Bridgerton: Season 3",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABUuO1FuPHWRkDfh5r-6FMKf3o5XAjQUKMFeyYiIFXSBuYs_1L4psoJs4eZdInnREZWyxXGTeJ00m88ebED5vHcgt321cmYZelziK2yKrU7m7NK8-rLsO_b4zzW5p12nKEGuDTw.jpg?r=5bf",
+            "watchID": "81487890"
+        },
+        {
+            "rank": "2",
+            "title": "Ashley Madison: Sex, Lies & Scandal: Season 1",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABcOs2wyImfK-V6rq13NHn41GObnhug13msu1P1ooQlDpXuZnrUuOiXVfEwvXQbPqgJrvR6qIxx1iSnAoh2zngw9gEIDxL16SPqsZjGTVFbErl0brt58K8S7Utx4wCDDfUFD0Sw.jpg?r=88d",
+            "watchID": "81602885"
+        },
+        {
+            "rank": "3",
+            "title": "Baby Reindeer: Limited Series",
+            "week": "5",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABdWZ2JKEbpU_HHYsRFJTHIUaYSGnDTgvczLqx8g9qrK1eQXdk_qoOFX73PBazWgexHJ_0fRxUE_i6crbqvIqIIsHak3WpPhEJo5FTn1VppXB7xL8CS3OIxW5fGpRCYLEBuiroA.jpg?r=3ac",
+            "watchID": "81219888"
+        },
+        {
+            "rank": "4",
+            "title": "Thank You, Next: Season 1",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABdeSpZ3aPR_1nto9SkwC_Ufym_fPZYh7iM_kM2PURsPPSGbCJefp5fSzhAFYUk1yKxBNU4FKHR6E4QuIA5nk08yobZ33kXYN6APTYdNy8GQbnqKXrU0ukjjyQ-E9WVuCPU-BFA.jpg?r=7d6",
+            "watchID": "81637610"
+        },
+        {
+            "rank": "5",
+            "title": "Bodkin: Season 1",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABR1xLap4DySj2o2lGIccHf4fW2n8A49V7URQr1y9djhs0FmdyOB60klFkK6gVk6EQMvl3ZG9RLZwTT2LGq9PXD0wgNrBCM7kndHwhGDMsVAzoPvvxm2r5O3CbCqsMYvzcgulPw.jpg?r=22a",
+            "watchID": "81423483"
+        },
+        {
+            "rank": "6",
+            "title": "Cooking Up Murder: Uncovering the Story of César Román: Limited Series",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABd4IcCltaJo9GL0vuo_xqt89JwY5CBwl3fGhY2HXUAnTTqxvhu8q_Th4d-YmqrG_VXLpc0-aXPeuovBkuLJpu3guCUazXbEMvErcrIyvamSy9qa7YKfqBZ0y6LP6w5esCa8N2Q.jpg?r=3dd",
+            "watchID": "81711039"
+        },
+        {
+            "rank": "7",
+            "title": "The Asunta Case: Limited Series",
+            "week": "4",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABZQJwboj9BwbLvij45pptBLppwi-pbVaOct9mQE7go-CjsTssKfYZjv2STvzR_0gTc-HEafgGHI__rMqtZLTz3XdmZ3-x_Wh3Rg_8vHPDEKXtdMkiQ1n-AeWnghQXUtUEZl2yQ.jpg?r=a3e",
+            "watchID": "81632783"
+        },
+        {
+            "rank": "8",
+            "title": "Kevin Hart: The Kennedy Center Mark Twain Prize for American Humor",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABfjeYXiEKxCpXqiYzrVd35tbfTF1Y8tQwayImNecv1vEtc5Rtl6UNBgd5z8h8s_i8zMl5raGd3YBudNVPcrntW5m7_7MHUjcVUu_9e83OYoT_cu7oUzX63M3PHpPu3E50eNXTw.jpg?r=8a7",
+            "watchID": "81758878"
+        },
+        {
+            "rank": "9",
+            "title": "Bridgerton: Season 1",
+            "week": "7",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABSAVAJs8J-wTrx_1rvQf9ldjgDM9vQRkTi0xpszX4UjEjx3CxBs9VswybiqWltrz8Q8QhS5vKlrmOoAmeoI5dV_nnD8kbh3CELLWPCVY5u_FzPoeeucxJNXeM1Ilwo4lNBSjSw.jpg?r=3a0",
+            "watchID": "80233012"
+        },
+        {
+            "rank": "10",
+            "title": "A Man in Full: Limited Series",
+            "week": "3",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABbFhrgMoErKplsZP0Rfd-9_w2fWJrIkQ0nfhC2_03VlTs-oM6yV-rHzlEQ8L_4SKLMNwcvuOCO6AKV4kbcXwo8O7c0qCr6JL71TnJNmyaHN6_If2hYVli9133daHnbVjA5gsvg.jpg?r=3bc",
+            "watchID": "81506172"
+        }
+    ]
+}

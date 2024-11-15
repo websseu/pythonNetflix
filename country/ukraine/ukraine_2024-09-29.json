@@ -1,0 +1,148 @@
+{
+    "kind": "Netflix Country",
+    "date": "2024-09-29",
+    "films": [
+        {
+            "rank": "1",
+            "title": "Uglies",
+            "week": "3",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABfDrHIOY3dNsaNtR7RgZdSV7QIkvYQzQuXaJ8PQ-OnYu2LTu3KzElfvvf3jDrg2hXEdZ-cw6NHpMcqfIgFhueEURYZEaGYorOorfKxKM3LT_TcKmjlY3j8HVC8i2CZ84uusnQw.jpg?r=137",
+            "watchID": "81002266"
+        },
+        {
+            "rank": "2",
+            "title": "Rebel Ridge",
+            "week": "4",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABcw1DhLV3nL1COAqQ26C8ElGMZNHcVLNUeNdS0xviHPzDz8vi6x1ddVW37i1MmoflbIAydBtDonjhWh_KgYAN-3wHgWg42JTNjms2FGLs3lUOTQpy5HiZDUZ8FznbWYAHK9KlQ.jpg?r=93c",
+            "watchID": "81157729"
+        },
+        {
+            "rank": "3",
+            "title": "Divorce",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABXKvEw9FWZHpHla56ro2F33I4OID1CbIvnqtuT5h3WSzBUNRL1D5_y_alJ2r4gzXQRXFYT4QUiqMqKRbh1Aag_rFyqqEYp7yUVYxaEQBQ1Ss010O92EiKEvM1YtwH519AGDGCQ.jpg?r=4e1",
+            "watchID": "81698959"
+        },
+        {
+            "rank": "4",
+            "title": "Wanted",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABXHvMnnEz7xU2C7JKo9KxE1Y1FHB68YS0fHk4hz2c-u3HsicT-e9E3XXAPgI5uEbOnvAVI_Xi48BQaBtfyqebD3N-F8_qcxCjCO3.jpg?r=0de",
+            "watchID": "70075479"
+        },
+        {
+            "rank": "5",
+            "title": "Abominable",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABZsF4ilB1BxQ1gXRn3tjKnPzCacQCPMPdrUle_4nY-MI29S9ULcEQD8-j7iIXAKrXgZzRF7sIg6Vw-zOvyH-YMZSsElUQYLrZcU6.jpg?r=090",
+            "watchID": "81088173"
+        },
+        {
+            "rank": "6",
+            "title": "Dungeons & Dragons: Honor Among Thieves",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABYuTSOA-ebVsVa-aR7QNxFebm2iyAj7DtW0J2TqNXLbMsp20a3pSO0nc0oyWWptO9ISPc5aQI8LdfEzQlsEsnsD9-zMHirXJlX5k.jpg?r=881",
+            "watchID": "81631823"
+        },
+        {
+            "rank": "7",
+            "title": "Sing",
+            "week": "5",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABdS9aMIqNZTzCxEOnF7u4QVmNuc6g8Mxiy8lzA84P8wkh86NMTz2J4IiuusDzeNHYSPI-RBO8sO4ZDr3bI533qr5GNH26nxRLZsO.jpg?r=df4",
+            "watchID": "80117526"
+        },
+        {
+            "rank": "8",
+            "title": "The Union",
+            "week": "7",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABee2f5a9dXQwZttCn_Aldju3-h56YuCGDfdJ4tG9ENRhFJqGX55aJhrMx5xHuPzEO-BW8x1s5ZbAU7HZRS8VvbLvl7eY02hyqrHI9BeAmhJa9cqfL7sw3EulM8vztL9uMKfvdg.jpg?r=bb6",
+            "watchID": "81282732"
+        },
+        {
+            "rank": "9",
+            "title": "Yaremchuk: Matchless World of Beauty",
+            "week": "3",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABSfYzZp3QssWQwUOF7GYqV-Ln54aSf1CocF_a2DjSUXEpgvDrB1QLuCp4cVPgFrYfcm0MLGg-VCmTCDjccAG6_jwABb8iH9rpuHL.jpg?r=2d9",
+            "watchID": "81774107"
+        },
+        {
+            "rank": "10",
+            "title": "Puss in Boots: The Last Wish",
+            "week": "9",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABYkag0S95NSsIea3kjbGpnq-MuFFiTB7I60-3xoAfHddlQiwyL5owhmjAxPEPtj0Q4nyHh-Bcwdz-UFKolqgAwOh15_7XsS63exk.jpg?r=28b",
+            "watchID": "81555726"
+        }
+    ],
+    "tv": [
+        {
+            "rank": "1",
+            "title": "Monsters: The Lyle and Erik Menendez Story",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABaPPkki-sw_AU-mZF2OaLlKp4qDkGgrFH3fli3ddhSucguq7VvG_ql7mXsSBUviqijSgGx2eHGXZxXO6Ykdh5No7Di1XZ0nv0vhSG-315CksNO7oIlj0_vuFVHg-uvv9sfZYKw.jpg?r=e2e",
+            "watchID": "81582441"
+        },
+        {
+            "rank": "2",
+            "title": "Nobody Wants This: Season 1",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABag7bvH26W90NWDoi_1D5NhWXQvZtB_Q8j0EGE_-bn_A4sfObj-tbwty_3kEF6ks7sBsdVW79sBe3VN6_Q5hlRxhoyOTVmpPbuumpU2xHjMEBpaslvjN4R3nzxf36hrpNNiUMg.jpg?r=323",
+            "watchID": "81591297"
+        },
+        {
+            "rank": "3",
+            "title": "The Perfect Couple: Limited Series",
+            "week": "4",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABX_2e6RXDWbcqMqUzdqSCiMhC-Bik8JbxSQTZ1gIdXpN8nj8Xvk5ec3POk1hXGrCsxz_WKeqwVIrwvQH9yf1iCyFWFf8e3IO2rwQzwbrkXHH7lZ-HBeKWrUtv9tV0FLa7cAjtQ.jpg?r=c4c",
+            "watchID": "81474159"
+        },
+        {
+            "rank": "4",
+            "title": "Emily in Paris: Season 4",
+            "week": "7",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABd0X1PrB5uIerkNJlglL1IP9oKAs-UP8qKuIc9fp--Tg4b76t4jhsq4p_RyUTg-FNkyeY51TFHmiHxBInkWyQOSEBkdbBDfNRyhNVg3XacH68C_Z0jVUvsC5g6-ab5SlTf-cSQ.jpg?r=4f9",
+            "watchID": "81580261"
+        },
+        {
+            "rank": "5",
+            "title": "KAOS",
+            "week": "5",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABexkfzPlss4nCNZtossMll1SqYCqlfszgbQ8Su42Y6BgkY0mliqycpnHl-IgVLHd_8Y-qj849OXiaIarPYnSFKaaXFbtWcgKpqE8KLvQj0JjDx1taetOFohSutpOPa4Bxv1K0w.jpg?r=c54",
+            "watchID": "81003735"
+        },
+        {
+            "rank": "6",
+            "title": "Before 30 Bucket List: Season 1",
+            "week": "3",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABSST6R9-RjMoIS9Lsaol8ePyTrJERQU1FhEKRib-bRkXf5u7c1jZBHb6PynA2RVzQM_PXKFfpJfhzJ48FULoXepqCGG3Tdk4TG8Y.jpg?r=050",
+            "watchID": "81915403"
+        },
+        {
+            "rank": "7",
+            "title": "Billionaire Island: Season 1",
+            "week": "3",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABVd1XmDgas7PnRDzOGmXUvqg_Xk--JwDg_hMfb-20ZGifxLmTE7EkcyPZRGGjJY9X7gePycr-uNO3mUQTXC2OTq-5MwEE9fcwboN7yby6g5eYIfXcaG7HW9pJ9Dhgw2yYcmmGQ.jpg?r=bba",
+            "watchID": "81615975"
+        },
+        {
+            "rank": "8",
+            "title": "Emily in Paris: Season 1",
+            "week": "12",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABQA_ih9NU06WyuFK1zlu2DbsCer7y-tQvx8yvf9SXgTuqzV2d8LPxHl2bPE4ZhlCcQPn7Xb55WGgZma29kb0ll7XeDZnAW2o5LknRnPeaaLfhcxi1E9O_gYZp2VoqahhTK06bQ.jpg?r=38a",
+            "watchID": "81275633"
+        },
+        {
+            "rank": "9",
+            "title": "Emily in Paris: Season 3",
+            "week": "12",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABRJtANSnAfmK2FoFxox5jhFw0xCUjj_6gEjNoF01BxZTV7rEcBYvOSGXNZUPnpND90JOI_ZWyU6Gf2TPXKIU8fW35kXsZ6vB6SJDFsXvk7gBpkl-NL2hpGHRSZti8ESNzSHLPg.jpg?r=b4e",
+            "watchID": "81442877"
+        },
+        {
+            "rank": "10",
+            "title": "Emily in Paris: Season 2",
+            "week": "14",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABR5ECe7bfbUIRpxDCMpxC6TRoWKun7Kg5XGT8zRnhH6Do_3eie3zSgKRKgreJw6SkI4LXpmKRZa2YNW-LNKgBoQmv8J86vuU-zD-q8KhrNaPZ-cy0oOWRK9fsCRHEkmBDbr2GQ.jpg?r=77c",
+            "watchID": "81289590"
+        }
+    ]
+}

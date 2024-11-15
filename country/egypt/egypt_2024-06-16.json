@@ -1,0 +1,148 @@
+{
+    "kind": "Netflix Country",
+    "date": "2024-06-16",
+    "films": [
+        {
+            "rank": "1",
+            "title": "Under Paris",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABXtmnTFNW2ufqG_HKemMqnRjcDx9TIc2WcujLbevQ27q69gRVYtpV7p84uTQAbyzFRUsFu_Lxaig3-W3Q3ziHkQ399ejDgW1ujWESjrYcFIKxGd_Wjm2ONLnzLugzN-HN7Y9Eg.jpg?r=6f7",
+            "watchID": "81210788"
+        },
+        {
+            "rank": "2",
+            "title": "Charging Card",
+            "week": "3",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABZomSAfKIXVH3D4o0t3tulGZ1f8gjPU2z_VdHTRxz8wL-vPH6US-27ausm7_S0ddbFYsX9mZVfzPdfDT_LlmBgwwHK4CV_eoqxEU.jpg?r=856",
+            "watchID": "81716259"
+        },
+        {
+            "rank": "3",
+            "title": "My Brother is up on the Tree",
+            "week": "5",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABU90p_PKe1WbPq-6gEzjBtimZrZmwSjxKh22gLKo1wXglFsWOTILOrblBW_dbG09RGkW0PlxOtcA1HXlSIt2_teDY28WyCshzswl.jpg?r=8af",
+            "watchID": "81767058"
+        },
+        {
+            "rank": "4",
+            "title": "Face to Face",
+            "week": "8",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABaSH7j9AtesnbUjB9vFw8GqP9PwJXZTosAsNXnqp5auqyW4YEeqzbw7dupoccLjvwjRZYMSglu3YaP9hfowsNRQxhG0sZbx0Xk8q.jpg?r=854",
+            "watchID": "81716258"
+        },
+        {
+            "rank": "5",
+            "title": "Bade Miyan Chote Miyan",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABV9T__bQreN3ZX-Ts8DFYvk7kggx1VyhVmLBl62jGV2gAtAhpthteSTkBTo-HjP3jd3Z9jX-jNFvLc_W0cnS9JnCocZsS-dCrQCP.jpg?r=6ce",
+            "watchID": "81678595"
+        },
+        {
+            "rank": "6",
+            "title": "Bahebak",
+            "week": "3",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABac2ee92leITEsfeYTd-5lTZEy5QpSRB3KSOW9dg4DkhgU4-E6hDXyRlG57q8-coPcOR9JJyIMX1qIpb2JP_ieyI4x4-X4eDjEbR.jpg?r=a9f",
+            "watchID": "81684638"
+        },
+        {
+            "rank": "7",
+            "title": "The Back Row",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABUG1e-tZzlxqQbz2pOoKKkxMQihhrpfnyO05Z01WSRv7HOnCl5Ohuze1HfJW6Cs0XNCgDBh4418tCYq5K7KLDCGwmicwqct6yUVP.jpg?r=782",
+            "watchID": "81767092"
+        },
+        {
+            "rank": "8",
+            "title": "Top Gun: Maverick",
+            "week": "3",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABW7cQJvUQwMAPRbzR4gB06n3i0C15pK22bExUiwAfxSniKXUHDfedgA-5WnnZ9G-L8ViGEFQPi8LT4Hmhfw7Sl_A-AhypOx4NOAi.jpg?r=210",
+            "watchID": "81198910"
+        },
+        {
+            "rank": "9",
+            "title": "Jack Reacher: Never Go Back",
+            "week": "6",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABbZf9zfUTYto_ElNW8hI1ie7P9vVFdCyJQuOpT3bchSmru5A2YTEIzFNYoiuo97A-E_bm37tdrVbI7f65_Zulx-BzYPLV3M_3bxw.jpg?r=f6c",
+            "watchID": "80106762"
+        },
+        {
+            "rank": "10",
+            "title": "Mean Girls",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABaSs53PhN47NZkUxE-jIXw9bMQgbOJ5N47bLlp8eoN3XpYysSxlbuzzbzyXSU1JulnKX-Qlp6FjYOX9m5QPnAsSHM_2qquWHQay6.jpg?r=374",
+            "watchID": "60034551"
+        }
+    ],
+    "tv": [
+        {
+            "rank": "1",
+            "title": "Bridgerton: Season 3",
+            "week": "5",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABRoZs_OAwr9PbzYFDwxAR6E3LhjIsPcbIXt3tI_jgMWpYQ3jAF47UfD9pcG0JxMJkczozGLtYip7TFPKaRdlUZCq5CugMpc7GyPC7E-90DojSIRwhqL_LeneGhZf6fjlqinb_A.jpg?r=aa2",
+            "watchID": "81487890"
+        },
+        {
+            "rank": "2",
+            "title": "Eric: Limited Series",
+            "week": "3",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABbOdPz3yWuBQwYrFsD-1Cb1udr4NAtRF0mLLrvAD30u7s2bOEaIk0hwk288hp0Uxh8g3J46vNFZPhuPKx4SFxHlTIFEifRRC_BJKD1opjQXW8mKrs-zECvF7JPpmTSyF30QReA.jpg?r=3b6",
+            "watchID": "81284302"
+        },
+        {
+            "rank": "3",
+            "title": "Raising Voices: Season 1",
+            "week": "3",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABXR4O_AXa2220HIFeSxIDGiG-3dR2V2Bzs29_zSk2zI6qJYFUHWxArWUYKJCrcbvTA25Y-1ckXQwXbIKNoGOa7ofEcd4Hz244a0uUVBXYw02BgiBzFByoBM8EDQWdm6Sc-O1qQ.jpg?r=42a",
+            "watchID": "81557683"
+        },
+        {
+            "rank": "4",
+            "title": "Perfect Match: Season 2",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABQb2Gx2ZC_PYF9BegAdwKIFezqQW_iozSp4RC4Sf0sGxl4VoX6GlF-QuRwCveSgo46TuFjXg1QgVZ_omuFuEM3WTxIX-ImTonAK3PGmji2QlhADidyWcgKR8TDy2RMyCcEErlg.jpg?r=47a",
+            "watchID": "81504859"
+        },
+        {
+            "rank": "5",
+            "title": "Geek Girl: Season 1",
+            "week": "3",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABT6SqIGUAkXT5luYidyW_Q-jLWUXxcBNlj369kIKs0uPdIo-k67m6sHhzfs3PPj_A6Wnm7Co02tXPWP-YyZelWWXUVexskw8gxfJ_I79am3bINDQzd_lVL5-R8jO2fRmteLNvw.jpg?r=bb5",
+            "watchID": "81637843"
+        },
+        {
+            "rank": "6",
+            "title": "Sweet Tooth: Season 3",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABR9E1Aya3wexnNYYlFIeiv5w2UlNa8vJX0pkp8YDWRetLfjI4M1RkBA5PHQAkTU9AXB1At6EJnRcsr1Kvf_lXc-1EN_GGBG3hg3HTIC3REmXFl1kiIA0Iq8pVgRL1VI-Mt-AaQ.jpg?r=36e",
+            "watchID": "81502538"
+        },
+        {
+            "rank": "7",
+            "title": "Hierarchy: Limited Series",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABeXW9YOtRGxFtqeRi9jo5FF8HKyK__S3gTQ_cLv-ziYooKWBrgQXbh1RoUXFmGE_oWINFepYDIhUzjnxTWAr9Wj5lnTzuf4lf5P34vh7qXAC9MsPe9xtoAGwDcr-AKwu8_1XPw.jpg?r=ec7",
+            "watchID": "81624365"
+        },
+        {
+            "rank": "8",
+            "title": "Thank You, Next: Season 1",
+            "week": "6",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABQW7Ft_wXxJzdhAdOfxk2aJ2f6c1W9wXMr1MSrA_Uwjp7aWXt0R6Gv1RfZZupEJTy8BP_mYIohpr-EjQ5y-ecu8n77g6OgutMDcpx6Y0UJXI0C0T5RLZwyS6u7E-9hIj3bxKfQ.jpg?r=4e4",
+            "watchID": "81637610"
+        },
+        {
+            "rank": "9",
+            "title": "LEGO Ninjago: Dragons Rising: Season 1",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABYsdjhdBRu_hb5xwMhSHUz56kraVwjRxX9nHFUFtz3mN2oXylmSilDbEO9u3KeULQnRGiCWoeutJSuSvP4z_AqDMj8GSURoKC1NJ.jpg?r=e09",
+            "watchID": "81519766"
+        },
+        {
+            "rank": "10",
+            "title": "The Gentlemen: Season 1",
+            "week": "15",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABbKQUA3nu64Bob80eiSvk8_Yg52P3rb7Hl2i3lUTxZmpPSrxg28Zm5wmmR1TxhRE1WspaEwsGu0BM43wR4rEowmMipsIm71J9fcX-OANVaMmrWrMIOPO-nAa5EPutF_ozYyz6A.jpg?r=32f",
+            "watchID": "81437052"
+        }
+    ]
+}

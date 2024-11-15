@@ -1,0 +1,148 @@
+{
+    "kind": "Netflix Country",
+    "date": "2024-09-15",
+    "films": [
+        {
+            "rank": "1",
+            "title": "Sector 36",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABdbEbThUR0Y_yyI7TDTOFwciR8XmBK4oGppKifDwISrT1s2H6HGA_K4TSXBFbjdMWBAi1j9wiQnxiSUwOp4ER5Adj-guKITrVBFAs9-E_XOQcZxXbZJOoTl05JF7Lrm4KkFinw.jpg?r=878",
+            "watchID": "81777258"
+        },
+        {
+            "rank": "2",
+            "title": "Mr. Bachchan",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABaE660mK-EAs6Nm9hW0eChIq0YL0YqrCxQGM8kefZv3orGv1SQMG5qHxNtIWLgxNHc_7SOgT_bVYISNl_wa1nV9FDSd7pzXheOFQ.jpg?r=184",
+            "watchID": "81918754"
+        },
+        {
+            "rank": "3",
+            "title": "Bad Boys: Ride or Die",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABb-bQH7FCLLvYEfaBtI70IJEoyLWDmYXLVnaw0mqC7tT_xeljKtpQRNQJWOEaIvLRteghAH7kUgR_5Dq6fKsYFb6YdiyJwG7fDj8.jpg?r=730",
+            "watchID": "81762792"
+        },
+        {
+            "rank": "4",
+            "title": "Rebel Ridge",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABcw1DhLV3nL1COAqQ26C8ElGMZNHcVLNUeNdS0xviHPzDz8vi6x1ddVW37i1MmoflbIAydBtDonjhWh_KgYAN-3wHgWg42JTNjms2FGLs3lUOTQpy5HiZDUZ8FznbWYAHK9KlQ.jpg?r=93c",
+            "watchID": "81157729"
+        },
+        {
+            "rank": "5",
+            "title": "Aay",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABb7TyaMaRv_DXL92GBx0VQ5Ba9l8cY2nRflygWOKkzFGvDmjVtriByCBwiICSzyX-sljZkwdqiwILSiDtVGYnyqZ9g4sOIXV0Puq.jpg?r=077",
+            "watchID": "81758615"
+        },
+        {
+            "rank": "6",
+            "title": "Adios Amigo",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABbTFriF3Cx8P0mXPsmevAzdR4PoYYYBnhaJkA9d9A7m6DInDTJCt54wZFxoTJMqWmJDVzNQrMVnUpNSNTuA26WTacFjxRvok21-8.jpg?r=e47",
+            "watchID": "81707601"
+        },
+        {
+            "rank": "7",
+            "title": "Kalki 2898 AD (Hindi)",
+            "week": "4",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABazFT4RtCsddsbc828cFzrwMAfvHRguwyfT-ToDN8xJrIu5LZ-Ao9JuatHOWsVPJMm0NzwqwUTanyzTf_SXhvjEgJo8p1z53YQZx.jpg?r=729",
+            "watchID": "81726031"
+        },
+        {
+            "rank": "8",
+            "title": "Geostorm",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABTzpoRG5VyLfvo6LQg5Z2kHxlLLuaE96rWubggp3IknXC8jeJI2Unz6rPEL2QEMObFn1hIEWbNEhtfQavUB_OQEZlt6ZVmEfv_d4.jpg?r=f79",
+            "watchID": "80185871"
+        },
+        {
+            "rank": "9",
+            "title": "Fast & Furious Presents: Hobbs & Shaw",
+            "week": "7",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABcjD1pJenJvg1EmkmSv_Iu-N8CNpmo4oCxMJxFKw_RH30YU6V9L7Qd73cfB5MYfhDmnFNcMaX_8k-EO8cq8gYJUckA-ZMgMeqwoc.jpg?r=fe7",
+            "watchID": "81073022"
+        },
+        {
+            "rank": "10",
+            "title": "Maharaja",
+            "week": "10",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABewPoiVNUjq0f2fB88V_2G2NsJ23KqA5RTPZGY_JmmU1uCH20Qrxv-x1313ZpFWnJqP4n21vjwxsfNqfJKnGMpeTs2N67btPDOQB.jpg?r=0a0",
+            "watchID": "81690671"
+        }
+    ],
+    "tv": [
+        {
+            "rank": "1",
+            "title": "IC 814: The Kandahar Hijack: Limited Series",
+            "week": "3",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABe_WLSQVsEeRMBvUHfPriafitBhdP2YsGM17LBr2s3Ux3Z6FjjqTherj6kFTqDzN6MQnLxkmYeXgfT3Cnm7sGsqIx3-gBSOfv0uiefmC_E7KwlptSrEYblIIWz42EF3CFUzXFA.jpg?r=533",
+            "watchID": "81265804"
+        },
+        {
+            "rank": "2",
+            "title": "Emily in Paris: Season 4",
+            "week": "5",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABd0X1PrB5uIerkNJlglL1IP9oKAs-UP8qKuIc9fp--Tg4b76t4jhsq4p_RyUTg-FNkyeY51TFHmiHxBInkWyQOSEBkdbBDfNRyhNVg3XacH68C_Z0jVUvsC5g6-ab5SlTf-cSQ.jpg?r=4f9",
+            "watchID": "81580261"
+        },
+        {
+            "rank": "3",
+            "title": "The Perfect Couple: Limited Series",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABX_2e6RXDWbcqMqUzdqSCiMhC-Bik8JbxSQTZ1gIdXpN8nj8Xvk5ec3POk1hXGrCsxz_WKeqwVIrwvQH9yf1iCyFWFf8e3IO2rwQzwbrkXHH7lZ-HBeKWrUtv9tV0FLa7cAjtQ.jpg?r=c4c",
+            "watchID": "81474159"
+        },
+        {
+            "rank": "4",
+            "title": "Tribhuvan Mishra CA Topper: Season 1",
+            "week": "9",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABUPjBRZ2dn765sRY4hOE7LKnd9OcDkr67JH5VXBYyz3h_QvPWdEkM2Q8A1QUzrR1pv35-u9lgyRd3zx4BKYUprOBN7hf0IXTHAqtNFtjGYNVBoG2qsBkIM5HZhuN5X8MGeL-Jw.jpg?r=edf",
+            "watchID": "81285618"
+        },
+        {
+            "rank": "5",
+            "title": "Love Next Door: Limited Series",
+            "week": "5",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABT25jCqSMp3kzsljN3pu_VIfdZMPhibnn0WRdTWMdXExOOc30JKdttdZspcGCLBunoAiI4-Qpl34cDLnLlPMJqhApsUs9wI-_rpPunAg0QKG9Pi1S6OGtK5YC3BROBs1mtZOog.jpg?r=c18",
+            "watchID": "81739045"
+        },
+        {
+            "rank": "6",
+            "title": "Maamla Legal Hai: Season 1",
+            "week": "26",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABVoJ0VQ_UhqqFiTa319j7FxM_BPGBHFe74sg5Ndi5fuhEy6kimvkGV0ZK7rogjm49s5_GaFed78fG7J4U27uXsAhXVggSRSRCs5vWQ8a7qQweHXMea-_bpksTqiEte4e380NAQ.jpg?r=296",
+            "watchID": "81480218"
+        },
+        {
+            "rank": "7",
+            "title": "The Railway Men - The Untold Story Of Bhopal 1984: Limited Series",
+            "week": "29",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABWTCEi28AusTj64-RUqzTfxu1nbh-mZBTU-v-4rjSh-F_KLu9rbEzpw01OvTQ7OkE8YpVQ5tdKoTYh0KoXrq8lROzoCB265xVeLD-KVF2jB73_LDYp8_L4NS_peroWto6oxO7Q.jpg?r=5da",
+            "watchID": "81711004"
+        },
+        {
+            "rank": "8",
+            "title": "Khakee: The Bihar Chapter: Season 1",
+            "week": "23",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABeiHAeS2dWrO3evrMRErzPnGjQk3VlQgrHIbdzyzKbVEo3rkiK-dOn2tdQ5Or6YsTkVUp1Crq5AVl9JN_2imAN6Wiq0RN4SAqByDkNm6nXsMnIvOoi0nfiO8bHVLdyXHTOgP8Q.jpg?r=4a8",
+            "watchID": "81290873"
+        },
+        {
+            "rank": "9",
+            "title": "KAOS",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABexkfzPlss4nCNZtossMll1SqYCqlfszgbQ8Su42Y6BgkY0mliqycpnHl-IgVLHd_8Y-qj849OXiaIarPYnSFKaaXFbtWcgKpqE8KLvQj0JjDx1taetOFohSutpOPa4Bxv1K0w.jpg?r=c54",
+            "watchID": "81003735"
+        },
+        {
+            "rank": "10",
+            "title": "Heeramandi: The Diamond Bazaar: Season 1",
+            "week": "16",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABV_AHv5z87ToJwtfKD3oq1SVPAaEGFd3AHTLLeVBXOhPTsfpsEXDEzHbYybvlMq7h15XX3iw7cA3En93N3AlBIDbrQpZX_GfUjTf77sTZXS6SovIaqHCGYdo_iXwzF0EI2-Hwg.jpg?r=66f",
+            "watchID": "81122199"
+        }
+    ]
+}

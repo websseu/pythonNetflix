@@ -1,0 +1,148 @@
+{
+    "kind": "Netflix Country",
+    "date": "2024-07-07",
+    "films": [
+        {
+            "rank": "1",
+            "title": "Beverly Hills Cop: Axel F",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABWuRWDz1boeGynWqHztDxBmVRjTi_1KotZO0WSQmwJ0XWAQ6IRgfpePxCKI17PYQyuL-5qyZYI9b5iqoc-ewgIu7Pr80nTJUIDsZ5Dyh6oN7MLn8u8NmOAJ6oqN4xy26_Iaaww.jpg?r=4af",
+            "watchID": "81076856"
+        },
+        {
+            "rank": "2",
+            "title": "A Family Affair",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABbmT1y_of3q6P7wJI1pgev8M_20cAVwi0FTXfL3t_HXnrQqVsuuHQ6mhxeX_GC5af6vlk-MXI0_2p2rnPYEhJuty41vsbk4Io95RALW7FeKjKKFtUzY5th7p1s9fN67AO035Qg.jpg?r=20a",
+            "watchID": "81361154"
+        },
+        {
+            "rank": "3",
+            "title": "Under Paris",
+            "week": "5",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABXtmnTFNW2ufqG_HKemMqnRjcDx9TIc2WcujLbevQ27q69gRVYtpV7p84uTQAbyzFRUsFu_Lxaig3-W3Q3ziHkQ399ejDgW1ujWESjrYcFIKxGd_Wjm2ONLnzLugzN-HN7Y9Eg.jpg?r=6f7",
+            "watchID": "81210788"
+        },
+        {
+            "rank": "4",
+            "title": "Minions: The Rise of Gru",
+            "week": "6",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABQKivBmmENIOYC4Me9fW9dkmUOF99gxP0ruUc2N--x-JC5deInTtXUErINlhHMwlMVBiCaNRT5Ny3eedjkLF0A87P1oyDNwdXAjW.jpg?r=d25",
+            "watchID": "81198916"
+        },
+        {
+            "rank": "5",
+            "title": "Trigger Warning",
+            "week": "3",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABfRKN8oNerY_IAOj-1ias2D6EaqlGA7ehI3Gy05HvPfNvsQcFmXHswN5QIashcFbV0fK1V0IzpfEas8FRNeJJe00MDRqWSHv7A_VMLtgZn0cEcComsrDWJJJJXg_CW1t1Ox0hA.jpg?r=747",
+            "watchID": "81064546"
+        },
+        {
+            "rank": "6",
+            "title": "Percy Jackson & the Olympians: The Lightning Thief",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABTlmCum9GcPFdRM4VJKvmKwpQwKRWRawmYOyTxoBgzwyoeN1kTBnffzYYKGULbimJAmYrgXyQY_6Gt9UtOt0xgb8lXLLqFf0HOfk.jpg?r=e4f",
+            "watchID": "70120525"
+        },
+        {
+            "rank": "7",
+            "title": "Lohusa",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABZpeyJrHXeBQ6mgZ4Nia1fGpgKJFijjAhauksxxW2tS0p66TK9tUZ6OnySXSuDG0uZrqGMXjhJYuuwGtTYbiWdav01Aq2lcc5JUQ.jpg?r=06b",
+            "watchID": "81724241"
+        },
+        {
+            "rank": "8",
+            "title": "Bloodshot",
+            "week": "4",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABUCyZy-9iPdTLIaovlOgu44xlOB8_2fsUouLD4ZJQ0ypvrcoFap11y6lL_FkhOpkoaQTFf_IBAouU-e_jBoF-2aM8K32-3US9Ljb.jpg?r=ebe",
+            "watchID": "81171201"
+        },
+        {
+            "rank": "9",
+            "title": "Percy Jackson: Sea of Monsters",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABaTNmveKCr0ECLwFx6_pUSTxbImPxPDU1XDdRKWI1QIbQhntxCmKW3D3oFX1AZa-gmZDp-Sxh61zdagZ4CArx4FgRnqsETx0gEvW.jpg?r=fee",
+            "watchID": "70243343"
+        },
+        {
+            "rank": "10",
+            "title": "Maharaj",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABWqORbvwEmDJqp90DuCM8_cVH4eI-_wYtJOQvUv316hLIgJ2DWpm2WTh5yhe9oEMsBPeyOkRVOdKXOAy7nVQKRu3EhqmOdNxv1-K5QmQJfFvCiwfPsvwNo63M7JDygWJi1_AmA.jpg?r=e41",
+            "watchID": "81730920"
+        }
+    ],
+    "tv": [
+        {
+            "rank": "1",
+            "title": "Supacell: Season 1",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABZNaKobpG4lkc3YQS9bQ_p4TPoEqcwnEQn4L3JfIeg29HXjnKVgpP5vYjP2xtG9RIdJXuK38x05RWi7DkmVHrLiEARE7mGqn7MugHm9EgR4j6TC9o51pCmRZi3ABxHh1HdnXUA.jpg?r=6d4",
+            "watchID": "81316477"
+        },
+        {
+            "rank": "2",
+            "title": "Miss Night and Day: Limited Series",
+            "week": "3",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABYlq4iA3V2sbO9UlCFjxGfcpZz84FaLyvMiaNHS2ES0Jg60G5aeb9rlod4WGR2jLzF5GTJdD0QPOUgHoCsqX5-C_wAO4KQwG4H8vdzUKuGLgy3bOUjXydOq-hfgBlsFaEFv-bg.jpg?r=248",
+            "watchID": "81738995"
+        },
+        {
+            "rank": "3",
+            "title": "From: Season 1",
+            "week": "12",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABYIkf32Oo9uG3WXR6KNVN8p6dhfg736Ih-n3PUF9E5jHFwh07BTltdxyZzCZn2e55KJSFkDKr2QijkAUquDr2W_jCljl3tQWy24R.jpg?r=ee5",
+            "watchID": "81446289"
+        },
+        {
+            "rank": "4",
+            "title": "The Man with 1000 Kids: Limited Series",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABWEpMrT02WUo583TsFKNMGdwbhZwjZTPmeGUGYdCD7q9dtIgYDJ1CiZJRiOUScYpLnHyabWNQZpGA2ZZ-rHxZvv8rxekoPFebvc8026_5rGp38eSvlXfcnM2RnikNSweTOvItA.jpg?r=855",
+            "watchID": "81653510"
+        },
+        {
+            "rank": "5",
+            "title": "Worst Roommate Ever: Season 2",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABTfLEzp9qoAHk4ghINigjL9Kk5Ky6wCeU1iRavkPKvlcvnslVc4xk4IETDhjqa96j5txsLOa7nj7d3IGq0t0mGcTst49E5qudpwYQOpTrIlmjZr0YNRCxH-RjTQTpxnjDuHqSw.jpg?r=c05",
+            "watchID": "81666859"
+        },
+        {
+            "rank": "6",
+            "title": "Bridgerton: Season 3",
+            "week": "8",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABRoZs_OAwr9PbzYFDwxAR6E3LhjIsPcbIXt3tI_jgMWpYQ3jAF47UfD9pcG0JxMJkczozGLtYip7TFPKaRdlUZCq5CugMpc7GyPC7E-90DojSIRwhqL_LeneGhZf6fjlqinb_A.jpg?r=aa2",
+            "watchID": "81487890"
+        },
+        {
+            "rank": "7",
+            "title": "Gangs of Galicia: Season 1",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABas2vAbxJrkRg7iO0i9ppwKM3zbO8IHpeVFksul0HH92R5oWBEQUoN_fz0NbnichCx1gyxQ-Hw6A4Bk5h9UmVN1vHuXMp8fcsh9FmLbHN3OCtBR5Cmqg8aHPLyndrkUOWabvxA.jpg?r=732",
+            "watchID": "81563541"
+        },
+        {
+            "rank": "8",
+            "title": "The Mole: Season 2",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABTGMXM05dc1CMO_bLNAmdm3m_p8d6-gs4DMKKygC8a9qYJT1GGSt05zyA2a40yj1FJpntWFrDqNkuMPYMgWOvPwD1N1qBmHFbywFZbcQUOdl80G09tyLDJKlr0RWfx375M4DUw.jpg?r=151",
+            "watchID": "81393278"
+        },
+        {
+            "rank": "9",
+            "title": "Vikings: Valhalla: Season 1",
+            "week": "10",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABeMg7Aszn20hFr42gIWYPYxeyiVQB8HkWJmbYx26hCvi4ZtbHNdkr9FyhpkbeeZ5X1yxT0P8gljvp9gGzgD4ITjXWY6adZ7bCiL_RgGFNX-j2OiBEmhsXddaX8sgZuh5ZFi-_g.jpg?r=751",
+            "watchID": "81216646"
+        },
+        {
+            "rank": "10",
+            "title": "Vikings: Valhalla: Season 2",
+            "week": "6",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABe0655yIqpaE287NZFtdbSJciVoUtJwhyuzSM63LdPn4CcndvI16kDsRNkx8xOrBjK_ivrbX1_9-dscZWZQc5OeQeusXN0OlftVWQsY8b4Amj8R6uQfuGqeDDwtKuKI3VGS9dA.jpg?r=6f9",
+            "watchID": "81220003"
+        }
+    ]
+}

@@ -1,0 +1,148 @@
+{
+    "kind": "Netflix Country",
+    "date": "2024-08-11",
+    "films": [
+        {
+            "rank": "1",
+            "title": "Magic Mike's Last Dance",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABa4mRzkBaYUoLRCZzrymXca4wXp5dFU6XeFU0EnSBFeoW8G3gnqhrcB22RaXTYwpLTFMEvbSjJ3gBjMqXoszEPnaH9wDi57VM4SO.jpg?r=d76",
+            "watchID": "81643440"
+        },
+        {
+            "rank": "2",
+            "title": "El cuarto pasajero",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABVdJAZwRUjL-MaBGUoZOv4BMaFVjbBfsuiryODod9-n0LWSClag9EHlLZP3i-RjEDm1RPYVxecUilDb_UDlWuW8vsTPAwMj4eB7Y.jpg?r=612",
+            "watchID": "81115977"
+        },
+        {
+            "rank": "3",
+            "title": "Ferdinand",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABYN2wApjHguAaDyMO9bRww6ePwWIHAaDrdpJP506Ed8Rva7dgSaw-PFgAfNiGhPmi5Yy02dNOfqBu8oBxCfYDGfbSX9-uyfqisIA.jpg?r=9d0",
+            "watchID": "80191879"
+        },
+        {
+            "rank": "4",
+            "title": "La familia Benetón",
+            "week": "3",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABTRknM-TtiTLoYk3nAVc1Ov-tuzvGsoVwmZ_mbS6dYe7wcg5kEDuHdoaGPYH0wqhbl5xaFxvhaqI1IYnp-5bJ-WRJpKkRzUVJ1UX.jpg?r=32d",
+            "watchID": "81701113"
+        },
+        {
+            "rank": "5",
+            "title": "Saving Bikini Bottom: The Sandy Cheeks Movie",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABfYJcuxQKm884_dsOgDwulyQJ2Lsl2Buqm8wwp3tT_G6aXcFagzipih1MbAQxx4NFuYgYeQt7AKC7duvFf28P7nZ5gwsbouOIuMBQv7CVtsd0PqiryKiKfgNyERq1VPNhicfJA.jpg?r=83c",
+            "watchID": "81221340"
+        },
+        {
+            "rank": "6",
+            "title": "Kingsman: The Secret Service",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABSxa4JZhPZgCbG-DZrfIT-f7cJj7Bk6pS7uoQ_tTyy-vQo_0M70oY1amejrXgezY0NlqcwDEJVXf0Wzx-80SWmxf4hVVDpDALjbG.jpg?r=ab8",
+            "watchID": "80013870"
+        },
+        {
+            "rank": "7",
+            "title": "Todos lo hacen",
+            "week": "3",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABdz5F_erYRAz17W8Y9GiWPGrUY0Ajvhl03D7HAaBQ5tmrXL1hvY0a73r-J8SXYQe6tEl2vH9lRgKq2-99vxPp18rcQWhmIrNf2ta.jpg?r=52f",
+            "watchID": "81597500"
+        },
+        {
+            "rank": "8",
+            "title": "Where the Crawdads Sing",
+            "week": "4",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABZav_OqzdppsVspT8hbM-lzGCbrBjHqRkg-9igVApsgvjECi9_-ZuInVDbZaMPAEx34CreCXLPS5hZFSD_eslk1S5TmzKb2PPYT6.jpg?r=5b9",
+            "watchID": "81564396"
+        },
+        {
+            "rank": "9",
+            "title": "Borderless Fog",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABbFi48tbOev2oNzOovGKl2CTnlHtpNi3Pl4I_TBrOU8wkpJobBybf8Qa_LhdyxF0LAJnVIMT-Y-NSPq1DOY2BX5e99xV-YPeO1UiMtxlkHmLBXqrj0c9e3wF0Suoyc2PHR5eFg.jpg?r=b18",
+            "watchID": "81644947"
+        },
+        {
+            "rank": "10",
+            "title": "Something New",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABUZCftKtAknL4WK4uwJpD3jy7bWj4NCeQfD9Ai1chtjuud09lqGD0-YLvj0tD9-EVyFR85ADyDpM0kIk6S_gbhbrxKDo_mprQqqc.jpg?r=20a",
+            "watchID": "70044327"
+        }
+    ],
+    "tv": [
+        {
+            "rank": "1",
+            "title": "A Good Girl's Guide to Murder: Season 1",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABSCSd9N-X8UDk2mRaZdpAwkEdj5-pLhuFk1cDRo1Ft7YELVBA9dwfQGSXTn1rEfjp79UCmeVJanTOKLayxZQBCN6FQwK5tvxstVLZEhmLNyAkC2NULLlDfoPB5PYHrBjzU2ACg.jpg?r=0b7",
+            "watchID": "81759465"
+        },
+        {
+            "rank": "2",
+            "title": "Elite: Season 8",
+            "week": "3",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABW6stmiEiPBtTSV5kMzm_8r6g8jaYTJcshbwZS84mMbjogoxtpuqXM9IA3ig6T8OJh1af46Fj_MIan4k4llrRKBhhPgnAFoQ0OC2dpxhvud6eU7EOT7U00KmQS5vv-QLKNsPRg.jpg?r=db8",
+            "watchID": "81675496"
+        },
+        {
+            "rank": "3",
+            "title": "The Umbrella Academy: Season 4",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABZfJvtW-c2PJ4fZaGefH7rMUVTEoxIpON5VoEC00ci9WXfZoQ9yT9AOYDTh_zVf5pUKTWEr0_KAhpGEqrfOAdtY_50s4HRZ2ABx_cCOUNg0M-c4DjKNCR5IavbUIQNaYc6Spaw.jpg?r=401",
+            "watchID": "81458844"
+        },
+        {
+            "rank": "4",
+            "title": "Simone Biles Rising: Season 1",
+            "week": "4",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABQGSTBPGThExROXx02f2VQDNPHN7Qd-Uw8L3r8xIcsVggOcuBexg6LKYJLM4vww134UhYiD2XdwwQNa-yph65NDgsJRcVGPEEqchsssdhNBfT_L8VEkQTJTsnIroylXcQUTfOQ.jpg?r=bfa",
+            "watchID": "81700903"
+        },
+        {
+            "rank": "5",
+            "title": "Gangs of Galicia: Season 1",
+            "week": "8",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABTAMxvHWWX97OGwZg_CGp6gSpbWeRh8EgeP52FzBAV4XsNr5TZNiqlXxOTlYgLNdP6w8X9jY8UewGrnzGJW1W5AxNR54azhChsjothgO2uXOK8ztc7LgTP878w1xQkIMe8Yv0w.jpg?r=393",
+            "watchID": "81563541"
+        },
+        {
+            "rank": "6",
+            "title": "Cobra Kai: Season 6",
+            "week": "4",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABY4o9AwJTq2HZgQGTR-OLrS_9OqDUT_7USq8sf7BvFJkxRBckLcN1wGGxTEfWnzudGfvvNMAs5lr25kFO7ccRvC3oaM9ogjuDwSIwRhN-MogYFON4KVn_2Srntd_2Ji-zmvu6A.jpg?r=6e8",
+            "watchID": "81576914"
+        },
+        {
+            "rank": "7",
+            "title": "Gabby's Dollhouse: Season 10",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABfufnWEqMjneZljL08yX2qgZ7uWZgAMty1io3pC7xOqKD2mgGLx1s13dfRCkRYE4ysU3xUcc8ao7oGTfnnqImlE_QnciU68oN4LubdG5fx5oAP7qfNKfDfhmNkdXuymuPJsR2A.jpg?r=738",
+            "watchID": "81686558"
+        },
+        {
+            "rank": "8",
+            "title": "Unsolved Mysteries: Volume 4",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABQsB_w-v65F8kb-_GGNrCvfftyJ5HwOT5VPZQOz0Gn7ivlA5tMBfBWESxZOfunmQC7W3RjpW_AJdjn95w8BBkLRvnF6uLyoT83fkNWkqWYg8jvkubwN_7C17NpAr5eBI3WAS4Q.jpg?r=64d",
+            "watchID": "81427720"
+        },
+        {
+            "rank": "9",
+            "title": "Love of my life: Season 1",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABfcciWqlXv71xiUJkGI8qdOhqTglQ3FrogJ_75-iBrPjZ1RgTRcktNPEdNz9PNazN0k9c63ATvYhbDu4g5cvHXiH1-xbc8AcKsRWPKNBIrzboLMee5W_z2RC5lrcmbjCcCOkGQ.jpg?r=27f",
+            "watchID": "81511892"
+        },
+        {
+            "rank": "10",
+            "title": "Too Hot to Handle: Season 6",
+            "week": "3",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABRdzXknS_o45IJetjIfkMPwlt9DXfeGOR5ndgGjZ0O8G2_kw2JxdE5i542r_OfaqVOwH3eStq4x7NwZLKcgC6wHMwpr8ynq7AsKlvByDJzciW-L-ocP8ICOXeaQuTByJIrriBA.jpg?r=5f0",
+            "watchID": "81442462"
+        }
+    ]
+}

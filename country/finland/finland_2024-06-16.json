@@ -1,0 +1,148 @@
+{
+    "kind": "Netflix Country",
+    "date": "2024-06-16",
+    "films": [
+        {
+            "rank": "1",
+            "title": "Under Paris",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABWjr-UbyFLdzagOVJjLPWFaemzMGRqgXJrOb9RWa9po-B4KBAsuakhh2JgaeU4RqRaUZijGhgCyg0pR28CbKB1nokzuo-ido9W_Y8E0eOpcBoe1MLn7D06TOeNly9aixwtS_yA.jpg?r=e85",
+            "watchID": "81210788"
+        },
+        {
+            "rank": "2",
+            "title": "Four Brothers",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABYdpi9pQAyKSzHGnskV1lKFAht_z7jzv9oHglcB0FE6zVrbwGqHUQBbXariDOtqwacr76qpTlSg-46AU7licMuMZKciYQjKcG3ci.jpg?r=a3c",
+            "watchID": "70028902"
+        },
+        {
+            "rank": "3",
+            "title": "How to Rob a Bank",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABbs7uJMJ37OdGnfp2rtXYyjzYI7NjpuGaBvMRpWk0qKis_hBNQLLbbL11GDvBBFaYP59iSPCPNFGNCeIRrc49su9VMGQLJPSDfvDrEFHazbqDZ_UegbKat-BWmjWYshQDdgHtQ.jpg?r=b5e",
+            "watchID": "81427740"
+        },
+        {
+            "rank": "4",
+            "title": "Jack Reacher: Never Go Back",
+            "week": "6",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABcSXoptNbNGItA0PPOyLifk6TTdgHb3rOlX6Kdk-3zbJsini29_1zZkSosGVKr3dARfrZDWW9ar8O6N92lLvixNH7kYjtnmcBvlD.jpg?r=580",
+            "watchID": "80106762"
+        },
+        {
+            "rank": "5",
+            "title": "The Missing",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABYqQZ7dRkNZc0ZUyUouVl97j3y325YfoiX6jhHEgKDMYS8S25BJQW1g7gSPWlbrW4h7se8EzI5cExMS8EH0HMV7t8yvSVNXc7ukr.jpg?r=b3b",
+            "watchID": "60031276"
+        },
+        {
+            "rank": "6",
+            "title": "The LEGO Movie 2: The Second Part",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABcZICy24kUmQEL9HgTyeqvoCekP49-_bxxlRhgQlaj4K5NceUWxhxbDowVi0WYdmauh3ovWrXUygXsJDoMBsVEfsIMHzrYBB9sUi.jpg?r=d0e",
+            "watchID": "81016139"
+        },
+        {
+            "rank": "7",
+            "title": "Mysteries of the Terracotta Warriors",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABfmwZRg9TG1p2ZReVPQtcNXYLgH0IxUaQc15ILSkmRHvzabEadaGF8WfhHhoaLUtKyqVoDtpPUCoh_aPBnarlF-5F5ikEHe0KsWg4XooPhMwiLIi_VZQPTzQH_-jl6yV6RUd5Q.jpg?r=f89",
+            "watchID": "81457004"
+        },
+        {
+            "rank": "8",
+            "title": "Ice Age: Collision Course",
+            "week": "4",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABRwYAoTSpIbiCaa6BrjXyFsaLs-2cUUy_VHNLT59SwbqCVJKhRID6RFKkNY2tQ9jRYqSSO10SxhDFxPMR_ou9OvJL9PArJiEwoeX.jpg?r=847",
+            "watchID": "80096067"
+        },
+        {
+            "rank": "9",
+            "title": "Godzilla Minus One",
+            "week": "3",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABWFzl-NZ7mxYJuYRVOctry3pJj0jZckFiaSZoIiwwGfC8LYiIxFnneGq6GYDcCKPe8q4oAw6Fhomr6T5THUOjYxYmeZV8omnIXTL.jpg?r=7ff",
+            "watchID": "81767635"
+        },
+        {
+            "rank": "10",
+            "title": "Mother of the Bride",
+            "week": "6",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABdoWYcYf8YJc48HUFbuJa2gC7BSYSA9lsvQ2WuWOpcyrpoDmDImIFgbSpb5uiK_EfZwja3QVfoFySmQZxcLZlTvQMp1m-uNQm4xDBz82ZYp1XZw-OQ1hkxAitLsZwhmh5cpFFg.jpg?r=f30",
+            "watchID": "81459080"
+        }
+    ],
+    "tv": [
+        {
+            "rank": "1",
+            "title": "Bridgerton: Season 3",
+            "week": "5",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABakdqxBlCkft59ucLUDIq1i7OcRXCJMpXLjiu_OTTg2D_YmekT44v8VSDa0jZr2hOk2Ynz8knM62dfW92jJ1W7lp6IkZcNq_SdX52VmlW7q_bvuOAG824dmub5TlaT4KReTWQQ.jpg?r=f97",
+            "watchID": "81487890"
+        },
+        {
+            "rank": "2",
+            "title": "Eric: Limited Series",
+            "week": "3",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABQBmPbCdnKqe-ZAa2l6fj_r2HirmTm9eyk5H_JkaoXZggkma9ZqfEHG5KtEO2A13phbNcxH3vAMMojhRLzgn0fIVWCEG5A4m6nd6woVaaWEHE-_seL8KdP4F9buxHn8LzlTnWQ.jpg?r=eb7",
+            "watchID": "81284302"
+        },
+        {
+            "rank": "3",
+            "title": "Hitler and the Nazis: Evil on Trial: Season 1",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABQTV50uLhCv9a4oZOsi6hSwHrf9DH7cU9TkFukAD3wWRSrBBOjVE7aVY-GY_rwYBO_k6tpRj-1Qb4exXR7JW11QHPoQC6XJNz0Y3fVBNNmk7BpeuE2ulvNAKoDH8N32lsbe5UQ.jpg?r=a05",
+            "watchID": "81561942"
+        },
+        {
+            "rank": "4",
+            "title": "Perfect Match: Season 2",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABYixh7b70Ovtab1lccEIrsp_Fd5arfwxREIMlfPhP7R9BUNc7Ct6Kuq-_cQIe4_TKWNpDK60_xnR61lvReJikgd0dRiqGGGLcdAxKvMhb4C56I-JaaHs4TogrACxrr_KJc28Iw.jpg?r=c92",
+            "watchID": "81504859"
+        },
+        {
+            "rank": "5",
+            "title": "Geek Girl: Season 1",
+            "week": "3",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABa376kFROd3vTyC5oRvMUd8KGfVfOReHFY7mf77m5K57G32RCr6uoJnfODMifEgSCRUV8cznKqUWYlcQ49DxWphUfI1KtXb3aguIcFFXZDThg9jMzyyNq_Ot7zXj2ZigFpTXHA.jpg?r=895",
+            "watchID": "81637843"
+        },
+        {
+            "rank": "6",
+            "title": "Monster High: Season 1",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABeaBAHQyCheMplHQZdZCrR8Oifvl1bfnvLpgVES85i-qqDj7Osz41T0kxDQxFDWIMyW1V73-kvMx7W_-gWL8RS8q55mTHeBbIql0.jpg?r=efb",
+            "watchID": "81728021"
+        },
+        {
+            "rank": "7",
+            "title": "Sweet Tooth: Season 3",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABRF-0kdBws1-m6j8N-A7HQyiqIu02SR40HK5jq6i7FMWtnUZPju-Th2N1ABK0n8u-Ziil2XocSgcN2Exahw-VTvm4aFMghwRv79YYv2CbtoaRnAfcX4NPb7v-jEOVz2RJRgOzQ.jpg?r=9a1",
+            "watchID": "81502538"
+        },
+        {
+            "rank": "8",
+            "title": "Baby Reindeer: Limited Series",
+            "week": "9",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABdWZ2JKEbpU_HHYsRFJTHIUaYSGnDTgvczLqx8g9qrK1eQXdk_qoOFX73PBazWgexHJ_0fRxUE_i6crbqvIqIIsHak3WpPhEJo5FTn1VppXB7xL8CS3OIxW5fGpRCYLEBuiroA.jpg?r=3ac",
+            "watchID": "81219888"
+        },
+        {
+            "rank": "9",
+            "title": "Dancing for the Devil: The 7M TikTok Cult: Season 1",
+            "week": "3",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABY7rUJwHL-Vj_9rF5oHtsO9VRVPm7fqmFig1orE9OAboy2VJyU-POjamLvDWfqcbyLepCTTNTE2aSytJhsxzCB17hrTwwndevOwzE5C2SESBHFTkcOJQePKmHm06A9ysdQ6-6w.jpg?r=b7a",
+            "watchID": "81638163"
+        },
+        {
+            "rank": "10",
+            "title": "Raising Voices: Season 1",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABREJqW8COIAYNjpdzE2tftfhgjRICMEjam-dtMU_DPoiWPkVfFFphYXKuCP7YxgVzRrAoYvQzEYdURdY8943sBCM6AuVLmfjceckqc8eygBSUfe_DMv0FVNv9gtCKjn2z73ndA.jpg?r=7df",
+            "watchID": "81557683"
+        }
+    ]
+}

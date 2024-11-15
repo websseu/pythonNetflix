@@ -1,0 +1,148 @@
+{
+    "kind": "Netflix Country",
+    "date": "2024-09-01",
+    "films": [
+        {
+            "rank": "1",
+            "title": "The Union",
+            "week": "3",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABbpRakGYWw_I965U1qVg20i2bYAFQzwFZHuSpgjCRJpp0IDVMjZxmk_swCorm8c9FEWbn8-cvnTkjswei38Kv3-MAUESBUs0oX_nZreLFB61GhdHJnUZCIk4eYaDDL3aUOM8IQ.jpg?r=613",
+            "watchID": "81282732"
+        },
+        {
+            "rank": "2",
+            "title": "Gatao",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABYAiQmADUmB29tZdMvvZLzbBk0FH2Ul0xamuMpDxhj7v4_EUaiiFanaO67cjuxaSiWGKCweIc7AvM4f3vrf-5ZSsZ_DmU8JaEIiV.jpg?r=6f7",
+            "watchID": "81032934"
+        },
+        {
+            "rank": "3",
+            "title": "The Intern",
+            "week": "6",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABc9NAPNCORHHsIC31DlKmLswUC8HyXlUz6DtDkQVmmN4gh7XjdiK5VN4G2pHCkTczYMvgfOBSIvqbgghubRj-mnWCe9VLtD9Gh3c.jpg?r=81a",
+            "watchID": "80047616"
+        },
+        {
+            "rank": "4",
+            "title": "Shin Jigen! Crayon Shin-chan the Movie",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABV48EorgT2XJJx8H97c1iN2EIzBG09AHwtoW0uEJmrypTSSaH7zAfHuYDpQ8e6IkNduYr6qOaPA9SvzSMulDm7eNL2SDbtddHRd3.jpg?r=527",
+            "watchID": "81729645"
+        },
+        {
+            "rank": "5",
+            "title": "Shazam! Fury of the Gods",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABbU0HYn5im9-ZQliNQoc9xkPEQfthfs01PAhp0psFcGTa7-LLlpL4h3Cj8dmi1Ny5COKYOKNhLEsPQOnZHI4WcIDqrdPwpj_Nd5Q.jpg?r=cb1",
+            "watchID": "81602831"
+        },
+        {
+            "rank": "6",
+            "title": "Marry My Dead Body",
+            "week": "15",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABfIfufUvrgC5RaSQ7URHymQz7mn6_9vupcb0x4fLIRoafXXxUxWCRnEOQASX6cokXW_rbUVpoImmr5d1Yq5UyPhLgogQBBOpI9PG.jpg?r=852",
+            "watchID": "81689962"
+        },
+        {
+            "rank": "7",
+            "title": "Gatao - The Last Stray",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABTO7ti_hrOBUKpcSRGysfqOHWBys_ANMwH7iQIxpqdMWVWY9U8ZL2C9iY5MB5i8XnKRmUz9EQI0xK4nCkzf3lLA5YsOOMGmCOBgF.jpg?r=b51",
+            "watchID": "81449999"
+        },
+        {
+            "rank": "8",
+            "title": "Viva La Vida",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABWvYZ9geKTY-pfUOfoFwaZZwHjPryLZSyOekCmgLCUI24n0VKBIHdL3vQZF93pUfc_RJy7VANikwt2obTC42rymsDH-uoAJ43-FR.jpg?r=387",
+            "watchID": "81775463"
+        },
+        {
+            "rank": "9",
+            "title": "Breaking and Re-entering",
+            "week": "5",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABRpL8WhiVnecCvIJIv1ZRE1Mll9GkO3EwKbslfU8XkjFJUtWVXUbjcUwMXotrobUaZHE_IWgVNa8WQPqZpdLnJS_ZdZgpu546m1S.jpg?r=981",
+            "watchID": "81766345"
+        },
+        {
+            "rank": "10",
+            "title": "Tòkunbọ̀",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABdWZUFOmOzYRaKL8m8VjN0OwH4pJ0mFx1vmhp_AQC7IPoXA0QYclSQAwZen0USzN5YlENGS5QrVyVHDAG7G4ZZ9u7mAB-Tqa7XenMMGmO7NF4q445QuCw6SIdNXGJrvmaPQThg.jpg?r=3b2",
+            "watchID": "81729081"
+        }
+    ],
+    "tv": [
+        {
+            "rank": "1",
+            "title": "GG Precinct: Season 1",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABfWq1p_srQhSllqacJoV7qs2PpUULBdvAhrxI8DlrjzzxPjH84DIx9tSP7WrwcLerYNftGXav9cBOKa1RbmaGyq8wM_lqoEZiflJFzA860Tn7e2nYpSAVx1M3KiQPbxgt7TqaQ.jpg?r=d9e",
+            "watchID": "81740096"
+        },
+        {
+            "rank": "2",
+            "title": "Love Next Door: Limited Series",
+            "week": "3",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABaoIvIaHQNz-wDzd_jI3Ec7tvCRd--bic5kncXZ5vjPFp-_vNVmKvB_LyacXLpgaS9uE-q36a8LSPsYF68r09JXjZ_3PK9nY9czzxomoOlch0J2qhx3cRgl6zXRwfCzdsa0irQ.jpg?r=08f",
+            "watchID": "81739045"
+        },
+        {
+            "rank": "3",
+            "title": "The Frog: Limited Series",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABViOwq23zlvAnlLilfjVYONagCXclNB0YLo4tzcp5ryjlyhmHzNi75OCosMjAVWMSbWveU7niPDTqFoqCt80TesiqoPCIdQvccV3khDKmS2gjbvbB7UhBAy5CzJLLe0Tc4XYfA.jpg?r=723",
+            "watchID": "81654428"
+        },
+        {
+            "rank": "4",
+            "title": "Hi! Come in: Season 4",
+            "week": "3",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABd14wnX1cNwn8CkDVzXf2OTgbzPtcxMzQYjx7fC5zgj_1ZzP09FX3pMwmq24ckVC4bUENMUEsQOopD0ak7yhM21FPyAqbDHJcS0J.jpg?r=a81",
+            "watchID": "81917026"
+        },
+        {
+            "rank": "5",
+            "title": "Trade War: Season 1",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABePQ7ufX2PXbg_saSlTf_fxJmOGRVONACGfYK_sGDQkc37t_Wd5slH0YlTgnMkZIajSN5OkHPxcdwZjfC3OWzi2lJHMlxX8Dem4q.jpg?r=a58",
+            "watchID": "81781630"
+        },
+        {
+            "rank": "6",
+            "title": "Emily in Paris: Season 4",
+            "week": "3",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABbwqlY5cJnwCXipX_sOv2ieya0x7rNs6ozNMr2GGnmwp2LnidTkGKOoRsCxWDNzzg4mSNX-CMWZxOx5_v99TLB5jIMuiAy4x8PMDKr28_YPetf9Wuw0wHmZhzd_AwfuUwrV__g.jpg?r=d83",
+            "watchID": "81580261"
+        },
+        {
+            "rank": "7",
+            "title": "Romance in the House: Limited Series",
+            "week": "3",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABfLXHYrNlXweAWNMbkndf5unq6qO97iy1pOOrnOB-cK7s63ph7Nalis3X-O9F5Mo7AghSEohUr5VgcVwMXgsxsV7l4VN7My1ElRj3YJi7M3T-4iluqnreWbjga4lHf-zJ7QZfQ.jpg?r=e73",
+            "watchID": "81738997"
+        },
+        {
+            "rank": "8",
+            "title": "Tokyo Swindlers: Season 1",
+            "week": "6",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABa48EHQrL_1IstFk5CtPbr8hsiI8zuIIWA7vbZ10-pOtDovG0GzLiFbI2iUKFsMcv73xn3BKDjuLSojgUrGpwkucNGwvkjsYxujqMFTMqU8gTAeAaspWff1RnrrLapXWSBv9yA.jpg?r=c19",
+            "watchID": "81574119"
+        },
+        {
+            "rank": "9",
+            "title": "【OSHI NO KO】: Season 2",
+            "week": "7",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABalT_2Cuh28KOxoriRR0Z-N6nkwXfwDpWcbDJAZcm-WAhXm-OjTPY-7is9nYwkxSD654BGoCydF5DfWZgTj4cyCSZ3crkMLsS6Mq.jpg?r=624",
+            "watchID": "81789055"
+        },
+        {
+            "rank": "10",
+            "title": "Will Love in Spring: Season 1",
+            "week": "3",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABRVfF81kNkZsM93JewD-nOtrINIPN8QErjhjK-Zsd22CqP1gFa3Fe-6FqjrNmQhLLyfYEomVyxcprtjrLFhA1oZuS7Tj4jb8HshA.jpg?r=00f",
+            "watchID": "81912532"
+        }
+    ]
+}

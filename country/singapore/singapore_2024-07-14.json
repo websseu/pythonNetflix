@@ -1,0 +1,148 @@
+{
+    "kind": "Netflix Country",
+    "date": "2024-07-14",
+    "films": [
+        {
+            "rank": "1",
+            "title": "Beverly Hills Cop: Axel F",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABVHRX5QNG8si5IVEruzPSHdKkYUAoDNfW248MH5d3p8PHRpzVtug_8SmmLbNvoFgcT59A0Oh8HqrguDiBwoHvI3xXOWrZO1L4rH0kHNyPh9HrIMb50GiFc-SzQvFB_IbOWThRg.jpg?r=492",
+            "watchID": "81076856"
+        },
+        {
+            "rank": "2",
+            "title": "Maharaja",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABewPoiVNUjq0f2fB88V_2G2NsJ23KqA5RTPZGY_JmmU1uCH20Qrxv-x1313ZpFWnJqP4n21vjwxsfNqfJKnGMpeTs2N67btPDOQB.jpg?r=0a0",
+            "watchID": "81690671"
+        },
+        {
+            "rank": "3",
+            "title": "Journey 2: The Mysterious Island",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABTJOgEWmqKD4BBTGWJg8qnEabs69kBh5HOxZMobIBUrGbq5N6Ta-9gW2hYqKHPvehgk1ybiPb-p1L4qrVlJ-bcAhjIO2kVcCKjNL.jpg?r=011",
+            "watchID": "70178621"
+        },
+        {
+            "rank": "4",
+            "title": "Kuyang",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABT5Fil2VWjGLg9jjwUdhv8pNBjCjyM-X4fKjek8TcU6xAU1fGmCMbEuYFCXvlvcWlxQW2QYVGC3LE3iMJl_nLcF2PPKs5Ca0Fc7p.jpg?r=857",
+            "watchID": "81755768"
+        },
+        {
+            "rank": "5",
+            "title": "S.W.A.T.: Firefight",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABawpmFEtydoktZzWOxaRP7TPM2n2JnNLt_Aewd6Hyl99GtOXcg5nTMlt1kkuPXEYzX1lG70uZqaOZ1wNImJQwQQ0Hm1mnG9qttJN.jpg?r=080",
+            "watchID": "70162962"
+        },
+        {
+            "rank": "6",
+            "title": "Srikanth",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABZmXyIvy-7-22AyLTjlZ3gK3s6Fejq1v8S-_zqN7321IHaaNaI5RzRXezBck1pMZz4KmPMsCU2x_y3A12S5XL-KhoR3ztCwAsZB9.jpg?r=f0a",
+            "watchID": "81631011"
+        },
+        {
+            "rank": "7",
+            "title": "Rampage",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABZGCoBhKdANubIGAq4OYoKv1T6pVY1g9KLJ3VnY2e3IhseCPTImK49cvlQ2FaN_IYulvC7l6KOAdmZLsLuV07uxjGc_wxVG7YZgx.jpg?r=785",
+            "watchID": "80216309"
+        },
+        {
+            "rank": "8",
+            "title": "Minions: The Rise of Gru",
+            "week": "6",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABc8R4qeLuNP-f_pSaqmHOe72wXBuO_x1oTVg4cx4SCEsan4oSWV7h4hFDrZ7KGMTlGszXMhaMEPjM28DLiuPkEy3fPw4tDBBlDwD.jpg?r=8da",
+            "watchID": "81198916"
+        },
+        {
+            "rank": "9",
+            "title": "A Family Affair",
+            "week": "3",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABUvm_3NSc5ybH-LVLeWNnB4gABM8Kj1d_eaUXq9kS_7jZl6qVPTQkJp2eacoKDy2-Qvz46XIhzvAAtN5ehEo6MMo_fPhBNy1CLlbe6R2wBNy5kvsaVsPgYt9mp1Qk24WMjXfrQ.jpg?r=11a",
+            "watchID": "81361154"
+        },
+        {
+            "rank": "10",
+            "title": "The Train of Death",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABRRpYdfdSMdT1UZfFUWH32OsAOCAckC45bLe7H76CSuaqrRuKtom5TmEuFFbnR1GwutP4M25HrDpHxHR8k_FV_2qp36dd9V2p9FF.jpg?r=bbb",
+            "watchID": "81764949"
+        }
+    ],
+    "tv": [
+        {
+            "rank": "1",
+            "title": "The Double: Season 1",
+            "week": "3",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABcW8CrkfxslSCZm2NaLkR-qkPMJkGAM8UauJqMNUbQJuvjpiR0mq9GYNwMZloMZbUhS1eFPZGGq50PkltCRM9HV4Az4cY5-YXyfs.jpg?r=3f4",
+            "watchID": "81900132"
+        },
+        {
+            "rank": "2",
+            "title": "Miss Night and Day: Limited Series",
+            "week": "4",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABYGEbJ7DpXDt4uZPrmLKhFas-rmWrX-iuLp-uBI7aGJxCvgN-kFKn0A46yM-z6E29DA3pS7WZ8ZEX5Wp3iIa7Rjn2742UTGtTo_h3JWNF524pVN-6rJ26mRy6lhY6OLj-p53Qg.jpg?r=802",
+            "watchID": "81738995"
+        },
+        {
+            "rank": "3",
+            "title": "The Man with 1000 Kids: Limited Series",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABQrqVDx4k16zPEtdXGGR8qhxNYSTE_iUKG4qb1S1iQ2b7JnD5bgntkUW5Gom7OXbjxOjySK0crrbkvxMJrY5guCR1YKUPhKC5MxmmO7NkHH5oikOjQPwHSiTZrnlQHPtn86Dug.jpg?r=46d",
+            "watchID": "81653510"
+        },
+        {
+            "rank": "4",
+            "title": "Magic and Muscles: Mashle: Magic And Muscles The Divine Visionary Candidate Exam Arc",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABZaLmogidgjF8mOlraVaKxPG7qTl5JJ9_cJR1m40bbPL5PIp0iPIgYAozKEFl144IAvjgoOyl9pfhSZn1gDbUu8E8BO-QFnpE17n.jpg?r=56f",
+            "watchID": "81750729"
+        },
+        {
+            "rank": "5",
+            "title": "Demon Slayer: Kimetsu no Yaiba: Hashira Training Arc",
+            "week": "9",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABasaKygXkCkLxqGTkG_TogKIzPrgrqsm_-HVKkLihjwhE2cpAYmsG_DHoHV-GXOhDg5DXuNK-pI0AjrlL3i8wk2A3z9QBUg51uBB.jpg?r=535",
+            "watchID": "81743731"
+        },
+        {
+            "rank": "6",
+            "title": "The Boyfriend: Season 1",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABW5xqwd8PlU2M1gA5omgfeDh5BRS5ASwHZUzZ29gxJ1_wuXIqdfsuUtmfMzX-CXuWAXH46czDyOztYQqdwOBPC8OL22J9ntwPS4wnc17qA5NL14uKSNikplLfojBrZLbCE5B4g.jpg?r=f8f",
+            "watchID": "81685213"
+        },
+        {
+            "rank": "7",
+            "title": "Supacell: Season 1",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABb97Hy-FO4uZicM-R4T8A2Ux01hljhlEQS7caAVJrvay_Gyg6ZMpY_qv7rv2vakmW_zOvupEUS2TStLOMrZcjWmjbuTML0fyxgJtR_E1PRgJgbM3FAJdZ8ujorhj33KPt0eD9Q.jpg?r=042",
+            "watchID": "81316477"
+        },
+        {
+            "rank": "8",
+            "title": "Alya Sometimes Hides Her Feelings in Russian: Season 1",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABdqL1Ezh4YBqFoFLvBOLFfjncaGXs0mNGGooqoCtC_ipGodKN-8kufpu8dz8QIOWBNK2WB9lgO-8Gc84Ufq9T2TvufFcDEPBEswj.jpg?r=872",
+            "watchID": "81904871"
+        },
+        {
+            "rank": "9",
+            "title": "【OSHI NO KO】: Season 2",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABalT_2Cuh28KOxoriRR0Z-N6nkwXfwDpWcbDJAZcm-WAhXm-OjTPY-7is9nYwkxSD654BGoCydF5DfWZgTj4cyCSZ3crkMLsS6Mq.jpg?r=624",
+            "watchID": "81789055"
+        },
+        {
+            "rank": "10",
+            "title": "Vikings: Valhalla: Season 3",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABSBH20j_k7RmldqLsrM8Tauc4ORhrHF9d0YM4uMs-DVHLjnx0oPnyWKi-lYI_27Ae8hejKUqlJyt4G0XVdKL821suegiYh47yAzmrqQiPRaZtPIvVx9yduLt6YfCycw4IfDymw.jpg?r=972",
+            "watchID": "81220004"
+        }
+    ]
+}

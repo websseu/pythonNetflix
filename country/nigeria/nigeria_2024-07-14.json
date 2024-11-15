@@ -1,0 +1,148 @@
+{
+    "kind": "Netflix Country",
+    "date": "2024-07-14",
+    "films": [
+        {
+            "rank": "1",
+            "title": "Anyone But You",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABY_SjsPpzuudkcTXST6Yl3uEpPPAsx78ZPts6UFRehnIUIrkZwXlj44X2hHUkje8oRBmBrxPTa4TCr3oaARsZ98wkTCjRKaGDLhK.jpg?r=b9f",
+            "watchID": "81760229"
+        },
+        {
+            "rank": "2",
+            "title": "Beverly Hills Cop: Axel F",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABVHRX5QNG8si5IVEruzPSHdKkYUAoDNfW248MH5d3p8PHRpzVtug_8SmmLbNvoFgcT59A0Oh8HqrguDiBwoHvI3xXOWrZO1L4rH0kHNyPh9HrIMb50GiFc-SzQvFB_IbOWThRg.jpg?r=492",
+            "watchID": "81076856"
+        },
+        {
+            "rank": "3",
+            "title": "Mvera",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABaaAAmdDZvsM3YfopnUV9KdJoGDbQfElyUIR4fHkXUFKsGa_Zln_QHQhGNS0QFHVIip8kPwusIruj7ZqjBSXflE9oOKw57tjmmaS.jpg?r=71f",
+            "watchID": "81781994"
+        },
+        {
+            "rank": "4",
+            "title": "Percy Jackson & the Olympians: The Lightning Thief",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABTlmCum9GcPFdRM4VJKvmKwpQwKRWRawmYOyTxoBgzwyoeN1kTBnffzYYKGULbimJAmYrgXyQY_6Gt9UtOt0xgb8lXLLqFf0HOfk.jpg?r=e4f",
+            "watchID": "70120525"
+        },
+        {
+            "rank": "5",
+            "title": "Percy Jackson: Sea of Monsters",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABaTNmveKCr0ECLwFx6_pUSTxbImPxPDU1XDdRKWI1QIbQhntxCmKW3D3oFX1AZa-gmZDp-Sxh61zdagZ4CArx4FgRnqsETx0gEvW.jpg?r=fee",
+            "watchID": "70243343"
+        },
+        {
+            "rank": "6",
+            "title": "Maharaja",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABewPoiVNUjq0f2fB88V_2G2NsJ23KqA5RTPZGY_JmmU1uCH20Qrxv-x1313ZpFWnJqP4n21vjwxsfNqfJKnGMpeTs2N67btPDOQB.jpg?r=0a0",
+            "watchID": "81690671"
+        },
+        {
+            "rank": "7",
+            "title": "A Family Affair",
+            "week": "3",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABUvm_3NSc5ybH-LVLeWNnB4gABM8Kj1d_eaUXq9kS_7jZl6qVPTQkJp2eacoKDy2-Qvz46XIhzvAAtN5ehEo6MMo_fPhBNy1CLlbe6R2wBNy5kvsaVsPgYt9mp1Qk24WMjXfrQ.jpg?r=11a",
+            "watchID": "81361154"
+        },
+        {
+            "rank": "8",
+            "title": "Vanished into the Night",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABZ7O_iFI0VBAvAty5x9JyWfQd9qhMlRb8pWuANOtqRoShag4joTGQ9xv7v_xdQMugGYoiQBmw8VAkUAB3ttYEDmWdITm-CEXeZ5QiCNCIyZ52tA0UoCsIcL2JnsfM2Fyf1IIfA.jpg?r=c77",
+            "watchID": "81163835"
+        },
+        {
+            "rank": "9",
+            "title": "Shina",
+            "week": "5",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABUkPwuoqRdyVvTqdbbcZ8DytXryj76fUlssD8ss7QVIQO1GjDKumg5yDjQsii0An1S87uS24E7yw1yuDbQdCMbWHk3wXOSpG-B4l.jpg?r=82d",
+            "watchID": "81709709"
+        },
+        {
+            "rank": "10",
+            "title": "Srikanth",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABZmXyIvy-7-22AyLTjlZ3gK3s6Fejq1v8S-_zqN7321IHaaNaI5RzRXezBck1pMZz4KmPMsCU2x_y3A12S5XL-KhoR3ztCwAsZB9.jpg?r=f0a",
+            "watchID": "81631011"
+        }
+    ],
+    "tv": [
+        {
+            "rank": "1",
+            "title": "Supacell: Season 1",
+            "week": "3",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABb97Hy-FO4uZicM-R4T8A2Ux01hljhlEQS7caAVJrvay_Gyg6ZMpY_qv7rv2vakmW_zOvupEUS2TStLOMrZcjWmjbuTML0fyxgJtR_E1PRgJgbM3FAJdZ8ujorhj33KPt0eD9Q.jpg?r=042",
+            "watchID": "81316477"
+        },
+        {
+            "rank": "2",
+            "title": "Òlòtūré: The Journey: Season 1",
+            "week": "3",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABc41dUsskroj0N2rokITkPhE2SFxrf3xtqiRO_DkPNJw9LnPnKzckaRypoxit-KgrToUgGkR0kul_VbHT3xz0sEmZTmrQDwR0cN4Q0Hzz9OrawwjKWTVzSgbntE-RgrR3ubJ-g.jpg?r=ccf",
+            "watchID": "81612859"
+        },
+        {
+            "rank": "3",
+            "title": "Vikings: Valhalla: Season 3",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABSBH20j_k7RmldqLsrM8Tauc4ORhrHF9d0YM4uMs-DVHLjnx0oPnyWKi-lYI_27Ae8hejKUqlJyt4G0XVdKL821suegiYh47yAzmrqQiPRaZtPIvVx9yduLt6YfCycw4IfDymw.jpg?r=972",
+            "watchID": "81220004"
+        },
+        {
+            "rank": "4",
+            "title": "Savage Beauty: Season 2",
+            "week": "3",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABS6wDdJZ_or76JIJ3AokwSmgIeVLgzVOOqOfaAMC0k1SjD2n1dGOowWHgqXIZODuQxO5MnoI20XtNuBBBAlW8qkTlmxJwsR3Yn3h8a2ycA4ap5VN5GtgjV1ORP8y_U7b5BPBvg.jpg?r=f0a",
+            "watchID": "81318115"
+        },
+        {
+            "rank": "5",
+            "title": "Desperate Lies: Season 1",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABQIJP21OQ0ZTXWw_vxrXO3b5uK0McxAEUiBAAI0hVeywTonMMFPHGqi1Ub-uiuh2Wx9Z5-_UApFaG1MWLqFvdLN2bK0JuaSTuGWArtHOqtKFhN7WJNTYyoq_t4oia05NtQ_CiQ.jpg?r=ba0",
+            "watchID": "81578307"
+        },
+        {
+            "rank": "6",
+            "title": "Savage Beauty: Season 1",
+            "week": "6",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABTOr6_Y6RCiPmJq-_ddRbLZE2qkEHezDzFBcjKlj920ntazdoB1IH0NfEX0xGiPbxEB13En6VINtc-v8nVYvrMAX4FpM-GNqkUusrpYyrtF8pCtxjNIxUOddjng77sXuUcnkfg.jpg?r=a6e",
+            "watchID": "81282562"
+        },
+        {
+            "rank": "7",
+            "title": "Vikings: Valhalla: Season 1",
+            "week": "9",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABeMg7Aszn20hFr42gIWYPYxeyiVQB8HkWJmbYx26hCvi4ZtbHNdkr9FyhpkbeeZ5X1yxT0P8gljvp9gGzgD4ITjXWY6adZ7bCiL_RgGFNX-j2OiBEmhsXddaX8sgZuh5ZFi-_g.jpg?r=751",
+            "watchID": "81216646"
+        },
+        {
+            "rank": "8",
+            "title": "Postcards: Season 1",
+            "week": "11",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABcxUWq9xFt25roN2SsX-uJ4Uy7BdSDFo8Cqe0i1ukfeezJenBDVPuByHXclLEk7oAqm0m-ihWDlXybemTQ0syun-M9JmElhkuH4kvYuWKbIGLw2jDvxFPR5Kx6b6vF5bAabSmg.jpg?r=a3f",
+            "watchID": "81735126"
+        },
+        {
+            "rank": "9",
+            "title": "Furies: Season 1",
+            "week": "7",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABSNIGiC3H9RqehJhSxT0h2FJU3sZEuGPzyxGz9aEsUipf696I-zcKKda9SEIbv9lLxZzvNcGMMx7_mnHc_t0AA4ybAFX5_W_LPabT3j11mdKOzbGPpdO0CDl64OUBNlNf1uDbQ.jpg?r=19a",
+            "watchID": "81461531"
+        },
+        {
+            "rank": "10",
+            "title": "The Whirlwind: Limited Series",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABd8m7YcuHOteDQ-ZzYJ7h3a_OU33YdLsLGxAhugfoGWrIIoBwb_dNA6ZWe-bu8-8VckLmE7EAstG_gwMw8M7HJRuKRObIqng9ilnYD2KJvhHwxnoUBo4YQ_AxWWCCPpS7aITBQ.jpg?r=efc",
+            "watchID": "81661903"
+        }
+    ]
+}

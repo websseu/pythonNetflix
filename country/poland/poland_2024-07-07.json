@@ -1,0 +1,148 @@
+{
+    "kind": "Netflix Country",
+    "date": "2024-07-07",
+    "films": [
+        {
+            "rank": "1",
+            "title": "Beverly Hills Cop: Axel F",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABcPiVaDwJt7Gmq5YVlUGIhF5geWd5nDEebccsig_vrG3-_LB5Zek9HQVEy4atmZESARbhXH7TkTXZfqCh13dNqQsOAZ1fe5uApF4Sq6kM5RdEI6bgQVZkEregdr1WcpTOAaD0Q.jpg?r=bce",
+            "watchID": "81076856"
+        },
+        {
+            "rank": "2",
+            "title": "A Family Affair",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABXlIWO-goP-mFigKSEFD1xG7LENTbLBP1yHtxT8NI2lxhJ1FFiaj8ejKk_OXkYcZxqvqUX6yXFo9VFt3BieFshgxBjUAOvdbJlOvYxPNQHpfFxjh2lDiVNSRUNRql4UT_2XCxQ.jpg?r=930",
+            "watchID": "81361154"
+        },
+        {
+            "rank": "3",
+            "title": "Redeeming Love",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABbohFAceoLhE-6ozQlj4eytc25BZcp9Zg4RYg_ALI6ADSnnAkSrAmeivXPdc7f1J_uOsBNWL88m-t0IsM4e3ug4p1nOmcB5z2bH5.jpg?r=ba3",
+            "watchID": "81522433"
+        },
+        {
+            "rank": "4",
+            "title": "Ambulance",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABblxhlrm_uczfnEZYs0ucYeSHA0f4wG3lZaptbvaTu_VyMuPEjYZsa4TOef_Pk7nDoE_HrEKs3PS_6UF5CG7hKRMD9zCEdDWq8T9.jpg?r=339",
+            "watchID": "81495232"
+        },
+        {
+            "rank": "5",
+            "title": "The In-Laws 2",
+            "week": "4",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABXfPWHckXmWFsOFliZikiBB-27qnlzz3jHdRmkNDl11IcwdXVSUWMsXdlJkG80YwXqv2-Q2KM_VTrQhwxMcczR3McXEPq6w78SCB.jpg?r=050",
+            "watchID": "81686998"
+        },
+        {
+            "rank": "6",
+            "title": "Inheritance",
+            "week": "3",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABUlyQetFh00rq_-4pE1pM7WJiZKPft--A5SEj3yXGsXorjKXdpQQQZQawWxpQaRHEq-8oHFD1lXcTVNEM5hFY4a8VNs-KWrs-onp0mQgArCo1lNDl4cc10vxdSgH2oPLO-m8iA.jpg?r=efd",
+            "watchID": "81500431"
+        },
+        {
+            "rank": "7",
+            "title": "Miraculous World: Shanghai, The Legend of LadyDragon",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABT6SNoUhc04dmzfe6ThIJ_d5sL1jShixQshjI2tyULqetHIn0pV4PigmWGi12mbIYhe2M79uf3QczHafrvPSW2FQtc6QRHBBn4KE.jpg?r=d1c",
+            "watchID": "81754916"
+        },
+        {
+            "rank": "8",
+            "title": "Love Like Honey",
+            "week": "4",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABVLE_nMu_UoMu8zQNdOBdxlAiCQlQT4d0ar4IPW13XW29QvbBypWNjK-eSLt2IX5i8xGSDJXfpYyLgiJ2SK8R72ZWUJrygTdjJAX.jpg?r=843",
+            "watchID": "81751661"
+        },
+        {
+            "rank": "9",
+            "title": "Trigger Warning",
+            "week": "3",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABU33GJWpnjcDI2856oQJPKFmTlLEib_LrZZwfLNTG12PGpP-OlF8R0FyHaTFRQXoswBqm_hPD0ss_vtRykMmrot9VP5oEfVRfaoA1NgcsZyHJmdgujZvn8L-0-NxA1QJ2C4Glg.jpg?r=705",
+            "watchID": "81064546"
+        },
+        {
+            "rank": "10",
+            "title": "Colors of Evil: Red",
+            "week": "6",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABcH14w8ZjwEifDEz6siOtIv5zQYQ7g7oZSm30TR5Ubiz0j53pLXAMHGKD00er7rdmnlY9pemTzwn6ybODryHIuyAskeWq3ZfM9hByMlIT8xbIzMWXmWO6cmaau8a6eefW6Ua8w.jpg?r=266",
+            "watchID": "81619384"
+        }
+    ],
+    "tv": [
+        {
+            "rank": "1",
+            "title": "Supacell: Season 1",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABb97Hy-FO4uZicM-R4T8A2Ux01hljhlEQS7caAVJrvay_Gyg6ZMpY_qv7rv2vakmW_zOvupEUS2TStLOMrZcjWmjbuTML0fyxgJtR_E1PRgJgbM3FAJdZ8ujorhj33KPt0eD9Q.jpg?r=042",
+            "watchID": "81316477"
+        },
+        {
+            "rank": "2",
+            "title": "A Body that Works: Season 1",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABSRhcwsMBsYGEWiSQdUPnEHL_5HBAU9fH0sGNhiIaBm61gS2mfnqn8jCLlEGiDYoTvSInUU7-h7lFX1J1yPoQeTd-Ibp5B8-xga8.jpg?r=5d8",
+            "watchID": "81729800"
+        },
+        {
+            "rank": "3",
+            "title": "The Man with 1000 Kids: Limited Series",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABdoHoI8zAmn64vqUO2M-9AVFohSU6FFay1-9_2iJ1CNVSpo9QoajxEqtu6s_of71dYQeBd362l6TGnWXdIaNBKqQU_Q2-WyVElK9rdftVFdgE1_SnsZMqeZJ9u8hpR1Re_GfEg.jpg?r=0ec",
+            "watchID": "81653510"
+        },
+        {
+            "rank": "4",
+            "title": "Kitty Kotty: Season 1",
+            "week": "31",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABVFPPWeURXcpgmIfRa8iA_BRORyz_vGhgqeVyEasAJnX1f65Gg7yRVRr2I0NLmpN9F5sdBFq_2eCVIi0Mnu8kohgOi9CKsJC9kSN.jpg?r=e06",
+            "watchID": "81685957"
+        },
+        {
+            "rank": "5",
+            "title": "Gangs of Galicia: Season 1",
+            "week": "3",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABTzHc-fZz8L_E2bLOeHZvCZpTLCKIohu9oWmlLXpNKuIs1afbB-sPg8JOAqLIMd3Tjgb33LAovZe_JtjRXvEjL_ABuiiSSvw2Z0GZq1VLZD_ap-V2PLvikunT9jqvag7R9NA_g.jpg?r=e5d",
+            "watchID": "81563541"
+        },
+        {
+            "rank": "6",
+            "title": "Bridgerton: Season 3",
+            "week": "8",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABdVrxvGLXcATO2bfeVlWAzUcAQ5a4fCB851_EQLOrhvrDii2ycHNo6QIsPxwfHwkTW0dbtjM8LuNkt6Kk7sHr34_GO-WW95KRb72UbjWb7riuaZgeq2QxMttCOCkNwWozfYujw.jpg?r=4ea",
+            "watchID": "81487890"
+        },
+        {
+            "rank": "7",
+            "title": "Òlòtūré: The Journey: Season 1",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABZz17KPIziuLwSyn_umTqEqGx4acVMqCsXiHsK2SXzAAeiSg4zmisR8y9UAVoUGnrokUQw8ECZ_9uppOxYh8_DjBdfXijlsVwb2RJUi7e1FjDJIctw0lGEUI248orbtdurooAw.jpg?r=009",
+            "watchID": "81612859"
+        },
+        {
+            "rank": "8",
+            "title": "Desperate Lies: Season 1",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABeTiOeTxbaOWIrerXrr7o0HbiQmY05n05kH8jFqydrKwiLly3f1f3zwPzsbdcVkgSuOyuFV4qnjpfxIE_jPAzPyk3HEYFv09L1r0a1XrsFYkny-pXvuMufZPygp-tEieK4U-Tw.jpg?r=659",
+            "watchID": "81578307"
+        },
+        {
+            "rank": "9",
+            "title": "Worst Roommate Ever: Season 2",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABe0TUgK0DjDJ_zPxYfOkJhmDM4Xsd_vqYbZUYVnmV3QehqSStRf5D0ifQ89sRx0aKJxbxmVUlOVEsCOV1BwVEVydvL7oMwvxfti4CYridBTSprX0L49WcIoPTkaq9D5VrbE8Qw.jpg?r=8e8",
+            "watchID": "81666859"
+        },
+        {
+            "rank": "10",
+            "title": "Bad Exorcist: Season 5",
+            "week": "4",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABT-46-sGtMm9A5zYl7Pr7S5_VrDw_JEf53e1Vel-k8If1cq6_9dbL4N5s9lIurBHHnHPG4LHUm-MOVmTju9b2Pu8NuKtvDYTbnG15t3i454AOftcV6bmcSrZLyahan5Me2eBXg.jpg?r=0b7",
+            "watchID": "81675436"
+        }
+    ]
+}

@@ -1,0 +1,148 @@
+{
+    "kind": "Netflix Country",
+    "date": "2024-06-09",
+    "films": [
+        {
+            "rank": "1",
+            "title": "Under Paris",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABXtmnTFNW2ufqG_HKemMqnRjcDx9TIc2WcujLbevQ27q69gRVYtpV7p84uTQAbyzFRUsFu_Lxaig3-W3Q3ziHkQ399ejDgW1ujWESjrYcFIKxGd_Wjm2ONLnzLugzN-HN7Y9Eg.jpg?r=6f7",
+            "watchID": "81210788"
+        },
+        {
+            "rank": "2",
+            "title": "Charging Card",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABZomSAfKIXVH3D4o0t3tulGZ1f8gjPU2z_VdHTRxz8wL-vPH6US-27ausm7_S0ddbFYsX9mZVfzPdfDT_LlmBgwwHK4CV_eoqxEU.jpg?r=856",
+            "watchID": "81716259"
+        },
+        {
+            "rank": "3",
+            "title": "Godzilla Minus One",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABWFzl-NZ7mxYJuYRVOctry3pJj0jZckFiaSZoIiwwGfC8LYiIxFnneGq6GYDcCKPe8q4oAw6Fhomr6T5THUOjYxYmeZV8omnIXTL.jpg?r=7ff",
+            "watchID": "81767635"
+        },
+        {
+            "rank": "4",
+            "title": "Real Steel",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABe8RQ7HoThMhIUyh4FjbDlN8mUa-Ya6j0rtDRxKSvU39yHxWFUGa-NB_Ke7GXAezsdXnIep4Kq113kK3HDUk_LYD72qqDrXmojMg.jpg?r=058",
+            "watchID": "70172929"
+        },
+        {
+            "rank": "5",
+            "title": "Crew",
+            "week": "3",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABRno3ckZcBbzRwBpzpdo-CANAncG6VCsDJYla1Btb7rCPiE1dynQFywzICVDrOkRrfxS4P5fijaeJ8W-UlTbFJaIHrW9EVSuAS1v.jpg?r=4fc",
+            "watchID": "81672746"
+        },
+        {
+            "rank": "6",
+            "title": "Bahebak",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABac2ee92leITEsfeYTd-5lTZEy5QpSRB3KSOW9dg4DkhgU4-E6hDXyRlG57q8-coPcOR9JJyIMX1qIpb2JP_ieyI4x4-X4eDjEbR.jpg?r=a9f",
+            "watchID": "81684638"
+        },
+        {
+            "rank": "7",
+            "title": "Colors of Evil: Red",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABcEvyPquq34Q0YCaXwucxmsOOqTLOi6Tc3h-p6HP_ahHHndPX-PV961DVxFy2mEjkt_zUHyl-E67xV0nz-t6daIN3CDD_J7c85C42vgoiQaHaF9RO8CuXiLVcbvm_XNgtklWfQ.jpg?r=606",
+            "watchID": "81619384"
+        },
+        {
+            "rank": "8",
+            "title": "Baki Hanma VS Kengan Ashura",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABZzG0csBimTWwAxOdV_l1sU0jiv3M-YuOU49vfgkob27xhgko0R8KY5k6Ow9Nvem0pDJYfu1cofhP8p7HkkjeRDGW3LJmAkWYTjEmC8bubYxFBkkz-DWboe5XP_tR0Df_n2p3g.jpg?r=a2a",
+            "watchID": "81648184"
+        },
+        {
+            "rank": "9",
+            "title": "Top Gun: Maverick",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABW7cQJvUQwMAPRbzR4gB06n3i0C15pK22bExUiwAfxSniKXUHDfedgA-5WnnZ9G-L8ViGEFQPi8LT4Hmhfw7Sl_A-AhypOx4NOAi.jpg?r=210",
+            "watchID": "81198910"
+        },
+        {
+            "rank": "10",
+            "title": "Bade Miyan Chote Miyan",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABV9T__bQreN3ZX-Ts8DFYvk7kggx1VyhVmLBl62jGV2gAtAhpthteSTkBTo-HjP3jd3Z9jX-jNFvLc_W0cnS9JnCocZsS-dCrQCP.jpg?r=6ce",
+            "watchID": "81678595"
+        }
+    ],
+    "tv": [
+        {
+            "rank": "1",
+            "title": "Eric: Limited Series",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABbOdPz3yWuBQwYrFsD-1Cb1udr4NAtRF0mLLrvAD30u7s2bOEaIk0hwk288hp0Uxh8g3J46vNFZPhuPKx4SFxHlTIFEifRRC_BJKD1opjQXW8mKrs-zECvF7JPpmTSyF30QReA.jpg?r=3b6",
+            "watchID": "81284302"
+        },
+        {
+            "rank": "2",
+            "title": "Raising Voices: Season 1",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABXR4O_AXa2220HIFeSxIDGiG-3dR2V2Bzs29_zSk2zI6qJYFUHWxArWUYKJCrcbvTA25Y-1ckXQwXbIKNoGOa7ofEcd4Hz244a0uUVBXYw02BgiBzFByoBM8EDQWdm6Sc-O1qQ.jpg?r=42a",
+            "watchID": "81557683"
+        },
+        {
+            "rank": "3",
+            "title": "Geek Girl: Season 1",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABT6SqIGUAkXT5luYidyW_Q-jLWUXxcBNlj369kIKs0uPdIo-k67m6sHhzfs3PPj_A6Wnm7Co02tXPWP-YyZelWWXUVexskw8gxfJ_I79am3bINDQzd_lVL5-R8jO2fRmteLNvw.jpg?r=bb5",
+            "watchID": "81637843"
+        },
+        {
+            "rank": "4",
+            "title": "Sweet Tooth: Season 3",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABR9E1Aya3wexnNYYlFIeiv5w2UlNa8vJX0pkp8YDWRetLfjI4M1RkBA5PHQAkTU9AXB1At6EJnRcsr1Kvf_lXc-1EN_GGBG3hg3HTIC3REmXFl1kiIA0Iq8pVgRL1VI-Mt-AaQ.jpg?r=36e",
+            "watchID": "81502538"
+        },
+        {
+            "rank": "5",
+            "title": "Bridgerton: Season 3",
+            "week": "4",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABRoZs_OAwr9PbzYFDwxAR6E3LhjIsPcbIXt3tI_jgMWpYQ3jAF47UfD9pcG0JxMJkczozGLtYip7TFPKaRdlUZCq5CugMpc7GyPC7E-90DojSIRwhqL_LeneGhZf6fjlqinb_A.jpg?r=aa2",
+            "watchID": "81487890"
+        },
+        {
+            "rank": "6",
+            "title": "The 8 Show: Limited Series",
+            "week": "3",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABZMRC6L6jEu0tWAKXEXM7srnZo7-2f0_vq484OfgYT4Kbigfmo9rSDb5kcL9lXmGRfWBfC-KYxitdsfh1zj72lgAI9WVKqGvn-1mtFRGpAHaZT10a6PU3EPa6Qu41PX4ANndbw.jpg?r=c4b",
+            "watchID": "81719584"
+        },
+        {
+            "rank": "7",
+            "title": "Hierarchy: Limited Series",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABeXW9YOtRGxFtqeRi9jo5FF8HKyK__S3gTQ_cLv-ziYooKWBrgQXbh1RoUXFmGE_oWINFepYDIhUzjnxTWAr9Wj5lnTzuf4lf5P34vh7qXAC9MsPe9xtoAGwDcr-AKwu8_1XPw.jpg?r=ec7",
+            "watchID": "81624365"
+        },
+        {
+            "rank": "8",
+            "title": "Heeramandi: The Diamond Bazaar: Season 1",
+            "week": "6",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABXyoIbH95PhB4xPMSzaNEEd1l3E99JdoFncqkSrET7txaMK168dYDFAJ1zhXYuhsdlcRvc2kfy7igzOFfk34nE2bE-DefyvGeGkwUyevw-m8Zl8k6oQU30LWzOJcdiY7PfdhzQ.jpg?r=f98",
+            "watchID": "81122199"
+        },
+        {
+            "rank": "9",
+            "title": "The Atypical Family: Limited Series",
+            "week": "5",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABWw2IO0RD9vsxNv3HIZbCzku4kSFFOXjcdlP2e4qGtMckxRKZIJzlxgRqs2_kwtmunaVtX0CiiSCb4mQXbIb8PXwTqrl8iUJyEP8BknVMfp3hT-xBL2WCqRFVhenj-9Tb36Tiw.jpg?r=845",
+            "watchID": "81773840"
+        },
+        {
+            "rank": "10",
+            "title": "Dancing for the Devil: The 7M TikTok Cult: Season 1",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABatqnSWkfwUNm3ILalm7411ckXeaXRkPdS0P35oWiolAhCjmy9qGmzTTbXlKfBJIWD5aFB2mHPInVdk6AQcfdbI-D612II69c9y-8Pe4lbg6G0zbzSOCHyFyy-sFxdKCPYGsbQ.jpg?r=96c",
+            "watchID": "81638163"
+        }
+    ]
+}

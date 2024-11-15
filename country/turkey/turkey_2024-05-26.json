@@ -1,0 +1,148 @@
+{
+    "kind": "Netflix Country",
+    "date": "2024-05-26",
+    "films": [
+        {
+            "rank": "1",
+            "title": "In Good Hands 2",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABQsB1TBpFFbJ0ITdBp7io3lQtSDgUEGHV5XhIPBAy7DLiNrxW3WLRMEqEZPXu7TdfPRhKLKoXhqFjMLKKzz9km6zBuuA6dhlm8vFZU34vtNB9Hg7J0NcFCuHapuGQTokubYCyg.jpg?r=af3",
+            "watchID": "81670880"
+        },
+        {
+            "rank": "2",
+            "title": "Atlas",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABQd4-mMNyUt9se58bwjaBYe-9oSCSmm7IOrLN_LSf-Tz1AxoDnLOO-L90KxdSavVtPxqLLl1O4PMdjW4wlUp3HRgjT4YyFcrED5Bl6C8Frv8FggUvzXf86mXu-nul22WTA1Fgw.jpg?r=f80",
+            "watchID": "81012048"
+        },
+        {
+            "rank": "3",
+            "title": "Alive and Safe 3: Dead or Alive",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABd2U5AzA5T66FIBneCSx7OiAxf2sO7c5twLJO6CzKhznQmZMjPU8eoXcfEvLQN0NobjCXV3Rqk4og-lf6wHoONKYXZ_tLzp_MjQp.jpg?r=ef3",
+            "watchID": "81768377"
+        },
+        {
+            "rank": "4",
+            "title": "Disturbia",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABcN9OC9ICL2edAxm4XBZ_ozOhOXCFj55bXIXKcWZLVptDTn5T_xR9vRy-oxmsUC0Ahv_LIVYLqdOqcuVe-GZM9X1Hp7v67RBQi4s.jpg?r=b85",
+            "watchID": "70059990"
+        },
+        {
+            "rank": "5",
+            "title": "Ice Age: Dawn of the Dinosaurs",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABdpV_2Oxf2GJ1pfJDauGXdVyciU6XJ7-dawThqJxi6xTYs00EM657mvbwDQ93APGoxvDl-ZklI_Xr_dgqt37uPDLG_2Sm2Z96mQS.jpg?r=948",
+            "watchID": "70107121"
+        },
+        {
+            "rank": "6",
+            "title": "The Courier",
+            "week": "3",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABYn8Zgf6JmFfrcANXOVAVWPclOVDvv0UXd2b7ToBQji1IZmlphrYWcJ2DqDOeXo1BVnTU95z_s6_JS5c0tWJMRXehHfJko2dWc4X.jpg?r=f57",
+            "watchID": "81564307"
+        },
+        {
+            "rank": "7",
+            "title": "Ice Age: Collision Course",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABZQrp9ig-tVL3avNdjXAWldfBju6mFEFpFR2u0F5n2hct8aePsPJMZx6Bre9uykS93C-g_W38zeg7_kjqhUN24vwn1XrzFkWMpCz.jpg?r=26a",
+            "watchID": "80096067"
+        },
+        {
+            "rank": "8",
+            "title": "Mortal World 2",
+            "week": "4",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABf9P5LyM8zoV2Ad2VNVjjaPk2x-wKSnN9yflFvsqvzDBiVQdkdKid-FXBOhCQSzohgJnvlVOzto8kiw3RxX69KF1A9_z1xwNRxjI.jpg?r=03c",
+            "watchID": "81262116"
+        },
+        {
+            "rank": "9",
+            "title": "The Batman",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABYWyDbzhGdE731IT7ql7L-KdT8y7qXcBSKBHdpjUAplT0BFInJo2Z6byjKbpRVx_2LT-YrUfIb5NFEQIVzGjPaonQbXMi9GYpCxC.jpg?r=7ca",
+            "watchID": "81500601"
+        },
+        {
+            "rank": "10",
+            "title": "Thelma the Unicorn",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABZl3KbUKr7rYRW0d5Xbh7hwi2Eh5OQEIvj72ScnV7DBxo1M_FGGh2ITskXFJehc6coNVKJu_3en3Fg6LzijgrBvloiz-BOZaQNjngw1e3TiL5pEhCHVf5DCQjZpjqVqblsWKtg.jpg?r=46b",
+            "watchID": "81110501"
+        }
+    ],
+    "tv": [
+        {
+            "rank": "1",
+            "title": "Thank You, Next: Season 1",
+            "week": "3",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABbUViHmvy5s4bluUma1Y-tbGijqNSrJ_GLLOrmpKDnXik2EAiyUYXkQ8Fz4mbM3QK9kqCMD2RwzlR4W2G0M-Wz_ORbSvVCKTx2mf--saTnI5mlJSdkpWSTgyr2JbdtIZGUlO2Q.jpg?r=229",
+            "watchID": "81637610"
+        },
+        {
+            "rank": "2",
+            "title": "Bridgerton: Season 3",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABavP2ed3uTrxsFVOYsuCOITalA4tRbCpp3sltUbsh6zTkuZk3en5X9gv2kHBLuGhP-YIUGwOrBTXeCLR1ewZi1utiPc8NZaSK8YzSj0XFW8-ZpwcEIXF4eo2UKxNONAqnrrRAQ.jpg?r=2ec",
+            "watchID": "81487890"
+        },
+        {
+            "rank": "3",
+            "title": "The 8 Show: Limited Series",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABeoi_IuXvtQUAibiyBEXWlvGeiKXhx4dTprh39ync3lqKDOZjF_nZ45W7vh97gowq1r4ZqIJ7qAxbmxXKyn0avVv4ZBpykU-5yDuYllWLVObdKvVOlFLjTbykfYpCtf_Wy5qUg.jpg?r=139",
+            "watchID": "81719584"
+        },
+        {
+            "rank": "4",
+            "title": "Baby Reindeer: Limited Series",
+            "week": "6",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABdWZ2JKEbpU_HHYsRFJTHIUaYSGnDTgvczLqx8g9qrK1eQXdk_qoOFX73PBazWgexHJ_0fRxUE_i6crbqvIqIIsHak3WpPhEJo5FTn1VppXB7xL8CS3OIxW5fGpRCYLEBuiroA.jpg?r=3ac",
+            "watchID": "81219888"
+        },
+        {
+            "rank": "5",
+            "title": "Bridgerton: Season 1",
+            "week": "4",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABSAVAJs8J-wTrx_1rvQf9ldjgDM9vQRkTi0xpszX4UjEjx3CxBs9VswybiqWltrz8Q8QhS5vKlrmOoAmeoI5dV_nnD8kbh3CELLWPCVY5u_FzPoeeucxJNXeM1Ilwo4lNBSjSw.jpg?r=3a0",
+            "watchID": "80233012"
+        },
+        {
+            "rank": "6",
+            "title": "As the Crow Flies: Season 3",
+            "week": "7",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABfN_TtNK1yXiTHlreIxny9c8C_ooZbjbP3F8Z3wy2-kev0rcC-RUCnjvRLjHq4csct74xny1CR9jwXPFxCCEg7PNi5AV5-77J1aMaCLsa8OX_1hb5X23rajjNQZ8slTQOdUtHw.jpg?r=929",
+            "watchID": "81458347"
+        },
+        {
+            "rank": "7",
+            "title": "Bridgerton: Season 2",
+            "week": "7",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABZAiTJcuju3NzdqV4Nx_l_z-MyWnec9fzI5mS6pShUsKiPd1S2F9LQ-QJOPHx3CVoWB4FPtWfvLDNp8m6J13PDZ7uHtRHbwFkJ6eT5W6uYO7xm26KfRtIOdC7ep6mi4ESgD7KQ.jpg?r=be3",
+            "watchID": "81205162"
+        },
+        {
+            "rank": "8",
+            "title": "Anthracite: Secrets of the Sect",
+            "week": "7",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABZTFyOxJlA2XvI729HP_t6WaItlZjLnX0MuFKsCZPZ07TpmZXR9qbP233Nu-lwCRxJvXjm862ErRO1rxovlJqdhs_Fk2Nrb0dxpkfc99Uk4MYs_LeDQ2obb4YQj5z042BKyGcg.jpg?r=55b",
+            "watchID": "81520698"
+        },
+        {
+            "rank": "9",
+            "title": "The Asunta Case: Limited Series",
+            "week": "5",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABZWquK-Vc7YbiBT9bikCV8XJfaA7jl5TdvU5ODtL6rWK3eVdUzZUmOWedM37_dVHUZX5P4MEhh4srZfNL9h9Y91k4VefaMFvnnlm-cwRorThLbhyXv-Ggg9p5e11l-cc2NBf-A.jpg?r=cb8",
+            "watchID": "81632783"
+        },
+        {
+            "rank": "10",
+            "title": "3 Body Problem: Season 1",
+            "week": "10",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABRWaTbCseexHSfyaJSrqywuig2cALHF6rsF9FzCp1gi3WD85oJburHr5jI3tqHNzNY0n_0ksFBnbelM3z1ETtlQzR16ag4910TH6psYHL2tp4aSKV60PXwkz_tbd3P7Sf96HcA.jpg?r=c63",
+            "watchID": "81026318"
+        }
+    ]
+}

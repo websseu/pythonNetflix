@@ -1,0 +1,148 @@
+{
+    "kind": "Netflix Country",
+    "date": "2024-05-26",
+    "films": [
+        {
+            "rank": "1",
+            "title": "Atlas",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABQd4-mMNyUt9se58bwjaBYe-9oSCSmm7IOrLN_LSf-Tz1AxoDnLOO-L90KxdSavVtPxqLLl1O4PMdjW4wlUp3HRgjT4YyFcrED5Bl6C8Frv8FggUvzXf86mXu-nul22WTA1Fgw.jpg?r=f80",
+            "watchID": "81012048"
+        },
+        {
+            "rank": "2",
+            "title": "To Catch a Killer",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABUF01Hb8Pyo-VoCY7A4AiEe_DzPJGYO1c35Pdtlyr9zMTGDET_rzW46Ea51cEi902_0jS-Ujd2YkOr3hXDOi295fxvifXIWnRwZf.jpg?r=362",
+            "watchID": "81684514"
+        },
+        {
+            "rank": "3",
+            "title": "Crew",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABX-Fb2SGznPV_cAOIuv2Ha2n61hqKHL1Rmiq7UPdXDa-8LJgVfLxd6LBuRhSzcth7ilFnaJhMmrW2NZwwknsQOqJYEYvkUhAC_Kk.jpg?r=7dd",
+            "watchID": "81672746"
+        },
+        {
+            "rank": "4",
+            "title": "Golden Kamuy",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABeZxKSo4YDzh2BzQuQibtN9u7qCN678Wd8xbfqGtGcStUU1408TFB5tzsi5LLqiV_IDxc5xD9YyAtsAbmPhvhW-r2kqrUrDRiyszXr181upIhhFv6QPGZX85ySBqPVd7-CTG4A.jpg?r=c43",
+            "watchID": "81726698"
+        },
+        {
+            "rank": "5",
+            "title": "Shaitaan",
+            "week": "4",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABXRR9B3Taf14SiwescxQsR3A7W6taNBu_1BrUlQVncVFHyMuFv1aEzxQN1IBCVzT4ujHM5IecJip0YH5O2uKSQZsFyZxUyTjLj0O.jpg?r=f75",
+            "watchID": "81760372"
+        },
+        {
+            "rank": "6",
+            "title": "Ice Age: Collision Course",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABegDMTScZAAGTWGO8ufcfCpmzXYxqbZHJdVc5M7FmWYaqMdyCYDAIOlxKUxuX2TaM0lmQpfcNoPUP8AVwxNSp_lxq37FlK4QzTBs.jpg?r=bfa",
+            "watchID": "80096067"
+        },
+        {
+            "rank": "7",
+            "title": "Thelma the Unicorn",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABdhcjRGJn8Dlp6z7pRP9SOnKlBsVADmXwhxVlRVtPsyGNMkSgydECztGZFhPj6h4S8hQOdd3NJg4auky3J6hxofCHEZsuSUOXgaJ5fVUuHlTjAFzTO9DG5O0F-HIJQS4nXXGBQ.jpg?r=f0a",
+            "watchID": "81110501"
+        },
+        {
+            "rank": "8",
+            "title": "4 Kings 2",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABQFKXteyPJfprvCIfQQmtj-mm_WIBiNJmm1E17IG6LrfdtfONX9qIXeSEPAmfgVtUIPNLqQdtyEjqQbUz0psa4g5GM9IcM5T8hxW.jpg?r=a21",
+            "watchID": "81691279"
+        },
+        {
+            "rank": "9",
+            "title": "Monster",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABdMI8PnJdwFnLeeK0zhI04SbKrAQBxRnzVGKg2FOL37sm3JRnhkah_cD9a_bFM0h0ONWoxn7GtpUfc3dN2Y6ICSeLjD2-xCEGNBUbIIJs8Zi5ao9MmcgTFD_1SU8FQ7fIOZ0IA.jpg?r=5fe",
+            "watchID": "81678617"
+        },
+        {
+            "rank": "10",
+            "title": "Wonder Woman",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABaxBhNbqjQ6Rc_XOUKLjRzAxERMdvMJwlMSSfOAFvGRDFkreMfz_jzSitsricWdWq-TH4fU3fnaLDuhOyzHQcSN5n2H6oEv0cr8s.jpg?r=34a",
+            "watchID": "80157091"
+        }
+    ],
+    "tv": [
+        {
+            "rank": "1",
+            "title": "Demon Slayer: Kimetsu no Yaiba: Hashira Training Arc",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABasaKygXkCkLxqGTkG_TogKIzPrgrqsm_-HVKkLihjwhE2cpAYmsG_DHoHV-GXOhDg5DXuNK-pI0AjrlL3i8wk2A3z9QBUg51uBB.jpg?r=535",
+            "watchID": "81743731"
+        },
+        {
+            "rank": "2",
+            "title": "The 8 Show: Limited Series",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABeoi_IuXvtQUAibiyBEXWlvGeiKXhx4dTprh39ync3lqKDOZjF_nZ45W7vh97gowq1r4ZqIJ7qAxbmxXKyn0avVv4ZBpykU-5yDuYllWLVObdKvVOlFLjTbykfYpCtf_Wy5qUg.jpg?r=139",
+            "watchID": "81719584"
+        },
+        {
+            "rank": "3",
+            "title": "Bridgerton: Season 3",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABcUtTyPKKCh6fwPR0UMPrSbh9YKM7tivhz4HR9-ckQQmZX_c4r2Yag1L258oLB5Qc7vjDLGVaSAv8Qti3yGmr4rk8nXzqdyTH1xaOwtA8BP7cJJCvr_TJXqSWzrpym5-Y9Cgmw.jpg?r=5e5",
+            "watchID": "81487890"
+        },
+        {
+            "rank": "4",
+            "title": "The Atypical Family: Limited Series",
+            "week": "3",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABSYLX0xnMzynbpOmoD5rL41wbwYtB5zUhfUTKn31a4U-k25oYXTHf-Z2dDiDTCQ9cAMRs6IaKspVMREckFMkfOTaw8XxRkkbrKqqUyTfnAaOyN8qUyTk_l2ozS5P_Bu4dUwSUA.jpg?r=4cd",
+            "watchID": "81773840"
+        },
+        {
+            "rank": "5",
+            "title": "Kaiju No. 8: Season 1",
+            "week": "6",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABdfF-7FkWcXlmvugNPJcD4YsYMqgDYWsvKmhZkS9-HXiwcD92bind7PxL34-bDqNdNVSk_xyctkO95rdnw8wQzAu2u9LBUu4weoX.jpg?r=fa4",
+            "watchID": "81759291"
+        },
+        {
+            "rank": "6",
+            "title": "Queen of Tears: Limited Series",
+            "week": "12",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABepL1HCVsuEL6pRnxsnkVJa2uDPOwYiW0m1VXZcZJW-Iw90M2Iuu3AR4fk-jedKy5XgLlYGLdptmqD6SE2qfbsWP98AU1UAOoz46wSzZlhI-GVOV7s-x2iJhuf5X-fbVprqq4g.jpg?r=3e4",
+            "watchID": "81707951"
+        },
+        {
+            "rank": "7",
+            "title": "Toughest Forces on Earth: Season 1",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABZmA4g_RaBMkncl-mVqiSJ07swhnYfe8JlBv7pI7UqZ0NGG1LcAskcBeAj7ML1eZfKSzVhs_-JVMJIgvATptfrEiuj26Tzqy6igOFhyZ4v9E3kPSuIAKVh7Xpk9_DK1eNpRUYQ.jpg?r=2d4",
+            "watchID": "81518624"
+        },
+        {
+            "rank": "8",
+            "title": "Bridgerton: Season 1",
+            "week": "3",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABSAVAJs8J-wTrx_1rvQf9ldjgDM9vQRkTi0xpszX4UjEjx3CxBs9VswybiqWltrz8Q8QhS5vKlrmOoAmeoI5dV_nnD8kbh3CELLWPCVY5u_FzPoeeucxJNXeM1Ilwo4lNBSjSw.jpg?r=3a0",
+            "watchID": "80233012"
+        },
+        {
+            "rank": "9",
+            "title": "Heeramandi: The Diamond Bazaar: Season 1",
+            "week": "4",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABV_AHv5z87ToJwtfKD3oq1SVPAaEGFd3AHTLLeVBXOhPTsfpsEXDEzHbYybvlMq7h15XX3iw7cA3En93N3AlBIDbrQpZX_GfUjTf77sTZXS6SovIaqHCGYdo_iXwzF0EI2-Hwg.jpg?r=66f",
+            "watchID": "81122199"
+        },
+        {
+            "rank": "10",
+            "title": "BoBoiBoy Galaxy: Sori: Sori",
+            "week": "21",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABYPgOW9FVVP-N5ln8_jbsGeKRFAzwFiOg89j9KhJTxitQA0QJNn0eREONtCZWgi25D6EqXDSaGFq2TLDf8VKTybA0S8uOhzKMFCI.jpg?r=d45",
+            "watchID": "81728369"
+        }
+    ]
+}

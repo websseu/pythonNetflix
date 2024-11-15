@@ -1,0 +1,148 @@
+{
+    "kind": "Netflix Country",
+    "date": "2024-06-02",
+    "films": [
+        {
+            "rank": "1",
+            "title": "Atlas",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABQd4-mMNyUt9se58bwjaBYe-9oSCSmm7IOrLN_LSf-Tz1AxoDnLOO-L90KxdSavVtPxqLLl1O4PMdjW4wlUp3HRgjT4YyFcrED5Bl6C8Frv8FggUvzXf86mXu-nul22WTA1Fgw.jpg?r=f80",
+            "watchID": "81012048"
+        },
+        {
+            "rank": "2",
+            "title": "Colors of Evil: Red",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABf8q_Z0nwNKWPYmSesn5tfvBm9pgx-dXQOjbhsTe0NStez5uNGH833BWX94CYK-TxYkntdr9MktPaDpdc3N2L-ipqmxJ6yCQ9JDXsi_ax60nVKEYwqLFRfoIqYE_qOEU84bTiQ.jpg?r=d57",
+            "watchID": "81619384"
+        },
+        {
+            "rank": "3",
+            "title": "Morbius",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABWjFDVhTQKWOZwMlyYCcU0vKmLoRi_Ysblh-sVRo-wru-PttpML-Rl0B2VNKqRGe6VBLapdZ7CqPKdWXbDPQkZshv0yjhkhA8Rnw.jpg?r=d58",
+            "watchID": "81198933"
+        },
+        {
+            "rank": "4",
+            "title": "Go Romania!",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABfCODErmTzcFcFIgCfY8aPSYwV6731b2yDz1AfljoEtr0NAzuuoS-9UgC_-LqYHmpP4Y-vrQ9bYIL57njEvYlNmHJ2dzTtJpfCdM.jpg?r=2d2",
+            "watchID": "81766375"
+        },
+        {
+            "rank": "5",
+            "title": "In Good Hands 2",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABfJ_PvqOvsax1eSoPjWCAlnQeb5JAQuSqhRBsGeQsnz-evff3XlRg7XKLQbWTnwYh4yL0ndzrUu0IBfE935LknJw7ZzJ7ffLeWrtCH-I5WeMcIV4rkxEVLoW6DVGiSe-JPCCRw.jpg?r=56c",
+            "watchID": "81670880"
+        },
+        {
+            "rank": "6",
+            "title": "Nannies Takeover",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABTgp4q7KAa8Z9GYN6gmEZ1UFoKaKsF5VsSp7Cot8lfnQBtN5uRTKaOn0q9FRyMhKCNwYx0-IGtAjMaQrcoWX5rAipciNlx_RNAS9.jpg?r=1fb",
+            "watchID": "81772725"
+        },
+        {
+            "rank": "7",
+            "title": "Ice Age: Dawn of the Dinosaurs",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABdENeoWQqTN_nE1sGoSDZGqhOIXVyWgmfj3Oh6rVzWIzappMVYm__9wofkdrluw0xIGR1U7Df1JmLmk31A8ngAvaqt76apNpZV3l.jpg?r=9fe",
+            "watchID": "70107121"
+        },
+        {
+            "rank": "8",
+            "title": "Security",
+            "week": "3",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABdI4uLuULzpWwuXxkRRXHSpO0mBlRX_3oPv9UPzJ8r8VDZM9DC7MlHMHlX3O1F3EI0S9D74rzNhBeXgMKxeQpu9ZwF1Uw7J2j564.jpg?r=9de",
+            "watchID": "80161921"
+        },
+        {
+            "rank": "9",
+            "title": "Ice Age: Collision Course",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABegDMTScZAAGTWGO8ufcfCpmzXYxqbZHJdVc5M7FmWYaqMdyCYDAIOlxKUxuX2TaM0lmQpfcNoPUP8AVwxNSp_lxq37FlK4QzTBs.jpg?r=bfa",
+            "watchID": "80096067"
+        },
+        {
+            "rank": "10",
+            "title": "Bionic",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABdBVCnPZStqiCSaPW0dpHG901iaVvz4lK2a_N_v4NOw_t9W6f4t3pjm8NtVXhVEj1ExJXlXllaEE34j2R6Zv_VfSOsyqYiQzPRyj4wO00y3XGd7RbMeVdChgYy9L_aEHDFUuxg.jpg?r=c66",
+            "watchID": "81406459"
+        }
+    ],
+    "tv": [
+        {
+            "rank": "1",
+            "title": "Mihai Bobonete-Back in Business",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABX5hyaN0ufU4hXmTg1kEF-jtqNEBuzwyAcLNTKUsUQiPkIqNB_-PaVlVrPZ7BwMepp4_NT973dqLMSLW5Kdu1lT3SjR1U9mJOfnu.jpg?r=f0b",
+            "watchID": "81773706"
+        },
+        {
+            "rank": "2",
+            "title": "Bridgerton: Season 3",
+            "week": "3",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABcUtTyPKKCh6fwPR0UMPrSbh9YKM7tivhz4HR9-ckQQmZX_c4r2Yag1L258oLB5Qc7vjDLGVaSAv8Qti3yGmr4rk8nXzqdyTH1xaOwtA8BP7cJJCvr_TJXqSWzrpym5-Y9Cgmw.jpg?r=5e5",
+            "watchID": "81487890"
+        },
+        {
+            "rank": "3",
+            "title": "Raising Voices: Season 1",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABaR2b_JrjmTSb9uwmQsx6BZo98Er95mpFoMO8f7R5MQYeUsBVNKWPAvkOdHdp2PGHy9TU7VDm3Kw7PSqo-3qnshwlKTl0kyA4PHEKDHS6T1mFSqfBGNInpnj9nRXQuz5f3Gxgw.jpg?r=766",
+            "watchID": "81557683"
+        },
+        {
+            "rank": "4",
+            "title": "Jurassic World: Chaos Theory: Season 1",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABVYFDGVFma9lpVST1jjbbPPKhV3InwL4Lv2sOVHOdwIktMTVgx1jq5sAMyRsV8H5uCsWguH-AIi4P034qiHhDJfd02zigjd8Of43VvPJqia5Ou8VWzl1YZyvu458-Y2KSQNyTA.jpg?r=a67",
+            "watchID": "81557032"
+        },
+        {
+            "rank": "5",
+            "title": "Geek Girl: Season 1",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABa376kFROd3vTyC5oRvMUd8KGfVfOReHFY7mf77m5K57G32RCr6uoJnfODMifEgSCRUV8cznKqUWYlcQ49DxWphUfI1KtXb3aguIcFFXZDThg9jMzyyNq_Ot7zXj2ZigFpTXHA.jpg?r=895",
+            "watchID": "81637843"
+        },
+        {
+            "rank": "6",
+            "title": "Eric: Limited Series",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABQBmPbCdnKqe-ZAa2l6fj_r2HirmTm9eyk5H_JkaoXZggkma9ZqfEHG5KtEO2A13phbNcxH3vAMMojhRLzgn0fIVWCEG5A4m6nd6woVaaWEHE-_seL8KdP4F9buxHn8LzlTnWQ.jpg?r=eb7",
+            "watchID": "81284302"
+        },
+        {
+            "rank": "7",
+            "title": "Bridgerton: Season 2",
+            "week": "11",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABZAiTJcuju3NzdqV4Nx_l_z-MyWnec9fzI5mS6pShUsKiPd1S2F9LQ-QJOPHx3CVoWB4FPtWfvLDNp8m6J13PDZ7uHtRHbwFkJ6eT5W6uYO7xm26KfRtIOdC7ep6mi4ESgD7KQ.jpg?r=be3",
+            "watchID": "81205162"
+        },
+        {
+            "rank": "8",
+            "title": "The Life You Wanted: Limited Series",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABfpRCsQC1N05DbEuamajAH0Mzwd2KFcIg8DRYdGRi3deYT4x3C-a50NVGx5p3i0NcBwFdxzsrleGRvWQCYN7Izsgi0OEtLqb-ln2uCYSYwWCOOck33PW8Bqx1efiMoGUwojDqg.jpg?r=94a",
+            "watchID": "81414647"
+        },
+        {
+            "rank": "9",
+            "title": "Dancing for the Devil: The 7M TikTok Cult: Season 1",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABfgH2BBF7j4wa6APclfGBYaei991_ujLVkuhOlVf3iphNq_Ff8b5AND2f94VVjRwmvVmetdBx3VpmQpm-u8EyaI-PDxoBKsgIyUssn-0q52WP27yYpINGw1SElvsFW8719S1qQ.jpg?r=c17",
+            "watchID": "81638163"
+        },
+        {
+            "rank": "10",
+            "title": "Bridgerton: Season 1",
+            "week": "10",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABSAVAJs8J-wTrx_1rvQf9ldjgDM9vQRkTi0xpszX4UjEjx3CxBs9VswybiqWltrz8Q8QhS5vKlrmOoAmeoI5dV_nnD8kbh3CELLWPCVY5u_FzPoeeucxJNXeM1Ilwo4lNBSjSw.jpg?r=3a0",
+            "watchID": "80233012"
+        }
+    ]
+}

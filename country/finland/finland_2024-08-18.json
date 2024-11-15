@@ -1,0 +1,148 @@
+{
+    "kind": "Netflix Country",
+    "date": "2024-08-18",
+    "films": [
+        {
+            "rank": "1",
+            "title": "The Union",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABee2f5a9dXQwZttCn_Aldju3-h56YuCGDfdJ4tG9ENRhFJqGX55aJhrMx5xHuPzEO-BW8x1s5ZbAU7HZRS8VvbLvl7eY02hyqrHI9BeAmhJa9cqfL7sw3EulM8vztL9uMKfvdg.jpg?r=bb6",
+            "watchID": "81282732"
+        },
+        {
+            "rank": "2",
+            "title": "Kingsman: The Secret Service",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABfASWynrLn17jXa_r6wTdfrMghAB9ewFeyOwkZ55EytUWI8hRqdcYyJ4eLjWB7TXEmIJdNgJCOqKMSNN9pNIxiF7HA123o12ybJD.jpg?r=6b7",
+            "watchID": "80013870"
+        },
+        {
+            "rank": "3",
+            "title": "Kingsman: The Golden Circle",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABUZ11Ru9nJHZrtArpzdH5i2kdpFnf7leB3luGYxiHzfp-IMmeC2gxNgBaOktptwkJafFZh0eq0oM1ctBqXUg9CeAEJdEQiQ5PF1d.jpg?r=e35",
+            "watchID": "80183188"
+        },
+        {
+            "rank": "4",
+            "title": "Jurassic World: Dominion",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABeQnZQqN8_GDwQZ5wMy-G1pz2bkagDv8pn94-yyXxcegvClxqdkw9cKlvGxAhHA4rZnGxKe6sm3Mxa0BCZksEA0WWwai3v2T9LZ3.jpg?r=3eb",
+            "watchID": "81489837"
+        },
+        {
+            "rank": "5",
+            "title": "Inside the Mind of a Dog",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABTJg-Mp7HPowGLlaa_gEgtS87zWSPIq2MqFu1HdKMMPINIdB-iPNc02q1Vb12JGeoUZbt3fmTBAFBJ8sX0JJRwr1WUue8GgvmyMM27H1dCANtcK9dNKQPP42Srv3QrT0euVkKw.jpg?r=17e",
+            "watchID": "81681888"
+        },
+        {
+            "rank": "6",
+            "title": "Saving Bikini Bottom: The Sandy Cheeks Movie",
+            "week": "3",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABc9e7U6EZvG-Vo_6J36VegefdUPEHT8XtjwqudMf293jW49ul4kHmd_ajyLsT2fR13DwCJ4iNfEVCk9m4LscwMo7q4ykbEbtUgJyK0-hGJro6h4qgfogju_IKy5wN_IwM9anyw.jpg?r=e66",
+            "watchID": "81221340"
+        },
+        {
+            "rank": "7",
+            "title": "Suicide Squad",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABUKqm3mITOb--NHgavpbpRyviwfq7z-QKDz4G6L8RX0KXLxTgRGXTyaLqougB58rTaEi5qFKHH74wf8L5iImmdl7NKopwQ8ppt_1.jpg?r=a4c",
+            "watchID": "80091595"
+        },
+        {
+            "rank": "8",
+            "title": "Ferdinand",
+            "week": "3",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABYN2wApjHguAaDyMO9bRww6ePwWIHAaDrdpJP506Ed8Rva7dgSaw-PFgAfNiGhPmi5Yy02dNOfqBu8oBxCfYDGfbSX9-uyfqisIA.jpg?r=9d0",
+            "watchID": "80191879"
+        },
+        {
+            "rank": "9",
+            "title": "Mission: Cross",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABSKatiYac3_Q-AeuStuH-g5tZeGuTv8q0N4a6vspDcHRtSpIRwr2wm96VyLksYHZRwkQaEN9_rruFZBupfmiC3b3j0CWh2-hI8KIkK6lRR6WisD8f2WS-raeG-OG8Z4bDhbbEA.jpg?r=d11",
+            "watchID": "81771382"
+        },
+        {
+            "rank": "10",
+            "title": "The Meg",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABeGLmGNQCR9_zL1w_c_qU82cAMpVr8x1H4TIhYwyoBIv2I0yQRsIqC_-bnSs-pMJbcKyWVggWU0DRwcW4k9tmYBPwqwffCRaNrmV.jpg?r=671",
+            "watchID": "80237937"
+        }
+    ],
+    "tv": [
+        {
+            "rank": "1",
+            "title": "Emily in Paris: Season 4",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABd0X1PrB5uIerkNJlglL1IP9oKAs-UP8qKuIc9fp--Tg4b76t4jhsq4p_RyUTg-FNkyeY51TFHmiHxBInkWyQOSEBkdbBDfNRyhNVg3XacH68C_Z0jVUvsC5g6-ab5SlTf-cSQ.jpg?r=4f9",
+            "watchID": "81580261"
+        },
+        {
+            "rank": "2",
+            "title": "American Murder: Laci Peterson: Season 1",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABey_6sXk-GP9WoNU7JrSs-5216tq7XKQcKMVDsh1Mg_pekB6276IReUe0b3bempClAdqOhu9hCTXX3INnmKAV_BndM_hZM_I9_9Cmr2g3zdvonG3GvX6pz67zEaV8waoAV9AUA.jpg?r=879",
+            "watchID": "81582795"
+        },
+        {
+            "rank": "3",
+            "title": "Love Is Blind: UK: Season 1",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABdFoMudLLcRGY6sVJdQrIqhXWvhaaKv9aQa2XNyZxsGGZpj0FcMF0eNql42akNfYn1X6O2LB_mFAr7SCCHDQ6IYyqbPslItEnVjqFrvKHI04paF8OXDJDUasLKtDhq825XcElA.jpg?r=9c2",
+            "watchID": "81676359"
+        },
+        {
+            "rank": "4",
+            "title": "The Umbrella Academy: Season 4",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABZfJvtW-c2PJ4fZaGefH7rMUVTEoxIpON5VoEC00ci9WXfZoQ9yT9AOYDTh_zVf5pUKTWEr0_KAhpGEqrfOAdtY_50s4HRZ2ABx_cCOUNg0M-c4DjKNCR5IavbUIQNaYc6Spaw.jpg?r=401",
+            "watchID": "81458844"
+        },
+        {
+            "rank": "5",
+            "title": "A Good Girl's Guide to Murder: Season 1",
+            "week": "3",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABQjq5UKgIcV2aXyPP0F8kmqhUtcDkG4gcGnN1Rax8K3kluXwxb7j8xj6PEGi-7aDy5D-l_7VUwFIbg90WzOecE96jnzyDkYUgTAtFqOozc-XlCsPaT3doDny_6bUrq2Kpc391g.jpg?r=e18",
+            "watchID": "81759465"
+        },
+        {
+            "rank": "6",
+            "title": "Matt Rife: Lucid - A Crowd Work Special",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABRMm6yIlq4VI_G-FlvD1v_5coBxdKxzF7NNxkyu9C3Aur4xIKgkPizzlmAsONaiWWDZ0IRFv_3jccHRFKv5FKPB72rJNUNeNyhAVRj5CLYM-4VFj7QUS7hvdpc-ej3nZuKZRkA.jpg?r=822",
+            "watchID": "81764466"
+        },
+        {
+            "rank": "7",
+            "title": "Pernille: Season 1",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABZNlosic1XBl1xO0jTYTqy33zSVHIO2wkYtsTE9Dvj8Dms0nNVdnraESpMQf5G1T6kokWxx5Q7OTd35qnJbKJnhBgUiCKf4UegH-dyeB93U-sdVk_DVBbbLvbe1eXPBcyd0LgQ.jpg?r=740",
+            "watchID": "81748582"
+        },
+        {
+            "rank": "8",
+            "title": "Pernille: Season 4",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABaM1_4ThEA3MSl42tUjEkrn7k6_AoIQKKIj1_IEOaY2g24ZKWdKCYmTRyr6GAxYLxokDHxA_XIC5FvkkQNTwaiL-GF15bG2KkxrqV3gyvPiDENGtyAHKLYRAJIdBLyJDdul0ww.jpg?r=793",
+            "watchID": "81748584"
+        },
+        {
+            "rank": "9",
+            "title": "Gabby's Dollhouse: Season 10",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABe5U71R51zjwX8AuoxGQXZ8fFvoDqJYV7omoruTmy6Qsk9RIrZnGgphlIPDe0Olz2ybDyyhCZLXpwckMGCbVvN1K9qCJFNEPWKBDz89ywSgeH4uqrG5X9Ze2Y46M4PIAVYqMNg.jpg?r=892",
+            "watchID": "81686558"
+        },
+        {
+            "rank": "10",
+            "title": "Simone Biles Rising: Season 1",
+            "week": "5",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABUXyf-dAICaJAG7CPaYklBMkxuGF6fgCFgPOgWqWPxaIWwsu7YKcj6f6WZdFSsj-4gKewzdlc1zXF44MqvgjKSmUxBlQb_wafi0bmSKzpyPBamTJPFrkAZPGPoVPgRTzYhj2XA.jpg?r=602",
+            "watchID": "81700903"
+        }
+    ]
+}

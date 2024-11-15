@@ -1,0 +1,148 @@
+{
+    "kind": "Netflix Country",
+    "date": "2024-08-11",
+    "films": [
+        {
+            "rank": "1",
+            "title": "Kung Fu Hustle",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABVHDUHPpEFnI3VjzQjnXAxBXktoeSkISYBuYuIdt8xvRQc7RIyrbJB77130CfhFvXZRCMNsbHhsOmXfCstbUcejgHuo4-a4cV5SS.jpg?r=7b8",
+            "watchID": "70020728"
+        },
+        {
+            "rank": "2",
+            "title": "Kingsman: The Golden Circle",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABUeaiG4vkkS9rqTOqr0QkoITfAIDj-lPj4vMLdZBbkaH07088HnOnpbmH_w4BfXX3KEV27GLE1MdjCEzoV6uvHQfCInBxcrsR85f.jpg?r=8d7",
+            "watchID": "80183188"
+        },
+        {
+            "rank": "3",
+            "title": "Borderless Fog",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABWlV-lG3NVwFeTQGEAT4vYa2S9532vag7hv7O0zFdwAHkJd2Z-mfEPLW9XHE2_HSQgJLCi9rq0n-StzTnT25OBZ4WlLf7dJRWeWetaMW4sYCvm4dy73SOqUXnX-_Q-jHKn36EQ.jpg?r=8e8",
+            "watchID": "81644947"
+        },
+        {
+            "rank": "4",
+            "title": "The Meg",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABTcTqGDCAqYtDS2P8hVDvjiq5eRui8L7i6c6IZqcSa6OlrQTZrOSlS1KfuDTPzXWNA8JjwyPPrHQuN9ZXgYhcJ5nfmCjljtE-EzS.jpg?r=c5e",
+            "watchID": "80237937"
+        },
+        {
+            "rank": "5",
+            "title": "Kingsman: The Secret Service",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABfASWynrLn17jXa_r6wTdfrMghAB9ewFeyOwkZ55EytUWI8hRqdcYyJ4eLjWB7TXEmIJdNgJCOqKMSNN9pNIxiF7HA123o12ybJD.jpg?r=6b7",
+            "watchID": "80013870"
+        },
+        {
+            "rank": "6",
+            "title": "Saving Bikini Bottom: The Sandy Cheeks Movie",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABe5unWx296cmcLiG8IErsggi6vghJJFqxoZfzzdWTFCGH03-5aiq-rAVePVvBhI-ZDx7lMS74P9JMZucbmfKpkNE6tUeIeTj8pO8PTIIrlNOSiiDfX_j_0-D29ABIqZFcctjbA.jpg?r=2b2",
+            "watchID": "81221340"
+        },
+        {
+            "rank": "7",
+            "title": "Mission: Cross",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABSKatiYac3_Q-AeuStuH-g5tZeGuTv8q0N4a6vspDcHRtSpIRwr2wm96VyLksYHZRwkQaEN9_rruFZBupfmiC3b3j0CWh2-hI8KIkK6lRR6WisD8f2WS-raeG-OG8Z4bDhbbEA.jpg?r=d11",
+            "watchID": "81771382"
+        },
+        {
+            "rank": "8",
+            "title": "Indian 2",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABTjlOsLwzDQZ5Y6dYvb9tHaBgdtLflcbpVW2eIm08ICkqeTBo8XBmbnLTxuDAPVZbfZIfQDQRs53xG7CE_T9A8fM3cZbdISqU9EJ.jpg?r=623",
+            "watchID": "81742609"
+        },
+        {
+            "rank": "9",
+            "title": "Maharaja",
+            "week": "5",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABewPoiVNUjq0f2fB88V_2G2NsJ23KqA5RTPZGY_JmmU1uCH20Qrxv-x1313ZpFWnJqP4n21vjwxsfNqfJKnGMpeTs2N67btPDOQB.jpg?r=0a0",
+            "watchID": "81690671"
+        },
+        {
+            "rank": "10",
+            "title": "Munkar",
+            "week": "3",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABYiPQI9tQLOGYRjqRFZ-UaMTwM8hJBOTr1KntRuOHqCA879eK12ctrBZ4HX0TZ1tx6rL51GFOhT0i_P4-YV6tfszfg-ndDy-GzVm.jpg?r=4ae",
+            "watchID": "81773027"
+        }
+    ],
+    "tv": [
+        {
+            "rank": "1",
+            "title": "Lovely Runner",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABVoFjDxRK5yN2fHNfqJq_W2f115N25UESKDE6y8CrpDt8rvuNFfZIwjBpDavPXaDT70e2Yud_erq2YOWkOjT2BiJNE1pPM4v0oCy.jpg?r=cae",
+            "watchID": "81914846"
+        },
+        {
+            "rank": "2",
+            "title": "Miss Night and Day: Limited Series",
+            "week": "8",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABYGEbJ7DpXDt4uZPrmLKhFas-rmWrX-iuLp-uBI7aGJxCvgN-kFKn0A46yM-z6E29DA3pS7WZ8ZEX5Wp3iIa7Rjn2742UTGtTo_h3JWNF524pVN-6rJ26mRy6lhY6OLj-p53Qg.jpg?r=802",
+            "watchID": "81738995"
+        },
+        {
+            "rank": "3",
+            "title": "A Good Girl's Guide to Murder: Season 1",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABcifdzPVBunE82iuu97Z93MtUqgOKLTQ3bfGCxG-sCgX7QXNn0cbPSIgRQy-_Nf_sEudUKB4NwkLhDx6iK5MOUOapYcuOInOajzpX4cKTYZDV8Bn0vTaVxK_6UEznUWgW2zpgA.jpg?r=317",
+            "watchID": "81759465"
+        },
+        {
+            "rank": "4",
+            "title": "The Umbrella Academy: Season 4",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABZfJvtW-c2PJ4fZaGefH7rMUVTEoxIpON5VoEC00ci9WXfZoQ9yT9AOYDTh_zVf5pUKTWEr0_KAhpGEqrfOAdtY_50s4HRZ2ABx_cCOUNg0M-c4DjKNCR5IavbUIQNaYc6Spaw.jpg?r=401",
+            "watchID": "81458844"
+        },
+        {
+            "rank": "5",
+            "title": "BoBoiBoy Galaxy: Windara: Season 1",
+            "week": "10",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABZr5BpupMDiycavTYKjAyEyLBGS32qg4BkN6GFxkb-c1Mj8TC47dnztZaJOAWxfzYshy1KkDzHCIGP32Y4QF9Bd15GkfFQ6C1VGB.jpg?r=aaa",
+            "watchID": "81728394"
+        },
+        {
+            "rank": "6",
+            "title": "Master of the House: Limited Series",
+            "week": "4",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABYtGaDS7gYpPxAtMYNzaH46EzYiKEkP7ulhYbDWqf2Xr4B-aHl9JbZBempdlQ0bssKUFrMA47Cc2QduDvAFBbLY-q19d-VgNhb8yy-3WhE478BOAA3_-dHi__HwyPjxSQMq3vA.jpg?r=d23",
+            "watchID": "81622919"
+        },
+        {
+            "rank": "7",
+            "title": "The Influencer: Season 1",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABU4R7q6qIcwUafZ1k-ZU-8HuY39D51NgcnowZTfxIGyH6vxeBd3N4Lt-yXdKTelRkf6OUf6Jht_4p6WfOJrlpNkF6W8Rw76rtBs2B2dwJFIdr3WwtCHA2RtjYpOfreSzhXEweA.jpg?r=9a3",
+            "watchID": "81729972"
+        },
+        {
+            "rank": "8",
+            "title": "Sweet Home: Season 3",
+            "week": "4",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABbS9eBE6WW9pmT1U9ds3rUZrvLQtCnJQvf8aPG7ZmcEjpvDcPeqddly1UHq4KLNYtwvqpEOGlLFMiMZcKHpsR0sthL5OpF_Mhlgc3yLtePQk7HJesdg7q39Bt5JsIPkYFQ86TQ.jpg?r=c76",
+            "watchID": "81592017"
+        },
+        {
+            "rank": "9",
+            "title": "Eve",
+            "week": "3",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABc13YpQx_tsxMXqV4yfa4Q9OGQSaTm25Nq2ctatis-WqbEIXonU_uVBshP3AMnxfcxWO9ifCEEKUohYhzx1grJadcWyeGqJeTSqu.jpg?r=302",
+            "watchID": "81754358"
+        },
+        {
+            "rank": "10",
+            "title": "Rising Impact: Season 2",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABUjJ0bW8Cn0sUTBQiCSMCBnH4dIHBlyQnxmROC4Y3H2FkaxgEw-vcBxKb4lHEXUIH2QRJn42tNj4cxLCPFXzFud1OLIiRKWVAEbeK5hocAgg0eBgJ5-7h4GhtI-kUfqX9TeY5Q.jpg?r=19b",
+            "watchID": "81592050"
+        }
+    ]
+}

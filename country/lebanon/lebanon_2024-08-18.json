@@ -1,0 +1,148 @@
+{
+    "kind": "Netflix Country",
+    "date": "2024-08-18",
+    "films": [
+        {
+            "rank": "1",
+            "title": "The Union",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABdNdoweVAXDj4KOxPhZAfJQ7Ea0aSVlM7j8uMjK15g_fO0VMnD-xO_cJRwHWpWmGXiazTMxmwsVheRMpv37f2B8uG1_383wPxFJWgkNzopPFFBtI-5fjWelK2lMIZ9X4JyiOsg.jpg?r=dec",
+            "watchID": "81282732"
+        },
+        {
+            "rank": "2",
+            "title": "Kingsman: The Secret Service",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABfASWynrLn17jXa_r6wTdfrMghAB9ewFeyOwkZ55EytUWI8hRqdcYyJ4eLjWB7TXEmIJdNgJCOqKMSNN9pNIxiF7HA123o12ybJD.jpg?r=6b7",
+            "watchID": "80013870"
+        },
+        {
+            "rank": "3",
+            "title": "The Other Woman",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABbdsSZ0gE1QeBiq5m7EvOFriDaj5-nk0jQ69efPL_z3PR6GJFEv_ahMSDmCA1RBx3eMx9TA3a1350uvdEFdufSLl3CJl6efvPKrw.jpg?r=679",
+            "watchID": "70296523"
+        },
+        {
+            "rank": "4",
+            "title": "Kingsman: The Golden Circle",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABUeaiG4vkkS9rqTOqr0QkoITfAIDj-lPj4vMLdZBbkaH07088HnOnpbmH_w4BfXX3KEV27GLE1MdjCEzoV6uvHQfCInBxcrsR85f.jpg?r=8d7",
+            "watchID": "80183188"
+        },
+        {
+            "rank": "5",
+            "title": "Ferdinand",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABYN2wApjHguAaDyMO9bRww6ePwWIHAaDrdpJP506Ed8Rva7dgSaw-PFgAfNiGhPmi5Yy02dNOfqBu8oBxCfYDGfbSX9-uyfqisIA.jpg?r=9d0",
+            "watchID": "80191879"
+        },
+        {
+            "rank": "6",
+            "title": "Lolo and the Kid",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABWVhZgwUrGel82AYCj-BhGkuHD_UIJNuYaOZ39es7KkRXm6U9bIkvgQvnXnyPWbAbV3hYGxRHhlRXR3mf9wtjuJ5I29suXQ2qhNU9likGMtWzRQwjwRYIUeIuFELYOtz-meCxQ.jpg?r=b30",
+            "watchID": "81750553"
+        },
+        {
+            "rank": "7",
+            "title": "Mission: Cross",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABXTx1LPtKFP2QcOEGo3pU6zFfeMv4DjzIfy0y7D2wwePEcr9HyvxjbyGLCZ1-RuIbWAQ6wyZtAmJWILzpMUaXlOHTyV9vwC7halhIbeke052VZx3ZhcmZK75kSbTScY4AWeVcA.jpg?r=fe7",
+            "watchID": "81771382"
+        },
+        {
+            "rank": "8",
+            "title": "Violent Night",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABXYRYr_tOA2nCVx2sS6wzdv8LNzk3ja-9D-uKMeNnZRfJCaaKTZgY0Tcri1btNc3DsSwOwrHyOxs7iKDS_rI8kUigqARuT_NlqxT.jpg?r=30f",
+            "watchID": "81611464"
+        },
+        {
+            "rank": "9",
+            "title": "Mommies Group",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABSM63eU1y7Rk0EhCBuoqf7nok4QqF4Y4yF5MseM56Os0JNrs4HRKTb2dPDI3lr6qKtLalMSNgVESFNl5ryQx59r8jj96i3E40nuK.jpg?r=9a2",
+            "watchID": "81684469"
+        },
+        {
+            "rank": "10",
+            "title": "Under Paris",
+            "week": "11",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABXtmnTFNW2ufqG_HKemMqnRjcDx9TIc2WcujLbevQ27q69gRVYtpV7p84uTQAbyzFRUsFu_Lxaig3-W3Q3ziHkQ399ejDgW1ujWESjrYcFIKxGd_Wjm2ONLnzLugzN-HN7Y9Eg.jpg?r=6f7",
+            "watchID": "81210788"
+        }
+    ],
+    "tv": [
+        {
+            "rank": "1",
+            "title": "Emily in Paris: Season 4",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABSQW6rRwve2Yt02xVLIW3FeK2_Dify0SbBHQVGj10xLIbEvnEMsjgH8iigwV-B-6kcbpMIOBTT6Q1qpYKdTFjTsuonKuEnIq9zHHhmcBalAX5IjW9kVoehcrWDlio03cjT2I4g.jpg?r=fde",
+            "watchID": "81580261"
+        },
+        {
+            "rank": "2",
+            "title": "The Umbrella Academy: Season 4",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABZfJvtW-c2PJ4fZaGefH7rMUVTEoxIpON5VoEC00ci9WXfZoQ9yT9AOYDTh_zVf5pUKTWEr0_KAhpGEqrfOAdtY_50s4HRZ2ABx_cCOUNg0M-c4DjKNCR5IavbUIQNaYc6Spaw.jpg?r=401",
+            "watchID": "81458844"
+        },
+        {
+            "rank": "3",
+            "title": "A Good Girl's Guide to Murder: Season 1",
+            "week": "3",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABQYPdGcGmEd_VQfgPl-b8Ssq7yC2I9G3RxtmSVmHC6ewWDVs5Sqyjd_kZ2z6Ybb6DA_sPV3xGWTayvK8mSege-PXkNuLD9io8MvcD79p7k-FIwdKt_L3RZG-BSHS3seTSwBxSQ.jpg?r=495",
+            "watchID": "81759465"
+        },
+        {
+            "rank": "4",
+            "title": "Shahmaran: Season 2",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABW2Vla2yjCU0pbNUIdnxxzhy-jrcQIy6lqMF8I-xTyt-ivgVc_kZPQFNL3OQle1LOZasSQwX0L9ym8z1od4Xx_GHKFx8waJE_qAzREXSc3o88kLv2E2_Jfk7S8QZMMLK073UdA.jpg?r=e4c",
+            "watchID": "81609586"
+        },
+        {
+            "rank": "5",
+            "title": "Matt Rife: Lucid - A Crowd Work Special",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABUF_ZM7dioh0DaHEwZEmBQPUd6t7syU1lsbXQ0vuszrukv2rYuJY2uZCqvPHVv7CqrtcmdGDa5U3-C6m3op7AX5YafkvLu5gJWkxiGie-OSkkIWm1Y2OZTLXScNPODeTC16gIQ.jpg?r=7f5",
+            "watchID": "81764466"
+        },
+        {
+            "rank": "6",
+            "title": "Lost: Season 1",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABW2tMMWqZnHwwTR07TMjJmkEoXmRZl0XesBZmimaomv632LXodiQu-OZplicnMXrOyDIk0fQC3RT4m0pLHXuIuf_hLMXsQBrXzvd.jpg?r=312",
+            "watchID": "70019981"
+        },
+        {
+            "rank": "7",
+            "title": "American Murder: Laci Peterson: Season 1",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABb-vbUPu72i1r-4HAFxLpbtbv_VsmxeHpu3ZVEtZi8VCbiVVSvXx273kPGxKezs_8EUz0XPaQ00Hx5DDvBK4bQ2e-_raY0g-vva9UUibMkPAGtnLQC9tLQVLsZSd3OpuzQtRuA.jpg?r=2fe",
+            "watchID": "81582795"
+        },
+        {
+            "rank": "8",
+            "title": "Love Is Blind: UK: Season 1",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABQ9Cxy0KlvhOX9P6x71k1y0P8LZvlFIwXJ6QGHOCdB84IxqNgBTmwZo9L_bdrk2IHFznNgXcVurO7qTOUPLhtO2qdvlLKXUphWTmbKxmR0eb2LpRFX63dyhzstH_iu-Ba6jPdw.jpg?r=cb1",
+            "watchID": "81676359"
+        },
+        {
+            "rank": "9",
+            "title": "Too Hot to Handle: Season 6",
+            "week": "5",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABdoowDd7IffNaUyn-Cif6y1JaBrIMf7H3o9TXA6K-ycstwoX_m2tbVOyJkCjUqQpgTiLeOjoqDOMqGoOWBKncTkL8PVjXLhCwE-zqkT4yCWXgbKRy_aeJHVxcPuyLVvTXK9eTg.jpg?r=bd1",
+            "watchID": "81442462"
+        },
+        {
+            "rank": "10",
+            "title": "Cobra Kai: Season 6",
+            "week": "5",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABSA3KJ4Nlyd3bdxyzpXMqMbh9sxHDh8r6T-DZ9DKUOxgTqsqh6NLWs9hU-RHfpi_4Xn5s0wBCeZvVMgL-guo5YgREPdqnK_FCBXZpnTGo3_SNySfpL1ZB8lDuQ34Jpw-0I9nJA.jpg?r=1cd",
+            "watchID": "81576914"
+        }
+    ]
+}

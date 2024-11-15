@@ -1,0 +1,148 @@
+{
+    "kind": "Netflix Country",
+    "date": "2024-09-01",
+    "films": [
+        {
+            "rank": "1",
+            "title": "The Union",
+            "week": "3",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABWlXsZCOkbhQ7Q77pwyppLWXwwM68AaaCW16OymPNgR4Y0s2h21Fuaw5ZS6QKYJAoYDKO5CmJg_gyhxECrBoOZ_JGhtXbsx7KI1ZHukAcn2RpIQGACGO5TDKiOJw7ErjhGFZJQ.jpg?r=6a9",
+            "watchID": "81282732"
+        },
+        {
+            "rank": "2",
+            "title": "Caution, Hazardous Wife: The Movie",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABXt40Ukh3A81tzWb9-y8yqBJuWrU4rL6PM3ZVuF88-xpqwBWJnI5foEX-u7RaBBjvHRK8ky7LLhRKqdpq5LufEwTLQ_4kmy-91Gp.jpg?r=0bd",
+            "watchID": "81464250"
+        },
+        {
+            "rank": "3",
+            "title": "Minions: The Rise of Gru",
+            "week": "5",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABdbwhN041xh32coyOpodkSZnIACE2bS1Siw_QZQ-CGYy0p1_8HQ-eXmVYFx0XZ-fFJcovD4J6NnIDHL0CD93vqWgN7U4tStXndG4.jpg?r=a41",
+            "watchID": "81198916"
+        },
+        {
+            "rank": "4",
+            "title": "Kingsman: The Secret Service",
+            "week": "4",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABSAHE5LNu9nURDesvPScxWZTu-8elnoYgVfIg--pQQehex5djUU29LRedPcRhhEaoqx1EYnUoxMNG8l-wMwTWHXLVAf7vTf2kD_7.jpg?r=193",
+            "watchID": "80013870"
+        },
+        {
+            "rank": "5",
+            "title": "Death Note: Light Up the New World",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABQw3M2nPoU0CGa-3W83mCtIyuK-Z962y9VmrO7g_zeBx1fDzDQbQ51GzyssnLmwT9J5AKVfAYkjPrWqmLBNPshzl1GCVW96gY5Vj.jpg?r=ae4",
+            "watchID": "81032533"
+        },
+        {
+            "rank": "6",
+            "title": "The First Slam Dunk",
+            "week": "7",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABRxJgQZjD4ZoeMdGqiH2XywSkQBF26UFXpZaCG1qejW8XWLsHTOShIAaTnMXnza5e1Zm0UicMVvdbdDzBTNveXEnbmhercACrmiX.jpg?r=040",
+            "watchID": "81765372"
+        },
+        {
+            "rank": "7",
+            "title": "Kingsman: The Golden Circle",
+            "week": "3",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABb350y8NqG9ZQO4SgOq_bosBmkfmXMXAHwuYrtxjtDEY5gZ29ygXcqHZr1Ohpc0krSjjERyz0bBK0NYFBdVmAooZ8pDM0x8683NH.jpg?r=5b3",
+            "watchID": "80183188"
+        },
+        {
+            "rank": "8",
+            "title": "The Deliverance",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABWGkgXvcub_vkM2nOuT7OpG3BEt_GqLuiKs7zldfgcnq93lXlRjxib_HgnU819nxUMtCGLKoswqF2BwVlH0KJa6P-M-y6X9vQnkEc7UFd7CEO-Qi41yLKpykhTedhmvtA3xUcA.jpg?r=bff",
+            "watchID": "81582382"
+        },
+        {
+            "rank": "9",
+            "title": "Fictitious Girl's Diary The Movie",
+            "week": "3",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABRJtB6UA-PG2iSLZq4i4vVuBC7GYaDM56dzsHVEZ4TuIlSzuhLIhtRJo5H2vGlaHvtgJDDZOzJQEaCVqcRElrKzsag99aIg9wLG_.jpg?r=579",
+            "watchID": "81900329"
+        },
+        {
+            "rank": "10",
+            "title": "Mission: Cross",
+            "week": "4",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABeiqzU6241ZJdIoU1fXCTCmJxCrzzMTnn_oB8ZL9pTaXv17N5vKOBsk89oRki1_KDJQP23ed1K0C1XmOThvDH2W5AXTL4Tq0a1flim1YjlLl1siDOFubAV0FkZvQwhNQXr2bFg.jpg?r=5a4",
+            "watchID": "81771382"
+        }
+    ],
+    "tv": [
+        {
+            "rank": "1",
+            "title": "Tokyo Swindlers: Season 1",
+            "week": "6",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABVXsI0hph7gUA8vAzTZxVrZjBNt_ct8lB6jgWnQQ83MbgdLSBI0Rfc_fP9lOMXoRx2fPs4bdIWYQ1yqY3Ofye2ibmDh4gjgDHhaeRBHJPOslj5zZ9pVOQ56Uw-s4mdnYKycwew.jpg?r=2eb",
+            "watchID": "81574119"
+        },
+        {
+            "rank": "2",
+            "title": "Love Next Door: Limited Series",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABZp79gLKp_VZaRZFOIl-I3pHNHy6u_3VoK8ioDhy9FnXQDESEGiyXvMmxRxyB8GfwvzciA8-Wi80OLsenThvOKLmDnQuLGsCQomZwEv89m5opkHlJoyG_FUCsAKkrWGL8-4AVw.jpg?r=541",
+            "watchID": "81739045"
+        },
+        {
+            "rank": "3",
+            "title": "We Are! Let's get the party STARTO!!: Season 1",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABW8YSAwRJuoK8UB_EudZmVyKhH13WjYPoQaAbruX6PPj5-t26fYclhn843Tw-sKhPnpAbYd00cgRWI7FUe6nZ7UAs75C7bu2iBx0.jpg?r=2bd",
+            "watchID": "81919543"
+        },
+        {
+            "rank": "4",
+            "title": "The Frog: Limited Series",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABY3s95x7-SJMXsijUEE9215PQgqYi7CRPBrmRmPMr4dk7qlNHCkNSfitbRmtn59xflQ7U3XVO-0BpFG0urM6WS5SNWqej2ceEFo9Z1rRD5NpKob8TrOOQZXdm_AZt0uuX7k2ow.jpg?r=22a",
+            "watchID": "81654428"
+        },
+        {
+            "rank": "5",
+            "title": "MIU404: Season 1",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABT8A_X5IVqr6MdnHbiqWddsjl7F8XzM-rRhruTVGA1jeo1xPxi1LVxubd8ITE-yrfReyY4p6Id5qdFUkO1oeByKi1SnH0_wF-fEo.jpg?r=7db",
+            "watchID": "81642928"
+        },
+        {
+            "rank": "6",
+            "title": "Black Forceps: Season 2 -The Devil Surgeon-",
+            "week": "7",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABQAghijXyITdqhE7vjUfYuO5GdOQeeVEnQHTAWdjJ8EzAcMCHLRamE9TV6n1zgMwGx_3IBpNuzeP8PsMgzywt3_hSeh-BbhSFC9e.jpg?r=988",
+            "watchID": "81779962"
+        },
+        {
+            "rank": "7",
+            "title": "【OSHI NO KO】: Season 2",
+            "week": "8",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABSpQcn79rYwClHBuPfGqlew-SLcxZaHwuHQJaCL0jVoNq5MPLffRC8J7wvpmURvfxgFQaBPDYCa0x7TNjzLsY_WcSySIu_XEZ1E2.jpg?r=f46",
+            "watchID": "81789055"
+        },
+        {
+            "rank": "8",
+            "title": "Unnatural: Season 1",
+            "week": "3",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABQKsKNj5ruQ9qIo71SRuRshRmMVFza1z6Ijf0kamgJhyhSiR-8baJK-vO-cZ8TDS4ehGxZo5vD6X7gGHU7PxZfjY-VlQuiBqo8Uv.jpg?r=e4a",
+            "watchID": "81714730"
+        },
+        {
+            "rank": "9",
+            "title": "Chastity High: Season 1",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABeumqBr72gvunXW19ulj_Mq4G0jFw143VF9jyY_EZQ2Tmjz9gnGPy2rc6wEV3K0apYz-o_ZZhatF95TA2zyl6owyVk40jrszx_XlpRQQWU2M0jV2vSG_ALETBOB6cji2ygQbJA.jpg?r=c39",
+            "watchID": "81486322"
+        },
+        {
+            "rank": "10",
+            "title": "Shinjuku Field Hospital: Season 1",
+            "week": "9",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABRzQGRuv32uf26QOljm_SF98QRNE7G1ReTzvOGXC9JJfquNvE5ygRWWdXb_OlRlVXiMI0-lRVttRhShTijIz0fkoAnzHlCMdB5nK.jpg?r=daa",
+            "watchID": "81901152"
+        }
+    ]
+}

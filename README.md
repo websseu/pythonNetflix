@@ -4,22 +4,30 @@
 
 ## Global Top
 
+```
+https://websseu.github.io/pythonNetflix/global/global_2024-11-14.json
+```
+
 전세계 Top10 순위를 수집합니다.  
 영화, 영화(비영어권), TV, TV(비영어권)
 
 ## Popular Top
 
+```
+https://websseu.github.io/pythonNetflix/popular/popular_2024-11-14.json
+```
+
 현재까지 최고 기록의 순위를 수집합니다.  
 영화, 영화(비영어권), TV, TV(비영어권)
-
-## Releasing
-
-앞으로 보여줄 영화 및 TV를 수집합니다.
 
 ## Country Top
 
 나라별로 Top10 순위를 보여줍니다.  
 영화, TV
+
+## Releasing
+
+앞으로 보여줄 영화 및 TV를 수집합니다.
 
 ## 샘플
 

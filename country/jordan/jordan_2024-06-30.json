@@ -1,0 +1,148 @@
+{
+    "kind": "Netflix Country",
+    "date": "2024-06-30",
+    "films": [
+        {
+            "rank": "1",
+            "title": "Trigger Warning",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABfRKN8oNerY_IAOj-1ias2D6EaqlGA7ehI3Gy05HvPfNvsQcFmXHswN5QIashcFbV0fK1V0IzpfEas8FRNeJJe00MDRqWSHv7A_VMLtgZn0cEcComsrDWJJJJXg_CW1t1Ox0hA.jpg?r=747",
+            "watchID": "81064546"
+        },
+        {
+            "rank": "2",
+            "title": "A Family Affair",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABbmT1y_of3q6P7wJI1pgev8M_20cAVwi0FTXfL3t_HXnrQqVsuuHQ6mhxeX_GC5af6vlk-MXI0_2p2rnPYEhJuty41vsbk4Io95RALW7FeKjKKFtUzY5th7p1s9fN67AO035Qg.jpg?r=20a",
+            "watchID": "81361154"
+        },
+        {
+            "rank": "3",
+            "title": "Esabet Azeema",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABaBIdy_hTMrcwrdLMNYQMpMEzSUPsItlnzQ7CuMR1Vu7qrCqEkynJ9jaisDhHLc3VaJzPdCYZ_HrD6iCYGAclgVZdJyUnqfuk0pO.jpg?r=1f8",
+            "watchID": "81782264"
+        },
+        {
+            "rank": "4",
+            "title": "Kiss the Girls",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABeSDw94v_latfagdj44iqsPaXDleRPoHleaDkm0o3YX3d_u8VJEWw8B5Vs2VnTGneGM3XE2-gbfHp8T-cBlT19CMzaBK0WgwNvzP.jpg?r=b37",
+            "watchID": "1180086"
+        },
+        {
+            "rank": "5",
+            "title": "Under Paris",
+            "week": "4",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABXtmnTFNW2ufqG_HKemMqnRjcDx9TIc2WcujLbevQ27q69gRVYtpV7p84uTQAbyzFRUsFu_Lxaig3-W3Q3ziHkQ399ejDgW1ujWESjrYcFIKxGd_Wjm2ONLnzLugzN-HN7Y9Eg.jpg?r=6f7",
+            "watchID": "81210788"
+        },
+        {
+            "rank": "6",
+            "title": "Lohusa",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABZpeyJrHXeBQ6mgZ4Nia1fGpgKJFijjAhauksxxW2tS0p66TK9tUZ6OnySXSuDG0uZrqGMXjhJYuuwGtTYbiWdav01Aq2lcc5JUQ.jpg?r=06b",
+            "watchID": "81724241"
+        },
+        {
+            "rank": "7",
+            "title": "Bahebak",
+            "week": "5",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABac2ee92leITEsfeYTd-5lTZEy5QpSRB3KSOW9dg4DkhgU4-E6hDXyRlG57q8-coPcOR9JJyIMX1qIpb2JP_ieyI4x4-X4eDjEbR.jpg?r=a9f",
+            "watchID": "81684638"
+        },
+        {
+            "rank": "8",
+            "title": "My Brother is up on the Tree",
+            "week": "5",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABU90p_PKe1WbPq-6gEzjBtimZrZmwSjxKh22gLKo1wXglFsWOTILOrblBW_dbG09RGkW0PlxOtcA1HXlSIt2_teDY28WyCshzswl.jpg?r=8af",
+            "watchID": "81767058"
+        },
+        {
+            "rank": "9",
+            "title": "Minions: The Rise of Gru",
+            "week": "5",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABQKivBmmENIOYC4Me9fW9dkmUOF99gxP0ruUc2N--x-JC5deInTtXUErINlhHMwlMVBiCaNRT5Ny3eedjkLF0A87P1oyDNwdXAjW.jpg?r=d25",
+            "watchID": "81198916"
+        },
+        {
+            "rank": "10",
+            "title": "Get Out",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABXXJsOQNhUN_Kup_6ANQ_26Vr4H9yjJpZ7EWR8H8UA1sQxc8bSHuHg1JZl8ZXgNs73pty_2JzZ8QxjtpBadkUw3YzzandWGGExKu.jpg?r=8cf",
+            "watchID": "80149258"
+        }
+    ],
+    "tv": [
+        {
+            "rank": "1",
+            "title": "Bridgerton: Season 3",
+            "week": "7",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABRoZs_OAwr9PbzYFDwxAR6E3LhjIsPcbIXt3tI_jgMWpYQ3jAF47UfD9pcG0JxMJkczozGLtYip7TFPKaRdlUZCq5CugMpc7GyPC7E-90DojSIRwhqL_LeneGhZf6fjlqinb_A.jpg?r=aa2",
+            "watchID": "81487890"
+        },
+        {
+            "rank": "2",
+            "title": "Gangs of Galicia: Season 1",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABas2vAbxJrkRg7iO0i9ppwKM3zbO8IHpeVFksul0HH92R5oWBEQUoN_fz0NbnichCx1gyxQ-Hw6A4Bk5h9UmVN1vHuXMp8fcsh9FmLbHN3OCtBR5Cmqg8aHPLyndrkUOWabvxA.jpg?r=732",
+            "watchID": "81563541"
+        },
+        {
+            "rank": "3",
+            "title": "Supacell: Season 1",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABZNaKobpG4lkc3YQS9bQ_p4TPoEqcwnEQn4L3JfIeg29HXjnKVgpP5vYjP2xtG9RIdJXuK38x05RWi7DkmVHrLiEARE7mGqn7MugHm9EgR4j6TC9o51pCmRZi3ABxHh1HdnXUA.jpg?r=6d4",
+            "watchID": "81316477"
+        },
+        {
+            "rank": "4",
+            "title": "Worst Roommate Ever: Season 2",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABTfLEzp9qoAHk4ghINigjL9Kk5Ky6wCeU1iRavkPKvlcvnslVc4xk4IETDhjqa96j5txsLOa7nj7d3IGq0t0mGcTst49E5qudpwYQOpTrIlmjZr0YNRCxH-RjTQTpxnjDuHqSw.jpg?r=c05",
+            "watchID": "81666859"
+        },
+        {
+            "rank": "5",
+            "title": "Miss Night and Day: Limited Series",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABYlq4iA3V2sbO9UlCFjxGfcpZz84FaLyvMiaNHS2ES0Jg60G5aeb9rlod4WGR2jLzF5GTJdD0QPOUgHoCsqX5-C_wAO4KQwG4H8vdzUKuGLgy3bOUjXydOq-hfgBlsFaEFv-bg.jpg?r=248",
+            "watchID": "81738995"
+        },
+        {
+            "rank": "6",
+            "title": "Raising Voices: Season 1",
+            "week": "5",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABXR4O_AXa2220HIFeSxIDGiG-3dR2V2Bzs29_zSk2zI6qJYFUHWxArWUYKJCrcbvTA25Y-1ckXQwXbIKNoGOa7ofEcd4Hz244a0uUVBXYw02BgiBzFByoBM8EDQWdm6Sc-O1qQ.jpg?r=42a",
+            "watchID": "81557683"
+        },
+        {
+            "rank": "7",
+            "title": "Perfect Match: Season 2",
+            "week": "4",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABQb2Gx2ZC_PYF9BegAdwKIFezqQW_iozSp4RC4Sf0sGxl4VoX6GlF-QuRwCveSgo46TuFjXg1QgVZ_omuFuEM3WTxIX-ImTonAK3PGmji2QlhADidyWcgKR8TDy2RMyCcEErlg.jpg?r=47a",
+            "watchID": "81504859"
+        },
+        {
+            "rank": "8",
+            "title": "Without Warning: Season 1",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABYkpciHvnHP6s6doN-Q5iDi0xT9SSE_Su3R4PD2psNkdbT3nyhaLiDCCGAKcFGtSmv-GgCOtfCtcseBqlGyCQaU0mD2rh2krp962.jpg?r=75d",
+            "watchID": "81782274"
+        },
+        {
+            "rank": "9",
+            "title": "AlRawabi School for Girls: Season 2",
+            "week": "11",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABXFYv-LSyzf0LFvvkHhP3g5AAw8tIXeyWreWmHF3R-WMZx7bcwU4jKKJfKT9B0_jjMt2KW576XFouWCX1m_3sB_SJaUxxaoNJ-xRPzD-pntb1s_Ii4dPGUaODDbZJpBb27M52w.jpg?r=278",
+            "watchID": "81218890"
+        },
+        {
+            "rank": "10",
+            "title": "Bridgerton: Season 1",
+            "week": "6",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABVUCrh2RQdnooDFp40WumRVt3jLSe2mw7YWlUNQdBoXe6dXWmm8GWYGGevyz_Xww81IkKw4yeimLcmfd0vm4WVHnwZdvmoFHP7cyQGhJKM0SS3wuRy_BqaF0vu41iiJD2jinbg.jpg?r=dda",
+            "watchID": "80233012"
+        }
+    ]
+}

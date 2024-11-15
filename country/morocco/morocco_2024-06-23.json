@@ -1,0 +1,148 @@
+{
+    "kind": "Netflix Country",
+    "date": "2024-06-23",
+    "films": [
+        {
+            "rank": "1",
+            "title": "Trigger Warning",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABfRKN8oNerY_IAOj-1ias2D6EaqlGA7ehI3Gy05HvPfNvsQcFmXHswN5QIashcFbV0fK1V0IzpfEas8FRNeJJe00MDRqWSHv7A_VMLtgZn0cEcComsrDWJJJJXg_CW1t1Ox0hA.jpg?r=747",
+            "watchID": "81064546"
+        },
+        {
+            "rank": "2",
+            "title": "Moroccan Badass Girl",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABcPbvZqan2VBaLak1Wo0SQP983L_rOH5o-G6BEEcl3DjRW7eQohm7G3_s48qv4lxTctdo-Iy6ubA9hsR-LKaajYhcCe9mp2ExKpN.jpg?r=84a",
+            "watchID": "81634733"
+        },
+        {
+            "rank": "3",
+            "title": "Under Paris",
+            "week": "3",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABXtmnTFNW2ufqG_HKemMqnRjcDx9TIc2WcujLbevQ27q69gRVYtpV7p84uTQAbyzFRUsFu_Lxaig3-W3Q3ziHkQ399ejDgW1ujWESjrYcFIKxGd_Wjm2ONLnzLugzN-HN7Y9Eg.jpg?r=6f7",
+            "watchID": "81210788"
+        },
+        {
+            "rank": "4",
+            "title": "Dracula Untold",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABW02s3y05YmzNSKqTgK8TW_9t9ojXR0H3-uvLP1jKTCe2MjaooKM6GFrZFPdcuUktHepZLQG8YfNz0EF7q8VjCRbPFaInG-WDTf4.jpg?r=d0b",
+            "watchID": "70305899"
+        },
+        {
+            "rank": "5",
+            "title": "Get Out",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABXXJsOQNhUN_Kup_6ANQ_26Vr4H9yjJpZ7EWR8H8UA1sQxc8bSHuHg1JZl8ZXgNs73pty_2JzZ8QxjtpBadkUw3YzzandWGGExKu.jpg?r=8cf",
+            "watchID": "80149258"
+        },
+        {
+            "rank": "6",
+            "title": "Inheritance",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABf4ifXVZ7Uwjo4PYO7jw3TxKrAcGJhznoTSZuS9vC33se8BMwGHojsNqF2cDUbwOSziCt2CiPaTFiug1adgWT35HtMEENcdb2TKFb2ZMCniuOAfDLL8SwUgIMUKLIbBnqCER8A.jpg?r=cb0",
+            "watchID": "81500431"
+        },
+        {
+            "rank": "7",
+            "title": "Safe House",
+            "week": "4",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABTQdSzpMXn1kRxGtl2z4qWU9tVriojBaI1tqvtL0iOwdWGcrVhT-J-KezIgNyY6BiSTmZsrBzWeW6m8lKfdBhwTQ-NxgJZFyk_US.jpg?r=494",
+            "watchID": "70208104"
+        },
+        {
+            "rank": "8",
+            "title": "Jason Bourne",
+            "week": "5",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABfMpxmPa2cUXh085qvksutHSiMYZTPokWMFtgHTcr96X3uqJ1zwAKM4JvKNLTtEUY2CVuwwqd7UWsb-sfwtJ08aZCk9v2IBSz9_P.jpg?r=f29",
+            "watchID": "80098202"
+        },
+        {
+            "rank": "9",
+            "title": "The Bourne Supremacy",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABQ-u1554pXCpz7HxZcqnPeSIoJ-ir0GMquZ3hts6zG64FvGT4csM-PkJKEN-cB68VzTsozexiLWh86NkMG9eOkF-Hy2-7SA14Sn7.jpg?r=fbf",
+            "watchID": "60036239"
+        },
+        {
+            "rank": "10",
+            "title": "Kleks Academy",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABVYMOalE3ZH1pb6tGTk9Hg4VpSvXiwuLIRrWQnsxgWlNGst8_siUKxXpwddnzdGJj_KjvqbeE73B3Cj6ngStxoSRR0MW0COH69PQAAWR33RiAiUAjC46iWHHLTnN8x8o2Rfohw.jpg?r=ef1",
+            "watchID": "81399299"
+        }
+    ],
+    "tv": [
+        {
+            "rank": "1",
+            "title": "Bridgerton: Season 3",
+            "week": "6",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABRoZs_OAwr9PbzYFDwxAR6E3LhjIsPcbIXt3tI_jgMWpYQ3jAF47UfD9pcG0JxMJkczozGLtYip7TFPKaRdlUZCq5CugMpc7GyPC7E-90DojSIRwhqL_LeneGhZf6fjlqinb_A.jpg?r=aa2",
+            "watchID": "81487890"
+        },
+        {
+            "rank": "2",
+            "title": "Hierarchy: Limited Series",
+            "week": "3",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABeXW9YOtRGxFtqeRi9jo5FF8HKyK__S3gTQ_cLv-ziYooKWBrgQXbh1RoUXFmGE_oWINFepYDIhUzjnxTWAr9Wj5lnTzuf4lf5P34vh7qXAC9MsPe9xtoAGwDcr-AKwu8_1XPw.jpg?r=ec7",
+            "watchID": "81624365"
+        },
+        {
+            "rank": "3",
+            "title": "Raising Voices: Season 1",
+            "week": "4",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABXR4O_AXa2220HIFeSxIDGiG-3dR2V2Bzs29_zSk2zI6qJYFUHWxArWUYKJCrcbvTA25Y-1ckXQwXbIKNoGOa7ofEcd4Hz244a0uUVBXYw02BgiBzFByoBM8EDQWdm6Sc-O1qQ.jpg?r=42a",
+            "watchID": "81557683"
+        },
+        {
+            "rank": "4",
+            "title": "Gangs of Galicia: Season 1",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABas2vAbxJrkRg7iO0i9ppwKM3zbO8IHpeVFksul0HH92R5oWBEQUoN_fz0NbnichCx1gyxQ-Hw6A4Bk5h9UmVN1vHuXMp8fcsh9FmLbHN3OCtBR5Cmqg8aHPLyndrkUOWabvxA.jpg?r=732",
+            "watchID": "81563541"
+        },
+        {
+            "rank": "5",
+            "title": "Perfect Match: Season 2",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABQb2Gx2ZC_PYF9BegAdwKIFezqQW_iozSp4RC4Sf0sGxl4VoX6GlF-QuRwCveSgo46TuFjXg1QgVZ_omuFuEM3WTxIX-ImTonAK3PGmji2QlhADidyWcgKR8TDy2RMyCcEErlg.jpg?r=47a",
+            "watchID": "81504859"
+        },
+        {
+            "rank": "6",
+            "title": "Bridgerton: Season 1",
+            "week": "9",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABVUCrh2RQdnooDFp40WumRVt3jLSe2mw7YWlUNQdBoXe6dXWmm8GWYGGevyz_Xww81IkKw4yeimLcmfd0vm4WVHnwZdvmoFHP7cyQGhJKM0SS3wuRy_BqaF0vu41iiJD2jinbg.jpg?r=dda",
+            "watchID": "80233012"
+        },
+        {
+            "rank": "7",
+            "title": "Geek Girl: Season 1",
+            "week": "4",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABT6SqIGUAkXT5luYidyW_Q-jLWUXxcBNlj369kIKs0uPdIo-k67m6sHhzfs3PPj_A6Wnm7Co02tXPWP-YyZelWWXUVexskw8gxfJ_I79am3bINDQzd_lVL5-R8jO2fRmteLNvw.jpg?r=bb5",
+            "watchID": "81637843"
+        },
+        {
+            "rank": "8",
+            "title": "Miss Night and Day: Limited Series",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABYlq4iA3V2sbO9UlCFjxGfcpZz84FaLyvMiaNHS2ES0Jg60G5aeb9rlod4WGR2jLzF5GTJdD0QPOUgHoCsqX5-C_wAO4KQwG4H8vdzUKuGLgy3bOUjXydOq-hfgBlsFaEFv-bg.jpg?r=248",
+            "watchID": "81738995"
+        },
+        {
+            "rank": "9",
+            "title": "Bridgerton: Season 2",
+            "week": "11",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABaGs3pHDMNMH6ddUyM5g7fROaTQqmPyqYso0f9f_ao9QXD5ov4aAzCe5sCnGUAfYLoeCCCAN77RJBRl8eac9FXX1OFLbMcHuo_AapHZuU8w7Lavpf3Uo1VZlnNMaGOWMG9sx_w.jpg?r=857",
+            "watchID": "81205162"
+        },
+        {
+            "rank": "10",
+            "title": "The 8 Show: Limited Series",
+            "week": "6",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABZMRC6L6jEu0tWAKXEXM7srnZo7-2f0_vq484OfgYT4Kbigfmo9rSDb5kcL9lXmGRfWBfC-KYxitdsfh1zj72lgAI9WVKqGvn-1mtFRGpAHaZT10a6PU3EPa6Qu41PX4ANndbw.jpg?r=c4b",
+            "watchID": "81719584"
+        }
+    ]
+}

@@ -1,0 +1,148 @@
+{
+    "kind": "Netflix Country",
+    "date": "2024-08-25",
+    "films": [
+        {
+            "rank": "1",
+            "title": "Two Blue Hearts",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABTD6667osQN1Q2U9RMO4Edu2nc78rBeqLYxPYiAtjajnfHOS9TpJLHfVc4STV6lY25yrxj374f1PcOW9gBwVH2tVdxVhhVVrQ7kH.jpg?r=81e",
+            "watchID": "81660731"
+        },
+        {
+            "rank": "2",
+            "title": "The Union",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABee2f5a9dXQwZttCn_Aldju3-h56YuCGDfdJ4tG9ENRhFJqGX55aJhrMx5xHuPzEO-BW8x1s5ZbAU7HZRS8VvbLvl7eY02hyqrHI9BeAmhJa9cqfL7sw3EulM8vztL9uMKfvdg.jpg?r=bb6",
+            "watchID": "81282732"
+        },
+        {
+            "rank": "3",
+            "title": "Dancing Village : The Curse Begins",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABe0iQn8fccXfZurvIuR49Y5IjaKh7modFPAlQsiVo78vNJcNSE8ed4QVkrDGQL-akxNri5SSnnEfNoliEL02U_hvN0xR0n15EgbI.jpg?r=a49",
+            "watchID": "81773022"
+        },
+        {
+            "rank": "4",
+            "title": "Maharaja",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABewPoiVNUjq0f2fB88V_2G2NsJ23KqA5RTPZGY_JmmU1uCH20Qrxv-x1313ZpFWnJqP4n21vjwxsfNqfJKnGMpeTs2N67btPDOQB.jpg?r=0a0",
+            "watchID": "81690671"
+        },
+        {
+            "rank": "5",
+            "title": "Lucy",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABTWn2p2yE1kBR4JrAJOdBZ-s8ob1NRey3xm86w8FZ7pqlemLxc_f8LKdR0DS5wNbBJgzK525hjDPTd4CaYFbObJQ81l-B4k13AfT.jpg?r=dbf",
+            "watchID": "70307658"
+        },
+        {
+            "rank": "6",
+            "title": "Shazam! Fury of the Gods",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABdZHKArEZOlw-kk_qPcwNZ45nDHitm3irf9WLWdo-sGVQtlkssPBZ6s1RX507KlZNQbt0b_Cc9IL0BrjQNNa54JV8hk7LXYbhyqf.jpg?r=4a3",
+            "watchID": "81602831"
+        },
+        {
+            "rank": "7",
+            "title": "Ticket to Paradise",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABRu1-y3A4XH21IZTbXBWf50SL6uWx7zST7uPoMf2lUlRm71HQzOKVNsZ8D_RKPIx1MevKMnsbl07et6pbC2CjXSWYLF949bKvA9r.jpg?r=4ba",
+            "watchID": "81598180"
+        },
+        {
+            "rank": "8",
+            "title": "Kingsman: The Secret Service",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABfASWynrLn17jXa_r6wTdfrMghAB9ewFeyOwkZ55EytUWI8hRqdcYyJ4eLjWB7TXEmIJdNgJCOqKMSNN9pNIxiF7HA123o12ybJD.jpg?r=6b7",
+            "watchID": "80013870"
+        },
+        {
+            "rank": "9",
+            "title": "Borderless Fog",
+            "week": "4",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABWlV-lG3NVwFeTQGEAT4vYa2S9532vag7hv7O0zFdwAHkJd2Z-mfEPLW9XHE2_HSQgJLCi9rq0n-StzTnT25OBZ4WlLf7dJRWeWetaMW4sYCvm4dy73SOqUXnX-_Q-jHKn36EQ.jpg?r=8e8",
+            "watchID": "81644947"
+        },
+        {
+            "rank": "10",
+            "title": "Agak Laen",
+            "week": "12",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABeYbuD6e5M-tP5WxEAKj-NPTdP3ZsHsCv9N2WfV5Q8lLfxo_WQKgFdOPz93MgmQVm_H7qRiisDGNtg0lsAdlZg6RvU7ImzdFkGIf.jpg?r=30b",
+            "watchID": "81728111"
+        }
+    ],
+    "tv": [
+        {
+            "rank": "1",
+            "title": "Love Next Door: Limited Series",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABT25jCqSMp3kzsljN3pu_VIfdZMPhibnn0WRdTWMdXExOOc30JKdttdZspcGCLBunoAiI4-Qpl34cDLnLlPMJqhApsUs9wI-_rpPunAg0QKG9Pi1S6OGtK5YC3BROBs1mtZOog.jpg?r=c18",
+            "watchID": "81739045"
+        },
+        {
+            "rank": "2",
+            "title": "Emily in Paris: Season 4",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABd0X1PrB5uIerkNJlglL1IP9oKAs-UP8qKuIc9fp--Tg4b76t4jhsq4p_RyUTg-FNkyeY51TFHmiHxBInkWyQOSEBkdbBDfNRyhNVg3XacH68C_Z0jVUvsC5g6-ab5SlTf-cSQ.jpg?r=4f9",
+            "watchID": "81580261"
+        },
+        {
+            "rank": "3",
+            "title": "The Frog: Limited Series",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABYf8MDY6ectctEt5YJ0OpYCcCyxjbo-7hUUd6HrEPdIZdazC33fvTkSrQ3Ss_CVuu8hKDLSor5pBQWxADFON7z2J3I1cn0CPjQbzr4Wegln_ZN6yAAZA1akD_QQH9CRkIYVKGQ.jpg?r=c81",
+            "watchID": "81654428"
+        },
+        {
+            "rank": "4",
+            "title": "Romance in the House: Limited Series",
+            "week": "3",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABcTeEf3aqqvcqNGDdHCDQ-4hvfC45Ki7Rj7DxhxkwhLM-19xwAxxgPUg2vmSMoB235D1ANn3c67ldeNQCGd2554YVmVb0JsXppn6nPWmS1M5PENS4WhWKaEEpYp0nLz45Oz0dg.jpg?r=984",
+            "watchID": "81738997"
+        },
+        {
+            "rank": "5",
+            "title": "Montir Cantik: Season 1",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABSdd0sgrHbM6AIl7tUP5KtsV_pJqGoDMXVd0UbWQwPEjU3dNFz_D6TGBd1F9l4WUyjxLcP4nNwog6tj3oB-0zFETJ9VUlX1DytW5.jpg?r=7c6",
+            "watchID": "81786351"
+        },
+        {
+            "rank": "6",
+            "title": "Terror Tuesday: Extreme: Season 1",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABcK1U9QyeDlkDrUAd6JvgH4Tqug8vDZEH7pA41kxhxdqVPRQCvU2wRz_wjzXYa0DPXMcqShrqMNhncDt2ziJMVQ05Fca9O19UjcJxH0KA9bFQKtM49hAUS_jMsfW5amRLQ-aLw.jpg?r=a02",
+            "watchID": "81665509"
+        },
+        {
+            "rank": "7",
+            "title": "Lovely Runner",
+            "week": "4",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABVoFjDxRK5yN2fHNfqJq_W2f115N25UESKDE6y8CrpDt8rvuNFfZIwjBpDavPXaDT70e2Yud_erq2YOWkOjT2BiJNE1pPM4v0oCy.jpg?r=cae",
+            "watchID": "81914846"
+        },
+        {
+            "rank": "8",
+            "title": "Kartu Keluarga: Season 1",
+            "week": "5",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABUUw_NUm6lqitkcqXNkTTkXaFU4w8qF8fGQxKfKqQNSeFYsiC-sbYk-3cNlnqoSCHMRtkLC8M1Q6ziJ6fDLKECYEcGueEGC2fAKO.jpg?r=575",
+            "watchID": "81786395"
+        },
+        {
+            "rank": "9",
+            "title": "American Murder: Laci Peterson: Season 1",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABey_6sXk-GP9WoNU7JrSs-5216tq7XKQcKMVDsh1Mg_pekB6276IReUe0b3bempClAdqOhu9hCTXX3INnmKAV_BndM_hZM_I9_9Cmr2g3zdvonG3GvX6pz67zEaV8waoAV9AUA.jpg?r=879",
+            "watchID": "81582795"
+        },
+        {
+            "rank": "10",
+            "title": "SPY x FAMILY: Season 1",
+            "week": "19",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABZn1wbASszdU4unlm6inAqibFwnGzfhj_E2bBnZQhygagy8540zXqZdvsN6pXUFb2M4Lj_pIkaeARrK9foIDERSB-LgLdyl56glI.jpg?r=0c5",
+            "watchID": "81511412"
+        }
+    ]
+}

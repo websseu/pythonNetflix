@@ -1,0 +1,148 @@
+{
+    "kind": "Netflix Country",
+    "date": "2024-08-11",
+    "films": [
+        {
+            "rank": "1",
+            "title": "Minions: The Rise of Gru",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABQmYUNq57YuUGi6HEmXM6Yun1N6XlZ5KekqWKgm82WBD4xTZe4tGQHkJnuhST8lJsgKn-dK50KOBmecBC5nhdvgFgg0HxYDfQhmb.jpg?r=88d",
+            "watchID": "81198916"
+        },
+        {
+            "rank": "2",
+            "title": "The Good Liar",
+            "week": "3",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABbj8HHYAALLSqs7gz8EZ6op3WKSGCVclAIgyzYJAOrgYHtQcpFaMd8qiWEoHJ4mxmR7egl_Hb7irNBzPIlpkTYZdLcIJ-p0R2d4I.jpg?r=95b",
+            "watchID": "80240371"
+        },
+        {
+            "rank": "3",
+            "title": "Ferdinand",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABYN2wApjHguAaDyMO9bRww6ePwWIHAaDrdpJP506Ed8Rva7dgSaw-PFgAfNiGhPmi5Yy02dNOfqBu8oBxCfYDGfbSX9-uyfqisIA.jpg?r=9d0",
+            "watchID": "80191879"
+        },
+        {
+            "rank": "4",
+            "title": "Saving Bikini Bottom: The Sandy Cheeks Movie",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABXTDbyy0gFAcpYuB13Ru5IRsAJqFiYKOKpku3IYDxFkRSaGq2BpoHPUdQ61Qm5Wcom5Zeb4cSEyrqwIwcYkrFshvGnQRBLkgSonYG7gcqDNJ99IeijEbU2Gtc0v-1pA1ncm9aw.jpg?r=eb6",
+            "watchID": "81221340"
+        },
+        {
+            "rank": "5",
+            "title": "Something New",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABQvcLH7rCIdZttOBKs-uh8VOhHgsSk8gy-nPJQupETzpR82rNMIPLYcm4DQ95liLV6zBoOsqn3oI9pavpR8TI1vKFwO3YJ9Os2oh.jpg?r=50c",
+            "watchID": "70044327"
+        },
+        {
+            "rank": "6",
+            "title": "The Bad Guys",
+            "week": "3",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABeLLttVbcrp3kxhQ9YzcT-ToHRlxkUG0O2F0LbsGKNqrU8FQfw7XVCGnAsFR5dQUKhDeJh8AgFtTyVBAjN7AJy4wZQ9Q1f-3Ly8n.jpg?r=2c2",
+            "watchID": "81513703"
+        },
+        {
+            "rank": "7",
+            "title": "Supersisters",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABbYfZMcV1gY0e3glgApxLfmL9EerVv17RmjqdNfOBtdI7Ccgu4tQYG5Inww6X6zfXF4NFVwbkZQYAxFhJ8j34gkP8GnwJBfEX3MS.jpg?r=9b0",
+            "watchID": "81498350"
+        },
+        {
+            "rank": "8",
+            "title": "The Meg",
+            "week": "3",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABTcTqGDCAqYtDS2P8hVDvjiq5eRui8L7i6c6IZqcSa6OlrQTZrOSlS1KfuDTPzXWNA8JjwyPPrHQuN9ZXgYhcJ5nfmCjljtE-EzS.jpg?r=c5e",
+            "watchID": "80237937"
+        },
+        {
+            "rank": "9",
+            "title": "Kingsman: The Secret Service",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABSfRY-OrAVyw2wKh6HfoP6E4zWmxlSTmJHlvy9eTTUAhLB5eE77w3DYVdEe74nhyIOsw8cvK22UbdXGYVSUWC73sIKFjRnRzRgcg.jpg?r=fe7",
+            "watchID": "80013870"
+        },
+        {
+            "rank": "10",
+            "title": "Borderless Fog",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABVpJnbIZyN4mxa8S2aj7fgodlPdk9wR3x_uG8m5ZnJSOmErJ-pS7sBZPA49Z7WhRgOO56K2viJLQINqCMSiIX5ij1WNCi-6fJJQajKg5WeJ-2IVH2-Gx5hX2mG4YqD7Ifq8_pA.jpg?r=270",
+            "watchID": "81644947"
+        }
+    ],
+    "tv": [
+        {
+            "rank": "1",
+            "title": "A Good Girl's Guide to Murder: Season 1",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABS-JwNHH_4n7aLzq7HsEysiBo7ktPlStObEmvB2ezaNBSZICeA8KsvKoIMnyditFDOHnP9VBJ0soE1yF9roWWeuE6V7-S-_b1rkIbhO9GrIgR4BMQ0JiJQHr0xYhxeqzsOxx3w.jpg?r=cb9",
+            "watchID": "81759465"
+        },
+        {
+            "rank": "2",
+            "title": "Gabby's Dollhouse: Season 10",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABdMXZlNj7Qp1f5iDH8HL4dJFO4xEHUtfs_BYEac1gzEGYa4YhHpN8_SQnJEwZj48g9cqI81IJ9kfhaRLJt2eAhupphjefZiU6sEoyCA0oxP5vvUIEwpuYQ0jdlAkPK5fKI8x6Q.jpg?r=9e6",
+            "watchID": "81686558"
+        },
+        {
+            "rank": "3",
+            "title": "The Umbrella Academy: Season 4",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABZfJvtW-c2PJ4fZaGefH7rMUVTEoxIpON5VoEC00ci9WXfZoQ9yT9AOYDTh_zVf5pUKTWEr0_KAhpGEqrfOAdtY_50s4HRZ2ABx_cCOUNg0M-c4DjKNCR5IavbUIQNaYc6Spaw.jpg?r=401",
+            "watchID": "81458844"
+        },
+        {
+            "rank": "4",
+            "title": "Kitty Kotty: Season 2",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABVFPPWeURXcpgmIfRa8iA_BRORyz_vGhgqeVyEasAJnX1f65Gg7yRVRr2I0NLmpN9F5sdBFq_2eCVIi0Mnu8kohgOi9CKsJC9kSN.jpg?r=e06",
+            "watchID": "81685971"
+        },
+        {
+            "rank": "5",
+            "title": "All That Rap: Limited Series",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABYLgwna4pyDG2j8QsYgkq_Wi3XG4KnVJi0NzvagssFZyPXvnp7dtOKi0cCQha6lmAQ4vIcH8e-v33EfzuXnM4D5Z-ZCLTABqQebSX9c83JpPc3qHWlDXEiB--ykPiQZD8BrMyw.jpg?r=17d",
+            "watchID": "81716586"
+        },
+        {
+            "rank": "6",
+            "title": "Kitty Kotty: Season 1",
+            "week": "36",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABVFPPWeURXcpgmIfRa8iA_BRORyz_vGhgqeVyEasAJnX1f65Gg7yRVRr2I0NLmpN9F5sdBFq_2eCVIi0Mnu8kohgOi9CKsJC9kSN.jpg?r=e06",
+            "watchID": "81685957"
+        },
+        {
+            "rank": "7",
+            "title": "Love Is Blind: UK: Season 1",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABfo83TlvGnIoQQffQ_ueHcUWtExsb6P3tsSHL6ajZnZhKZRdBOmvL4s1sPVbFYsJvjtP2LIW5hEb9RqMIDNWCX0D6DABVaK79UXeJGL5MxPJf7qRIQxt3txMw_wc6wAt1NKu0Q.jpg?r=8f2",
+            "watchID": "81676359"
+        },
+        {
+            "rank": "8",
+            "title": "Master of the House: Limited Series",
+            "week": "4",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABY5Zbj6dHUpDFU81nW2lI89FzC7t52ddUt99gkMXkkispuZCmbZlVsN_e91OQp7qFjQ2jrIHwe-vWDNG8w-s-XTSEIRVyAc_kIndkL5Bi9-HyegugqGqtUOLxndw6C0WmCA1IQ.jpg?r=596",
+            "watchID": "81622919"
+        },
+        {
+            "rank": "9",
+            "title": "Elite: Season 8",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABcTz08v2QjtZ_aGtfIN8kQaG67u8XJ__V5-pIodZ0T_FU279k1UPIs9M1_Oa8VhHmPfSSRuBnwqDP2Rd9theQBtOM9UGw4DX6K8duIfaDUGRw6hAW9kqJW0-6FJjp3jJiJOB5g.jpg?r=da6",
+            "watchID": "81675496"
+        },
+        {
+            "rank": "10",
+            "title": "Unsolved Mysteries: Volume 4",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABTv9sHnqVYl84_B_9fcNt9nFr7WrHJSYU0RUp7k7Q_oyRgsVBD4FbvHlbDuOJqhtSRiPWoQlONsEek0MBzIT88XjjDn_YoTqnJISEeCPnBLVDWEB0RBdrvTICfNuZCXL96zUoQ.jpg?r=06c",
+            "watchID": "81427720"
+        }
+    ]
+}

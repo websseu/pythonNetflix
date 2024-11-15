@@ -1,0 +1,148 @@
+{
+    "kind": "Netflix Country",
+    "date": "2024-06-23",
+    "films": [
+        {
+            "rank": "1",
+            "title": "Trigger Warning",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABY5-YpysUCTsSNLUtPSPFZE8rjVVHmjgHSXf3GXQX5CxLX9gIuvhjVdz_0x5Ynyjg7776-e-aJCXE5JjrlXS93UYT0JYw0ohJNCID3i3ckscETdn5KLvKhRdZMBtp4xBKhFSJg.jpg?r=85f",
+            "watchID": "81064546"
+        },
+        {
+            "rank": "2",
+            "title": "Car Crash: Who’s Lying?",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABX8p_HOBXvOGg6hAu-EynDtNSYm05UdUJo0JJKrSYFVoWQGtOFb6pnvkRobAN4DkfCi3f0Q0IoHwBlHrRdVOfHbDe8hgqF39EaZ3.jpg?r=2fb",
+            "watchID": "81769926"
+        },
+        {
+            "rank": "3",
+            "title": "The End We Start From",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABQM6rUPK8QnWOQpa9r05upEX--OU2u5KR2p1obgRZCGP4JJytf7g6pdpLUOxSIEW_StFx7Fe3YuHhjO1L7O6_YVBAt5C6i27lzm0.jpg?r=948",
+            "watchID": "81686823"
+        },
+        {
+            "rank": "4",
+            "title": "Dracula Untold",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABYtdtSEWm1rIVzJotdyJcm4whDItN0XQz2iNRxPmb4zGaCdd0BP13WzuOoNngMvrMI7I3lmcVtifWr3wD9h6S1o0AJSUq2qu-BIi.jpg?r=490",
+            "watchID": "70305899"
+        },
+        {
+            "rank": "5",
+            "title": "24 Hours in Lidl",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABc3q2R10hd-4oLU9c0MKnVSHWfQCkCKxmCx-dCQ-0diHmoBIxz5KVRgVW8oiP5ZDEoUFgrlIvFwQOVSjq-nQpyi4rrKi2it1TO0C.jpg?r=1e2",
+            "watchID": "81710526"
+        },
+        {
+            "rank": "6",
+            "title": "Nope",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABVfSYwVtYFF2da5mnacGS4S_slS8Fme-C6eW_FRr_Jvto9IeBDr2Ig3qPfNVnN0j-75MJnmcVeWHXw9jNz0R_UQmDynZywzWCuCE.jpg?r=7d0",
+            "watchID": "81573297"
+        },
+        {
+            "rank": "7",
+            "title": "Lone Survivor",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABfg7arX1JDZaEhLyUklRywIsqurtJ0f6zBQlhb94VGWqu_AeyqJQBSMAod6ewQFYcpLd63gULYSk2yMeHzI-EV_jWDvt7ukr2OLs.jpg?r=0f6",
+            "watchID": "70259795"
+        },
+        {
+            "rank": "8",
+            "title": "Hit Man",
+            "week": "3",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABWHjHv_zWABZXSRjUwg8wJGrX911s8bYoWlB9_mHLawvoh0GT-prl9gwGVMLjO8ygi6W41dS-J432GTBjxQRabqkwV_ISHnk_I4T97yFzdXyW20MZs5sN7SLVvCINR86ut0kdw.jpg?r=d75",
+            "watchID": "81728840"
+        },
+        {
+            "rank": "9",
+            "title": "Minions: The Rise of Gru",
+            "week": "6",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABc8R4qeLuNP-f_pSaqmHOe72wXBuO_x1oTVg4cx4SCEsan4oSWV7h4hFDrZ7KGMTlGszXMhaMEPjM28DLiuPkEy3fPw4tDBBlDwD.jpg?r=8da",
+            "watchID": "81198916"
+        },
+        {
+            "rank": "10",
+            "title": "The Parachute Murder Plot",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABatSNZA8e5piU4VIXyJPeiuPLmWy57mT7TwU4LuBAQW3EoRSWusai1G11pF96r5XRqeTc-gjZMJa4w3wtFaj5a4iPL2iN8ZRP42l.jpg?r=ac9",
+            "watchID": "81722038"
+        }
+    ],
+    "tv": [
+        {
+            "rank": "1",
+            "title": "Bridgerton: Season 3",
+            "week": "6",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABcUtTyPKKCh6fwPR0UMPrSbh9YKM7tivhz4HR9-ckQQmZX_c4r2Yag1L258oLB5Qc7vjDLGVaSAv8Qti3yGmr4rk8nXzqdyTH1xaOwtA8BP7cJJCvr_TJXqSWzrpym5-Y9Cgmw.jpg?r=5e5",
+            "watchID": "81487890"
+        },
+        {
+            "rank": "2",
+            "title": "Rick and Morty: Season 7",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABVhD1vajTlnl33TScDEeWVyQdkBcVBvS0uCJ4UZQ1W6KdH9NnvGh8XYMCDz8PV-WFXzDH5MCsDVW9vFsVNOyZyyTXTDqEefpSXpl.jpg?r=0c8",
+            "watchID": "81717773"
+        },
+        {
+            "rank": "3",
+            "title": "Eric: Limited Series",
+            "week": "4",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABQBmPbCdnKqe-ZAa2l6fj_r2HirmTm9eyk5H_JkaoXZggkma9ZqfEHG5KtEO2A13phbNcxH3vAMMojhRLzgn0fIVWCEG5A4m6nd6woVaaWEHE-_seL8KdP4F9buxHn8LzlTnWQ.jpg?r=eb7",
+            "watchID": "81284302"
+        },
+        {
+            "rank": "4",
+            "title": "AMERICA'S SWEETHEARTS: Dallas Cowboys Cheerleaders: Season 1",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABXpEIgF_fsezs7x8qzeeU-CVr9XQI6JnEG836EZyFVANWXNDdWoxCDzOAEDCZdiDRPWF9PZp27Ts34oq59bORD9icHWtvIKFdQNk_s3cawGdwA_pjB70FPca1jKFqCjaE0TDCA.jpg?r=644",
+            "watchID": "81685879"
+        },
+        {
+            "rank": "5",
+            "title": "Bridgerton: Season 1",
+            "week": "9",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABSAVAJs8J-wTrx_1rvQf9ldjgDM9vQRkTi0xpszX4UjEjx3CxBs9VswybiqWltrz8Q8QhS5vKlrmOoAmeoI5dV_nnD8kbh3CELLWPCVY5u_FzPoeeucxJNXeM1Ilwo4lNBSjSw.jpg?r=3a0",
+            "watchID": "80233012"
+        },
+        {
+            "rank": "6",
+            "title": "Secret Diary of a Call Girl: Season 1",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABUgRi_rR2BL4k_5gRFO4mkkcM894lJGLxLb_aP1WkM6EE-7nNmaw0if0s2yJ7r391iEj5tx-BHbekynRui1TE_D8neAdNCbSZEqu.jpg?r=a01",
+            "watchID": "70095652"
+        },
+        {
+            "rank": "7",
+            "title": "Bridgerton: Season 2",
+            "week": "14",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABZAiTJcuju3NzdqV4Nx_l_z-MyWnec9fzI5mS6pShUsKiPd1S2F9LQ-QJOPHx3CVoWB4FPtWfvLDNp8m6J13PDZ7uHtRHbwFkJ6eT5W6uYO7xm26KfRtIOdC7ep6mi4ESgD7KQ.jpg?r=be3",
+            "watchID": "81205162"
+        },
+        {
+            "rank": "8",
+            "title": "New Amsterdam: Season 1",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABS-wfsl0FSthr5UrW2hEwDKB5fI4GKd3Fr8zg7oohSAxlcpXrqGm_3ig7eAOpQkFnAoKSVAGCbM1NcYa_WTvoBe6Pb0H-N6OH8ju.jpg?r=15c",
+            "watchID": "81015487"
+        },
+        {
+            "rank": "9",
+            "title": "Young Sheldon: Season 6",
+            "week": "3",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABRRPLixXZCp93Y6n6K3NIZc7Rzkb6YvA5j_msy7eFu4Bpci1P3V4gef43p0umHpj9Iah4LJVmHHdvMikKFs8MVjlb9NGq4PkWnxJ.jpg?r=563",
+            "watchID": "81629775"
+        },
+        {
+            "rank": "10",
+            "title": "Sweet Tooth: Season 3",
+            "week": "3",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABRF-0kdBws1-m6j8N-A7HQyiqIu02SR40HK5jq6i7FMWtnUZPju-Th2N1ABK0n8u-Ziil2XocSgcN2Exahw-VTvm4aFMghwRv79YYv2CbtoaRnAfcX4NPb7v-jEOVz2RJRgOzQ.jpg?r=9a1",
+            "watchID": "81502538"
+        }
+    ]
+}

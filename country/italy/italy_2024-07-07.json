@@ -1,0 +1,148 @@
+{
+    "kind": "Netflix Country",
+    "date": "2024-07-07",
+    "films": [
+        {
+            "rank": "1",
+            "title": "A Family Affair",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABUvm_3NSc5ybH-LVLeWNnB4gABM8Kj1d_eaUXq9kS_7jZl6qVPTQkJp2eacoKDy2-Qvz46XIhzvAAtN5ehEo6MMo_fPhBNy1CLlbe6R2wBNy5kvsaVsPgYt9mp1Qk24WMjXfrQ.jpg?r=11a",
+            "watchID": "81361154"
+        },
+        {
+            "rank": "2",
+            "title": "Beverly Hills Cop: Axel F",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABTi50sEFcXLS50NZb-HEmQACmCEKO4tf916SQNgmUNNxyvH8-9FnfSOnYZsnMD7nwaDqahIziQWFbUrzwa0xCDeNfjLswm1D57DAyRxFHABj8Wye0uGClcwgfbIBy4XhCxM7fA.jpg?r=a76",
+            "watchID": "81076856"
+        },
+        {
+            "rank": "3",
+            "title": "Il Grande Giorno",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABRRuTbKmBt5WhGRp6dLtVe0fxn6f7LGBUZNoKYxW6dqliE-QxZAPLg3cCvVLXHLY-xYPLMWlcrQeSF9j7SzpbkhFgLsgb-GuQCmf.jpg?r=2c9",
+            "watchID": "81704411"
+        },
+        {
+            "rank": "4",
+            "title": "The Croods: A New Age",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABdQ5AYgceYn2h8QHXfvgBXzsnWZ4137v8pyn9sc8m-rB4dCd7cRodem1IS8W70jEsZ-WAKpLxL7rXtAT9XXTBSNcRLo3NbYXanwJ.jpg?r=e9b",
+            "watchID": "81199142"
+        },
+        {
+            "rank": "5",
+            "title": "Lakeview Terrace",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABbFQ-ePL6GvD8JXyJApBCE_BtdgHsO9OhiQT0pdeGtplB7CPpKheCMppUn4F6_PkJweSWHFzx4n-fhQfJfCeAqzYoEcvt-GX2aX8.jpg?r=362",
+            "watchID": "70098896"
+        },
+        {
+            "rank": "6",
+            "title": "Where the Crawdads Sing",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABRk5wA3T6DF1v8Vcb7CbflmE3Yy6qmq1qZnQMBwM3EYl1-8uXYW4lB2jPS1fAUn0iT73jLB7rsBv40lq3kD0aJgccdXQlYFpHj_e.jpg?r=8b4",
+            "watchID": "81564396"
+        },
+        {
+            "rank": "7",
+            "title": "F9: The Fast Saga",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABUpUxUvehMJdg7hCVQaRCmh4WXduUxpUc5yMhroa6dDCzkOh0-oSIR_P1aLb5K5ltR7UaJV2-1Ba_2petyuMXyCKZOD1E2pQk89z.jpg?r=259",
+            "watchID": "81198900"
+        },
+        {
+            "rank": "8",
+            "title": "Percy Jackson: Sea of Monsters",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABaTNmveKCr0ECLwFx6_pUSTxbImPxPDU1XDdRKWI1QIbQhntxCmKW3D3oFX1AZa-gmZDp-Sxh61zdagZ4CArx4FgRnqsETx0gEvW.jpg?r=fee",
+            "watchID": "70243343"
+        },
+        {
+            "rank": "9",
+            "title": "Percy Jackson & the Olympians: The Lightning Thief",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABTlmCum9GcPFdRM4VJKvmKwpQwKRWRawmYOyTxoBgzwyoeN1kTBnffzYYKGULbimJAmYrgXyQY_6Gt9UtOt0xgb8lXLLqFf0HOfk.jpg?r=e4f",
+            "watchID": "70120525"
+        },
+        {
+            "rank": "10",
+            "title": "Trigger Warning",
+            "week": "3",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABY5-YpysUCTsSNLUtPSPFZE8rjVVHmjgHSXf3GXQX5CxLX9gIuvhjVdz_0x5Ynyjg7776-e-aJCXE5JjrlXS93UYT0JYw0ohJNCID3i3ckscETdn5KLvKhRdZMBtp4xBKhFSJg.jpg?r=85f",
+            "watchID": "81064546"
+        }
+    ],
+    "tv": [
+        {
+            "rank": "1",
+            "title": "Supacell: Season 1",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABb97Hy-FO4uZicM-R4T8A2Ux01hljhlEQS7caAVJrvay_Gyg6ZMpY_qv7rv2vakmW_zOvupEUS2TStLOMrZcjWmjbuTML0fyxgJtR_E1PRgJgbM3FAJdZ8ujorhj33KPt0eD9Q.jpg?r=042",
+            "watchID": "81316477"
+        },
+        {
+            "rank": "2",
+            "title": "The Turkish Passion: Season 1",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABddJTFipXcnUzDdlGJ3Vj6RBVJZOE9PsOJaZKNDqqpr-MVmxHjIjD7a3tk5cV3lBbflnxZVqzJTGtDEVbQ_GMR6IpWzJ90Ggc4hW.jpg?r=cd7",
+            "watchID": "81700631"
+        },
+        {
+            "rank": "3",
+            "title": "Bridgerton: Season 3",
+            "week": "8",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABbK__KscGNQbdIwl7BTzQI4mzShpo1HcARCcfQZTfelCNvkEK35Af2jB55fO_YbwnfJOS_lz1XbJ0b40Jf_cbbTkly3TsG2vt2uipNFmkFoKqki27hpnyW4jEp_ROl4Mp1zbyQ.jpg?r=71b",
+            "watchID": "81487890"
+        },
+        {
+            "rank": "4",
+            "title": "La Linea verticale: Season 1",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABdPUaoU5DJTHatMI0KE9TiZGKRXgJJHOF5sjVcpCfGshxctXa6yb-Hq6MAI2TiFXenonu77Xkn2w-OdvuMg3P-h9U4OrAX0gVi-A.jpg?r=dac",
+            "watchID": "81734152"
+        },
+        {
+            "rank": "5",
+            "title": "The Rookie: Season 5",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABSRhXipHozQoxR932RqLPnVH1foWkEZLV5sJIvYb3Z0VWy1MXe9yc95ekDCmMXf1cH6fGFvfqLJFjK3_PYzbWLBW-zJWP7zpV6Ur.jpg?r=2dd",
+            "watchID": "81736760"
+        },
+        {
+            "rank": "6",
+            "title": "Gangs of Galicia: Season 1",
+            "week": "3",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABbymFrZj7DvZdIchK0Q90vzVvfadYDDqEcvqM4EVvqSWn2yB2Ew3gOL-vjp_CH1ZeiJlFeBOemfElVdeLNj0nOEASA4K_H_Woi-SVh27_4UtFlRmMhmAABQ2Ep3wW8x8pjc_lg.jpg?r=d96",
+            "watchID": "81563541"
+        },
+        {
+            "rank": "7",
+            "title": "A Body that Works: Season 1",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABbEAr4ilsm6jaMmvyshC32Ku-IaOySD-sb-zwvKBLlzEF2ERXCqoAPi6v5UpxRnN5Qu1kmmeOqZMZOMcohCVoR09LQf34qtpcM1C.jpg?r=4fb",
+            "watchID": "81729800"
+        },
+        {
+            "rank": "8",
+            "title": "Raising Voices: Season 1",
+            "week": "6",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABeo5Z1deJYG2MUwowIABaD50yf4SaSNJtgyIFjBu7uEGzv2OyVRpkLpHBTzc9khhDAWTjrLUkNwzhbRCwtkyEEG7CTBwAW_JWjIGGGCee3Nn1ls4a3GJYIg6UAsTsQUEZQHMfg.jpg?r=231",
+            "watchID": "81557683"
+        },
+        {
+            "rank": "9",
+            "title": "The Man with 1000 Kids: Limited Series",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABQrqVDx4k16zPEtdXGGR8qhxNYSTE_iUKG4qb1S1iQ2b7JnD5bgntkUW5Gom7OXbjxOjySK0crrbkvxMJrY5guCR1YKUPhKC5MxmmO7NkHH5oikOjQPwHSiTZrnlQHPtn86Dug.jpg?r=46d",
+            "watchID": "81653510"
+        },
+        {
+            "rank": "10",
+            "title": "Geek Girl: Season 1",
+            "week": "6",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABa376kFROd3vTyC5oRvMUd8KGfVfOReHFY7mf77m5K57G32RCr6uoJnfODMifEgSCRUV8cznKqUWYlcQ49DxWphUfI1KtXb3aguIcFFXZDThg9jMzyyNq_Ot7zXj2ZigFpTXHA.jpg?r=895",
+            "watchID": "81637843"
+        }
+    ]
+}

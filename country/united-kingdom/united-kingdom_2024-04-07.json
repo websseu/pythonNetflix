@@ -1,0 +1,148 @@
+{
+    "kind": "Netflix Country",
+    "date": "2024-04-07",
+    "films": [
+        {
+            "rank": "1",
+            "title": "Scoop",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABaPvI3eovfrg4DtbQFpIbggAQNv7Pujr7Haooa2Fq5rSoGusEHF40BvwXQDrwvEek_Mb5hd3uj5r0sk9C5V9dyfUh26Dh2zQetsxQR40djDdHaiiSb5Za9c7tA0127JJRG6bQw.jpg?r=15d",
+            "watchID": "81600418"
+        },
+        {
+            "rank": "2",
+            "title": "The Bad Guys",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABRniME-HasRI23PQ-eTC_nJFh4xeWuvnyc7IT7M868s0t3-7DwaIlGijtvsgv2WSZNWbKpjRbb1u29GdOXIfRP8W5vWAun8SNkds.jpg?r=a6e",
+            "watchID": "81513703"
+        },
+        {
+            "rank": "3",
+            "title": "Emily the Criminal",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABUpkFpxWHbw5eDdcCU1iQBCntrmomNjkq2mKTa2ZeD8yKJlZn0iCP-6UHFqqXXd_8ulslRek2zLlGqdzO9P0Y570DN221cSJ8x0y.jpg?r=e3a",
+            "watchID": "81586728"
+        },
+        {
+            "rank": "4",
+            "title": "The Beautiful Game",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABaJL_BTXbErjWDY_31-069c6r0RKpUjBVUtAImwpNa_I6I-aOBF_tQGDJTYOuPEyIlc_6MdUZrUaOG2ltsffnOVJqbHz-tUjPkyHLcqF8WmXOhV0KH5KjsCpkEXT4_dFCoxaSA.jpg?r=9e3",
+            "watchID": "81001287"
+        },
+        {
+            "rank": "5",
+            "title": "No Escape",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABcChaBq3zdCOF7yZuNMdz14QaA_iBwfTvfmTjx9GhzB9kTnHPYAhJZL1cn4om8zrB2emOEVkCbcEBIIQkgRMEEVD-KjPKqA_bGf0.jpg?r=5bf",
+            "watchID": "80016589"
+        },
+        {
+            "rank": "6",
+            "title": "Glass",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABYdfNNtW1soH6ibZFtj7IU_q4Kgh7ewvHgwWwMp2wZhrWBjjN-Qmz0-SP4TMp_g3gOXyb3G2bAgEk1FWQ6e-77V331iBzn9tDQ4h.jpg?r=93d",
+            "watchID": "81011819"
+        },
+        {
+            "rank": "7",
+            "title": "Top Gun: Maverick",
+            "week": "3",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABZ6A9lHS8QGabtZO43tExb5lXRThOGQkuMj6KHTSWLufVgaKy_G32ECikD3fDoCCIPSJopprlYdXHBUIh2jPbIoXrUXe9iSz5cs1.jpg?r=67e",
+            "watchID": "81198910"
+        },
+        {
+            "rank": "8",
+            "title": "The Wages of Fear",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABXL7T5tHzZJ-HEq28km34dL4Elhby1fj_nvDoJ2EAURmH_yVeYIvY3Z0gVjaekhNj1gPHDY9oAxv1ZlMK4u3LUUIb4kiI5V5IX_b25Aa3YyKpm4ZAfyXSu1yoJf1PNyFZDiTPw.jpg?r=43e",
+            "watchID": "81654966"
+        },
+        {
+            "rank": "9",
+            "title": "Good Luck to You, Leo Grande",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABVHCxD1TGoOrZDg0k2XtiyjT9D6o6LOKInfZcEYaTeF3CARpI_SMlHCbDF8orjKEI3tsVUQE3V02w_I4szKigvUd2Vi9jj43XOL5.jpg?r=81f",
+            "watchID": "81582346"
+        },
+        {
+            "rank": "10",
+            "title": "Eight for Silver",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABVBosTfFOGk6Vk4UU87I7iGPBaN_pETTbic183PFSOW7JaYHulJWATvOw9dsTxRvAKlV8zNzv0H4136SiAethymAv6L9HAjJXrVp.jpg?r=d83",
+            "watchID": "81427440"
+        }
+    ],
+    "tv": [
+        {
+            "rank": "1",
+            "title": "The Gentlemen: Season 1",
+            "week": "5",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABauUQLylG3yCkOwEKD5OsH6Uc5tVXHHeLrNPAUGPtJ8tQ93wc4zez59EzmC9T5INZRjrstMJGWelzw06ce-OuF_cvVtuXsk2OwDlYntoa1aglTwBY89x6-BMjuYql2T6SHhTpw.jpg?r=0ad",
+            "watchID": "81437052"
+        },
+        {
+            "rank": "2",
+            "title": "Cleaning Up: Season 1",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABdn6FkhyNFke34-0TJh347C_sK3UCopz5CPo80lFXf88s_5Q4jQAgQNU_Dp1dT02GM-ThDDG-e4EE9HVnI2X3D0tkG53MHucTfpu.jpg?r=69c",
+            "watchID": "81759108"
+        },
+        {
+            "rank": "3",
+            "title": "3 Body Problem: Season 1",
+            "week": "3",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABRBh0CR3UDhpAsJdF035oxXePYY7OYdtywBazZ-fh-2bFqjKSbPOSmBgqqGEWiYZ0kpAFnRT4zBz2Hf2RJrf8JdvgLoePXwiUlOBJ6I10Fq4ibLaK7xepjTr-X-G8LwKpJIFyg.jpg?r=321",
+            "watchID": "81026318"
+        },
+        {
+            "rank": "4",
+            "title": "Together: Treble Winners: Limited Series",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABS7XLIxA8j2g1lOQoYgW6wkVEoDCO184qMafOkcR7fmsFTFo0qxpZ3YEdl_4ZADxBx-wqI1bj1IFtG46spPAfbbXlORSgLRJ9qP7.jpg?r=d07",
+            "watchID": "81733187"
+        },
+        {
+            "rank": "5",
+            "title": "Files of the Unexplained: Season 1",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABaTmQ47cLFjjVIK6US-aebbG1ISEfel1gbzxJax6vdIqytnp_heooVPiMyXgStoayWU5eY9qjSDXP6o7-DaP1VqES_9-lyOlCOfi_xSPFsVEus4iU3ZEW3R4jbGIjlwKQFdQhQ.jpg?r=9f1",
+            "watchID": "81593882"
+        },
+        {
+            "rank": "6",
+            "title": "RIPLEY: Limited Series",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABetl_XJVvxLCLPBS_x6bgKi0eLW2XirBOxqjEZn4YaYeC3Ndy1MdPr2AS0kWA2Ex-gV9Q6sNXfbTFDhpNhqPju00ntv30EakbxuaAirtsXW_JKrTBPCAIzgwOOqWVmk88Ocabg.jpg?r=fcc",
+            "watchID": "81678766"
+        },
+        {
+            "rank": "7",
+            "title": "Bad Dinosaurs: Season 1",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABc2ei08tmpUNAObqMVn711kp27PRKXreEAiGF_UyXjDc9mnxppOUSNOsDPES8frEFxEZ_ZfeCNIrj3KfMzNxVJZuP8u1g5fn3wq9wSZVbwO9OnwonWSNzZOgsti-hYNWL-l-uA.jpg?r=c87",
+            "watchID": "81301888"
+        },
+        {
+            "rank": "8",
+            "title": "Dexter: Season 1",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABU_VOOrKfxL9c4UujsYYVWlLTnMCLDp8VvJELxfGWm-_02Ehmbft8rJ4LknUUQtQk3RryzZ8umPWELtZhp15pmxJ7sONt7hpX_V5.jpg?r=2ba",
+            "watchID": "70058399"
+        },
+        {
+            "rank": "9",
+            "title": "Is It Cake?: Season 3",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABbkynLakKKU0R2B2BbLkV4OGAq45u_YWPrcCT-k8zi-F2VLCpOROWxh9Ir2QX4D_8IU8wTfHGmm0r1UggREA4n59Bcu8OooJkXOFBWiDI6hcqnSQe1XxtPnjtwbKVxuhNkr71Q.jpg?r=705",
+            "watchID": "81617943"
+        },
+        {
+            "rank": "10",
+            "title": "Homicide: New York",
+            "week": "3",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABX9xCwEvbdnsdF7rrcSQJVJBXOzq06jRpGUrBIk9XJiB6R28RWg_61oyyufVEUGbgaapgQ-RXHCx61jPVzowdw0dEP0cZ9nVXcrkmYOYqr_PeBh2RMJsrhzz6MDsUvp9jqtRpQ.jpg?r=a2f",
+            "watchID": "81562384"
+        }
+    ]
+}

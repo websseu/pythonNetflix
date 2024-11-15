@@ -1,0 +1,148 @@
+{
+    "kind": "Netflix Country",
+    "date": "2024-06-30",
+    "films": [
+        {
+            "rank": "1",
+            "title": "Trigger Warning",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABY5-YpysUCTsSNLUtPSPFZE8rjVVHmjgHSXf3GXQX5CxLX9gIuvhjVdz_0x5Ynyjg7776-e-aJCXE5JjrlXS93UYT0JYw0ohJNCID3i3ckscETdn5KLvKhRdZMBtp4xBKhFSJg.jpg?r=85f",
+            "watchID": "81064546"
+        },
+        {
+            "rank": "2",
+            "title": "A Family Affair",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABUvm_3NSc5ybH-LVLeWNnB4gABM8Kj1d_eaUXq9kS_7jZl6qVPTQkJp2eacoKDy2-Qvz46XIhzvAAtN5ehEo6MMo_fPhBNy1CLlbe6R2wBNy5kvsaVsPgYt9mp1Qk24WMjXfrQ.jpg?r=11a",
+            "watchID": "81361154"
+        },
+        {
+            "rank": "3",
+            "title": "Kiss the Girls",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABZlciYVBL5c2JQz082uadSvf0Zk-ZLJDJ1aV22b_reDR2x4hqeaNNhhMiRPs2IB7_vY5ZjYeDbywwZHpusn2iAbB0wm5GqEc12rb.jpg?r=4cc",
+            "watchID": "1180086"
+        },
+        {
+            "rank": "4",
+            "title": "Inheritance",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABa_gyoQ7c41Dk5dlXTmKXlMkYUmw5QuicTsf_WlixUKINCdxSz7Is7GYXlLpM3GrAaiTiJR6_RH5WjZxhIOzcYqM9foenPMIIQ-WalaM_W0XKG05aHGiuGjHWoFFc3UTqYG-Gw.jpg?r=e05",
+            "watchID": "81500431"
+        },
+        {
+            "rank": "5",
+            "title": "Minions: The Rise of Gru",
+            "week": "6",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABc8R4qeLuNP-f_pSaqmHOe72wXBuO_x1oTVg4cx4SCEsan4oSWV7h4hFDrZ7KGMTlGszXMhaMEPjM28DLiuPkEy3fPw4tDBBlDwD.jpg?r=8da",
+            "watchID": "81198916"
+        },
+        {
+            "rank": "6",
+            "title": "Ticket to Paradise",
+            "week": "4",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABRu1-y3A4XH21IZTbXBWf50SL6uWx7zST7uPoMf2lUlRm71HQzOKVNsZ8D_RKPIx1MevKMnsbl07et6pbC2CjXSWYLF949bKvA9r.jpg?r=4ba",
+            "watchID": "81598180"
+        },
+        {
+            "rank": "7",
+            "title": "Beast (English)",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABVOYUn0mplYbNLia4Wumqa7WCI4ha7wLMnTVRBBUpeFDpHs_b-_InAAv4oltucTikcMV-ni0WX30_BW_hWzs3uVYW53NQTZxXAow.jpg?r=863",
+            "watchID": "81579532"
+        },
+        {
+            "rank": "8",
+            "title": "DC League of Super-Pets",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABfiHnRcik6kY7jRS5eYvUxyqkuGzuYJCIQaiSfdgGgLup1Log0giRMN29_w_ztgrmSbLj5XSWI2qFbRBbDqEIhP8HxxCE2A92pwP.jpg?r=1a7",
+            "watchID": "81489833"
+        },
+        {
+            "rank": "9",
+            "title": "Get Out",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABSUhk7kKAeUNtW5NEr-Tn9TJ3TPflvaf7VOg9wwif-7xPuN_btpfOSM2Bn9FQPcogmHx05Hk3dEieQzBZDy_kuyHNSxqkR9ZEcj3.jpg?r=6a7",
+            "watchID": "80149258"
+        },
+        {
+            "rank": "10",
+            "title": "Dracula Untold",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABYtdtSEWm1rIVzJotdyJcm4whDItN0XQz2iNRxPmb4zGaCdd0BP13WzuOoNngMvrMI7I3lmcVtifWr3wD9h6S1o0AJSUq2qu-BIi.jpg?r=490",
+            "watchID": "70305899"
+        }
+    ],
+    "tv": [
+        {
+            "rank": "1",
+            "title": "Gangs of Galicia: Season 1",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABbymFrZj7DvZdIchK0Q90vzVvfadYDDqEcvqM4EVvqSWn2yB2Ew3gOL-vjp_CH1ZeiJlFeBOemfElVdeLNj0nOEASA4K_H_Woi-SVh27_4UtFlRmMhmAABQ2Ep3wW8x8pjc_lg.jpg?r=d96",
+            "watchID": "81563541"
+        },
+        {
+            "rank": "2",
+            "title": "Bridgerton: Season 3",
+            "week": "7",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABcUtTyPKKCh6fwPR0UMPrSbh9YKM7tivhz4HR9-ckQQmZX_c4r2Yag1L258oLB5Qc7vjDLGVaSAv8Qti3yGmr4rk8nXzqdyTH1xaOwtA8BP7cJJCvr_TJXqSWzrpym5-Y9Cgmw.jpg?r=5e5",
+            "watchID": "81487890"
+        },
+        {
+            "rank": "3",
+            "title": "Supacell: Season 1",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABb97Hy-FO4uZicM-R4T8A2Ux01hljhlEQS7caAVJrvay_Gyg6ZMpY_qv7rv2vakmW_zOvupEUS2TStLOMrZcjWmjbuTML0fyxgJtR_E1PRgJgbM3FAJdZ8ujorhj33KPt0eD9Q.jpg?r=042",
+            "watchID": "81316477"
+        },
+        {
+            "rank": "4",
+            "title": "Maestro in Blue: Season 2",
+            "week": "7",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABT01Iy96d-igzyqOk-TkUOqvnVJFJKL8dh9-09b0hgWD2EB5W2Jz9qAymopYiSAibSUEYoUNOI-ZVezlpe9HiLLDj1ZxTJLqTXxr.jpg?r=d60",
+            "watchID": "81739392"
+        },
+        {
+            "rank": "5",
+            "title": "Worst Roommate Ever: Season 2",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABY1fbRjXUA6likUTHorIbaeqBoa5x10sRwa-rV1CTNAiTIvdgcvSl2aR3JyVued6RDxZaSuTzI2k8MAdaL_Y_MV8W6USrQnDznBfraqsN9Kqwhxtl_pFJJ3liPUSkJBIsVMp6g.jpg?r=d03",
+            "watchID": "81666859"
+        },
+        {
+            "rank": "6",
+            "title": "The Turkish Passion: Season 1",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABX0ZH76Pj74-Aqz6hCDN5EELHEASUGuYE513qrsf_4ofamT3mEjXJautizsWlUbO4juZaCRiIya8JeKNykVOYIYGgPJSfy1FBcF1.jpg?r=55a",
+            "watchID": "81700631"
+        },
+        {
+            "rank": "7",
+            "title": "The Clandestine: Season 1",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABew4m-J4LEWcii7Ej2OxPL6lekS6utIb-i8PHGGCV0bhhL7Eq_4tCyJ6zKAgBckQSineMct0bSfkAsPL4E6Kx6J9bqt_RyrOx-Ak.jpg?r=d60",
+            "watchID": "81668058"
+        },
+        {
+            "rank": "8",
+            "title": "Geek Girl: Season 1",
+            "week": "5",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABa376kFROd3vTyC5oRvMUd8KGfVfOReHFY7mf77m5K57G32RCr6uoJnfODMifEgSCRUV8cznKqUWYlcQ49DxWphUfI1KtXb3aguIcFFXZDThg9jMzyyNq_Ot7zXj2ZigFpTXHA.jpg?r=895",
+            "watchID": "81637843"
+        },
+        {
+            "rank": "9",
+            "title": "Raising Voices: Season 1",
+            "week": "5",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABaR2b_JrjmTSb9uwmQsx6BZo98Er95mpFoMO8f7R5MQYeUsBVNKWPAvkOdHdp2PGHy9TU7VDm3Kw7PSqo-3qnshwlKTl0kyA4PHEKDHS6T1mFSqfBGNInpnj9nRXQuz5f3Gxgw.jpg?r=766",
+            "watchID": "81557683"
+        },
+        {
+            "rank": "10",
+            "title": "Eric: Limited Series",
+            "week": "5",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABQBmPbCdnKqe-ZAa2l6fj_r2HirmTm9eyk5H_JkaoXZggkma9ZqfEHG5KtEO2A13phbNcxH3vAMMojhRLzgn0fIVWCEG5A4m6nd6woVaaWEHE-_seL8KdP4F9buxHn8LzlTnWQ.jpg?r=eb7",
+            "watchID": "81284302"
+        }
+    ]
+}

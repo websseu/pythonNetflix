@@ -1,0 +1,148 @@
+{
+    "kind": "Netflix Country",
+    "date": "2024-07-07",
+    "films": [
+        {
+            "rank": "1",
+            "title": "Beverly Hills Cop: Axel F",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABVHRX5QNG8si5IVEruzPSHdKkYUAoDNfW248MH5d3p8PHRpzVtug_8SmmLbNvoFgcT59A0Oh8HqrguDiBwoHvI3xXOWrZO1L4rH0kHNyPh9HrIMb50GiFc-SzQvFB_IbOWThRg.jpg?r=492",
+            "watchID": "81076856"
+        },
+        {
+            "rank": "2",
+            "title": "A Family Affair",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABUvm_3NSc5ybH-LVLeWNnB4gABM8Kj1d_eaUXq9kS_7jZl6qVPTQkJp2eacoKDy2-Qvz46XIhzvAAtN5ehEo6MMo_fPhBNy1CLlbe6R2wBNy5kvsaVsPgYt9mp1Qk24WMjXfrQ.jpg?r=11a",
+            "watchID": "81361154"
+        },
+        {
+            "rank": "3",
+            "title": "Percy Jackson & the Olympians: The Lightning Thief",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABTlmCum9GcPFdRM4VJKvmKwpQwKRWRawmYOyTxoBgzwyoeN1kTBnffzYYKGULbimJAmYrgXyQY_6Gt9UtOt0xgb8lXLLqFf0HOfk.jpg?r=e4f",
+            "watchID": "70120525"
+        },
+        {
+            "rank": "4",
+            "title": "Percy Jackson: Sea of Monsters",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABaTNmveKCr0ECLwFx6_pUSTxbImPxPDU1XDdRKWI1QIbQhntxCmKW3D3oFX1AZa-gmZDp-Sxh61zdagZ4CArx4FgRnqsETx0gEvW.jpg?r=fee",
+            "watchID": "70243343"
+        },
+        {
+            "rank": "5",
+            "title": "Trigger Warning",
+            "week": "3",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABY5-YpysUCTsSNLUtPSPFZE8rjVVHmjgHSXf3GXQX5CxLX9gIuvhjVdz_0x5Ynyjg7776-e-aJCXE5JjrlXS93UYT0JYw0ohJNCID3i3ckscETdn5KLvKhRdZMBtp4xBKhFSJg.jpg?r=85f",
+            "watchID": "81064546"
+        },
+        {
+            "rank": "6",
+            "title": "RED 2",
+            "week": "3",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABeL2fHDMsF8qdxbu6MjPVKCfTzHFwSQkrN767x_CWALtxD6Y0uZmIwNgM3ruz-VjH6DY5JFY2zUniIL7kpkV0dn4UkkJy4OlQuQ-.jpg?r=9bd",
+            "watchID": "70269489"
+        },
+        {
+            "rank": "7",
+            "title": "Mvera",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABaaAAmdDZvsM3YfopnUV9KdJoGDbQfElyUIR4fHkXUFKsGa_Zln_QHQhGNS0QFHVIip8kPwusIruj7ZqjBSXflE9oOKw57tjmmaS.jpg?r=71f",
+            "watchID": "81781994"
+        },
+        {
+            "rank": "8",
+            "title": "Miraculous World: Shanghai, The Legend of LadyDragon",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABcMmWHHxgo77vJN5Yix-ZzundrMNfVW_rrbl9LzMt-DuOsjksaBfOCNbhOgQNxQ1S9Kt_6bi8TGt_q8Iso_gvayI87Dm_160drfQ.jpg?r=c5e",
+            "watchID": "81754916"
+        },
+        {
+            "rank": "9",
+            "title": "Blockers",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABQiKgozAXEJ7_COzNRbhJwRVZJVVyNz-IYhKzbqwIyYgs3KDR-NULU7SoG6ROPfTzbuHKsGWhcpL0EUI1G5x8MRQ6OPuKCFKNBG0.jpg?r=766",
+            "watchID": "80213295"
+        },
+        {
+            "rank": "10",
+            "title": "The Hard Way",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABUxwrbVmlqUOnveOST2pa5G_3bbO0tM57jG91IA7ltI7YAGVKEjZL8sb983f3hVuyWYFriQXwPXDiyHRIc56f5hxOHnwy9ihnBp3.jpg?r=e86",
+            "watchID": "80200961"
+        }
+    ],
+    "tv": [
+        {
+            "rank": "1",
+            "title": "Supacell: Season 1",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABb97Hy-FO4uZicM-R4T8A2Ux01hljhlEQS7caAVJrvay_Gyg6ZMpY_qv7rv2vakmW_zOvupEUS2TStLOMrZcjWmjbuTML0fyxgJtR_E1PRgJgbM3FAJdZ8ujorhj33KPt0eD9Q.jpg?r=042",
+            "watchID": "81316477"
+        },
+        {
+            "rank": "2",
+            "title": "Savage Beauty: Season 2",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABS6wDdJZ_or76JIJ3AokwSmgIeVLgzVOOqOfaAMC0k1SjD2n1dGOowWHgqXIZODuQxO5MnoI20XtNuBBBAlW8qkTlmxJwsR3Yn3h8a2ycA4ap5VN5GtgjV1ORP8y_U7b5BPBvg.jpg?r=f0a",
+            "watchID": "81318115"
+        },
+        {
+            "rank": "3",
+            "title": "The Man with 1000 Kids: Limited Series",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABQrqVDx4k16zPEtdXGGR8qhxNYSTE_iUKG4qb1S1iQ2b7JnD5bgntkUW5Gom7OXbjxOjySK0crrbkvxMJrY5guCR1YKUPhKC5MxmmO7NkHH5oikOjQPwHSiTZrnlQHPtn86Dug.jpg?r=46d",
+            "watchID": "81653510"
+        },
+        {
+            "rank": "4",
+            "title": "Òlòtūré: The Journey: Season 1",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABc41dUsskroj0N2rokITkPhE2SFxrf3xtqiRO_DkPNJw9LnPnKzckaRypoxit-KgrToUgGkR0kul_VbHT3xz0sEmZTmrQDwR0cN4Q0Hzz9OrawwjKWTVzSgbntE-RgrR3ubJ-g.jpg?r=ccf",
+            "watchID": "81612859"
+        },
+        {
+            "rank": "5",
+            "title": "The Mole: Season 2",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABcX-5z6A-HI3JbCJFG_IgoZyXzBuCVl3OYH4eYVtDeDujQGodxoF-IEqJVkim1MZqoSLix5kZdG1bWGDYRIt_BjWtK-ofzivWS9ZScsY5a9KTSnWwS04fmYgKuQ2X9oc4jvqmQ.jpg?r=2fb",
+            "watchID": "81393278"
+        },
+        {
+            "rank": "6",
+            "title": "Savage Beauty: Season 1",
+            "week": "7",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABTOr6_Y6RCiPmJq-_ddRbLZE2qkEHezDzFBcjKlj920ntazdoB1IH0NfEX0xGiPbxEB13En6VINtc-v8nVYvrMAX4FpM-GNqkUusrpYyrtF8pCtxjNIxUOddjng77sXuUcnkfg.jpg?r=a6e",
+            "watchID": "81282562"
+        },
+        {
+            "rank": "7",
+            "title": "SPRINT: Season 1",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABeoKT2ku_8FruRAz_9Xsm_sC41LC5di2uwCdeVXxJs5D40wJ6P63bKf6ZE3QUj_uU3lzK5gViYyTOhaPyXl_qyiHHMp0l0-UUmdeTI7M8LNOb71LIh1j7Til7-AdY5gcWA5oiA.jpg?r=08b",
+            "watchID": "81685881"
+        },
+        {
+            "rank": "8",
+            "title": "Gangs of Galicia: Season 1",
+            "week": "3",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABbymFrZj7DvZdIchK0Q90vzVvfadYDDqEcvqM4EVvqSWn2yB2Ew3gOL-vjp_CH1ZeiJlFeBOemfElVdeLNj0nOEASA4K_H_Woi-SVh27_4UtFlRmMhmAABQ2Ep3wW8x8pjc_lg.jpg?r=d96",
+            "watchID": "81563541"
+        },
+        {
+            "rank": "9",
+            "title": "The Bahatis Empire: Season 1",
+            "week": "5",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABQlZZq33eMmyG3aQpAKH8V2Ri7BjA8SGXM8GJpFn87Ee9d1Zkln_iNyyqqbyZKDUl0JsuhaVLylZxpnA1Q4eARYpSoECKqRoRs-h.jpg?r=fce",
+            "watchID": "81734545"
+        },
+        {
+            "rank": "10",
+            "title": "Desperate Lies: Season 1",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABQIJP21OQ0ZTXWw_vxrXO3b5uK0McxAEUiBAAI0hVeywTonMMFPHGqi1Ub-uiuh2Wx9Z5-_UApFaG1MWLqFvdLN2bK0JuaSTuGWArtHOqtKFhN7WJNTYyoq_t4oia05NtQ_CiQ.jpg?r=ba0",
+            "watchID": "81578307"
+        }
+    ]
+}

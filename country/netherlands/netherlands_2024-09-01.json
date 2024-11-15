@@ -1,0 +1,148 @@
+{
+    "kind": "Netflix Country",
+    "date": "2024-09-01",
+    "films": [
+        {
+            "rank": "1",
+            "title": "The Union",
+            "week": "3",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABee2f5a9dXQwZttCn_Aldju3-h56YuCGDfdJ4tG9ENRhFJqGX55aJhrMx5xHuPzEO-BW8x1s5ZbAU7HZRS8VvbLvl7eY02hyqrHI9BeAmhJa9cqfL7sw3EulM8vztL9uMKfvdg.jpg?r=bb6",
+            "watchID": "81282732"
+        },
+        {
+            "rank": "2",
+            "title": "Land of Bad",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABVUSIDTGq8Q7t0TbQ6KwGflgte9G2q2wzBVoX-5fezB8epHwRTu7W7Cwxh-jUwhxBBzFj_YE0wzCockSTxzB5dWObcO5F-Bq-Jkk.jpg?r=fc5",
+            "watchID": "81747468"
+        },
+        {
+            "rank": "3",
+            "title": "Incoming",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABaNWcHU7HwlSp4qtFiaJTRaovtkMeEcOqdPIkeI10Gz0PDqN1M0kFCmITAT6_abbMj2f3lyYNx_WzRYsXg5VOLLCXxaHQrr_8I9hvQa9OrKaH82fFMfsmJf5LIwcWl9xaLPR3g.jpg?r=96f",
+            "watchID": "81715819"
+        },
+        {
+            "rank": "4",
+            "title": "The Great Escaper",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABeqx5LUZaUik7FWQga2d6RUFP_-aNS-0a8XA3Ls43YsHRs7kboQJwzI9zTSDF5B8ps9-h6_hTyIMjwvb5Ea540w-D8PTQjb9909d.jpg?r=3d6",
+            "watchID": "81907641"
+        },
+        {
+            "rank": "5",
+            "title": "The Deliverance",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABefjhPbKGE6Kf6M9Ly-w9PhQe8bqx-_FzDnmi0p5abOCHk8Y_Z-B5gffcBh-LOeEhKCk9MRSx3KXrbwnazaQ847qgHJ1WmBYBRJwPYacE1waBX6RpQmBHY7d0SnIQZdkDn-Wrw.jpg?r=542",
+            "watchID": "81582382"
+        },
+        {
+            "rank": "6",
+            "title": "Scream VI",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABeMh5R_dI7QBwQZrC1fhjWNTY-zedTB6E5-nk9d9AWSn9ijn9AC3XMsCkvwucWuPvqgLfTE0wj9j341licl-XcQ5VDViRby6ugnl.jpg?r=9f9",
+            "watchID": "81639205"
+        },
+        {
+            "rank": "7",
+            "title": "Madame Web",
+            "week": "3",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABZ9O9z8rwT99YQ440XPrO3pTfiMXxOs6kEhAJuXkX8a4v7C4FIM9pGZIfn-9Xrn352WsKj9U2FHMUEitNlWNvOu0MCZM4bpfUv7c.jpg?r=8ef",
+            "watchID": "81762621"
+        },
+        {
+            "rank": "8",
+            "title": "The Other Woman",
+            "week": "3",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABbdsSZ0gE1QeBiq5m7EvOFriDaj5-nk0jQ69efPL_z3PR6GJFEv_ahMSDmCA1RBx3eMx9TA3a1350uvdEFdufSLl3CJl6efvPKrw.jpg?r=679",
+            "watchID": "70296523"
+        },
+        {
+            "rank": "9",
+            "title": "The Flash",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABTiWURUOok92432b3BC5R6kKCzcGKtwIFN81nTweS-jMHty0CkMRMOBdUHxxP__c6uavjBt5Rub5J1AVuuH9qwcOJIf63z6XWecy.jpg?r=36f",
+            "watchID": "81251375"
+        },
+        {
+            "rank": "10",
+            "title": "Turbo",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABb86tajb-DkKKbRe5TliddCb-aADAyMlVGSfTjtzAx61EmiXZeNrCluTGF_ygfZw2eBVn2O-2kcxCacUsd7Huy0nvgb563dqW4NC.jpg?r=28b",
+            "watchID": "70267728"
+        }
+    ],
+    "tv": [
+        {
+            "rank": "1",
+            "title": "Emily in Paris: Season 4",
+            "week": "3",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABd0X1PrB5uIerkNJlglL1IP9oKAs-UP8qKuIc9fp--Tg4b76t4jhsq4p_RyUTg-FNkyeY51TFHmiHxBInkWyQOSEBkdbBDfNRyhNVg3XacH68C_Z0jVUvsC5g6-ab5SlTf-cSQ.jpg?r=4f9",
+            "watchID": "81580261"
+        },
+        {
+            "rank": "2",
+            "title": "Worst Ex Ever: Season 1",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABbJ5-eJskZ4T3HTHx_yOXCui-hf9Ju7tU6psP5ZP2wTGiyx4XWr4h2uuje26AkNqlmxwlfMDYt8-zb-wto41R7bSMgZYzNJYGup0N-YZJs4ZrIV3fI082cPE_l4_2tVjGnFArw.jpg?r=08a",
+            "watchID": "81666875"
+        },
+        {
+            "rank": "3",
+            "title": "The Accident: Season 1",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABfsuCDFZ3i4y895VH2Qi-9xtl2tMI2C-HX_4106XBXwxAsqjFJ0y3Il0-CzAnaSPnRIV2yfDkgNJRLxBU1urDx8damPd3RMT7hA7V_f6Xyic4geeGt37aqBWUDxA5l_inblL7g.jpg?r=3d8",
+            "watchID": "81659093"
+        },
+        {
+            "rank": "4",
+            "title": "American Murder: Laci Peterson: Season 1",
+            "week": "3",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABey_6sXk-GP9WoNU7JrSs-5216tq7XKQcKMVDsh1Mg_pekB6276IReUe0b3bempClAdqOhu9hCTXX3INnmKAV_BndM_hZM_I9_9Cmr2g3zdvonG3GvX6pz67zEaV8waoAV9AUA.jpg?r=879",
+            "watchID": "81582795"
+        },
+        {
+            "rank": "5",
+            "title": "Baby Fever: Season 1",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABc4oPuvYl5nBSXAAwB7yfE98Hz3CxIKM1xyNTM_cDM1hFsqq_fF-KsXuk3o6NdgsUTQTrWEwDNmOYHDFkBeNZ787j9L-qIpzeeNIXW6cJbppHAqF0Gjy9WVpsV-VTn9FCZGHRQ.jpg?r=cde",
+            "watchID": "81416677"
+        },
+        {
+            "rank": "6",
+            "title": "Baby Fever: Season 2",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABXFTPNiJDoA4RV-XxfZ81RFE0Sdm2TTgsDw6x3u9c2KxJjMPDBFwKSq0O_x9Zj0hIO3vB0As9YAnF0sY9ZjOpM7MFiT4HFyXx6QUSPkz3Z31mAmyI0zPW_aSvq4XVx8nZL75MA.jpg?r=387",
+            "watchID": "81608159"
+        },
+        {
+            "rank": "7",
+            "title": "Mermaid Magic: Season 1",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABR2jvjIULGZ4GN9QlpNldWVBFyLKsLnaHt3VJ4i4KoFI46zuWSubVtWV5q6ImCURADXRrKvLT0k7fv57jDpvF5gh7FT-1cJPHvOj.jpg?r=a53",
+            "watchID": "81486455"
+        },
+        {
+            "rank": "8",
+            "title": "Killing Eve: Season 1",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABca_f8Y5ZCkdROWzcx0erxXT_zyB_2QRoEwfh77qIj_LhbSTpzEhxK4edng3bUobRRYMqEFQ2nF_r9jU42CD4ibHLhjFRpBxD2Sb.jpg?r=8e6",
+            "watchID": "80177091"
+        },
+        {
+            "rank": "9",
+            "title": "A Good Girl's Guide to Murder: Season 1",
+            "week": "5",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABcifdzPVBunE82iuu97Z93MtUqgOKLTQ3bfGCxG-sCgX7QXNn0cbPSIgRQy-_Nf_sEudUKB4NwkLhDx6iK5MOUOapYcuOInOajzpX4cKTYZDV8Bn0vTaVxK_6UEznUWgW2zpgA.jpg?r=317",
+            "watchID": "81759465"
+        },
+        {
+            "rank": "10",
+            "title": "KAOS",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABexkfzPlss4nCNZtossMll1SqYCqlfszgbQ8Su42Y6BgkY0mliqycpnHl-IgVLHd_8Y-qj849OXiaIarPYnSFKaaXFbtWcgKpqE8KLvQj0JjDx1taetOFohSutpOPa4Bxv1K0w.jpg?r=c54",
+            "watchID": "81003735"
+        }
+    ]
+}

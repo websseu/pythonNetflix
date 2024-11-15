@@ -1,0 +1,148 @@
+{
+    "kind": "Netflix Country",
+    "date": "2024-06-02",
+    "films": [
+        {
+            "rank": "1",
+            "title": "Atlas",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABX2P5-JY8QyLPLGCF8NJl2_eic0BST2_dBjqMIWV6Zg3Sg1AJXfIEa7Ud0mOJ7jpxi2QTN62xnmrwFPzewqJq0luy1YkwocNk6__z7-bcIYS9vn4Ej_oZYnsLfRX6ZZIQBxQCQ.jpg?r=a5a",
+            "watchID": "81012048"
+        },
+        {
+            "rank": "2",
+            "title": "Godzilla Minus One",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABbQgYb3a4y74ZN7-Sg7oZ5_Pez8jxWuf343zHv7uQIufx3S2SiAtn8sSv36enwHnUdqV0F9c8G9FHSj1hLAx909kPHkCoPX7IdZ8.jpg?r=c1e",
+            "watchID": "81767635"
+        },
+        {
+            "rank": "3",
+            "title": "To Catch a Killer",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABSxY_tOwH6mIPEY5HOakn3d8rFx36Ez_D2W0b9r6DRw0KbS71mofIQ8BxAQxUcABOfKfCZEqPMRNmCu3m-lvPLkCa2ndiN3dUKXt.jpg?r=188",
+            "watchID": "81684514"
+        },
+        {
+            "rank": "4",
+            "title": "Colors of Evil: Red",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABa8JkD6L-DbgGmyKG3ICmgQGOQpKcUvepN6MDac65mMOFaGa5CLeVsVRVcxq9L6anX9JcmF0FMMPI12l7mT8ty4U7jaCn3BIkyJqrxnV3DXeIyIV1rZ_acXp1C9s6m8b--QTuw.jpg?r=8fc",
+            "watchID": "81619384"
+        },
+        {
+            "rank": "5",
+            "title": "Crew",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABd0a_dyQ8WOaoQNLHB2rqarQgyPK1AIjgdCVasygezBpdbSaB0Azb-SGofyVapG_j3q96DMC9VJbwtCuCYxF_ZqdxpX6-h0FwJOy.jpg?r=63f",
+            "watchID": "81672746"
+        },
+        {
+            "rank": "6",
+            "title": "Security",
+            "week": "3",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABYc9rOLUb_8vDeVBys_WMpnh3-DSw5kp094EqCTZrgIDVQLVaiAd3tcDCVPWqVRF4fGqD3GASs04WyB8ja3ljNsp-H84Cm5gKz9u.jpg?r=61e",
+            "watchID": "80161921"
+        },
+        {
+            "rank": "7",
+            "title": "Wonder Woman",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABRmC64oK7TAgLbKklezq5_eFl5pbco94P4O2uqNEEv_DDnN25W1g-eDTksR02mFSiAAiBQKBvhj1ek-cHUl8sJNmq4ISSpQh_mco.jpg?r=ebb",
+            "watchID": "80157091"
+        },
+        {
+            "rank": "8",
+            "title": "Mad Max: Fury Road",
+            "week": "3",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABXF6zlKk9pSvDI8khQSEKLDtWZfQHH6bozVldSMquY-0Ul7CAh_8EtyNEu5WN9__pygwkuxHblGWr-rUrEJsjZRa-TH5NQemM_o3.jpg?r=f21",
+            "watchID": "80025919"
+        },
+        {
+            "rank": "9",
+            "title": "World War Z",
+            "week": "3",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABdOEdJvIOkcpIjFaOGxNIYT7126tOGi2YuKKpT8FlHb1TDA9BNVayCKfgmjgoszDRB377TrNCe28bIPouG_gPzBm1XfNsCy7PxQ3.jpg?r=daa",
+            "watchID": "70262639"
+        },
+        {
+            "rank": "10",
+            "title": "Golden Kamuy",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABXZ2_OhKpHuNxLBG_vb_RAGawwNm64mxrg7OxeNJ4TIswiC48xqxfanwdBLNKMrqWNT_pImKJLd38pfDr1uMByWIhRedtNwQXvPZ_ve0AsUJ5kOFJxq7pcnZY5DMJmG3VcLLIg.jpg?r=331",
+            "watchID": "81726698"
+        }
+    ],
+    "tv": [
+        {
+            "rank": "1",
+            "title": "Demon Slayer: Kimetsu no Yaiba: Hashira Training Arc",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABY4uReA9rRAmTW-M-thhVNfbHatLCTboWDGw3aEDKurqqHtGIQDbmjd2q5amqPW4KaUybmc5lb-pGQ7mBKgwVp_Y9EX9pLnL6YHc.jpg?r=9bf",
+            "watchID": "81743731"
+        },
+        {
+            "rank": "2",
+            "title": "The 8 Show: Limited Series",
+            "week": "3",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABeoi_IuXvtQUAibiyBEXWlvGeiKXhx4dTprh39ync3lqKDOZjF_nZ45W7vh97gowq1r4ZqIJ7qAxbmxXKyn0avVv4ZBpykU-5yDuYllWLVObdKvVOlFLjTbykfYpCtf_Wy5qUg.jpg?r=139",
+            "watchID": "81719584"
+        },
+        {
+            "rank": "3",
+            "title": "Kaiju No. 8: Season 1",
+            "week": "7",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABdfF-7FkWcXlmvugNPJcD4YsYMqgDYWsvKmhZkS9-HXiwcD92bind7PxL34-bDqNdNVSk_xyctkO95rdnw8wQzAu2u9LBUu4weoX.jpg?r=fa4",
+            "watchID": "81759291"
+        },
+        {
+            "rank": "4",
+            "title": "The Atypical Family: Limited Series",
+            "week": "4",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABeCslgSVNxH7Sacd6sqduo3dmixn7RzQnCK-yAxqlKHxIjOh173h3I6kSaYpKkybTrLBLndcBeykEqAH4ovHeK4AySImT11TcwLZXEdzVpSXv8cn55GX02VglLO2lTi_xnOMtA.jpg?r=150",
+            "watchID": "81773840"
+        },
+        {
+            "rank": "5",
+            "title": "Dancing for the Devil: The 7M TikTok Cult: Season 1",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABRgPwkt_rMwovS7Cpomw50lEO43cy3TaZ2j4m_LDi0KUocINm_fkYgNuJN073HRBVi4LADC7vOoXDYtFfsmu_EOZcMCUUABfug-Ofxfb6LxIro16BEXoDcdBxXyYqRJueS_dTg.jpg?r=6f9",
+            "watchID": "81638163"
+        },
+        {
+            "rank": "6",
+            "title": "Bridgerton: Season 3",
+            "week": "3",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABQO_B9u3umVJrnNYGllM55hj6jp8HltlhSN2LGX6e9AQG9a82rTvg_JLe3etDxNoZrZYg2ds9MRDEWnP0EsDwVUsAk5SVb2KT-mqIdeDvpc1fZPixe7P0Cndrs0dmFx7jVWnFg.jpg?r=3bd",
+            "watchID": "81487890"
+        },
+        {
+            "rank": "7",
+            "title": "Queen of Tears: Limited Series",
+            "week": "13",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABfCtWuIQzcFBHkC-MQNkEVD8MjwJnjDxymEgWEh49jPqvwtdWQtOUg9DQWopVz7r83tkuHDvyy642KhN8x-lplMMN1ZeLCjpdXXqE80dR9MArw95bzjN5-Ul0-HEci48tZbJog.jpg?r=669",
+            "watchID": "81707951"
+        },
+        {
+            "rank": "8",
+            "title": "Eric: Limited Series",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABV-NWELOmx0GFaygd8mJJqsBVW-kjk5yw2FGXlkribNhyEOb7AdObOTqBBmlVkDNFISHLb4fq85CxHiFl8TKrWRA5jTXxUhM6AW5bIAkyUd42wv24krHjCVi7VAiVfIOHCAFwg.jpg?r=a62",
+            "watchID": "81284302"
+        },
+        {
+            "rank": "9",
+            "title": "That Time I Got Reincarnated as a Slime: Season 3",
+            "week": "6",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABUrWizNlJG6NNWgHzGRvrp7qaW9SETPk19o3_s-myyYKNqomUleKQgWgy3duIl_PGhuqlZUttQfQOvkMHyclUqqJSlsMcFXRVBxh.jpg?r=c29",
+            "watchID": "81769816"
+        },
+        {
+            "rank": "10",
+            "title": "Korean Fried Chicken Rhapsody: Season 1",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABTjZ83LjcwFGHvzDzAQyapkN0hlnNi2-5IVthe9Zf64tvHc0GtEwEkufNGe5Rt55R5jYs14FhkoAI2almJFT21dlA-d0RKHQUJ6I.jpg?r=375",
+            "watchID": "81749233"
+        }
+    ]
+}

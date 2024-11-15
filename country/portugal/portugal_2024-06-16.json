@@ -1,0 +1,148 @@
+{
+    "kind": "Netflix Country",
+    "date": "2024-06-16",
+    "films": [
+        {
+            "rank": "1",
+            "title": "Under Paris",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABSy51MH4GQBaxEC8V0jtcJj7dawxgILsiHUAhYfkhSY-a8ixc8pDZYqB13BpV9INBUNg6jGPpvJeqOpQ8d3flJI-nP6C9xHmiTuANyaDIlAsK3baCY90qCdWjKHCTkfsVkXzLQ.jpg?r=49e",
+            "watchID": "81210788"
+        },
+        {
+            "rank": "2",
+            "title": "Apaixonada",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABYeorCveZSVPhh3LRQvw8s-TFO5cZxnho76sbrz7PWxPxXh432qR4e2UqCL-ss5uwgkGVUaEsvya9u1c6qhLWzYkLIS53q7mY3ZW.jpg?r=5ed",
+            "watchID": "81752628"
+        },
+        {
+            "rank": "3",
+            "title": "Bad Boys for Life",
+            "week": "3",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABUiK91Nv1_7fGGyH5xuiIgEjWmOlW8gtryI4-Xbo0iM4TKHzrF0LeZQ8mDN_OWTiWj8FmxgiRQQ7NFSSn7dEiqecZKpj2phCEkU7.jpg?r=bcc",
+            "watchID": "81152992"
+        },
+        {
+            "rank": "4",
+            "title": "The Price of Nonna's Inheritance",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABayqd_6ap6FemoEMvZcB8F6VV1A-afd7IpEORxID9YNzLzaPynx8jgOH1cF41h8SVR3hu8OAuu5vkNASFLYORZVbGLcs77kv74Z9bXvBsXU-uoZTJ6hoEGCKoEdgQpuAyuO5Uw.jpg?r=3b2",
+            "watchID": "81727058"
+        },
+        {
+            "rank": "5",
+            "title": "Four Brothers",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABTuBOzGaur6c6_Zx2WnRTT-7EYoX2qHjesa6jjZliutOJ9jnHCYILX-DHDvAmWsDuvsmwOutUHjj8zDbDGOIxSz1aM-6msxT-edB.jpg?r=64f",
+            "watchID": "70028902"
+        },
+        {
+            "rank": "6",
+            "title": "Jack Reacher: Never Go Back",
+            "week": "4",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABd5s-lFy-MEcolO6cB6ciczS3AFIIjL2Ko1Pr8VdFj2lzOTXsAfNf5HGFjQg2sicYTFSa9CXRdfCo5k0LudbROqvZcYvmL33A0GA.jpg?r=d85",
+            "watchID": "80106762"
+        },
+        {
+            "rank": "7",
+            "title": "Redeeming Love",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABR0gXfBe0OJ54aTjmyOsx0_dngptJOfp3HCr6eeBFu1-2OlA_jTnpiR_hGH0Vh3bWfnyGa3Rv7FNbf9bEPbOXHMSYuTpsOTAZM15.jpg?r=867",
+            "watchID": "81522433"
+        },
+        {
+            "rank": "8",
+            "title": "Colors of Evil: Red",
+            "week": "3",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABWtXbDK7UobF5Q8tQXAhhF1u02e8gbw-CkkRbk_zAWTAf0TwPHwRrwNfacwmOH8kqmXJnsWrftQg7OINMUooniQV19ueuzHCc6gqE-7dlqeyDhhqly0yHACXzcuu_XGs7e7h-g.jpg?r=bfa",
+            "watchID": "81619384"
+        },
+        {
+            "rank": "9",
+            "title": "Atlas",
+            "week": "4",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABQd4-mMNyUt9se58bwjaBYe-9oSCSmm7IOrLN_LSf-Tz1AxoDnLOO-L90KxdSavVtPxqLLl1O4PMdjW4wlUp3HRgjT4YyFcrED5Bl6C8Frv8FggUvzXf86mXu-nul22WTA1Fgw.jpg?r=f80",
+            "watchID": "81012048"
+        },
+        {
+            "rank": "10",
+            "title": "The Bad Guys",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABSxMXJCO5LmVGgYYu8U4plrA8uh6fWQan8Ed0BkcSFXbad94LaJFea-b3y9wqNCFzO0gnNk7TjJoymAf4XMHg0lk8yjF7AsyOiZk.jpg?r=cd7",
+            "watchID": "81513703"
+        }
+    ],
+    "tv": [
+        {
+            "rank": "1",
+            "title": "Bridgerton: Season 3",
+            "week": "5",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABUuO1FuPHWRkDfh5r-6FMKf3o5XAjQUKMFeyYiIFXSBuYs_1L4psoJs4eZdInnREZWyxXGTeJ00m88ebED5vHcgt321cmYZelziK2yKrU7m7NK8-rLsO_b4zzW5p12nKEGuDTw.jpg?r=5bf",
+            "watchID": "81487890"
+        },
+        {
+            "rank": "2",
+            "title": "Raising Voices: Season 1",
+            "week": "3",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABYJW-tQVBIBYtBXMEITdv9pmBupJcOT_MsYcLCPBOt-khCZRswhRadO_ekWyew6zp5B2F5lelqBwg6TkHCw6TeuSItQR9tC0Yoi_xX5SheCvjQvrF8K8_FBRSE_Pm04YMVl5AQ.jpg?r=ba7",
+            "watchID": "81557683"
+        },
+        {
+            "rank": "3",
+            "title": "Sweet Tooth: Season 3",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABRF-0kdBws1-m6j8N-A7HQyiqIu02SR40HK5jq6i7FMWtnUZPju-Th2N1ABK0n8u-Ziil2XocSgcN2Exahw-VTvm4aFMghwRv79YYv2CbtoaRnAfcX4NPb7v-jEOVz2RJRgOzQ.jpg?r=9a1",
+            "watchID": "81502538"
+        },
+        {
+            "rank": "4",
+            "title": "Perfect Match: Season 2",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABaifqmGZejeqG0Sx4LjZI3_DcEmYa7emaEvM29P53ia_ri0LsEbAgU5OIm2kVZayCBm3x8CZTVhYS2Tz9xRVbXl6SgcI_4KjlKR8OCwEtAlsKRhtJai2WYarQeAkV75RdPw-yg.jpg?r=4dc",
+            "watchID": "81504859"
+        },
+        {
+            "rank": "5",
+            "title": "Eric: Limited Series",
+            "week": "3",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABQBmPbCdnKqe-ZAa2l6fj_r2HirmTm9eyk5H_JkaoXZggkma9ZqfEHG5KtEO2A13phbNcxH3vAMMojhRLzgn0fIVWCEG5A4m6nd6woVaaWEHE-_seL8KdP4F9buxHn8LzlTnWQ.jpg?r=eb7",
+            "watchID": "81284302"
+        },
+        {
+            "rank": "6",
+            "title": "Geek Girl: Season 1",
+            "week": "3",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABa376kFROd3vTyC5oRvMUd8KGfVfOReHFY7mf77m5K57G32RCr6uoJnfODMifEgSCRUV8cznKqUWYlcQ49DxWphUfI1KtXb3aguIcFFXZDThg9jMzyyNq_Ot7zXj2ZigFpTXHA.jpg?r=895",
+            "watchID": "81637843"
+        },
+        {
+            "rank": "7",
+            "title": "Hierarchy: Limited Series",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABfxNV9R-SJyNf_nsf9XgZCcsA-FoW1x0SgaBvRCinm023YlCMVB8xwa1BKMeq94OdeEyFtVlQds3uGkGvkwobRbHlUismtrbBLpGm97RSk4zuAf_77HhBDYYJ-TpSY5_10i3YQ.jpg?r=5e9",
+            "watchID": "81624365"
+        },
+        {
+            "rank": "8",
+            "title": "Hitler and the Nazis: Evil on Trial: Season 1",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABVaM6d19KG6-Dd6OpFJHoYXgxNc26p48dwfPCHctE-Kk83A1qnYCGRY3_u9UMcRFdRiiDYaV-UpXFOhZBmmCWkcAk2CertHfruQ7acVuzJkcOiZUSc3u4QniWT5EUSjIp2ONFA.jpg?r=a55",
+            "watchID": "81561942"
+        },
+        {
+            "rank": "9",
+            "title": "Express: Season 1",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABV5JXnbA0TJoSA--omtcx_st3k-cMRqhxmgGjtJEP5w29_hHa3mPSKHDuYC_PXhPvBXEv-S_tNrdIG3KSu3Uz70w7wPdVg3YXKin.jpg?r=64e",
+            "watchID": "81752872"
+        },
+        {
+            "rank": "10",
+            "title": "Bridgerton: Season 1",
+            "week": "10",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABSAVAJs8J-wTrx_1rvQf9ldjgDM9vQRkTi0xpszX4UjEjx3CxBs9VswybiqWltrz8Q8QhS5vKlrmOoAmeoI5dV_nnD8kbh3CELLWPCVY5u_FzPoeeucxJNXeM1Ilwo4lNBSjSw.jpg?r=3a0",
+            "watchID": "80233012"
+        }
+    ]
+}

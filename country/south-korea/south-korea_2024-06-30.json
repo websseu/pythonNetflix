@@ -1,0 +1,148 @@
+{
+    "kind": "Netflix Country",
+    "date": "2024-06-30",
+    "films": [
+        {
+            "rank": "1",
+            "title": "Trigger Warning",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABWxF4pWsoPB2iW2Ch2Ob3Knpm0JTN13yccYjB84SfF07gPMvDskhF-IkqA3O_Vgvzrgr46TGsE8jp5IanIgmqRn3ZrKeqgc5pvLbSA8clXxiGtKdvu-SidHIvt_s6n2ScYR2Hw.jpg?r=0c0",
+            "watchID": "81064546"
+        },
+        {
+            "rank": "2",
+            "title": "Once Again",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABSdxC8d2r0woT1RxD-hwjXBzf6TCSMJ5Ag_WoA-ngDhspEO4K4OnbCQaYe22OkfwX9MOhvWQuqhA1byC9t3OQe5KMD1JzzhU-GnD.jpg?r=3a4",
+            "watchID": "81900748"
+        },
+        {
+            "rank": "3",
+            "title": "The Sin",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABVCxDyz5o1Wilk-MpvilPGEEhsbYbpf8kjcSsiKIN2A9oLETHBGZokcauCKK5aZdNZ8oetmglz08kT7Mf21rljvdWMVEnUK_uMrY.jpg?r=802",
+            "watchID": "81900343"
+        },
+        {
+            "rank": "4",
+            "title": "Kiss the Girls",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABbbeNDIOLs5gqBsrfUc4yXK2aPTIMSu00fnrLazygFutjmUDYoze2hrMw_TXVGYjshyU8cBFWudDrmbErW2kvONdehn9tgO_md0x.jpg?r=86d",
+            "watchID": "1180086"
+        },
+        {
+            "rank": "5",
+            "title": "Fatal Intuition",
+            "week": "4",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABSGwP15BKGvQzZVGgNTJ3NPnWeUZxG0Yt3qEQvzvNFPsep3Etuz622pTToDYFsk0z3TNnVh5RtdAQDB60-O-3EhsmlKWyAM-5FiA.jpg?r=174",
+            "watchID": "80196837"
+        },
+        {
+            "rank": "6",
+            "title": "12.12: The Day",
+            "week": "6",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABSSttQ3JvUuUdnp04ZtHdYZgwVt_R_8zv2u46L_iKTNnjkJmhqH99CobHQL9pBd4Vz8-2Kmn4EfrBQj51NlNB81la5xrXYGN3ru8.jpg?r=d78",
+            "watchID": "81778668"
+        },
+        {
+            "rank": "7",
+            "title": "Citizen of a Kind",
+            "week": "6",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABeksOWTCITIBjGUv5wUSlQJ4k6fIGjKqQZ9lFNEFky2f2HIAunAjSte9lcCYc0IIy-Cm9wTHKuenTbXNTodVodU5lkX8qXwC3puU.jpg?r=49d",
+            "watchID": "81779692"
+        },
+        {
+            "rank": "8",
+            "title": "The Monkey King",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABVfklfm6d2mc6I4hXtOnSWmX5Vkt9tk2BPUuKdbnqGqxNvdvn9IIDIPj4gei9qCoOBzyb0MdV0_1SxGeX31pSUxwWgDYNXFMW32V.jpg?r=245",
+            "watchID": "80117585"
+        },
+        {
+            "rank": "9",
+            "title": "Holy Punch",
+            "week": "4",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABVCHwRztkPCPenr8Gi3gQ3Ok89eWWWfYOLFZ7jIcf56502tfLdcNmPaxo35imBXQ5oAzHldmlGivDiouz0zpVRucRia3EwYG8UrF.jpg?r=1ec",
+            "watchID": "81777696"
+        },
+        {
+            "rank": "10",
+            "title": "A Family Affair",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABbpFLn8Jp5MGxqbKaMYu2o8eGES8l_Qjp1alkdhdcNMlagT7-UlLL7Z-fAI8Jf0RvcZTNflLISEqmXI09JI0UQ9isFo8oEVnYwIxUEHGS-X2o5BsCmaC7ZFFnedI7XDyN6vm_g.jpg?r=d0e",
+            "watchID": "81361154"
+        }
+    ],
+    "tv": [
+        {
+            "rank": "1",
+            "title": "Miss Night and Day: Limited Series",
+            "week": "3",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABUCEVkXJYysRH407EqAYZ68iyjbaLwDVYSee1er8uOKS-6UZPWYKa9nva8iZr3n10YIcJkz0dr9ubojgXmseyomnEMNvUFDQpC13.jpg?r=ff1",
+            "watchID": "81738995"
+        },
+        {
+            "rank": "2",
+            "title": "The Whirlwind: Limited Series",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABY8OT1iBsAKDJrfG2NzlpKRJ5t7J6XM5SWJnfvchvzP5fFgTqgzijazeoEypwLpPHyvpskCoX2_4-DbN-dmIy9GX-F_2dkY_fQ_zDmkQ8n9CQy3l9wJS4ZVTJvvYF2EjZ886Tw.jpg?r=3ef",
+            "watchID": "81661903"
+        },
+        {
+            "rank": "3",
+            "title": "Agents of Mystery: Season 1",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABUUFSgBq-PPABkh9o62LRs7HoIWm8IShCMNzI_sg6WD0ip73TEsIeHYf0la_CMTvlF_6k8ZcL2BzDMKmls9kD9wLCsMFoBl28L8T0WQUGozz8rbMKK5024J4918F7QnRa4RliA.jpg?r=bba",
+            "watchID": "81731721"
+        },
+        {
+            "rank": "4",
+            "title": "Demon Slayer: Kimetsu no Yaiba: Hashira Training Arc",
+            "week": "7",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABVJ0vjnYWghJ3nRAMYO_C7lrc_NVTLCB7M2fBUBehIBrfASNAnb6UIjgF299GuAmq-v5SDDxBi63sgQdCmH4TTAPstmUh2egJN6T.jpg?r=1ee",
+            "watchID": "81743731"
+        },
+        {
+            "rank": "5",
+            "title": "Kaiju No. 8: Season 1",
+            "week": "11",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABYXLjS_mkmMsOBWPx1uw0wQ1mh2ChI0eDHlUX_KKfIDQlKoj1hTARPiodH7JuWta-mYt8zh1C-8WP4qyEe0S8q3orKOsK3f_hO6_.jpg?r=507",
+            "watchID": "81759291"
+        },
+        {
+            "rank": "6",
+            "title": "Hierarchy: Limited Series",
+            "week": "4",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABYxEXerIAf3_fdq9xGzv4Dp_6ju9xde6YlGSXTWpVOTBkfzP3aTJcC5Ywz0ib7Qx7zgUyBeTJs0BREE5zGvS2ims1wVCbQ6GBroW07th7EEpA01ly9tJvX2LYCiiKzGfiyNIkA.jpg?r=82f",
+            "watchID": "81624365"
+        },
+        {
+            "rank": "7",
+            "title": "Rising Impact: Season 1",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABTgRuRPVDooH4KYy-wfUl1mteMNlzFJVo09zYKLweW5Wusurw85P8Q7szazigv_GraComRxRU6JDl1Z7CI-9wubGYnDlY4-dkEwoZlTuAnmFK0DoPRgFLSzA0rh8FOaB5EgnkQ.jpg?r=f5c",
+            "watchID": "81563027"
+        },
+        {
+            "rank": "8",
+            "title": "Love After Divorce: Season 5",
+            "week": "8",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABSWZSbPwugjRZKPSgkzAGTmc-29yvHTx0iR2q6eWz67DnyV22-A5xQl9AgQ4-dcUyzqvql1ZzyCCo8h5Z5lsnOqbo4_4tUsrV62y.jpg?r=4bc",
+            "watchID": "81771928"
+        },
+        {
+            "rank": "9",
+            "title": "Queen of Divorce: Season 1",
+            "week": "3",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABd8u0u1mnHSqB6eNdWf4N4KGKd-eimteS1K9XfQTv7iLyG5KFjvPhTAbKKiCV95iNoZvANNjRTqi8rsHzmnPA3DmPsC8ubJnQX4S.jpg?r=038",
+            "watchID": "81785211"
+        },
+        {
+            "rank": "10",
+            "title": "The 8 Show: Limited Series",
+            "week": "7",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABd-rUuKkl4xlMVpHaUdySlWNHZ9ZcaKqZ5IEOCiE7th7t5QXWWSKZMCmR6g_wytSPas9cMdaJuxHCXDEzaiDE36bltlHEScam9NiN0vdV_dPS3lCw6Zwu5EBlHQAvZAd1QT-Rw.jpg?r=514",
+            "watchID": "81719584"
+        }
+    ]
+}

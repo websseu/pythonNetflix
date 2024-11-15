@@ -1,0 +1,148 @@
+{
+    "kind": "Netflix Country",
+    "date": "2024-08-25",
+    "films": [
+        {
+            "rank": "1",
+            "title": "The Union",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABUurL4pQ-F-bmp5bdXhAjrIIXUTB3D5HPghBQ_tUMbNpia6RH7ovqH1ekRbaimHgEhI-Zo5_mupyZXcGLyV9zXzN92B6DFKxhGtW8ZDkziDU4a6nxPCVrEKfwyr1j9bTAp8PFg.jpg?r=45b",
+            "watchID": "81282732"
+        },
+        {
+            "rank": "2",
+            "title": "I Can't Live Without You",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABXPGkOMAEKU1tCeqUUPSOhVN9tHRdH330An4dkcWao7WIx5KdnegOSyIR2Zc5x-GiTIlSbhp0Tpl_9lMjp7_Q4xIMMHwkJ-n_HLErhUVmOuABI50At5AitWS8W4v7ZrAoubrbg.jpg?r=dd1",
+            "watchID": "81692186"
+        },
+        {
+            "rank": "3",
+            "title": "Incoming",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABfefDsfHdaAYvCGGabB3Yxl67eXBpqZZ2I63pztW2GPVABbpWCZGdOmyi_Z5BXtV5MCaRrTNlHI9G3XDH91sZ3gVsCm6dOB726QvVLbSLDVq-bTLvUGztJSbYE_ZIL8lQhHJnw.jpg?r=7ad",
+            "watchID": "81715819"
+        },
+        {
+            "rank": "4",
+            "title": "PAW Patrol: The Mighty Movie",
+            "week": "4",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABZpU-wLq84V2nmtnOjFU2RQ7tCdTqAHSExAChJyI4JONFdpWY-pwAZd0iHjZFsr7O45JI1QqZNXxsOXz4uOZiMVjRPYDT4ici1ZT.jpg?r=a2f",
+            "watchID": "81737395"
+        },
+        {
+            "rank": "5",
+            "title": "Ferdinand",
+            "week": "4",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABYN2wApjHguAaDyMO9bRww6ePwWIHAaDrdpJP506Ed8Rva7dgSaw-PFgAfNiGhPmi5Yy02dNOfqBu8oBxCfYDGfbSX9-uyfqisIA.jpg?r=9d0",
+            "watchID": "80191879"
+        },
+        {
+            "rank": "6",
+            "title": "Tòkunbọ̀",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABePcviBYq_r0PoNnYRHCGafI2lEAnos4s9oH2vYRWwes6g-Do1vR8L0CN6KH_sl7N-CEnk8s4Uy-0lflHiehCWw-7R1Pn4K5nLoacuxgNuUOiPVAft0kcljmubsdg7amPu9Fsg.jpg?r=14e",
+            "watchID": "81729081"
+        },
+        {
+            "rank": "7",
+            "title": "The Bad Guys",
+            "week": "4",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABb4a6QUskcv1SdzmLrYzwTthPXdt968ZB3mrpuz5LNI3DFr9YidXIScomA1eEnUVSVwtfm6OSu2qRXe4V_C_2x9RumFOSORhBkmQ.jpg?r=a1c",
+            "watchID": "81513703"
+        },
+        {
+            "rank": "8",
+            "title": "Unbroken",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABcuOgdUZXMeTktFUG598Qj71jJ6hj922ZO8BtGohy_yN5Qg2x-V_3CSZuSwR6gadGDdGAJw_6xMy4ff5NxmBsCu21cSQCUQH5jDl.jpg?r=2c7",
+            "watchID": "70305949"
+        },
+        {
+            "rank": "9",
+            "title": "Turbo",
+            "week": "3",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABb86tajb-DkKKbRe5TliddCb-aADAyMlVGSfTjtzAx61EmiXZeNrCluTGF_ygfZw2eBVn2O-2kcxCacUsd7Huy0nvgb563dqW4NC.jpg?r=28b",
+            "watchID": "70267728"
+        },
+        {
+            "rank": "10",
+            "title": "Sing 2",
+            "week": "12",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABSs1YBPkk48IuLkLAubQdHNyWLnthaWmk5Qfe0JpUfr1sNdhFHDEUOQ-_Pa_54zTn3QqdZpor0cm28fyX6W2NolGPmEXESNqu6wO.jpg?r=10c",
+            "watchID": "81475311"
+        }
+    ],
+    "tv": [
+        {
+            "rank": "1",
+            "title": "The Accident: Season 1",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABfsuCDFZ3i4y895VH2Qi-9xtl2tMI2C-HX_4106XBXwxAsqjFJ0y3Il0-CzAnaSPnRIV2yfDkgNJRLxBU1urDx8damPd3RMT7hA7V_f6Xyic4geeGt37aqBWUDxA5l_inblL7g.jpg?r=3d8",
+            "watchID": "81659093"
+        },
+        {
+            "rank": "2",
+            "title": "Emily in Paris: Season 4",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABSIAEfroYsM9wDqReXHJMGugnPUEHe8kao0p3wu3tq1qjeG3z2jdyjhrWSp41wG79FWm1L-np_FwFuWNSb_d39Jh06sqbOD5wDbZggWK5r7qLNrYSZk9K7lRvz_q1cPSxF6-fg.jpg?r=f37",
+            "watchID": "81580261"
+        },
+        {
+            "rank": "3",
+            "title": "American Murder: Laci Peterson: Season 1",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABey_6sXk-GP9WoNU7JrSs-5216tq7XKQcKMVDsh1Mg_pekB6276IReUe0b3bempClAdqOhu9hCTXX3INnmKAV_BndM_hZM_I9_9Cmr2g3zdvonG3GvX6pz67zEaV8waoAV9AUA.jpg?r=879",
+            "watchID": "81582795"
+        },
+        {
+            "rank": "4",
+            "title": "Miss Night and Day: Limited Series",
+            "week": "6",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABSV-0kAsKye9sFGL4dpJckoV7JJu63h2OH072m4Nr4DJ4n0l4-QYAJTInYQPfW3BONp7wiNAc-OFm2bqBSslRemz13ay55a9QpqIT6OcVubdoiFXXDSnciIN-jMmIqsNXJJFyA.jpg?r=1fa",
+            "watchID": "81738995"
+        },
+        {
+            "rank": "5",
+            "title": "Romance in the House: Limited Series",
+            "week": "3",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABRIjfjKbMW1IMFANiJXtvVeuh_3yG2eRnXJRW7uqrwtAlSj2JCaz42LB8i1bmlPv6x1XaokMKsiFT_hWFVJq2Rk2NT0c5U6oHdC64Re9ajVn2kApM843f2mBEk7cf1KCujyCIA.jpg?r=fe2",
+            "watchID": "81738997"
+        },
+        {
+            "rank": "6",
+            "title": "Love of my life: Season 1",
+            "week": "3",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABfcciWqlXv71xiUJkGI8qdOhqTglQ3FrogJ_75-iBrPjZ1RgTRcktNPEdNz9PNazN0k9c63ATvYhbDu4g5cvHXiH1-xbc8AcKsRWPKNBIrzboLMee5W_z2RC5lrcmbjCcCOkGQ.jpg?r=27f",
+            "watchID": "81511892"
+        },
+        {
+            "rank": "7",
+            "title": "The Umbrella Academy: Season 4",
+            "week": "3",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABZfJvtW-c2PJ4fZaGefH7rMUVTEoxIpON5VoEC00ci9WXfZoQ9yT9AOYDTh_zVf5pUKTWEr0_KAhpGEqrfOAdtY_50s4HRZ2ABx_cCOUNg0M-c4DjKNCR5IavbUIQNaYc6Spaw.jpg?r=401",
+            "watchID": "81458844"
+        },
+        {
+            "rank": "8",
+            "title": "Wyatt Earp and The Cowboy War: Season 1",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABTGbJr7VNVc_onZHnbXOukaeAPUz802GNJzWk1XJgpjX5L8Fru_9T8s9eFr_Tlnb5pFj-GtwynVSQDMmXwUPsLsfOFCINGIPYZiIKGF-BgpbdNFiM7GDO3_4UFDgz7gmYhLV-w.jpg?r=40c",
+            "watchID": "81572105"
+        },
+        {
+            "rank": "9",
+            "title": "Emily in Paris: Season 1",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABbsJk30TSYwF2byEwhd5zKkESWhnbsKnhYx3M5OdtVT2tSx11E4Vg-WgeZap4TymwXXCjo5Puh0YSGe96e0rXWy9wB5ww52OVHMJ4uTb6mKH19mPbk1I8x4mlPAGV-ux3X31bg.jpg?r=257",
+            "watchID": "81275633"
+        },
+        {
+            "rank": "10",
+            "title": "Terror Tuesday: Extreme: Season 1",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABXYuFBrnEO1HytxSMES4O3KGO3B-cagZvbXd4VSn1vptep31cmHCQF0UdWaAgWXDL45XTOZ8Z20LjFGFoNlPINf2978I1zxXWMR2xChPb3MOMgcZGd_0tTDyDS-yqVeudHAo0w.jpg?r=03a",
+            "watchID": "81665509"
+        }
+    ]
+}

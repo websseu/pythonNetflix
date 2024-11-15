@@ -1,0 +1,148 @@
+{
+    "kind": "Netflix Country",
+    "date": "2024-05-26",
+    "films": [
+        {
+            "rank": "1",
+            "title": "My Brother is up on the Tree",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABU90p_PKe1WbPq-6gEzjBtimZrZmwSjxKh22gLKo1wXglFsWOTILOrblBW_dbG09RGkW0PlxOtcA1HXlSIt2_teDY28WyCshzswl.jpg?r=8af",
+            "watchID": "81767058"
+        },
+        {
+            "rank": "2",
+            "title": "Ticket to Paradise",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABVnDog53gzcp7j98SAYM7NnyDPLsujj87uMCyLe6zbc6Wyd7Ys5-lH4GkJpeYvWeq5vGEONcRpWdne_N-e8BoXPPhb3kIb7DNguN.jpg?r=630",
+            "watchID": "81598180"
+        },
+        {
+            "rank": "3",
+            "title": "Atlas",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABSSO4HAK0IoOfUJork9gi0W0D5s_RovAOhEJt440g0vUDtfCKc2YRDrtA_aZpelqM_U2DD3A-I_7zMAhMo4jjXIkchGEkf4Lj--wQRBqC8DJYt5qxsInK71vDbfT2B8EY4IpfA.jpg?r=03a",
+            "watchID": "81012048"
+        },
+        {
+            "rank": "4",
+            "title": "The Ledge",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABZES6ajoXvUyyYuChOwsJ5WCzB8arqKMiaJkBZRAQui3YMftVQ9tuyqXoXZ--ICAbOFmBKnuY3xJa58uy_mI3N9EQzwbXsaNo9o0.jpg?r=abd",
+            "watchID": "80144172"
+        },
+        {
+            "rank": "5",
+            "title": "Mother of the Bride",
+            "week": "3",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABTaiVedmvHH8_SekR5kr4g6mSXjDkycuz6wyeCGoQmvYQcRXnJMXrE_JadcYesMFMHghVxdgvUE3JhTQatu54rGixorci0PfSpzkqpjXa9Rr5mi8d_JGvCUjOc5ZWk48zUNWxQ.jpg?r=c82",
+            "watchID": "81459080"
+        },
+        {
+            "rank": "6",
+            "title": "Blacklight",
+            "week": "3",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABYtfbHROjCRmIr6tegh-ti63WGVDyJ4DMWHG3goufi8vGJpuG0ALADXllyWYDV2-DKNvMnzuMgCKfUMqeh1q8Tl_6RzTe5VCzL8J.jpg?r=832",
+            "watchID": "81516127"
+        },
+        {
+            "rank": "7",
+            "title": "Disturbia",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABQyn0ZeknBUwbuVul4AL_ZoychMhzUJtYv-k6EHPEP_RfsZIDYpbzcFU2mePyir0sNYhto9VGHbmkGfQj3bbwW1BoQObO_Eqw7h_.jpg?r=f7c",
+            "watchID": "70059990"
+        },
+        {
+            "rank": "8",
+            "title": "Trigger Point",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABZzBLm_sIyaPmhieMb7g3vyAwQFXf4EZbQqrvm_5sgsJJZc6iG2vkxY2163RmMRwl6OuMMe93pfo-1TVltWpZjq0cLr6XUpjch6S.jpg?r=96a",
+            "watchID": "81446107"
+        },
+        {
+            "rank": "9",
+            "title": "Ice Age: Dawn of the Dinosaurs",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABdG7ToSyWiTFPk149NwhilMQuLdPYOAEk7LiCr9rWUpbl-WvP_NpX6xUGXptUc55aTrVq7Irck6FFLQCKLZIBXBtc5k0_nbGMbTR.jpg?r=392",
+            "watchID": "70107121"
+        },
+        {
+            "rank": "10",
+            "title": "Honeymoonish",
+            "week": "4",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABbbRJL4terIr4EPwElNXevTfPemlp02udubpctm_mEctA92k-Dr-nuroeWzAzQfWFpyzA88RXzLXUiW3rcwShZZ4StPwzymLetBUqA79Uy1PQO8SG87mxC_XWcbjkKWBtEyNGA.jpg?r=ec6",
+            "watchID": "81711005"
+        }
+    ],
+    "tv": [
+        {
+            "rank": "1",
+            "title": "Bridgerton: Season 3",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABRoZs_OAwr9PbzYFDwxAR6E3LhjIsPcbIXt3tI_jgMWpYQ3jAF47UfD9pcG0JxMJkczozGLtYip7TFPKaRdlUZCq5CugMpc7GyPC7E-90DojSIRwhqL_LeneGhZf6fjlqinb_A.jpg?r=aa2",
+            "watchID": "81487890"
+        },
+        {
+            "rank": "2",
+            "title": "The 8 Show: Limited Series",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABZMRC6L6jEu0tWAKXEXM7srnZo7-2f0_vq484OfgYT4Kbigfmo9rSDb5kcL9lXmGRfWBfC-KYxitdsfh1zj72lgAI9WVKqGvn-1mtFRGpAHaZT10a6PU3EPa6Qu41PX4ANndbw.jpg?r=c4b",
+            "watchID": "81719584"
+        },
+        {
+            "rank": "3",
+            "title": "Thank You, Next: Season 1",
+            "week": "3",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABQW7Ft_wXxJzdhAdOfxk2aJ2f6c1W9wXMr1MSrA_Uwjp7aWXt0R6Gv1RfZZupEJTy8BP_mYIohpr-EjQ5y-ecu8n77g6OgutMDcpx6Y0UJXI0C0T5RLZwyS6u7E-9hIj3bxKfQ.jpg?r=4e4",
+            "watchID": "81637610"
+        },
+        {
+            "rank": "4",
+            "title": "Bridgerton: Season 1",
+            "week": "3",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABVUCrh2RQdnooDFp40WumRVt3jLSe2mw7YWlUNQdBoXe6dXWmm8GWYGGevyz_Xww81IkKw4yeimLcmfd0vm4WVHnwZdvmoFHP7cyQGhJKM0SS3wuRy_BqaF0vu41iiJD2jinbg.jpg?r=dda",
+            "watchID": "80233012"
+        },
+        {
+            "rank": "5",
+            "title": "Baby Reindeer: Limited Series",
+            "week": "6",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABcRO8a1SWct2yUyIVbyT46im5SauHjTOgEZf5-c0h41NjZ90RU6cMZoUNpGzLfcnASbvzRV9rx4IxS-IepVVqG9ileRJDiiq2Cks53Musv5q0nBc9nRJC5j7fFNfJ2r29CW2tw.jpg?r=392",
+            "watchID": "81219888"
+        },
+        {
+            "rank": "6",
+            "title": "Bridgerton: Season 2",
+            "week": "7",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABaGs3pHDMNMH6ddUyM5g7fROaTQqmPyqYso0f9f_ao9QXD5ov4aAzCe5sCnGUAfYLoeCCCAN77RJBRl8eac9FXX1OFLbMcHuo_AapHZuU8w7Lavpf3Uo1VZlnNMaGOWMG9sx_w.jpg?r=857",
+            "watchID": "81205162"
+        },
+        {
+            "rank": "7",
+            "title": "Ashley Madison: Sex, Lies & Scandal: Season 1",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABTkvKH57fIjYStXXiEgvaLFlqFHCbCkoo3a5Zu3x1xScRzlnaZ7Ac24NtCewsTBZKVVWphsKqAqV2TgxI2gQx6F84lqYeqCQml_J7FkBihwuAr_0XcB3Kd2GnTfLtuL-yEBJ2A.jpg?r=223",
+            "watchID": "81602885"
+        },
+        {
+            "rank": "8",
+            "title": "The Atypical Family: Limited Series",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABWw2IO0RD9vsxNv3HIZbCzku4kSFFOXjcdlP2e4qGtMckxRKZIJzlxgRqs2_kwtmunaVtX0CiiSCb4mQXbIb8PXwTqrl8iUJyEP8BknVMfp3hT-xBL2WCqRFVhenj-9Tb36Tiw.jpg?r=845",
+            "watchID": "81773840"
+        },
+        {
+            "rank": "9",
+            "title": "The Gentlemen: Season 1",
+            "week": "12",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABbKQUA3nu64Bob80eiSvk8_Yg52P3rb7Hl2i3lUTxZmpPSrxg28Zm5wmmR1TxhRE1WspaEwsGu0BM43wR4rEowmMipsIm71J9fcX-OANVaMmrWrMIOPO-nAa5EPutF_ozYyz6A.jpg?r=32f",
+            "watchID": "81437052"
+        },
+        {
+            "rank": "10",
+            "title": "Queen Charlotte: A Bridgerton Story",
+            "week": "6",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABaT4EDzLV5Qk9r6jC4RY_q_SDLf4kXnxtNjt4JOkuGhgOuUFKBRXOgnMnwYw3wQ5mq7NfzCrpuuUKKGdr5bf-Y4KfuW4kr7Y2CoOu0086VKDnT6QHTlV0Ykc03PQocY71-5DuQ.jpg?r=7c3",
+            "watchID": "81476184"
+        }
+    ]
+}

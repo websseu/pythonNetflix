@@ -1,0 +1,148 @@
+{
+    "kind": "Netflix Country",
+    "date": "2024-04-07",
+    "films": [
+        {
+            "rank": "1",
+            "title": "Our Secret Diary",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABdYXxxkBbaezsCZzyS-GcEbkgY_1IMzqFfkBYOtqCEo9SfH2BzcCii2yZxdjy9aS2lZ_S2AdW1grQlSS6tImY2xfl-arG4hzlRe-.jpg?r=fe3",
+            "watchID": "81738935"
+        },
+        {
+            "rank": "2",
+            "title": "Suzume",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABa_bbBxfrXY102dkSqtK4gH0x5b_1c1TniKPZCIjpCwDp72b9cqdWWqubz-z6MqXzS8uUr9O770QZk8omr5L29LS4O6jWGbZZA1g.jpg?r=4ea",
+            "watchID": "81696498"
+        },
+        {
+            "rank": "3",
+            "title": "Sing 2",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABSOXyx3j1Swl7j2w3vnWPrBJGBCq9_wQoHyHlgI2OWU4Qru1e57CY4MtQlNH5PwhDjYiKaFZN7W8fUVNcxC7pY12orM34ZrcNasA.jpg?r=0ba",
+            "watchID": "81475311"
+        },
+        {
+            "rank": "4",
+            "title": "Detective Conan : Private Eye in the Distant Sea",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/U6_eu_lw5TPOkLCYXBHQsUANDp0/AAAABXXz3C04yXhimPyzXnF2ShL_LlrlE29CTsvXU3CX3mwdd1uFiN3T8Wzwf3Xc-Zsw4bHj-LbG.jpg",
+            "watchID": "81757603"
+        },
+        {
+            "rank": "5",
+            "title": "Detective Conan : The Scarlet Bullet",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/U6_eu_lw5TPOkLCYXBHQsUANDp0/AAAABXXz3C04yXhimPyzXnF2ShL_LlrlE29CTsvXU3CX3mwdd1uFiN3T8Wzwf3Xc-Zsw4bHj-LbG.jpg",
+            "watchID": "81757619"
+        },
+        {
+            "rank": "6",
+            "title": "Detective Conan : The Bride of Halloween",
+            "week": "3",
+            "image": "https://dnm.nflximg.net/api/v6/U6_eu_lw5TPOkLCYXBHQsUANDp0/AAAABXXz3C04yXhimPyzXnF2ShL_LlrlE29CTsvXU3CX3mwdd1uFiN3T8Wzwf3Xc-Zsw4bHj-LbG.jpg",
+            "watchID": "81757621"
+        },
+        {
+            "rank": "7",
+            "title": "Detective Conan : Dimensional Sniper",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/U6_eu_lw5TPOkLCYXBHQsUANDp0/AAAABXXz3C04yXhimPyzXnF2ShL_LlrlE29CTsvXU3CX3mwdd1uFiN3T8Wzwf3Xc-Zsw4bHj-LbG.jpg",
+            "watchID": "81757601"
+        },
+        {
+            "rank": "8",
+            "title": "Transformers: Rise of the Beasts",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABZR9lXrtnJZxovl24O9_e_m7kmhRDGL1jdIKK0dOON29AwMcurZwAPolduj588WfGD6fbODDzQQvFvCsogBZSNUXubwt8Hj3dwMS.jpg?r=9c0",
+            "watchID": "81602889"
+        },
+        {
+            "rank": "9",
+            "title": "Detective Conan : The Private Eyes' Requiem",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/U6_eu_lw5TPOkLCYXBHQsUANDp0/AAAABXXz3C04yXhimPyzXnF2ShL_LlrlE29CTsvXU3CX3mwdd1uFiN3T8Wzwf3Xc-Zsw4bHj-LbG.jpg",
+            "watchID": "81757597"
+        },
+        {
+            "rank": "10",
+            "title": "Detective Conan : The Crimson Love Letter",
+            "week": "3",
+            "image": "https://dnm.nflximg.net/api/v6/U6_eu_lw5TPOkLCYXBHQsUANDp0/AAAABXXz3C04yXhimPyzXnF2ShL_LlrlE29CTsvXU3CX3mwdd1uFiN3T8Wzwf3Xc-Zsw4bHj-LbG.jpg",
+            "watchID": "81757605"
+        }
+    ],
+    "tv": [
+        {
+            "rank": "1",
+            "title": "Truth: Season 1",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABfKTjZ6lRqOPILW89OJ9LGZIuka8m89R61RfMfsDW6MYvSMr5AOVR7oTxfkipYy6l4pwge9GKlaFw_1yuZDZWmaEP6hGVzmjGgmH.jpg?r=cb1",
+            "watchID": "81719872"
+        },
+        {
+            "rank": "2",
+            "title": "Campfire Cooking in Another World with My Absurd Skill",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABXDBqpQWh-fgQrci68ULtjdYNjOqV-ZLCxb_enHMJR2WGQw6sYC1Kin1abam_2uSaDjDUm1BXZWSb96_sI-vsZQoCCbFX2Pz42_J.jpg?r=239",
+            "watchID": "81672788"
+        },
+        {
+            "rank": "3",
+            "title": "Queen of Tears: Limited Series",
+            "week": "4",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABUdqxWxajJQXLYIu0vuRwl-T26xOzUJJnvzX-T5T6ZNJqmYR2JkugKgTGImlQFli_9JcGTb9VHXS0HkRmI0UU2UZRDNo-SWSmiYYkYi9NgysilcoJS8_GmrVcqqAmC7BYLQCQQ.jpg?r=9c7",
+            "watchID": "81707951"
+        },
+        {
+            "rank": "4",
+            "title": "Magic and Muscles: Mashle: Magic And Muscles The Divine Visionary Candidate Exam Arc",
+            "week": "12",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABTT9KH2jCRB3u691T-Ymhb26EkQABm1OiiTTiPtK88BbOW2Z5x2JTotZl0Yf4RyHXyJpORDBjH7cqoCip0_KQF01bNLPB0ixIsU5.jpg?r=a65",
+            "watchID": "81750729"
+        },
+        {
+            "rank": "5",
+            "title": "Parasyte: The Grey: Limited Series",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABRPbaV1NNdxqtkYLQZsS8z3BBV7lKryNpyAihz14CXPlJckv0WrwTPFcWYUi-SyZ63m6WTXatvrqYAdND1llauJJGT97oAt4D3WaPt66SM4fl6PqOaCChXEXHvryEQI7CUV4yg.jpg?r=64b",
+            "watchID": "81252406"
+        },
+        {
+            "rank": "6",
+            "title": "Extremely Inappropriate!: Season 1",
+            "week": "11",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABd29dJvkO1O1gOTNVcfLANRgeBDngk3eSQlIbY7HlWD-B5XqiZp68GMT-GREhy9EziEHpStgPGSRm37eQMM3HisoRswI5mSlRidE.jpg?r=721",
+            "watchID": "81747061"
+        },
+        {
+            "rank": "7",
+            "title": "Kingdom: Series 5",
+            "week": "9",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABYtWJgL5A1REsIStiEaYUpzK-XVFYo54HfCPujTXKJaXtrVnA6Aq59a9K6buuhkicmFlJed-YJ92iPpH00iYurPNAjnkekds7eST.jpg?r=6f9",
+            "watchID": "81750823"
+        },
+        {
+            "rank": "8",
+            "title": "Solo Leveling: Season 1",
+            "week": "11",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABZDMOw8lDQ2y8t6_GxEqS4jwEKhJ2d0Yv6PwGYye2PWi-qqYdRvuPa3nCI1lKK8qQvmumSP7QAM9OlbZAySWcEGM-grWWtGRrVEu.jpg?r=4af",
+            "watchID": "81749762"
+        },
+        {
+            "rank": "9",
+            "title": "3 Body Problem: Season 1",
+            "week": "3",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABdbZfJjloTll460vRajxjie_jTMMPxaecw7ieMtZnqO56aAoQuWPyuOruLPlBg0qdEWvLzmVtDPKa1eCP_dsZiuptn7G_opxrcamf1SlPezyxe2HBn3fNgrbIwHSuHJgxApzKA.jpg?r=2b3",
+            "watchID": "81026318"
+        },
+        {
+            "rank": "10",
+            "title": "Magic and Muscles",
+            "week": "13",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABZI7SXJKQ06H5mKM37qvHu1DpJSxvUYDM-OqIgx4ncWHgTP5cvIfXIZuJU-LnuWoABf5dNi17rkjSIeuR0doh-so8IU3QGkEF7ed.jpg?r=722",
+            "watchID": "81685167"
+        }
+    ]
+}

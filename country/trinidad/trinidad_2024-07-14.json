@@ -1,0 +1,148 @@
+{
+    "kind": "Netflix Country",
+    "date": "2024-07-14",
+    "films": [
+        {
+            "rank": "1",
+            "title": "Beverly Hills Cop: Axel F",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABSGw8g4jMobKlnJrTuKDsoeSJ-LgTRJADHCmJ1Kw2h1vnc81XkwlTeJZE-Xz8JSqFVLgJobiLJfFNeTbdNdEHz_Wg5D706WSYNM6FuMTMD1XY98jO-OywlWPzxEK7O3VVdVE-w.jpg?r=a0e",
+            "watchID": "81076856"
+        },
+        {
+            "rank": "2",
+            "title": "Vanished into the Night",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABVhw6KD8JkRSTAYOTQN21I009WvxuUoQcwABxTEJXz1Yivdys71iaMIerv9UZO9Uqm-oW7mL4Gmk9xjwsYSPY0WouCtA5B-9WT1mmZo54RgHyi59v5U-tY3m-gBDKdX_mUGOWw.jpg?r=6d9",
+            "watchID": "81163835"
+        },
+        {
+            "rank": "3",
+            "title": "The Equalizer",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABQR5OkrMpU7o82fmSfGbVpCpKegA6WShCWm0ayHAOdZJ_a9DFvl2pKt3_NeO9ecpt6WNyL8HPIrplEtl7LfYL6Y_dhVaxsHpGKa4.jpg?r=522",
+            "watchID": "70305892"
+        },
+        {
+            "rank": "4",
+            "title": "A Family Affair",
+            "week": "3",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABYbr7lmpvek2SPHxjsoEyNo062yupQTklCvMJPJGythTSe5HBDOkzEi-2NSlGq6iCbFNeu9crrghsDm43tu95A9FMgXrxFPvVNsGJjdNndFATCi21iUt37JbXSZRXD6xNwLvEQ.jpg?r=9a6",
+            "watchID": "81361154"
+        },
+        {
+            "rank": "5",
+            "title": "Are We Done Yet?",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABbHUzsDIg6c-lcblIUtTpuic6972frF4KtH9GBsMSFNP8MBUuwc1_0BZbuImgwHJzwh5VACG4GYGssDA8FhVd-WvRFH11U3Qfp8p.jpg?r=c6a",
+            "watchID": "70058008"
+        },
+        {
+            "rank": "6",
+            "title": "Goyo",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABTFQH7u27V61iy9wXHTOxAR1iAi13Les-FR1azKT8QKmktmaOA3eZVyf0uk3KWnVKDiB23MI-9fAaskUbE9NKvUZ4CPyziM5WvVa2Ye3ZHJ-Kr8U3fbj_2WRIifMq9qo90Jbdg.jpg?r=732",
+            "watchID": "81611248"
+        },
+        {
+            "rank": "7",
+            "title": "Lobola Man",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABT-fgvVWALxOvK_Fipk1DSoUBOR_R6cgnUQ2TF1ItCvFwAOZgXGCrYtFPtyDVzAF-MV39cZggqKIucMH2Yvf0IJlYgR1olgSi_Ase4SoabzQ_e37GMbba-Xz79UKpy2-Ra8kjA.jpg?r=64f",
+            "watchID": "81683815"
+        },
+        {
+            "rank": "8",
+            "title": "Trigger Warning",
+            "week": "4",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABd0mDVu1Mshhe114469BJFZUbRf3tC3dHNWz-SuJoRHfaNBTGiBxgLejXF_artOPYVgtsICUrudnsS8kKsRFxdvrVE7NUYRaKMYmnQ0B2binjqaGtT2zudfB-EqJ-BWagypVUA.jpg?r=e91",
+            "watchID": "81064546"
+        },
+        {
+            "rank": "9",
+            "title": "The Stepfather",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABT8PVkr1nZy14bEwt2YarQgKSjxQT6p1ar3R-L-dZM_WyxM_yBLbTPs8yb4CCOkgDl9-CeWgITNMuOUHvSdQbH2KJPMX8jB9CxNk.jpg?r=2f0",
+            "watchID": "70113299"
+        },
+        {
+            "rank": "10",
+            "title": "A Walk to Remember",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABS7MficOwsKWkQ1kcSX_aD0PphNrLDUxySG55NimYBSJO-toi-PmaRARP9Exdiixj94BG-hLVdWLsJM8YyFcOQskMLAGCo7ba9tK.jpg?r=6bd",
+            "watchID": "60022589"
+        }
+    ],
+    "tv": [
+        {
+            "rank": "1",
+            "title": "Supacell: Season 1",
+            "week": "3",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABb97Hy-FO4uZicM-R4T8A2Ux01hljhlEQS7caAVJrvay_Gyg6ZMpY_qv7rv2vakmW_zOvupEUS2TStLOMrZcjWmjbuTML0fyxgJtR_E1PRgJgbM3FAJdZ8ujorhj33KPt0eD9Q.jpg?r=042",
+            "watchID": "81316477"
+        },
+        {
+            "rank": "2",
+            "title": "Desperate Lies: Season 1",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABZEQW6B8-sBZTGVHRuvzzMJ_yC3HECUpWm8ozkQ66UMFUl4KT5tM3YZ--aODuy3bSwn8jZkZ-sITBihjot5-K0PlMFbVUeZFBpDrtuOyZ07HiNkGxk84pvPOY6dOKJz2fy1RaQ.jpg?r=9f5",
+            "watchID": "81578307"
+        },
+        {
+            "rank": "3",
+            "title": "Vikings: Valhalla: Season 3",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABeK68ggCUhOcVTFJQ3wBB0eJO7S_x44lF62urURHnsnB32oiKVUW9oCD7F6iHXdwOWULQYs-t6doSEPRg94sjy5K2ErhDFpUCo4FRCf5hrAsqllSZucWzuYT3XXIqI6uDKNPfQ.jpg?r=b33",
+            "watchID": "81220004"
+        },
+        {
+            "rank": "4",
+            "title": "Fire Country: Season 1",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABc6lb6TNdP7yCo7eX-nvsl3VqB9YzgMDEj95oSXbT2q6MAVSZ3hlntifVSuX58w9UjeU55mfrDie5ia4I3UmU59JTBP_BLhJ61Xd.jpg?r=546",
+            "watchID": "81640598"
+        },
+        {
+            "rank": "5",
+            "title": "SPRINT: Season 1",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABaGSbKnv86hNOvNynnObeZ8cFlFsdtR-FkvvIuaG96Wc1m5QQ-vYJPdz-A3B4RdPH-PHv6ov1wD37R2nDQpc66IRqO-CN1CF1O8O9wa0BJy8P_tCYjUGdkUPQ4-EcXeVVuficw.jpg?r=f96",
+            "watchID": "81685881"
+        },
+        {
+            "rank": "6",
+            "title": "Savage Beauty: Season 2",
+            "week": "3",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABch3JI21l-tNo5MNuYdVAiBa4A33Iyo5KelDDZz3VeSZTPgYMhlgrtHkrlFuCTkDfb9yR_sXjcKfs-2GUk4cgEs1F5embK7l3EgfOsD-PsQXryPQ2aY_rgIVvSm0fbtg9qtxGg.jpg?r=a1e",
+            "watchID": "81318115"
+        },
+        {
+            "rank": "7",
+            "title": "The Mole: Season 2",
+            "week": "3",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABSTl_WVHestBNm5GVkB4DHK5JIJY5Az3NVhCyc_0PWYxIxZ2-99KAmC_l6BF-yrcgp4WzT_c-KG5nqJD8BFHLYFIsE7S4E-LCSOGQsgc1WvseQqrDHujngESaybvie3iqma9tg.jpg?r=a84",
+            "watchID": "81393278"
+        },
+        {
+            "rank": "8",
+            "title": "Bridgerton: Season 3",
+            "week": "9",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABRwpt5-Hf6EwLxkCoCiJfAmGogS6Uq_zHmPrLO31ltPMdqlc7yd1S1BvTyP2QmLuzl3RrQmO3saLWKk-FT5p0iec02FL1cI73r_jYGtlQ1VTorb8Ei7gDNM07BzGkIPwjpUBeg.jpg?r=49e",
+            "watchID": "81487890"
+        },
+        {
+            "rank": "9",
+            "title": "Vikings: Valhalla: Season 1",
+            "week": "6",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABZ0WLT3LZmyBTJ1TgGkb7OA3HDT9FPB2ugKsiuY9DHMcXLhKrf77gEduSjpCj5wcZd4jnoEMuv9ld6_OUYc6xA1uLPukILI16ArHZWzjMWJDJ8eX3eaKNSsEnN88rRvhUsAyvw.jpg?r=dd6",
+            "watchID": "81216646"
+        },
+        {
+            "rank": "10",
+            "title": "The Man with 1000 Kids: Limited Series",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABcjZCGEWVXxF1L1_i_YLz6PcuJbmDci-cGqWrYw0xlTeTnpEhLJOD1PNg0qu4lRXvSTEkb9UJeebHZjOlhU6uH56oUGZH9h5fL3KihMf23qbE2uYbqciQZqOG2n13k_p7vZVeA.jpg?r=47c",
+            "watchID": "81653510"
+        }
+    ]
+}

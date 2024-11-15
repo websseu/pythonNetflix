@@ -1,0 +1,148 @@
+{
+    "kind": "Netflix Country",
+    "date": "2024-06-30",
+    "films": [
+        {
+            "rank": "1",
+            "title": "Trigger Warning",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABY5-YpysUCTsSNLUtPSPFZE8rjVVHmjgHSXf3GXQX5CxLX9gIuvhjVdz_0x5Ynyjg7776-e-aJCXE5JjrlXS93UYT0JYw0ohJNCID3i3ckscETdn5KLvKhRdZMBtp4xBKhFSJg.jpg?r=85f",
+            "watchID": "81064546"
+        },
+        {
+            "rank": "2",
+            "title": "Minions: The Rise of Gru",
+            "week": "4",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABc8R4qeLuNP-f_pSaqmHOe72wXBuO_x1oTVg4cx4SCEsan4oSWV7h4hFDrZ7KGMTlGszXMhaMEPjM28DLiuPkEy3fPw4tDBBlDwD.jpg?r=8da",
+            "watchID": "81198916"
+        },
+        {
+            "rank": "3",
+            "title": "Mai",
+            "week": "7",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABY6KstzymvUIhxuiqrRK5DIEQfNFcvwAmAe4cXBY8r1mot09i9mbyrVyGIdYFeDoy8AKgfxCl1nh4a19mbcYBbLr8qVL-LU07NUr.jpg?r=34b",
+            "watchID": "81779693"
+        },
+        {
+            "rank": "4",
+            "title": "Rush Hour 3",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABeuBzxlgQazyWmT41Dodhbi7DEw6O_MyR9BZ72W3XiaHHzeoQvYkfqFV8SvnJDSAAg9lHfLArAAr7GVAkHkH0dkjlMS0uawlIFGv.jpg?r=50b",
+            "watchID": "70059988"
+        },
+        {
+            "rank": "5",
+            "title": "Madame Web",
+            "week": "3",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABZ9O9z8rwT99YQ440XPrO3pTfiMXxOs6kEhAJuXkX8a4v7C4FIM9pGZIfn-9Xrn352WsKj9U2FHMUEitNlWNvOu0MCZM4bpfUv7c.jpg?r=8ef",
+            "watchID": "81762621"
+        },
+        {
+            "rank": "6",
+            "title": "Under Paris",
+            "week": "4",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABd7vqcDs0yUXK47mXi3JjvCZyL2G3RERY7MGr_ZeyGhrj_qCjPrTby-cwOQp43Y58N0DzVhOIDtfVj8mFGtENmodE10IuyeWZYJz8hGqNRtEIAw7HazmwzhM0sagp5dF3vke5g.jpg?r=868",
+            "watchID": "81210788"
+        },
+        {
+            "rank": "7",
+            "title": "Kiss the Girls",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABZlciYVBL5c2JQz082uadSvf0Zk-ZLJDJ1aV22b_reDR2x4hqeaNNhhMiRPs2IB7_vY5ZjYeDbywwZHpusn2iAbB0wm5GqEc12rb.jpg?r=4cc",
+            "watchID": "1180086"
+        },
+        {
+            "rank": "8",
+            "title": "A Family Affair",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABUvm_3NSc5ybH-LVLeWNnB4gABM8Kj1d_eaUXq9kS_7jZl6qVPTQkJp2eacoKDy2-Qvz46XIhzvAAtN5ehEo6MMo_fPhBNy1CLlbe6R2wBNy5kvsaVsPgYt9mp1Qk24WMjXfrQ.jpg?r=11a",
+            "watchID": "81361154"
+        },
+        {
+            "rank": "9",
+            "title": "Dawn of the Dead",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABZjobWq1aBHKgRVZHznHEj-kAQ-rZWYeChXegA3cv1p2xqpVwuGfL0naitYXxWBKIJbczUyP4P4cRAs8R-eDQGyOjq8C9UeMOlbu.jpg?r=e6c",
+            "watchID": "60033340"
+        },
+        {
+            "rank": "10",
+            "title": "Power Rangers",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABcrOqgjqFu6Y-5Ls7hGYPMJOWr3rc8LG7pkOuD6RoSUMQVp7tC2UimlPe1uGLTMAewFIDaJLEkB0T8A0OS5Mv2sRT8YBM7LeWMjV.jpg?r=080",
+            "watchID": "80144309"
+        }
+    ],
+    "tv": [
+        {
+            "rank": "1",
+            "title": "Demon Slayer: Kimetsu no Yaiba: Hashira Training Arc",
+            "week": "7",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABasaKygXkCkLxqGTkG_TogKIzPrgrqsm_-HVKkLihjwhE2cpAYmsG_DHoHV-GXOhDg5DXuNK-pI0AjrlL3i8wk2A3z9QBUg51uBB.jpg?r=535",
+            "watchID": "81743731"
+        },
+        {
+            "rank": "2",
+            "title": "The Secret of Us: Season 1",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABQRc68mCABOq3kacT4hGfHbGCoEcm2C-eKRRkMUYlghWpiftgNGXo6c9A-YJLTIdj9U2XQRacgWQJPb0KXgcIXI2v5RU29pGvmx4.jpg?r=591",
+            "watchID": "81756586"
+        },
+        {
+            "rank": "3",
+            "title": "Miss Night and Day: Limited Series",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABYGEbJ7DpXDt4uZPrmLKhFas-rmWrX-iuLp-uBI7aGJxCvgN-kFKn0A46yM-z6E29DA3pS7WZ8ZEX5Wp3iIa7Rjn2742UTGtTo_h3JWNF524pVN-6rJ26mRy6lhY6OLj-p53Qg.jpg?r=802",
+            "watchID": "81738995"
+        },
+        {
+            "rank": "4",
+            "title": "Hierarchy: Limited Series",
+            "week": "4",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABfxNV9R-SJyNf_nsf9XgZCcsA-FoW1x0SgaBvRCinm023YlCMVB8xwa1BKMeq94OdeEyFtVlQds3uGkGvkwobRbHlUismtrbBLpGm97RSk4zuAf_77HhBDYYJ-TpSY5_10i3YQ.jpg?r=5e9",
+            "watchID": "81624365"
+        },
+        {
+            "rank": "5",
+            "title": "Kaiju No. 8: Season 1",
+            "week": "11",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABdfF-7FkWcXlmvugNPJcD4YsYMqgDYWsvKmhZkS9-HXiwcD92bind7PxL34-bDqNdNVSk_xyctkO95rdnw8wQzAu2u9LBUu4weoX.jpg?r=fa4",
+            "watchID": "81759291"
+        },
+        {
+            "rank": "6",
+            "title": "The Victims' Game: Season 1",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABfJieqM4sKP9a9CqbTYg3_BbLrsp3pcHGck_p2C99q7v5xZot5kIJDwg6TiYSccal_BLfR3znjUCHh-VwIxLhevawF5nB1bs73TVx-1ldeLuhDKUz5-vkRgr3cxkY4SiW8FN5g.jpg?r=79a",
+            "watchID": "81227403"
+        },
+        {
+            "rank": "7",
+            "title": "The Whirlwind: Limited Series",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABd8m7YcuHOteDQ-ZzYJ7h3a_OU33YdLsLGxAhugfoGWrIIoBwb_dNA6ZWe-bu8-8VckLmE7EAstG_gwMw8M7HJRuKRObIqng9ilnYD2KJvhHwxnoUBo4YQ_AxWWCCPpS7aITBQ.jpg?r=efc",
+            "watchID": "81661903"
+        },
+        {
+            "rank": "8",
+            "title": "The Victims' Game: Season 2",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABfU1RXnO5kLwPQnB-4vu2saR-hMEZesSl-Ep00TCtkL0TNWQQzwnvEZFRZKlLIUpFBPtHo8gz3asHpUGtgvN_e3U6nemq_0flkMR70RWLAjoehDDxWNAeYLdITz1ux8Hb_DCHw.jpg?r=76e",
+            "watchID": "81318134"
+        },
+        {
+            "rank": "9",
+            "title": "Bridgerton: Season 3",
+            "week": "7",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABcUtTyPKKCh6fwPR0UMPrSbh9YKM7tivhz4HR9-ckQQmZX_c4r2Yag1L258oLB5Qc7vjDLGVaSAv8Qti3yGmr4rk8nXzqdyTH1xaOwtA8BP7cJJCvr_TJXqSWzrpym5-Y9Cgmw.jpg?r=5e5",
+            "watchID": "81487890"
+        },
+        {
+            "rank": "10",
+            "title": "Queen of Tears: Limited Series",
+            "week": "17",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABepL1HCVsuEL6pRnxsnkVJa2uDPOwYiW0m1VXZcZJW-Iw90M2Iuu3AR4fk-jedKy5XgLlYGLdptmqD6SE2qfbsWP98AU1UAOoz46wSzZlhI-GVOV7s-x2iJhuf5X-fbVprqq4g.jpg?r=3e4",
+            "watchID": "81707951"
+        }
+    ]
+}

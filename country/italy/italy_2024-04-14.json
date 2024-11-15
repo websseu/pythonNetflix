@@ -1,0 +1,148 @@
+{
+    "kind": "Netflix Country",
+    "date": "2024-04-14",
+    "films": [
+        {
+            "rank": "1",
+            "title": "The Tearsmith",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABcj7613u-yiD8AGYhnDOQuwpsRzWMlaDCN5FUCyYsHS-HPE09u5AtNErWQq32jI64I6L1MT21IY9C7f6NDu_HuJgv5lb18qk2BlY27sz5mO49BBa5KEq4X0zqoS0gGEatjX0aA.jpg?r=1e9",
+            "watchID": "81711218"
+        },
+        {
+            "rank": "2",
+            "title": "Ticket to Paradise",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABfdn3qfnUn-WrDZfYWReP4csPxGNBgaPrgRIUNzO7Sx0h8wcZzMnMcw34GFzWb776F-AS-nuRLqBXFryswmkVVbNuhkkBZlivQUZ.jpg?r=4b9",
+            "watchID": "81598180"
+        },
+        {
+            "rank": "3",
+            "title": "C’è ancora domani",
+            "week": "3",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABU1-rQHo7KVdJyuREv6mPbknN0l8R5Mzvj6d5oDdbsuNGkN3tOmqSRauP0GcDM42c_UJWZ1PLP2ZzUlYcZvJwOkcnTCxJuvr7GQG.jpg?r=705",
+            "watchID": "81665319"
+        },
+        {
+            "rank": "4",
+            "title": "Love, Divided",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABRCSiaWh78ew89E_a1gMZ4Nrydl-3dPPwv_DwXfgEOysZjp1EkDPjw8eTMt6nglfMZrJr2j-qLNWt4qPTt96ASfANihX7qIxaoDk24TuGg2JTDKlesrs91iTMbhBV3m1u8_7Aw.jpg?r=d78",
+            "watchID": "81478545"
+        },
+        {
+            "rank": "5",
+            "title": "Scoop",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABaPvI3eovfrg4DtbQFpIbggAQNv7Pujr7Haooa2Fq5rSoGusEHF40BvwXQDrwvEek_Mb5hd3uj5r0sk9C5V9dyfUh26Dh2zQetsxQR40djDdHaiiSb5Za9c7tA0127JJRG6bQw.jpg?r=15d",
+            "watchID": "81600418"
+        },
+        {
+            "rank": "6",
+            "title": "Proud Mary",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABUN6qY82jAghtabRXK9M9ljn-McGUdOELlWkjnvvIOHYNihx1i-FwfbWXInYm0eDTOHp3UdJjSyfMKlu6RhJ-_Av_gvp_HtZsC9a.jpg?r=d64",
+            "watchID": "80197619"
+        },
+        {
+            "rank": "7",
+            "title": "Elvis",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABZE8aHiGAVNHioykjfSZrBO08_jk1jODotLxCTZbgSYQNqqrIp3jQrrQStxs4eqixmjV2KuQOhqYcx_qlgkHEfzrhrP1FJ2cXRdu.jpg?r=383",
+            "watchID": "81591116"
+        },
+        {
+            "rank": "8",
+            "title": "Stolen",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABZVhdcnLleWsMEEXQr5vmz_Kg7om8VLYqy0pq3eyEkW5_WmentjJ85C97q-o7Ew3qg-81BbnEEGnkxmtG0ikycox5p2zaScnTGQNTh3OWD1-n24hXFbOI19FIz-Y1wRvcIrkwA.jpg?r=437",
+            "watchID": "81520685"
+        },
+        {
+            "rank": "9",
+            "title": "Maze Runner: Death Cure",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABTlHxnm7FapN66cbmT6xlgNc9UN0uDYrndiFbnXgCFJMz9Ghlu2dq8IgENAwZ6Uj_Y8uAZMsVBY1DtWTTJLawDfraeGCfH8v0_zE.jpg?r=186",
+            "watchID": "80201038"
+        },
+        {
+            "rank": "10",
+            "title": "What Jennifer Did",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABUJX9GInppB9CdteOODHfRzOcoYHGFl6jbEghnlLbWTyrwp5ml4yyF3oyM_y2jFtGCeJXFVx9BV--bXBA1qEQdn6xIoO0V6i2CL5_X9RKl-dONub9rCnBerzBsh4PNFcJQu-Uw.jpg?r=fbc",
+            "watchID": "81586385"
+        }
+    ],
+    "tv": [
+        {
+            "rank": "1",
+            "title": "Il Giovane Berlusconi: Season 1",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABcmcm0lsuo_ibWJk_WUY5wFFBR2Cp6hJGhL6W7ZFzbOKyblk0N2Wwh6QXSszyFfgCs23ge7KG0-mPvPX0k0jHfWH7Zne_Iep79vN.jpg?r=335",
+            "watchID": "81692664"
+        },
+        {
+            "rank": "2",
+            "title": "3 Body Problem: Season 1",
+            "week": "4",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABb60nqcBVTb8yZPO3gKT1umt2JVaiJjh2P5rCrzn4-Zq0FCnWCVvooB0vN33GTT9XPftl8i_j1nclFCols6EvKwI3VG9tfsHHEJCgB8opF0ffpiiNDXkHXvTDlM3Mujv3lYOBw.jpg?r=013",
+            "watchID": "81026318"
+        },
+        {
+            "rank": "3",
+            "title": "Anthracite: Secrets of the Sect",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABRe_6ybMAg8C5Y3dtfHNESVNtP-0CD2Mpvwh1LpEy_PZ-o8qnRxdU2ukVsN1uz45SzPsa7TCmPXSrdep5DotMwynGOuGxbTCRoUiKzBoyU7gAE1zOHhGUTe-1FbsouMGMeSwLw.jpg?r=1ce",
+            "watchID": "81520698"
+        },
+        {
+            "rank": "4",
+            "title": "Crooks: Season 1",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABYwkyQ1qgEQlP70fGybeVvix_Pq5wCecDS3wwvL0Wk96Qx-7fvkEWWfHj8pIHi4v8G2Da6TdgucF2qcXbzIATYiOGIa8__AMQNPQViCJJ5XsQghYDFKnp1Jo0iz2wBwYFkAwXw.jpg?r=1fc",
+            "watchID": "81438806"
+        },
+        {
+            "rank": "5",
+            "title": "The Gentlemen: Season 1",
+            "week": "6",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABauUQLylG3yCkOwEKD5OsH6Uc5tVXHHeLrNPAUGPtJ8tQ93wc4zez59EzmC9T5INZRjrstMJGWelzw06ce-OuF_cvVtuXsk2OwDlYntoa1aglTwBY89x6-BMjuYql2T6SHhTpw.jpg?r=0ad",
+            "watchID": "81437052"
+        },
+        {
+            "rank": "6",
+            "title": "Parasyte: The Grey: Limited Series",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABc0BY9OL33F9dLo7WlS30seVhte--4QbDkQ1SXHIWBJLMrGCPEKJlUYgZP3pag2tjFk6JlGhB-m_FBuntux-6keKsl8-XpIzG0h66KnZ_t0IHeiqI_J6rITMs4iZbeektP_tDA.jpg?r=b45",
+            "watchID": "81252406"
+        },
+        {
+            "rank": "7",
+            "title": "RIPLEY: Limited Series",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABetl_XJVvxLCLPBS_x6bgKi0eLW2XirBOxqjEZn4YaYeC3Ndy1MdPr2AS0kWA2Ex-gV9Q6sNXfbTFDhpNhqPju00ntv30EakbxuaAirtsXW_JKrTBPCAIzgwOOqWVmk88Ocabg.jpg?r=fcc",
+            "watchID": "81678766"
+        },
+        {
+            "rank": "8",
+            "title": "Supersex: Season 1",
+            "week": "6",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABQLyZsdjYGwU1_Y7RPChaWV9WqOBnIoov5Y5XBHYkiUARhOy8unbKruglO7R2BaIbwpRfL7BdH1zyL-Qrhb_sbdrhIZOOU01DiQntJP0J7ZteztKo1D9aXuBUnEwpCwfRgcPVQ.jpg?r=c79",
+            "watchID": "81517011"
+        },
+        {
+            "rank": "9",
+            "title": "Baby Reindeer: Limited Series",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABdWZ2JKEbpU_HHYsRFJTHIUaYSGnDTgvczLqx8g9qrK1eQXdk_qoOFX73PBazWgexHJ_0fRxUE_i6crbqvIqIIsHak3WpPhEJo5FTn1VppXB7xL8CS3OIxW5fGpRCYLEBuiroA.jpg?r=3ac",
+            "watchID": "81219888"
+        },
+        {
+            "rank": "10",
+            "title": "Sherlock: Series 1",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABehCHNsC3u-13xWYF6TVq7msvJDehqKhQnVEPsLvqeDokhGklUla8_tDEUP-9w2wNZaWdrHhDbrgCluVeumqpep1EyQSx7P-eB-o.jpg?r=1a3",
+            "watchID": "70151278"
+        }
+    ]
+}

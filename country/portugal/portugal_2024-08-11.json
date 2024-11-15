@@ -1,0 +1,148 @@
+{
+    "kind": "Netflix Country",
+    "date": "2024-08-11",
+    "films": [
+        {
+            "rank": "1",
+            "title": "Ferdinand",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABYN2wApjHguAaDyMO9bRww6ePwWIHAaDrdpJP506Ed8Rva7dgSaw-PFgAfNiGhPmi5Yy02dNOfqBu8oBxCfYDGfbSX9-uyfqisIA.jpg?r=9d0",
+            "watchID": "80191879"
+        },
+        {
+            "rank": "2",
+            "title": "A Man Called Otto",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABXLaiuGxtPogMMbLn5gmJZ-kLvf4dP8o2Q6KAufMgG2pMvWTs_wSKzc-RiChNzf2_i-dYbtsGhHTFIk4DKfCNR0CGR6subBWxWrQ.jpg?r=30d",
+            "watchID": "81616256"
+        },
+        {
+            "rank": "3",
+            "title": "The Black Phone",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABV9U-4xuRvubS787-nZvtEDnuqpVlWLL9UzgKACeLk5P-auvqp5xnJb2oSVi6pHTcmf04lzVJ9clvV9Xd6hFCeDqulOpWYlFkQOD.jpg?r=7d8",
+            "watchID": "81488656"
+        },
+        {
+            "rank": "4",
+            "title": "Magic Mike's Last Dance",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABfTt4MHcL22-sylPSYWKhpY04osvsxkSgyDE3UrGvGf8Jd5MmAQBO-jyyUBNJyoIhEBefUzyupKX6B70PsZIUAopk6yo-P9f3-fv.jpg?r=9de",
+            "watchID": "81643440"
+        },
+        {
+            "rank": "5",
+            "title": "Saving Bikini Bottom: The Sandy Cheeks Movie",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABfpUgKEXo_xuOoPjgNjIgFLBdxqa9_sFA8mNNZV03r0tiaKX0ZOod279qCqsUjolFZ3vkP8sftbgtnkUltPw46e_Fu_tU8LYnY7-Tyj8GYoinAcTXh5hifVT0trBLBlpLb_sSw.jpg?r=2b9",
+            "watchID": "81221340"
+        },
+        {
+            "rank": "6",
+            "title": "The Hangover",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABSdRlqnFQ0DsElS3hgjQ4LvQUINMhvgKd0XvWSCKY2a-IkKVnRuVrxHX9DqUsu6lgpb8S1IbROxJWH4rYWms4vhjEDySSQbDnVYP.jpg?r=007",
+            "watchID": "70113002"
+        },
+        {
+            "rank": "7",
+            "title": "Kingsman: The Secret Service",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABQu6pIyThf_bvhyNOSaJzrKx-ezzoFoFBjssc6xDQ6Wkm459oHySj27H_yYClDzXHhZyjs_C64jtKFWZO0uZsLQ8pfhS3Y-LrtbZ.jpg?r=a82",
+            "watchID": "80013870"
+        },
+        {
+            "rank": "8",
+            "title": "Taking Lives",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABYlNpRNeEuI11bsrsdELam34N1xygfolH9zvUvEu4dK3piq-Uj07quA5G4Y85h5vIfVHPibG9NdNU09fypMdqjOUUK668M-GEZBg.jpg?r=06c",
+            "watchID": "60033314"
+        },
+        {
+            "rank": "9",
+            "title": "Failure to Launch",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABaZ46XjaLEPym86x_eLyeyxB3t_LUOb3zUhc8OwuJv5cg0FYjnAOaEVG2E45j1F-EoiK3kse8cjmX27gZiA_iU8OzCpxSYLnO4lx.jpg?r=af6",
+            "watchID": "70044867"
+        },
+        {
+            "rank": "10",
+            "title": "Something New",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABepUNwiMhYq9N8JAP0jeOYQnX1ll82gxIiqNtv9-i9YOqRU3WGpxbB30YP8Yn3z_U0HrcvwDQJ4NJCSxp6WIJqn2zwLJNATzJBgk.jpg?r=e40",
+            "watchID": "70044327"
+        }
+    ],
+    "tv": [
+        {
+            "rank": "1",
+            "title": "A Good Girl's Guide to Murder: Season 1",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABYYnB7WUPWTWRoi2ahLUWlbUewL0cvfyWRohOaaGUJzhkEA9TBf5WCOPJFcyxUIMphbRyCnGzSbbMnIaqx_GiMUWkIEHitPxy6D_7cEgNGH_7C8pE2Kht58fTzoJonbHXCziaQ.jpg?r=08a",
+            "watchID": "81759465"
+        },
+        {
+            "rank": "2",
+            "title": "The Umbrella Academy: Season 4",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABc079oFo2agSSIip3rJU9TINdBWeZsnx3xMgAVTXgOMDSh5sO5ILZKRZTBljqhv6nKYAyQ-zE7G_SBgiNTkRvob6XkXPTQdxzAykUczM8p0OJo3ZhOzahdzNIejkgm3kNWbm7g.jpg?r=054",
+            "watchID": "81458844"
+        },
+        {
+            "rank": "3",
+            "title": "Simone Biles Rising: Season 1",
+            "week": "4",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABfnC9jIJF3srUwhTHcb_Y4WJabK6rBiWDCzkTATf8akYM6IgIWpjjk89VKMqx0jhjwJYid4g_Bt6Bd9LcgOq4IEwEwuHiWvk8hUz3U2zYaZi9d9Ol0cj4ylNc_Fn9EaOXbydJQ.jpg?r=634",
+            "watchID": "81700903"
+        },
+        {
+            "rank": "4",
+            "title": "Elite: Season 8",
+            "week": "3",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABZXivHDWT2HEg8EIfEQ75kegx0FR8zPIVy8-7E1kz1Nz4t5gShw4y_Mpy1oadDyFg6YuglOjXjXDEmJO9pIgznXRo-TyoFKmbX9MIqKuWbFnpAxecXR6RHIpuyoGzCefe0WD7Q.jpg?r=188",
+            "watchID": "81675496"
+        },
+        {
+            "rank": "5",
+            "title": "Too Hot to Handle: Season 6",
+            "week": "4",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABdoowDd7IffNaUyn-Cif6y1JaBrIMf7H3o9TXA6K-ycstwoX_m2tbVOyJkCjUqQpgTiLeOjoqDOMqGoOWBKncTkL8PVjXLhCwE-zqkT4yCWXgbKRy_aeJHVxcPuyLVvTXK9eTg.jpg?r=bd1",
+            "watchID": "81442462"
+        },
+        {
+            "rank": "6",
+            "title": "Love Is Blind: UK: Season 1",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABYZ2iWq3d-GKy_-2ZUtaWXiRxR-A6z-XLMx1Cq2kRRg6qrJPp59oaRqX8zfKJu_ifxTsFEBUZ0FIJDIJTvo2CKDDlZgrfoRDT-q9-eXOGudMAZxggUvdACe3xfUKlhX1n2Uq5w.jpg?r=eb6",
+            "watchID": "81676359"
+        },
+        {
+            "rank": "7",
+            "title": "Gabby's Dollhouse: Season 10",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABUUSmyqspEzqH2E4071jDYLslNITwqNTOqXje6dXlbHjx5uq-BW-yRlavij_VPe8e1UC7b_7HYzq_-asHbQ3yiuHMtC-0jFJuifHF8GMr-thNpA6spMG3-RXDgIZ9pucCXttEw.jpg?r=5ea",
+            "watchID": "81686558"
+        },
+        {
+            "rank": "8",
+            "title": "Cobra Kai: Season 6",
+            "week": "4",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABY4o9AwJTq2HZgQGTR-OLrS_9OqDUT_7USq8sf7BvFJkxRBckLcN1wGGxTEfWnzudGfvvNMAs5lr25kFO7ccRvC3oaM9ogjuDwSIwRhN-MogYFON4KVn_2Srntd_2Ji-zmvu6A.jpg?r=6e8",
+            "watchID": "81576914"
+        },
+        {
+            "rank": "9",
+            "title": "Unsolved Mysteries: Volume 4",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABTxZkFASB109Tp0dkol1aC3UCQA9qk9qN1-26PL-kBO1QuKn5XFqRl66kshbvq3tNdp-jQQ7W0iy10uu6G6SnVdfKvDav6V654OrrKEXxOtkBmpDugMi3Pq2nu0Sdsg0KRfAhQ.jpg?r=217",
+            "watchID": "81427720"
+        },
+        {
+            "rank": "10",
+            "title": "Desperate Lies: Season 1",
+            "week": "6",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABfsUkBl5DI8zCgMBHItQtL9eFsiGg1VCuAve9xInjuvFluwMcYa94EozIZpvZ2EBqe58mxhCnlgx0ASb0N-hkl7hedY71AeLxTxP_qS_QEFyfOiaBA2W8HpvUP5-PgtoAHC0aA.jpg?r=1fa",
+            "watchID": "81578307"
+        }
+    ]
+}

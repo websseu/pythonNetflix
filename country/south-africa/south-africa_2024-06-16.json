@@ -1,0 +1,148 @@
+{
+    "kind": "Netflix Country",
+    "date": "2024-06-16",
+    "films": [
+        {
+            "rank": "1",
+            "title": "Hit Man",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABQ8gXFWVkHq3zOa4lVNYw0QoYiq145XkbaDVfI1JxYbNBkS6FwLy3646HGV29RMnwTXtXmjbpLrfJ4_Ym1JEGIzvd9d7xtQyWUjR.jpg?r=d75",
+            "watchID": "81728840"
+        },
+        {
+            "rank": "2",
+            "title": "Under Paris",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABd7vqcDs0yUXK47mXi3JjvCZyL2G3RERY7MGr_ZeyGhrj_qCjPrTby-cwOQp43Y58N0DzVhOIDtfVj8mFGtENmodE10IuyeWZYJz8hGqNRtEIAw7HazmwzhM0sagp5dF3vke5g.jpg?r=868",
+            "watchID": "81210788"
+        },
+        {
+            "rank": "3",
+            "title": "Thanksgiving",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABdDWhF7X9r4GbQgPM21NylGkp4Zyg94wBpF0l77an4jxGTv-YswQQ64fALfvWgLgOJNOLJZfiphBNOD3X0ofcbfK2nszhKukcb87.jpg?r=858",
+            "watchID": "81753224"
+        },
+        {
+            "rank": "4",
+            "title": "Four Brothers",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABf8k3_cVg3nRm-E79f4wTFXU4BfmsyHqVcVial5nTmAawyaXd5-QLpJz9eF9W8vzPekybUacGKi0ZzaiewxwTBAn5opI_vMyJLPS.jpg?r=49b",
+            "watchID": "70028902"
+        },
+        {
+            "rank": "5",
+            "title": "Jack Reacher: Never Go Back",
+            "week": "5",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABbZf9zfUTYto_ElNW8hI1ie7P9vVFdCyJQuOpT3bchSmru5A2YTEIzFNYoiuo97A-E_bm37tdrVbI7f65_Zulx-BzYPLV3M_3bxw.jpg?r=f6c",
+            "watchID": "80106762"
+        },
+        {
+            "rank": "6",
+            "title": "Safe House",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABTQdSzpMXn1kRxGtl2z4qWU9tVriojBaI1tqvtL0iOwdWGcrVhT-J-KezIgNyY6BiSTmZsrBzWeW6m8lKfdBhwTQ-NxgJZFyk_US.jpg?r=494",
+            "watchID": "70208104"
+        },
+        {
+            "rank": "7",
+            "title": "The Hating Game",
+            "week": "3",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABe2r5NAlte9e_hHVH_970TZ5fHa7sBemyPhKH5FaT2sCl0nr_j3x9bDJ_bah0iS3d3DiUbnuZI5wjyF44MrOYPbmatPhbIMym8i-.jpg?r=bd1",
+            "watchID": "81495607"
+        },
+        {
+            "rank": "8",
+            "title": "Bade Miyan Chote Miyan",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABSzLus2qglNWFdnsfxO92Vzf0AhIYwoELGd66c6zUmbeVIj-yRD0_ebziAcA3Oz8zXBKMOjO3LKoMrUIRDxutkPXGEls5WSJF2vT.jpg?r=315",
+            "watchID": "81678595"
+        },
+        {
+            "rank": "9",
+            "title": "Nocturnal Animals",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABfu9DP5YNhPqGoi_d_ZSLRmtiwLOE8aD-yte0EkZkFAxRH79uOy3rTyD6xSOa3DCjk0J3AUcFxF-hiEZGn7nMS_uDcqcKjDIcrTW.jpg?r=add",
+            "watchID": "80113783"
+        },
+        {
+            "rank": "10",
+            "title": "The Huntsman: Winter's War",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABVmtNbXBoLdPgQ6yYlqSftbT4Mor3-GQwF22WbxCTUdGb6usDZl_pXKPJmdqvjq_ofmY8gkaw25ee5b3ci4_FG5OG5o6Gv4UwkQ-.jpg?r=55e",
+            "watchID": "80085316"
+        }
+    ],
+    "tv": [
+        {
+            "rank": "1",
+            "title": "Bridgerton: Season 3",
+            "week": "5",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABcUtTyPKKCh6fwPR0UMPrSbh9YKM7tivhz4HR9-ckQQmZX_c4r2Yag1L258oLB5Qc7vjDLGVaSAv8Qti3yGmr4rk8nXzqdyTH1xaOwtA8BP7cJJCvr_TJXqSWzrpym5-Y9Cgmw.jpg?r=5e5",
+            "watchID": "81487890"
+        },
+        {
+            "rank": "2",
+            "title": "How to Ruin Love: The Proposal",
+            "week": "3",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABSZf6-aRqolFVYukkd3DEJYQFy02V5lbxC8C-oZ0V42_qT8N_pbkzrkGwsabmoEJWxJHagzj7n-eRu8d1sern3Jgx7CKflzG-5ySL1iHNhM681D01pBW1ssFSQZVfNkKL5CXcg.jpg?r=2aa",
+            "watchID": "81666759"
+        },
+        {
+            "rank": "3",
+            "title": "Perfect Match: Season 2",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABaifqmGZejeqG0Sx4LjZI3_DcEmYa7emaEvM29P53ia_ri0LsEbAgU5OIm2kVZayCBm3x8CZTVhYS2Tz9xRVbXl6SgcI_4KjlKR8OCwEtAlsKRhtJai2WYarQeAkV75RdPw-yg.jpg?r=4dc",
+            "watchID": "81504859"
+        },
+        {
+            "rank": "4",
+            "title": "Geek Girl: Season 1",
+            "week": "3",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABa376kFROd3vTyC5oRvMUd8KGfVfOReHFY7mf77m5K57G32RCr6uoJnfODMifEgSCRUV8cznKqUWYlcQ49DxWphUfI1KtXb3aguIcFFXZDThg9jMzyyNq_Ot7zXj2ZigFpTXHA.jpg?r=895",
+            "watchID": "81637843"
+        },
+        {
+            "rank": "5",
+            "title": "Hierarchy: Limited Series",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABfxNV9R-SJyNf_nsf9XgZCcsA-FoW1x0SgaBvRCinm023YlCMVB8xwa1BKMeq94OdeEyFtVlQds3uGkGvkwobRbHlUismtrbBLpGm97RSk4zuAf_77HhBDYYJ-TpSY5_10i3YQ.jpg?r=5e9",
+            "watchID": "81624365"
+        },
+        {
+            "rank": "6",
+            "title": "Sweet Tooth: Season 3",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABRF-0kdBws1-m6j8N-A7HQyiqIu02SR40HK5jq6i7FMWtnUZPju-Th2N1ABK0n8u-Ziil2XocSgcN2Exahw-VTvm4aFMghwRv79YYv2CbtoaRnAfcX4NPb7v-jEOVz2RJRgOzQ.jpg?r=9a1",
+            "watchID": "81502538"
+        },
+        {
+            "rank": "7",
+            "title": "The Good Doctor: Season 6",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABfxkyLuY5KkRzKCJJXSCAIVIBg_8KVckov7JebC8ddRMBeUdFLc1zH3UBkjI_85cwHBAYN9EWNxlHXeMWpVA6gh_cqZLBfiFIUdT.jpg?r=e44",
+            "watchID": "81667487"
+        },
+        {
+            "rank": "8",
+            "title": "Eric: Limited Series",
+            "week": "3",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABQBmPbCdnKqe-ZAa2l6fj_r2HirmTm9eyk5H_JkaoXZggkma9ZqfEHG5KtEO2A13phbNcxH3vAMMojhRLzgn0fIVWCEG5A4m6nd6woVaaWEHE-_seL8KdP4F9buxHn8LzlTnWQ.jpg?r=eb7",
+            "watchID": "81284302"
+        },
+        {
+            "rank": "9",
+            "title": "CoComelon: Season 10",
+            "week": "8",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABYo4k5CwR5364NGTlr4njgcpeZiDD6tYM7SnMecYS1r9VEd7p5E6Yg8hy1SqhM8ivJ7l2ts6vfYp6PMJx7ax1FkGXJQV0vQ_dxe7BIqJYXncK090mZw5sjNdKWAwGj_jXt0HTw.jpg?r=346",
+            "watchID": "81476228"
+        },
+        {
+            "rank": "10",
+            "title": "Sweet Tooth: Season 1",
+            "week": "3",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABcK8a09Se79ASHAGkgoWpcHIIJ3u0BkwZaOVR-UfaUo0lQCE2q4uIne04NNQSH2nGtAMsI_qcYZ8CC1DkcqLShNosCxDezAynT8KedIYQsb0QhkO-cIfbUeYKlCn-8pW_0MKSw.jpg?r=209",
+            "watchID": "81221381"
+        }
+    ]
+}

@@ -1,0 +1,148 @@
+{
+    "kind": "Netflix Country",
+    "date": "2024-06-23",
+    "films": [
+        {
+            "rank": "1",
+            "title": "Madame Web",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABZ9O9z8rwT99YQ440XPrO3pTfiMXxOs6kEhAJuXkX8a4v7C4FIM9pGZIfn-9Xrn352WsKj9U2FHMUEitNlWNvOu0MCZM4bpfUv7c.jpg?r=8ef",
+            "watchID": "81762621"
+        },
+        {
+            "rank": "2",
+            "title": "Trigger Warning",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABY5-YpysUCTsSNLUtPSPFZE8rjVVHmjgHSXf3GXQX5CxLX9gIuvhjVdz_0x5Ynyjg7776-e-aJCXE5JjrlXS93UYT0JYw0ohJNCID3i3ckscETdn5KLvKhRdZMBtp4xBKhFSJg.jpg?r=85f",
+            "watchID": "81064546"
+        },
+        {
+            "rank": "3",
+            "title": "Under Paris",
+            "week": "3",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABd7vqcDs0yUXK47mXi3JjvCZyL2G3RERY7MGr_ZeyGhrj_qCjPrTby-cwOQp43Y58N0DzVhOIDtfVj8mFGtENmodE10IuyeWZYJz8hGqNRtEIAw7HazmwzhM0sagp5dF3vke5g.jpg?r=868",
+            "watchID": "81210788"
+        },
+        {
+            "rank": "4",
+            "title": "Bade Miyan Chote Miyan",
+            "week": "3",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABSzLus2qglNWFdnsfxO92Vzf0AhIYwoELGd66c6zUmbeVIj-yRD0_ebziAcA3Oz8zXBKMOjO3LKoMrUIRDxutkPXGEls5WSJF2vT.jpg?r=315",
+            "watchID": "81678595"
+        },
+        {
+            "rank": "5",
+            "title": "Ultraman: Rising",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABRrgr2V0-UmGHgF-mQZiJ3u2Sxm8SMZ5cKhf1zMIk56CNM9xmX3Dx2iuK-6WTLqv674LGoEHQ9jd40-JgMeBZDnfHx_qGUkE4xePW8EDhXVac6455IiAE_EN8G_xsVzVTHiPEQ.jpg?r=96c",
+            "watchID": "81007144"
+        },
+        {
+            "rank": "6",
+            "title": "Rush Hour 3",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABeuBzxlgQazyWmT41Dodhbi7DEw6O_MyR9BZ72W3XiaHHzeoQvYkfqFV8SvnJDSAAg9lHfLArAAr7GVAkHkH0dkjlMS0uawlIFGv.jpg?r=50b",
+            "watchID": "70059988"
+        },
+        {
+            "rank": "7",
+            "title": "Focus",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABWtedHh3N-YZC0zuz8Wop236JfElxJSssEL3Rl-4fbbtCM7m_4mxUNG4LP1fiU3tak1-5TY5weTkkPQzpiAv13lFdhfYCeejZHDs.jpg?r=26f",
+            "watchID": "80015343"
+        },
+        {
+            "rank": "8",
+            "title": "Crew",
+            "week": "5",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABX-Fb2SGznPV_cAOIuv2Ha2n61hqKHL1Rmiq7UPdXDa-8LJgVfLxd6LBuRhSzcth7ilFnaJhMmrW2NZwwknsQOqJYEYvkUhAC_Kk.jpg?r=7dd",
+            "watchID": "81672746"
+        },
+        {
+            "rank": "9",
+            "title": "The Adjustment Bureau",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABfC-hpN-0VQ96oFaZSzbOmn8olsedlW4O3tO5EgK5UtuLuZ1OSIIizI1Wr6Eq7ODTa_tvwzPAMJQRP9cKhmBzJvKj3Xui5VkHdII.jpg?r=d94",
+            "watchID": "70130140"
+        },
+        {
+            "rank": "10",
+            "title": "Venom: Let There Be Carnage",
+            "week": "5",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABbz2V-rnWZBqMtmT1dO_N60wz2BBvk1hoGkTZZo5q0sIBdolmQ9dXalTAfrooVXAWlGmEj0KrboW6e7R_Go3rYY1wOUqmcdnY_Xw.jpg?r=a87",
+            "watchID": "81199145"
+        }
+    ],
+    "tv": [
+        {
+            "rank": "1",
+            "title": "Bridgerton: Season 3",
+            "week": "6",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABcUtTyPKKCh6fwPR0UMPrSbh9YKM7tivhz4HR9-ckQQmZX_c4r2Yag1L258oLB5Qc7vjDLGVaSAv8Qti3yGmr4rk8nXzqdyTH1xaOwtA8BP7cJJCvr_TJXqSWzrpym5-Y9Cgmw.jpg?r=5e5",
+            "watchID": "81487890"
+        },
+        {
+            "rank": "2",
+            "title": "Demon Slayer: Kimetsu no Yaiba: Hashira Training Arc",
+            "week": "6",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABasaKygXkCkLxqGTkG_TogKIzPrgrqsm_-HVKkLihjwhE2cpAYmsG_DHoHV-GXOhDg5DXuNK-pI0AjrlL3i8wk2A3z9QBUg51uBB.jpg?r=535",
+            "watchID": "81743731"
+        },
+        {
+            "rank": "3",
+            "title": "Hierarchy: Limited Series",
+            "week": "3",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABfxNV9R-SJyNf_nsf9XgZCcsA-FoW1x0SgaBvRCinm023YlCMVB8xwa1BKMeq94OdeEyFtVlQds3uGkGvkwobRbHlUismtrbBLpGm97RSk4zuAf_77HhBDYYJ-TpSY5_10i3YQ.jpg?r=5e9",
+            "watchID": "81624365"
+        },
+        {
+            "rank": "4",
+            "title": "Joko Anwar's Nightmares and Daydreams: Season 1",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABUJrERBfFfe2GMVwuQzHnLSP82onA9OYh5flZBGIPTf2gzJezwxwkB2PBeJRFWFpmJDr-PAbwps-QH08Tqq3ZHnK5fF13rjiAi1XtRpuxjvwi6sR4JoZssA3JoGm8z0n2srAVQ.jpg?r=a8f",
+            "watchID": "81582070"
+        },
+        {
+            "rank": "5",
+            "title": "Perfect Match: Season 2",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABaifqmGZejeqG0Sx4LjZI3_DcEmYa7emaEvM29P53ia_ri0LsEbAgU5OIm2kVZayCBm3x8CZTVhYS2Tz9xRVbXl6SgcI_4KjlKR8OCwEtAlsKRhtJai2WYarQeAkV75RdPw-yg.jpg?r=4dc",
+            "watchID": "81504859"
+        },
+        {
+            "rank": "6",
+            "title": "Sweet Tooth: Season 3",
+            "week": "3",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABRF-0kdBws1-m6j8N-A7HQyiqIu02SR40HK5jq6i7FMWtnUZPju-Th2N1ABK0n8u-Ziil2XocSgcN2Exahw-VTvm4aFMghwRv79YYv2CbtoaRnAfcX4NPb7v-jEOVz2RJRgOzQ.jpg?r=9a1",
+            "watchID": "81502538"
+        },
+        {
+            "rank": "7",
+            "title": "The Great Indian Kapil Show: Season 1",
+            "week": "13",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABW3_LWO1fDgBjGgM4nbgiUGo_L3G6HSBPxUcwgII_N0AlKm170SWqyd3vus6ES84rY09phpAwRl4S9Ux3jnq8cUAGpBWrICyBNqQ-LOhiPHR_UKhIU5kDDZKTd-4ZxzT4PHcig.jpg?r=92b",
+            "watchID": "81737431"
+        },
+        {
+            "rank": "8",
+            "title": "Bridgerton: Season 1",
+            "week": "9",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABSAVAJs8J-wTrx_1rvQf9ldjgDM9vQRkTi0xpszX4UjEjx3CxBs9VswybiqWltrz8Q8QhS5vKlrmOoAmeoI5dV_nnD8kbh3CELLWPCVY5u_FzPoeeucxJNXeM1Ilwo4lNBSjSw.jpg?r=3a0",
+            "watchID": "80233012"
+        },
+        {
+            "rank": "9",
+            "title": "Miss Night and Day: Limited Series",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABYGEbJ7DpXDt4uZPrmLKhFas-rmWrX-iuLp-uBI7aGJxCvgN-kFKn0A46yM-z6E29DA3pS7WZ8ZEX5Wp3iIa7Rjn2742UTGtTo_h3JWNF524pVN-6rJ26mRy6lhY6OLj-p53Qg.jpg?r=802",
+            "watchID": "81738995"
+        },
+        {
+            "rank": "10",
+            "title": "Geek Girl: Season 1",
+            "week": "3",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABa376kFROd3vTyC5oRvMUd8KGfVfOReHFY7mf77m5K57G32RCr6uoJnfODMifEgSCRUV8cznKqUWYlcQ49DxWphUfI1KtXb3aguIcFFXZDThg9jMzyyNq_Ot7zXj2ZigFpTXHA.jpg?r=895",
+            "watchID": "81637843"
+        }
+    ]
+}

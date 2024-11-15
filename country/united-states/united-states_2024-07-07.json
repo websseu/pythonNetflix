@@ -1,0 +1,148 @@
+{
+    "kind": "Netflix Country",
+    "date": "2024-07-07",
+    "films": [
+        {
+            "rank": "1",
+            "title": "Beverly Hills Cop: Axel F",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABVHRX5QNG8si5IVEruzPSHdKkYUAoDNfW248MH5d3p8PHRpzVtug_8SmmLbNvoFgcT59A0Oh8HqrguDiBwoHvI3xXOWrZO1L4rH0kHNyPh9HrIMb50GiFc-SzQvFB_IbOWThRg.jpg?r=492",
+            "watchID": "81076856"
+        },
+        {
+            "rank": "2",
+            "title": "A Family Affair",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABUvm_3NSc5ybH-LVLeWNnB4gABM8Kj1d_eaUXq9kS_7jZl6qVPTQkJp2eacoKDy2-Qvz46XIhzvAAtN5ehEo6MMo_fPhBNy1CLlbe6R2wBNy5kvsaVsPgYt9mp1Qk24WMjXfrQ.jpg?r=11a",
+            "watchID": "81361154"
+        },
+        {
+            "rank": "3",
+            "title": "Paw Patrol: The Movie",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABZIa_sYDgJmWe93qdFoLzGl9wpeT3bLLp1jeAhdxR1u9A0BJlzgY5A1Vw1R9270tD_9lcnRktFmaAEZT2nmUeJtfrfm0qcz8TPD2.jpg?r=c74",
+            "watchID": "81416774"
+        },
+        {
+            "rank": "4",
+            "title": "Warcraft",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABdxaR5UdaAGDzHkEkcnBhBg-JgQiONpHfGCal5uO1ft2RxjCKTJZu-6gb4oq8LwGuuSxLl8DuZoCWfsjD-yOnZu6IuOchF5_PK0D.jpg?r=c10",
+            "watchID": "80093133"
+        },
+        {
+            "rank": "5",
+            "title": "Minions",
+            "week": "10",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABSaUjl884aXsPwvkWkQa3-5lbgjxAMxW9TLr0kwEDth8hQEFQeMordZFc0XVPpHrYM2IZ7oKkbAoiIjWBcyCcRN12Coz0iPHvlM5.jpg?r=7d5",
+            "watchID": "80033394"
+        },
+        {
+            "rank": "6",
+            "title": "Trigger Warning",
+            "week": "3",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABY5-YpysUCTsSNLUtPSPFZE8rjVVHmjgHSXf3GXQX5CxLX9gIuvhjVdz_0x5Ynyjg7776-e-aJCXE5JjrlXS93UYT0JYw0ohJNCID3i3ckscETdn5KLvKhRdZMBtp4xBKhFSJg.jpg?r=85f",
+            "watchID": "81064546"
+        },
+        {
+            "rank": "7",
+            "title": "The Super Mario Bros. Movie",
+            "week": "30",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABXsZqtikTjbFmUV_HDiS7_6-qCnBvGYNE_JlfLzUOFsJ0Y9o9kVTxccdl_3I2_Dy0NCacGA5aOv24arcFas4jVXFsUnGNhsu26p5.jpg?r=7a3",
+            "watchID": "81640914"
+        },
+        {
+            "rank": "8",
+            "title": "Shrek",
+            "week": "16",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABe_ASN5e1HHgyo64fNMAOzMYInKSBzTeEs7gl-ljIN7bUqZaw9NUvZDYeK4e1orfjJa0UPOqxnbTZfzJQjRCHVfF5KAMArQxqGHI.jpg?r=e1b",
+            "watchID": "60020686"
+        },
+        {
+            "rank": "9",
+            "title": "Jigsaw",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABbF69YpASyRnCC7QnJiDgFGcv8OffkDffvxQZo0vzZcSp2Q4EYtD6olHh_cAU_5rrEvw2ZoxHPQnJTSoe61gIjvF0PM0dzGKBFs1.jpg?r=663",
+            "watchID": "80185766"
+        },
+        {
+            "rank": "10",
+            "title": "The Blind Side",
+            "week": "5",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABWSVi1_aEnJDbphqEauSyR0OhrUob8qfX-Z49VR19Fdw8zpw_Eqc3yqKto4d7HWGiPInsZvBwSLCHoY9uGH4xPp_VLw_dphkRTa1.jpg?r=266",
+            "watchID": "70119811"
+        }
+    ],
+    "tv": [
+        {
+            "rank": "1",
+            "title": "The Man with 1000 Kids: Limited Series",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABQrqVDx4k16zPEtdXGGR8qhxNYSTE_iUKG4qb1S1iQ2b7JnD5bgntkUW5Gom7OXbjxOjySK0crrbkvxMJrY5guCR1YKUPhKC5MxmmO7NkHH5oikOjQPwHSiTZrnlQHPtn86Dug.jpg?r=46d",
+            "watchID": "81653510"
+        },
+        {
+            "rank": "2",
+            "title": "Worst Roommate Ever: Season 2",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABY1fbRjXUA6likUTHorIbaeqBoa5x10sRwa-rV1CTNAiTIvdgcvSl2aR3JyVued6RDxZaSuTzI2k8MAdaL_Y_MV8W6USrQnDznBfraqsN9Kqwhxtl_pFJJ3liPUSkJBIsVMp6g.jpg?r=d03",
+            "watchID": "81666859"
+        },
+        {
+            "rank": "3",
+            "title": "Supacell: Season 1",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABb97Hy-FO4uZicM-R4T8A2Ux01hljhlEQS7caAVJrvay_Gyg6ZMpY_qv7rv2vakmW_zOvupEUS2TStLOMrZcjWmjbuTML0fyxgJtR_E1PRgJgbM3FAJdZ8ujorhj33KPt0eD9Q.jpg?r=042",
+            "watchID": "81316477"
+        },
+        {
+            "rank": "4",
+            "title": "Owning Manhattan: Season 1",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABZBCihoBI9A_zGAr6toNOed2Y2kOfkW6t9dh2hur8HxFbCOOQY5bQURoNvsLghvHXq2L9A15qTVzjV0a25JgaEpnMMqdf1UPMaVoo9dq824Ec4czkDBs30Fz7aLmD7Xaf7QydA.jpg?r=40b",
+            "watchID": "81591299"
+        },
+        {
+            "rank": "5",
+            "title": "Suits: Season 9",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABd09RuZgfym7zFUKe9uQ2H3uFCaffERTE4lIUb-BbOjEtxnSnop65cwI7UZycvxNStpj-Qt4aC12U53P_mREIDhZHavFfRuMJo4w.jpg?r=4ca",
+            "watchID": "81143872"
+        },
+        {
+            "rank": "6",
+            "title": "Your Honor: Season 1",
+            "week": "6",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABaeLoGWp0nfOHkAXr2FYv9xC7fzMLLvRRIvsasMGN0RO47YML81TEYa7CLjXfzkV0ekNNIJPjnsZkeLBLzxq15jfQkoPFmjfqN9R.jpg?r=435",
+            "watchID": "81384958"
+        },
+        {
+            "rank": "7",
+            "title": "SPRINT: Season 1",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABeoKT2ku_8FruRAz_9Xsm_sC41LC5di2uwCdeVXxJs5D40wJ6P63bKf6ZE3QUj_uU3lzK5gViYyTOhaPyXl_qyiHHMp0l0-UUmdeTI7M8LNOb71LIh1j7Til7-AdY5gcWA5oiA.jpg?r=08b",
+            "watchID": "81685881"
+        },
+        {
+            "rank": "8",
+            "title": "AMERICA'S SWEETHEARTS: Dallas Cowboys Cheerleaders: Season 1",
+            "week": "3",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABXpEIgF_fsezs7x8qzeeU-CVr9XQI6JnEG836EZyFVANWXNDdWoxCDzOAEDCZdiDRPWF9PZp27Ts34oq59bORD9icHWtvIKFdQNk_s3cawGdwA_pjB70FPca1jKFqCjaE0TDCA.jpg?r=644",
+            "watchID": "81685879"
+        },
+        {
+            "rank": "9",
+            "title": "Your Honor: Season 2",
+            "week": "5",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABaeLoGWp0nfOHkAXr2FYv9xC7fzMLLvRRIvsasMGN0RO47YML81TEYa7CLjXfzkV0ekNNIJPjnsZkeLBLzxq15jfQkoPFmjfqN9R.jpg?r=435",
+            "watchID": "81665836"
+        },
+        {
+            "rank": "10",
+            "title": "That '90s Show: Part 2",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABdjPqVuiHPgD1f4uBhgq0ENAS6350hU0w4SpZJmG3tIG-g_myChGlyKKptktEjuGIVrQb3qXeLV-Lb-NxzHXRWpTy6u5u3MO-kMlWsIniAak--iiu8qtOsqTjZFoD6QPll4CvQ.jpg?r=0d7",
+            "watchID": "81508339"
+        }
+    ]
+}

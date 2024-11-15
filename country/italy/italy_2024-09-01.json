@@ -1,0 +1,148 @@
+{
+    "kind": "Netflix Country",
+    "date": "2024-09-01",
+    "films": [
+        {
+            "rank": "1",
+            "title": "The Union",
+            "week": "3",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABee2f5a9dXQwZttCn_Aldju3-h56YuCGDfdJ4tG9ENRhFJqGX55aJhrMx5xHuPzEO-BW8x1s5ZbAU7HZRS8VvbLvl7eY02hyqrHI9BeAmhJa9cqfL7sw3EulM8vztL9uMKfvdg.jpg?r=bb6",
+            "watchID": "81282732"
+        },
+        {
+            "rank": "2",
+            "title": "John Wick: Chapter 4",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABThjGCwDOiL54zdUR2_vgF5V8dTkMOITZskZDqXNdu076fW3ImeyfKOZZkyRSNvlWNew-SygVGbf7I0d8_Z_XpU5AZpW1jeMIyh2.jpg?r=d6b",
+            "watchID": "81489835"
+        },
+        {
+            "rank": "3",
+            "title": "Incoming",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABRFA0AwUGa8txL7Vr1cCId8faCq0vwTalwLlkBq-smzgWgZdnhLlvqF_zwmcpBE5IAWYVeMbftuczmKoLb3jQCH0xUbcvulaYOD0ctO98ZRU-gRzF-OEHBpJ7YqdVgyITsadtA.jpg?r=964",
+            "watchID": "81715819"
+        },
+        {
+            "rank": "4",
+            "title": "The Woman King",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABVJYQoGf1HDzOleg4q8oUrBdBQpFFPtBfum3n9YOWaOyyVMxexlw7ZxF06XGGXpaNO0pFocE6sYxjc8IXBt09AVWPc0lUPVkRKC_.jpg?r=96f",
+            "watchID": "80218506"
+        },
+        {
+            "rank": "5",
+            "title": "The Deliverance",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABddMUhE9qVZZkRVE1KqEEu6plm9gDozKBGw8Lh2DNLzDkg1p4u5mTfHKI-D8duR8a08xx1Fc1DTeXVjRxQLbXn6C3xse17Tl-6NMyLtTMslGjcf2D1FTUledt_GbXJ1YBL6Wjw.jpg?r=714",
+            "watchID": "81582382"
+        },
+        {
+            "rank": "6",
+            "title": "Sarò Con Te",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABewwITaLsykiKukjFPbyF3Qa6ZjTk5Et7MuEbFOW0_NyeobGagVKdTp_5L97qStqhG-osNYC3FL9D-9d-lxvYFM5iJLBoRLRflxe.jpg?r=1fc",
+            "watchID": "81922937"
+        },
+        {
+            "rank": "7",
+            "title": "Richie Rich",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABYCR_laRuAE8x1e8LqWuSMcuAaL0sR7QOPHn0WxNP8leZfaBxnbKHZa2_MeeUaF1GNd7gWucvhJkpvSxszDb1sHYqzJ-VBho7r8h.jpg?r=28f",
+            "watchID": "70020525"
+        },
+        {
+            "rank": "8",
+            "title": "Kingsman: The Secret Service",
+            "week": "4",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABfyR9PU8IwKdUGwfSkyJuqITCvVUVFaexXGXAoQZ73dncdiKiQajqnfitqjTVyBPEmnEEyv8NsdPgiKhq-lLwp2ZYAsc2D1z1hPl.jpg?r=168",
+            "watchID": "80013870"
+        },
+        {
+            "rank": "9",
+            "title": "Romantiche",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABfEpAO9oYZAnv0B9TdjJsGAstH3V-BV9Sw6VPzhQWIX2TiLe36CoUQuYw9fUx1Wy18RRqScyKauGO1Q-Sjq6f_Tz_TOLu0Dkb4Q9.jpg?r=5c9",
+            "watchID": "81664796"
+        },
+        {
+            "rank": "10",
+            "title": "Double Life",
+            "week": "3",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABZOlDBpCV_R11gv6Dc9LNeTKaSaAYUR69H_WsdaIdP310JJI2zjUuSFIkiBs4osxDqa_fRkRnmGS2BPa98atSyTMKKV8Xy78HDhV.jpg?r=0be",
+            "watchID": "81786841"
+        }
+    ],
+    "tv": [
+        {
+            "rank": "1",
+            "title": "The Accident: Season 1",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABfsOwFGAbVWneLB27BtysOGMwoMc1OG98_7Osz9thiiyEjmgVJ8haf1zpqgHB8Do2P0S5ckWJo4Ug812sLCp-DDiBAcAUI2rfiV-ait-JqCNOiPCmkO96XMTzEToMhcRcpISdA.jpg?r=925",
+            "watchID": "81659093"
+        },
+        {
+            "rank": "2",
+            "title": "Emily in Paris: Season 4",
+            "week": "3",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABd0X1PrB5uIerkNJlglL1IP9oKAs-UP8qKuIc9fp--Tg4b76t4jhsq4p_RyUTg-FNkyeY51TFHmiHxBInkWyQOSEBkdbBDfNRyhNVg3XacH68C_Z0jVUvsC5g6-ab5SlTf-cSQ.jpg?r=4f9",
+            "watchID": "81580261"
+        },
+        {
+            "rank": "3",
+            "title": "KAOS",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABexkfzPlss4nCNZtossMll1SqYCqlfszgbQ8Su42Y6BgkY0mliqycpnHl-IgVLHd_8Y-qj849OXiaIarPYnSFKaaXFbtWcgKpqE8KLvQj0JjDx1taetOFohSutpOPa4Bxv1K0w.jpg?r=c54",
+            "watchID": "81003735"
+        },
+        {
+            "rank": "4",
+            "title": "Breathless: Season 1",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABQHTRhDgb51yoBJjzSxofGyj0mPykCDzD1NaF_-k5g72c8PGfq2PRfrhU6PA1ZHSiSlXlYIiX03twYrTfx6x1kTIjRo4poeGTmtdyYe8579fo84OlTcMeTbsTwe0pUf5mIJpAA.jpg?r=7d2",
+            "watchID": "81667162"
+        },
+        {
+            "rank": "5",
+            "title": "Per Elisa – Il Caso Claps: Season 1",
+            "week": "6",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABUpDozVOoC1V1NvYvag9taR-NS0HeU5VnKx5BKo08IAZjwF0mAjMGdEFzzeNvs86Xt6iGZ6NPCubIj0CZwvFiKRo57spFSMx33cr.jpg?r=4c4",
+            "watchID": "81775964"
+        },
+        {
+            "rank": "6",
+            "title": "The Umbrella Academy: Season 4",
+            "week": "4",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABZfJvtW-c2PJ4fZaGefH7rMUVTEoxIpON5VoEC00ci9WXfZoQ9yT9AOYDTh_zVf5pUKTWEr0_KAhpGEqrfOAdtY_50s4HRZ2ABx_cCOUNg0M-c4DjKNCR5IavbUIQNaYc6Spaw.jpg?r=401",
+            "watchID": "81458844"
+        },
+        {
+            "rank": "7",
+            "title": "American Murder: Laci Peterson: Season 1",
+            "week": "3",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABddZJoAsAH0EDx1fZ6eEEOGLg5mHjFaD30YKoEwsRqeAFmBtbROHcQc8zQhuYxmbsaLFjKHw0SP7ahlL8-n_bxaXDn4SmsnuEQM5oPBtHdP60XEOTqQ8o1Lq2KQsnbo0Indxpw.jpg?r=10e",
+            "watchID": "81582795"
+        },
+        {
+            "rank": "8",
+            "title": "Lost: Season 1",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABQgYaMjYzHlVPbf29IyCtOEPGLBqKVBGa2bA95hg0DXCIE20mJJ-aIh0Oume8sKM1QceFwaek40CiF6uRcFai9zAl4jJVYD6smkh.jpg?r=ede",
+            "watchID": "70019981"
+        },
+        {
+            "rank": "9",
+            "title": "Baby Fever: Season 1",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABWuAwphLesUJBzzI0ZvXGmkA6l8u2YDKVIiHLXBmqMAIKjuGwkNj5n0EZ504ztDtDAlorDxGEk6lcflFtGcFm7jQUnZbmiHgBMh_AVkQEqFH4XBXbU3VoAvuOubXjPtV_hwPTQ.jpg?r=e3e",
+            "watchID": "81416677"
+        },
+        {
+            "rank": "10",
+            "title": "Worst Ex Ever: Season 1",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABVQf16FkQO6ebSZvoYYzuLTniw_Ar1AMrM4FBzpvyY_gjdzEUAn170f_vJaJFsbsxe2QxlX8o1_H8Yf0YjtYQP4pvkFgZUVMCcRq8qE5COM9JVc4LhSFenxpgNO1r6ySDTSJBA.jpg?r=7ea",
+            "watchID": "81666875"
+        }
+    ]
+}

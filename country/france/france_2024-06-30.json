@@ -1,0 +1,148 @@
+{
+    "kind": "Netflix Country",
+    "date": "2024-06-30",
+    "films": [
+        {
+            "rank": "1",
+            "title": "Trigger Warning",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABY_zLih9c6FKZq90kaSEmJ6P5CXpGrPyKPCVzhJPv6rA13LiB7k9Uh_edqZAfXoq3rf0kzHOPbtO5eC5LiSOf-CoaXMSPRh034_dS1emn1VQvxIRULls5YjigO7-dchWVbB9_g.jpg?r=cfe",
+            "watchID": "81064546"
+        },
+        {
+            "rank": "2",
+            "title": "A Family Affair",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABaP5leOxXdgT1wTjh2Guto_49F6xh_3LjlIdaGMkRo1c5xCCssW4jpikJ-S2cvsN8V38IHXNu7wrDn8xNhPyzbWpOOjryR6eIuGjLLBriUSQ61ghXrKTeYzfe9zEdFkTGL8BvQ.jpg?r=fa1",
+            "watchID": "81361154"
+        },
+        {
+            "rank": "3",
+            "title": "Inheritance",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABVMb4P8cWfysSWhGuvtBkH4YgA2wNh9qVz_zL5cqNc8PNSMS_CzqdFYRXzpeIcS301TZLP6X-1gbes3eRiAw1KbKLfYK0xEjDNwoc0hz5h6ba-sIN3Abh5Zt3SiMEfen2fKaDQ.jpg?r=b28",
+            "watchID": "81500431"
+        },
+        {
+            "rank": "4",
+            "title": "Kiss the Girls",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABbKLWIi0eYnT-qOMUCrfKFc8SwFj5KBvlMuvfr-lqKXMUMEgCE2663iCPWh9-EiyLBG8dDmHKej0NkYSoASL6Z58s0tN2BQJVoUe.jpg?r=0d8",
+            "watchID": "1180086"
+        },
+        {
+            "rank": "5",
+            "title": "Under Paris",
+            "week": "4",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABWm4V3eFPkkxXcA2CS_cY1_yHKL8wiy46Z5F_lPm0l0yctSTSg3fW2HqRNCBWKzlieAVEYNhHJmkCulmm7-c8FZX5Wndon35tp_v_CebHsiAhhqIB5cEPYGeqcUXEfBxbSaPdg.jpg?r=b6d",
+            "watchID": "81210788"
+        },
+        {
+            "rank": "6",
+            "title": "Divorce French Style",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABQiJpEwk0PuKLAoDyecqGnJ1y2g5-makXk8QOBflBH7CCC9TMSo1CeqUxdKFGcoy1ZWlHDLvoiz4EmZKS24IkPXukX5OV0wSUTGK.jpg?r=6e5",
+            "watchID": "81783104"
+        },
+        {
+            "rank": "7",
+            "title": "Papa ou Maman",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABbZ_7dMZEh-q03f-8DCIv1jtwDWe9aLzMHSyWHjVYeUEbkBEHZjD6v7JoF-RRJFTaTlyO_x4zMXxgXKkKK76hWVn1xILh0bkGe8i.jpg?r=aa5",
+            "watchID": "80993433"
+        },
+        {
+            "rank": "8",
+            "title": "Geostorm",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABTzpoRG5VyLfvo6LQg5Z2kHxlLLuaE96rWubggp3IknXC8jeJI2Unz6rPEL2QEMObFn1hIEWbNEhtfQavUB_OQEZlt6ZVmEfv_d4.jpg?r=f79",
+            "watchID": "80185871"
+        },
+        {
+            "rank": "9",
+            "title": "Breaking",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABVJogowocfjPes4E1lkxYgPTRLloiI8VNOGagkOHkiugHmmK9lLhoEqVE0KERpgY918bmKNyYFsZhmZhZ8wVmk6x9n69hvtvPNna.jpg?r=5e3",
+            "watchID": "81586489"
+        },
+        {
+            "rank": "10",
+            "title": "Hitman",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABZ-qgmIkPuAB9KQJkj9U9iVijFzvACi79Ct4BcFXQqCstX-LnZLrC_3_zGNMK_JQNnh-9D-PKhAyl0O5BMWTgR8nn8MN7ienYUlr.jpg?r=a7c",
+            "watchID": "70065116"
+        }
+    ],
+    "tv": [
+        {
+            "rank": "1",
+            "title": "Gangs of Galicia: Season 1",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABXvutUS8kasmVJuBnES9geSXF845_QPw4oBwKpakAWz8Oftv6sdui5gZ60YCRsavJjzLoUCL2dmpy5w6jCF_zdApbn2doPVmggYG1ef3p6Ftfu3N3DLEEIBeKmPjxg62VacGHg.jpg?r=09a",
+            "watchID": "81563541"
+        },
+        {
+            "rank": "2",
+            "title": "Supacell: Season 1",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABVgR5gFdS9WaIhksjx-Hg3K955Ow_mFVds8-fOlPM86QiZVVWSIDszu4qNPy15sMXdtwm7Zx9_iPsCkGW2wy5B7bzgSb3dunEhvt5AYzSJGMJuqeKW94QaSVNk7M8h40wVYLpw.jpg?r=878",
+            "watchID": "81316477"
+        },
+        {
+            "rank": "3",
+            "title": "Bridgerton: Season 3",
+            "week": "7",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABemnuD0TCU1_DnFalvzhZ0jX38v_cWIuC2IJq7peVBcmO4P4oXEjmBUm8oBgARvs8IydGo9yXj5c9QMaXnWkC6XDzLn5iS4VhyizL7aJoyghu8lhB5Uk2FfRuNxpmr9TojgamA.jpg?r=d83",
+            "watchID": "81487890"
+        },
+        {
+            "rank": "4",
+            "title": "Raising Voices: Season 1",
+            "week": "5",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABeo5Z1deJYG2MUwowIABaD50yf4SaSNJtgyIFjBu7uEGzv2OyVRpkLpHBTzc9khhDAWTjrLUkNwzhbRCwtkyEEG7CTBwAW_JWjIGGGCee3Nn1ls4a3GJYIg6UAsTsQUEZQHMfg.jpg?r=231",
+            "watchID": "81557683"
+        },
+        {
+            "rank": "5",
+            "title": "Demon Slayer: Kimetsu no Yaiba: Swordsmith Village Arc",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABW59t6yiRcxOHHtxxgryqLD9WoGKhZjd8LZ8F_DJ1qsMWu-dXf1-jfelJw5knvUKxVV9otZzcqv3UvXuhFDPyvEQIk6zgCnngxEY.jpg?r=c17",
+            "watchID": "81685138"
+        },
+        {
+            "rank": "6",
+            "title": "Geek Girl: Season 1",
+            "week": "5",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABa376kFROd3vTyC5oRvMUd8KGfVfOReHFY7mf77m5K57G32RCr6uoJnfODMifEgSCRUV8cznKqUWYlcQ49DxWphUfI1KtXb3aguIcFFXZDThg9jMzyyNq_Ot7zXj2ZigFpTXHA.jpg?r=895",
+            "watchID": "81637843"
+        },
+        {
+            "rank": "7",
+            "title": "Worst Roommate Ever: Season 2",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABT7jE3kwwSpqi0B7aq9erKEDwJ3psDQqx47oqOwltdpz6msRD45VioXtd00FsdcR_CmH-phCmVGMbkCTh07lx5L-hYkePuZsmnJlywZlBG_J7AKySHzRGCVWKyAkaiTPgEBhEg.jpg?r=c26",
+            "watchID": "81666859"
+        },
+        {
+            "rank": "8",
+            "title": "Sweet Tooth: Season 3",
+            "week": "4",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABRF-0kdBws1-m6j8N-A7HQyiqIu02SR40HK5jq6i7FMWtnUZPju-Th2N1ABK0n8u-Ziil2XocSgcN2Exahw-VTvm4aFMghwRv79YYv2CbtoaRnAfcX4NPb7v-jEOVz2RJRgOzQ.jpg?r=9a1",
+            "watchID": "81502538"
+        },
+        {
+            "rank": "9",
+            "title": "Eric: Limited Series",
+            "week": "5",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABQBmPbCdnKqe-ZAa2l6fj_r2HirmTm9eyk5H_JkaoXZggkma9ZqfEHG5KtEO2A13phbNcxH3vAMMojhRLzgn0fIVWCEG5A4m6nd6woVaaWEHE-_seL8KdP4F9buxHn8LzlTnWQ.jpg?r=eb7",
+            "watchID": "81284302"
+        },
+        {
+            "rank": "10",
+            "title": "Bridgerton: Season 2",
+            "week": "17",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABafQwfhzYZBXkevYxBHZrRnHG_n-Xbld-ALKBV9fNBvCA4tq1c5DCl2s7gZVL1RyTas6LO8rM9Zv0edpbFUNfG4FBxid9b2mnMwCTzsbOdkLR-6D5s8wX_DTbvttgnoja8qzYg.jpg?r=458",
+            "watchID": "81205162"
+        }
+    ]
+}

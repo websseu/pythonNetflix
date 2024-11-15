@@ -1,0 +1,148 @@
+{
+    "kind": "Netflix Country",
+    "date": "2024-06-02",
+    "films": [
+        {
+            "rank": "1",
+            "title": "Crew",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABRno3ckZcBbzRwBpzpdo-CANAncG6VCsDJYla1Btb7rCPiE1dynQFywzICVDrOkRrfxS4P5fijaeJ8W-UlTbFJaIHrW9EVSuAS1v.jpg?r=4fc",
+            "watchID": "81672746"
+        },
+        {
+            "rank": "2",
+            "title": "Atlas",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABSSO4HAK0IoOfUJork9gi0W0D5s_RovAOhEJt440g0vUDtfCKc2YRDrtA_aZpelqM_U2DD3A-I_7zMAhMo4jjXIkchGEkf4Lj--wQRBqC8DJYt5qxsInK71vDbfT2B8EY4IpfA.jpg?r=03a",
+            "watchID": "81012048"
+        },
+        {
+            "rank": "3",
+            "title": "Top Gun: Maverick",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABW7cQJvUQwMAPRbzR4gB06n3i0C15pK22bExUiwAfxSniKXUHDfedgA-5WnnZ9G-L8ViGEFQPi8LT4Hmhfw7Sl_A-AhypOx4NOAi.jpg?r=210",
+            "watchID": "81198910"
+        },
+        {
+            "rank": "4",
+            "title": "Venom: Let There Be Carnage",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABVbTSVn5nmJHtaLPji8EDuBkYFRdKLc19HFurujtkbJ0bcbRRVzH6hwpAm6pfIjdfcPHX9rSOi3V3BawYU2WX02sWRR61svXP8SR.jpg?r=af4",
+            "watchID": "81199145"
+        },
+        {
+            "rank": "5",
+            "title": "Ticket to Paradise",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABVnDog53gzcp7j98SAYM7NnyDPLsujj87uMCyLe6zbc6Wyd7Ys5-lH4GkJpeYvWeq5vGEONcRpWdne_N-e8BoXPPhb3kIb7DNguN.jpg?r=630",
+            "watchID": "81598180"
+        },
+        {
+            "rank": "6",
+            "title": "Colors of Evil: Red",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABcEvyPquq34Q0YCaXwucxmsOOqTLOi6Tc3h-p6HP_ahHHndPX-PV961DVxFy2mEjkt_zUHyl-E67xV0nz-t6daIN3CDD_J7c85C42vgoiQaHaF9RO8CuXiLVcbvm_XNgtklWfQ.jpg?r=606",
+            "watchID": "81619384"
+        },
+        {
+            "rank": "7",
+            "title": "Family of Two (A Mother and Son Story)",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABUvoxKl_Qv9dxQzroR_H5825vUp-Ti6HvCIysw7A5GuDTiIzvUO9fkv8aWNvxblj547czo6kl9SLRtVcUSxEVMmE9UQfZypKGVWT.jpg?r=bd9",
+            "watchID": "81759076"
+        },
+        {
+            "rank": "8",
+            "title": "The Ledge",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABZES6ajoXvUyyYuChOwsJ5WCzB8arqKMiaJkBZRAQui3YMftVQ9tuyqXoXZ--ICAbOFmBKnuY3xJa58uy_mI3N9EQzwbXsaNo9o0.jpg?r=abd",
+            "watchID": "80144172"
+        },
+        {
+            "rank": "9",
+            "title": "Ice Age: Dawn of the Dinosaurs",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABdG7ToSyWiTFPk149NwhilMQuLdPYOAEk7LiCr9rWUpbl-WvP_NpX6xUGXptUc55aTrVq7Irck6FFLQCKLZIBXBtc5k0_nbGMbTR.jpg?r=392",
+            "watchID": "70107121"
+        },
+        {
+            "rank": "10",
+            "title": "Ice Age: Collision Course",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABfr4-P9n3F9n6uUZTnL6LWrlIIT1PhW9cPur6HqqcdKZqRUjH0tVOIT3VIqt1WqrKTPl6vQYRj77LZzgZbzS3HHuYt7wC95nzrFz.jpg?r=3f9",
+            "watchID": "80096067"
+        }
+    ],
+    "tv": [
+        {
+            "rank": "1",
+            "title": "Bridgerton: Season 3",
+            "week": "3",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABRoZs_OAwr9PbzYFDwxAR6E3LhjIsPcbIXt3tI_jgMWpYQ3jAF47UfD9pcG0JxMJkczozGLtYip7TFPKaRdlUZCq5CugMpc7GyPC7E-90DojSIRwhqL_LeneGhZf6fjlqinb_A.jpg?r=aa2",
+            "watchID": "81487890"
+        },
+        {
+            "rank": "2",
+            "title": "Dancing for the Devil: The 7M TikTok Cult: Season 1",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABatqnSWkfwUNm3ILalm7411ckXeaXRkPdS0P35oWiolAhCjmy9qGmzTTbXlKfBJIWD5aFB2mHPInVdk6AQcfdbI-D612II69c9y-8Pe4lbg6G0zbzSOCHyFyy-sFxdKCPYGsbQ.jpg?r=96c",
+            "watchID": "81638163"
+        },
+        {
+            "rank": "3",
+            "title": "Eric: Limited Series",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABbOdPz3yWuBQwYrFsD-1Cb1udr4NAtRF0mLLrvAD30u7s2bOEaIk0hwk288hp0Uxh8g3J46vNFZPhuPKx4SFxHlTIFEifRRC_BJKD1opjQXW8mKrs-zECvF7JPpmTSyF30QReA.jpg?r=3b6",
+            "watchID": "81284302"
+        },
+        {
+            "rank": "4",
+            "title": "Heeramandi: The Diamond Bazaar: Season 1",
+            "week": "5",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABXyoIbH95PhB4xPMSzaNEEd1l3E99JdoFncqkSrET7txaMK168dYDFAJ1zhXYuhsdlcRvc2kfy7igzOFfk34nE2bE-DefyvGeGkwUyevw-m8Zl8k6oQU30LWzOJcdiY7PfdhzQ.jpg?r=f98",
+            "watchID": "81122199"
+        },
+        {
+            "rank": "5",
+            "title": "Geek Girl: Season 1",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABT6SqIGUAkXT5luYidyW_Q-jLWUXxcBNlj369kIKs0uPdIo-k67m6sHhzfs3PPj_A6Wnm7Co02tXPWP-YyZelWWXUVexskw8gxfJ_I79am3bINDQzd_lVL5-R8jO2fRmteLNvw.jpg?r=bb5",
+            "watchID": "81637843"
+        },
+        {
+            "rank": "6",
+            "title": "The 8 Show: Limited Series",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABZMRC6L6jEu0tWAKXEXM7srnZo7-2f0_vq484OfgYT4Kbigfmo9rSDb5kcL9lXmGRfWBfC-KYxitdsfh1zj72lgAI9WVKqGvn-1mtFRGpAHaZT10a6PU3EPa6Qu41PX4ANndbw.jpg?r=c4b",
+            "watchID": "81719584"
+        },
+        {
+            "rank": "7",
+            "title": "The Atypical Family: Limited Series",
+            "week": "4",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABWw2IO0RD9vsxNv3HIZbCzku4kSFFOXjcdlP2e4qGtMckxRKZIJzlxgRqs2_kwtmunaVtX0CiiSCb4mQXbIb8PXwTqrl8iUJyEP8BknVMfp3hT-xBL2WCqRFVhenj-9Tb36Tiw.jpg?r=845",
+            "watchID": "81773840"
+        },
+        {
+            "rank": "8",
+            "title": "Buying London: Season 1",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABW1DKsYo1mG8kjBUXK5INj-K6hZXdniyE7v0I2y6EnETm597NX4pFEVg8H5xKpyulUEIQSYjPgsmNZVXCVUdqxk6n5T0sYnS0o2zbyo4auHwqHCmnDv2ubuVN68kbmGJdUX4vg.jpg?r=fc4",
+            "watchID": "81577025"
+        },
+        {
+            "rank": "9",
+            "title": "The Great Indian Kapil Show: Season 1",
+            "week": "9",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABTs7eAOmrYYW0ekQVYAzFZkPZ0iRVuwiLDD5jE5wKdqD0oypBrCd7EsmhZtUfEwqZ-W4LkHXNNL4XlDEfBPReuk3EaWSQb9CxCUHMAX7xzL_S4gpvRZwFpNGPfil-Lb48rTiYg.jpg?r=6d5",
+            "watchID": "81737431"
+        },
+        {
+            "rank": "10",
+            "title": "Bridgerton: Season 2",
+            "week": "11",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABaGs3pHDMNMH6ddUyM5g7fROaTQqmPyqYso0f9f_ao9QXD5ov4aAzCe5sCnGUAfYLoeCCCAN77RJBRl8eac9FXX1OFLbMcHuo_AapHZuU8w7Lavpf3Uo1VZlnNMaGOWMG9sx_w.jpg?r=857",
+            "watchID": "81205162"
+        }
+    ]
+}

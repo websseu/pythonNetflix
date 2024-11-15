@@ -1,0 +1,148 @@
+{
+    "kind": "Netflix Country",
+    "date": "2024-07-07",
+    "films": [
+        {
+            "rank": "1",
+            "title": "A Family Affair",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABbmT1y_of3q6P7wJI1pgev8M_20cAVwi0FTXfL3t_HXnrQqVsuuHQ6mhxeX_GC5af6vlk-MXI0_2p2rnPYEhJuty41vsbk4Io95RALW7FeKjKKFtUzY5th7p1s9fN67AO035Qg.jpg?r=20a",
+            "watchID": "81361154"
+        },
+        {
+            "rank": "2",
+            "title": "Beverly Hills Cop: Axel F",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABWuRWDz1boeGynWqHztDxBmVRjTi_1KotZO0WSQmwJ0XWAQ6IRgfpePxCKI17PYQyuL-5qyZYI9b5iqoc-ewgIu7Pr80nTJUIDsZ5Dyh6oN7MLn8u8NmOAJ6oqN4xy26_Iaaww.jpg?r=4af",
+            "watchID": "81076856"
+        },
+        {
+            "rank": "3",
+            "title": "Under Paris",
+            "week": "5",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABXtmnTFNW2ufqG_HKemMqnRjcDx9TIc2WcujLbevQ27q69gRVYtpV7p84uTQAbyzFRUsFu_Lxaig3-W3Q3ziHkQ399ejDgW1ujWESjrYcFIKxGd_Wjm2ONLnzLugzN-HN7Y9Eg.jpg?r=6f7",
+            "watchID": "81210788"
+        },
+        {
+            "rank": "4",
+            "title": "Esabet Azeema",
+            "week": "3",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABaBIdy_hTMrcwrdLMNYQMpMEzSUPsItlnzQ7CuMR1Vu7qrCqEkynJ9jaisDhHLc3VaJzPdCYZ_HrD6iCYGAclgVZdJyUnqfuk0pO.jpg?r=1f8",
+            "watchID": "81782264"
+        },
+        {
+            "rank": "5",
+            "title": "Fireworks",
+            "week": "3",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABVWhNknEehjuB84jHBoOG9eRV1Per-uL70Yy6AuoObsMCAn2QsfyshGJYNs3sMu92KXO2rSkypeoXME4TtoA2ImbdvJ5x-XkVOMT.jpg?r=4e7",
+            "watchID": "81716256"
+        },
+        {
+            "rank": "6",
+            "title": "Face to Face",
+            "week": "11",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABaSH7j9AtesnbUjB9vFw8GqP9PwJXZTosAsNXnqp5auqyW4YEeqzbw7dupoccLjvwjRZYMSglu3YaP9hfowsNRQxhG0sZbx0Xk8q.jpg?r=854",
+            "watchID": "81716258"
+        },
+        {
+            "rank": "7",
+            "title": "Percy Jackson & the Olympians: The Lightning Thief",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABTlmCum9GcPFdRM4VJKvmKwpQwKRWRawmYOyTxoBgzwyoeN1kTBnffzYYKGULbimJAmYrgXyQY_6Gt9UtOt0xgb8lXLLqFf0HOfk.jpg?r=e4f",
+            "watchID": "70120525"
+        },
+        {
+            "rank": "8",
+            "title": "My Brother is up on the Tree",
+            "week": "8",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABU90p_PKe1WbPq-6gEzjBtimZrZmwSjxKh22gLKo1wXglFsWOTILOrblBW_dbG09RGkW0PlxOtcA1HXlSIt2_teDY28WyCshzswl.jpg?r=8af",
+            "watchID": "81767058"
+        },
+        {
+            "rank": "9",
+            "title": "Bahebak",
+            "week": "6",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABac2ee92leITEsfeYTd-5lTZEy5QpSRB3KSOW9dg4DkhgU4-E6hDXyRlG57q8-coPcOR9JJyIMX1qIpb2JP_ieyI4x4-X4eDjEbR.jpg?r=a9f",
+            "watchID": "81684638"
+        },
+        {
+            "rank": "10",
+            "title": "Trigger Warning",
+            "week": "3",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABfRKN8oNerY_IAOj-1ias2D6EaqlGA7ehI3Gy05HvPfNvsQcFmXHswN5QIashcFbV0fK1V0IzpfEas8FRNeJJe00MDRqWSHv7A_VMLtgZn0cEcComsrDWJJJJXg_CW1t1Ox0hA.jpg?r=747",
+            "watchID": "81064546"
+        }
+    ],
+    "tv": [
+        {
+            "rank": "1",
+            "title": "Supacell: Season 1",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABZNaKobpG4lkc3YQS9bQ_p4TPoEqcwnEQn4L3JfIeg29HXjnKVgpP5vYjP2xtG9RIdJXuK38x05RWi7DkmVHrLiEARE7mGqn7MugHm9EgR4j6TC9o51pCmRZi3ABxHh1HdnXUA.jpg?r=6d4",
+            "watchID": "81316477"
+        },
+        {
+            "rank": "2",
+            "title": "Without Warning: Season 1",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABYkpciHvnHP6s6doN-Q5iDi0xT9SSE_Su3R4PD2psNkdbT3nyhaLiDCCGAKcFGtSmv-GgCOtfCtcseBqlGyCQaU0mD2rh2krp962.jpg?r=75d",
+            "watchID": "81782274"
+        },
+        {
+            "rank": "3",
+            "title": "Bridgerton: Season 3",
+            "week": "8",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABRoZs_OAwr9PbzYFDwxAR6E3LhjIsPcbIXt3tI_jgMWpYQ3jAF47UfD9pcG0JxMJkczozGLtYip7TFPKaRdlUZCq5CugMpc7GyPC7E-90DojSIRwhqL_LeneGhZf6fjlqinb_A.jpg?r=aa2",
+            "watchID": "81487890"
+        },
+        {
+            "rank": "4",
+            "title": "Unicorn Academy: Chapter 2",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABdzcdY18r20x2a7pGOOwhx_WDeR-DTzRRhzryEem7JgQ3qXcXhTluQKXXuzmpBbWd6IrVKk-scCnfF01M_5rQeDDE5w5f_-gbIQPRGq31MAdGn4aITW45nC97RgimxzU9muEDQ.jpg?r=a5d",
+            "watchID": "81404196"
+        },
+        {
+            "rank": "5",
+            "title": "The Man with 1000 Kids: Limited Series",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABWEpMrT02WUo583TsFKNMGdwbhZwjZTPmeGUGYdCD7q9dtIgYDJ1CiZJRiOUScYpLnHyabWNQZpGA2ZZ-rHxZvv8rxekoPFebvc8026_5rGp38eSvlXfcnM2RnikNSweTOvItA.jpg?r=855",
+            "watchID": "81653510"
+        },
+        {
+            "rank": "6",
+            "title": "Geek Girl: Season 1",
+            "week": "6",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABT6SqIGUAkXT5luYidyW_Q-jLWUXxcBNlj369kIKs0uPdIo-k67m6sHhzfs3PPj_A6Wnm7Co02tXPWP-YyZelWWXUVexskw8gxfJ_I79am3bINDQzd_lVL5-R8jO2fRmteLNvw.jpg?r=bb5",
+            "watchID": "81637843"
+        },
+        {
+            "rank": "7",
+            "title": "From: Season 1",
+            "week": "6",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABYIkf32Oo9uG3WXR6KNVN8p6dhfg736Ih-n3PUF9E5jHFwh07BTltdxyZzCZn2e55KJSFkDKr2QijkAUquDr2W_jCljl3tQWy24R.jpg?r=ee5",
+            "watchID": "81446289"
+        },
+        {
+            "rank": "8",
+            "title": "Worst Roommate Ever: Season 2",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABTfLEzp9qoAHk4ghINigjL9Kk5Ky6wCeU1iRavkPKvlcvnslVc4xk4IETDhjqa96j5txsLOa7nj7d3IGq0t0mGcTst49E5qudpwYQOpTrIlmjZr0YNRCxH-RjTQTpxnjDuHqSw.jpg?r=c05",
+            "watchID": "81666859"
+        },
+        {
+            "rank": "9",
+            "title": "Unicorn Academy: Chapter 1",
+            "week": "4",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABZHITdH8Ox0LeSpjbKSav8QIPjeJTrGfOgfbCBvDWxeYuU_TscYhGKoBDANmXAgAFXQVmgDCiB2clLQcKjJGMZr0lbH1TRzKsbVC0UuKuA9orYcu5VgCf-Iu4oodbzojQjHZlA.jpg?r=9c0",
+            "watchID": "81279323"
+        },
+        {
+            "rank": "10",
+            "title": "Miss Night and Day: Limited Series",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABYlq4iA3V2sbO9UlCFjxGfcpZz84FaLyvMiaNHS2ES0Jg60G5aeb9rlod4WGR2jLzF5GTJdD0QPOUgHoCsqX5-C_wAO4KQwG4H8vdzUKuGLgy3bOUjXydOq-hfgBlsFaEFv-bg.jpg?r=248",
+            "watchID": "81738995"
+        }
+    ]
+}

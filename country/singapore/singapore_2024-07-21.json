@@ -1,0 +1,148 @@
+{
+    "kind": "Netflix Country",
+    "date": "2024-07-21",
+    "films": [
+        {
+            "rank": "1",
+            "title": "Anyone But You",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABY_SjsPpzuudkcTXST6Yl3uEpPPAsx78ZPts6UFRehnIUIrkZwXlj44X2hHUkje8oRBmBrxPTa4TCr3oaARsZ98wkTCjRKaGDLhK.jpg?r=b9f",
+            "watchID": "81760229"
+        },
+        {
+            "rank": "2",
+            "title": "Maharaja",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABewPoiVNUjq0f2fB88V_2G2NsJ23KqA5RTPZGY_JmmU1uCH20Qrxv-x1313ZpFWnJqP4n21vjwxsfNqfJKnGMpeTs2N67btPDOQB.jpg?r=0a0",
+            "watchID": "81690671"
+        },
+        {
+            "rank": "3",
+            "title": "Beast (English)",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABVOYUn0mplYbNLia4Wumqa7WCI4ha7wLMnTVRBBUpeFDpHs_b-_InAAv4oltucTikcMV-ni0WX30_BW_hWzs3uVYW53NQTZxXAow.jpg?r=863",
+            "watchID": "81579532"
+        },
+        {
+            "rank": "4",
+            "title": "Rampage",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABZGCoBhKdANubIGAq4OYoKv1T6pVY1g9KLJ3VnY2e3IhseCPTImK49cvlQ2FaN_IYulvC7l6KOAdmZLsLuV07uxjGc_wxVG7YZgx.jpg?r=785",
+            "watchID": "80216309"
+        },
+        {
+            "rank": "5",
+            "title": "The Train of Death",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABRRpYdfdSMdT1UZfFUWH32OsAOCAckC45bLe7H76CSuaqrRuKtom5TmEuFFbnR1GwutP4M25HrDpHxHR8k_FV_2qp36dd9V2p9FF.jpg?r=bbb",
+            "watchID": "81764949"
+        },
+        {
+            "rank": "6",
+            "title": "Vanished into the Night",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABZ7O_iFI0VBAvAty5x9JyWfQd9qhMlRb8pWuANOtqRoShag4joTGQ9xv7v_xdQMugGYoiQBmw8VAkUAB3ttYEDmWdITm-CEXeZ5QiCNCIyZ52tA0UoCsIcL2JnsfM2Fyf1IIfA.jpg?r=c77",
+            "watchID": "81163835"
+        },
+        {
+            "rank": "7",
+            "title": "Mummies",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABa9-eJHdhoiSV3OqAzG1TZ3YT88D0-f5VROvGA4cU1VbB_iYWwLo0x_gad0zXCxP6MObiv8UTzAOheYyhs7YXqiwnO6JvsCIM7tf.jpg?r=acd",
+            "watchID": "81664346"
+        },
+        {
+            "rank": "8",
+            "title": "Minions: The Rise of Gru",
+            "week": "7",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABc8R4qeLuNP-f_pSaqmHOe72wXBuO_x1oTVg4cx4SCEsan4oSWV7h4hFDrZ7KGMTlGszXMhaMEPjM28DLiuPkEy3fPw4tDBBlDwD.jpg?r=8da",
+            "watchID": "81198916"
+        },
+        {
+            "rank": "9",
+            "title": "Find Me Falling",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABT5HdPO4-c8lANJX7ZcQOD9tl002THUJD6o2BVGiT8RbZ7cfNvnN3T0bG-ZCxh8AE6FetBO8PKqs3-0_02M9nDphQuInytPZack6qYFWDIXrTkdKV7Fz17GpPz1gS-VmorBUlg.jpg?r=901",
+            "watchID": "81740504"
+        },
+        {
+            "rank": "10",
+            "title": "Journey 2: The Mysterious Island",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABTJOgEWmqKD4BBTGWJg8qnEabs69kBh5HOxZMobIBUrGbq5N6Ta-9gW2hYqKHPvehgk1ybiPb-p1L4qrVlJ-bcAhjIO2kVcCKjNL.jpg?r=011",
+            "watchID": "70178621"
+        }
+    ],
+    "tv": [
+        {
+            "rank": "1",
+            "title": "Miss Night and Day: Limited Series",
+            "week": "5",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABYGEbJ7DpXDt4uZPrmLKhFas-rmWrX-iuLp-uBI7aGJxCvgN-kFKn0A46yM-z6E29DA3pS7WZ8ZEX5Wp3iIa7Rjn2742UTGtTo_h3JWNF524pVN-6rJ26mRy6lhY6OLj-p53Qg.jpg?r=802",
+            "watchID": "81738995"
+        },
+        {
+            "rank": "2",
+            "title": "The Double: Season 1",
+            "week": "4",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABcW8CrkfxslSCZm2NaLkR-qkPMJkGAM8UauJqMNUbQJuvjpiR0mq9GYNwMZloMZbUhS1eFPZGGq50PkltCRM9HV4Az4cY5-YXyfs.jpg?r=3f4",
+            "watchID": "81900132"
+        },
+        {
+            "rank": "3",
+            "title": "Sweet Home: Season 3",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABbS9eBE6WW9pmT1U9ds3rUZrvLQtCnJQvf8aPG7ZmcEjpvDcPeqddly1UHq4KLNYtwvqpEOGlLFMiMZcKHpsR0sthL5OpF_Mhlgc3yLtePQk7HJesdg7q39Bt5JsIPkYFQ86TQ.jpg?r=c76",
+            "watchID": "81592017"
+        },
+        {
+            "rank": "4",
+            "title": "Cobra Kai: Season 6",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABY4o9AwJTq2HZgQGTR-OLrS_9OqDUT_7USq8sf7BvFJkxRBckLcN1wGGxTEfWnzudGfvvNMAs5lr25kFO7ccRvC3oaM9ogjuDwSIwRhN-MogYFON4KVn_2Srntd_2Ji-zmvu6A.jpg?r=6e8",
+            "watchID": "81576914"
+        },
+        {
+            "rank": "5",
+            "title": "Master of the House: Limited Series",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABYtGaDS7gYpPxAtMYNzaH46EzYiKEkP7ulhYbDWqf2Xr4B-aHl9JbZBempdlQ0bssKUFrMA47Cc2QduDvAFBbLY-q19d-VgNhb8yy-3WhE478BOAA3_-dHi__HwyPjxSQMq3vA.jpg?r=d23",
+            "watchID": "81622919"
+        },
+        {
+            "rank": "6",
+            "title": "Homicide: Los Angeles",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABU2wd7MPFXoAwYkSvyLRpK4Pkw8KhQFWmyAYmFdiwOEmfSMASqXXsaFIFxqPuexfZLLERkKWKRQuobr2KI95trSkgknCMZXvsao4hgY34TnIucbD-IdPI3op1YqNZc7WJ7nlGg.jpg?r=3b2",
+            "watchID": "81601471"
+        },
+        {
+            "rank": "7",
+            "title": "The Boyfriend: Season 1",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABW5xqwd8PlU2M1gA5omgfeDh5BRS5ASwHZUzZ29gxJ1_wuXIqdfsuUtmfMzX-CXuWAXH46czDyOztYQqdwOBPC8OL22J9ntwPS4wnc17qA5NL14uKSNikplLfojBrZLbCE5B4g.jpg?r=f8f",
+            "watchID": "81685213"
+        },
+        {
+            "rank": "8",
+            "title": "The Princess Royal: Season 1",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABS2WrNL5JYMojNL5KvvBwlNB7Xy7KeEO1qSOaWZWBCGEhQI-kUNxgltaOqKHIw-2DOXP1ivXAk5PMSC2RlYkkDCXg6sA-TcLxc8z.jpg?r=c24",
+            "watchID": "81912266"
+        },
+        {
+            "rank": "9",
+            "title": "Vikings: Valhalla: Season 3",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABSBH20j_k7RmldqLsrM8Tauc4ORhrHF9d0YM4uMs-DVHLjnx0oPnyWKi-lYI_27Ae8hejKUqlJyt4G0XVdKL821suegiYh47yAzmrqQiPRaZtPIvVx9yduLt6YfCycw4IfDymw.jpg?r=972",
+            "watchID": "81220004"
+        },
+        {
+            "rank": "10",
+            "title": "Magic and Muscles: Mashle: Magic And Muscles The Divine Visionary Candidate Exam Arc",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABZaLmogidgjF8mOlraVaKxPG7qTl5JJ9_cJR1m40bbPL5PIp0iPIgYAozKEFl144IAvjgoOyl9pfhSZn1gDbUu8E8BO-QFnpE17n.jpg?r=56f",
+            "watchID": "81750729"
+        }
+    ]
+}

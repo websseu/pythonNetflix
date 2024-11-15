@@ -1,0 +1,148 @@
+{
+    "kind": "Netflix Country",
+    "date": "2024-09-29",
+    "films": [
+        {
+            "rank": "1",
+            "title": "Hitman",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABQomnp53SOvQB0Ax3ox5unQtiXpue6phAkaVGm0rPP64honJsSqUjXYpzW0ZOka9Ej7DFl7ZUgI1mrlL1Gt1F8hbOMXVAiCObQLl.jpg?r=89f",
+            "watchID": "70065116"
+        },
+        {
+            "rank": "2",
+            "title": "A True Gentleman",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABa8-FejPesk6HnDypdHCIQw6xw5Ywu-Ov2_sAmwy2g9BLTwSFk7BVGobpNuR3pgGHgx5pB9mIsWCqsw7iAJGPIRcKO2hUktQQHWLVmHof8Loxul1ncM6sKsp0HXK6ET2SAwTEQ.jpg?r=809",
+            "watchID": "81610282"
+        },
+        {
+            "rank": "3",
+            "title": "Gifted",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABXb3vunE0_w6IggboJVZ-oy5bdzu2lmcAIGsQZYBo-Gx20IyEm-2wreHsGVe440M5JIzP6y6aywwgy2gHkb8r5Uhy0Bgoi7mJcmJ.jpg?r=763",
+            "watchID": "80149312"
+        },
+        {
+            "rank": "4",
+            "title": "Rebel Ridge",
+            "week": "4",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABcw1DhLV3nL1COAqQ26C8ElGMZNHcVLNUeNdS0xviHPzDz8vi6x1ddVW37i1MmoflbIAydBtDonjhWh_KgYAN-3wHgWg42JTNjms2FGLs3lUOTQpy5HiZDUZ8FznbWYAHK9KlQ.jpg?r=93c",
+            "watchID": "81157729"
+        },
+        {
+            "rank": "5",
+            "title": "Abominable",
+            "week": "4",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABZsF4ilB1BxQ1gXRn3tjKnPzCacQCPMPdrUle_4nY-MI29S9ULcEQD8-j7iIXAKrXgZzRF7sIg6Vw-zOvyH-YMZSsElUQYLrZcU6.jpg?r=090",
+            "watchID": "81088173"
+        },
+        {
+            "rank": "6",
+            "title": "Dungeons & Dragons: Honor Among Thieves",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABYuTSOA-ebVsVa-aR7QNxFebm2iyAj7DtW0J2TqNXLbMsp20a3pSO0nc0oyWWptO9ISPc5aQI8LdfEzQlsEsnsD9-zMHirXJlX5k.jpg?r=881",
+            "watchID": "81631823"
+        },
+        {
+            "rank": "7",
+            "title": "Uglies",
+            "week": "3",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABfDrHIOY3dNsaNtR7RgZdSV7QIkvYQzQuXaJ8PQ-OnYu2LTu3KzElfvvf3jDrg2hXEdZ-cw6NHpMcqfIgFhueEURYZEaGYorOorfKxKM3LT_TcKmjlY3j8HVC8i2CZ84uusnQw.jpg?r=137",
+            "watchID": "81002266"
+        },
+        {
+            "rank": "8",
+            "title": "Joker",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABVcS8JR_74cJVTdY5yDlH3_klGkTgLEVy9LmVel-AFRUeAwwbtqVELuZsp1zVroJQH6Ll3cdZMCZtmaTyJ9gPAetnRMpQo8ZmstT.jpg?r=e68",
+            "watchID": "81092221"
+        },
+        {
+            "rank": "9",
+            "title": "A Man Called Otto",
+            "week": "4",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABRL2JKrqmoVFR5xb_011Rcj42pgvhCBoml7Oh1vU2_qFa5Ph0igtFHGuf0IEihUN3E9ZWcaZBjCMPH-X2ZKuF8q2XJOW0boMf1be.jpg?r=397",
+            "watchID": "81616256"
+        },
+        {
+            "rank": "10",
+            "title": "Sing",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABdS9aMIqNZTzCxEOnF7u4QVmNuc6g8Mxiy8lzA84P8wkh86NMTz2J4IiuusDzeNHYSPI-RBO8sO4ZDr3bI533qr5GNH26nxRLZsO.jpg?r=df4",
+            "watchID": "80117526"
+        }
+    ],
+    "tv": [
+        {
+            "rank": "1",
+            "title": "Monsters: The Lyle and Erik Menendez Story",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABaPPkki-sw_AU-mZF2OaLlKp4qDkGgrFH3fli3ddhSucguq7VvG_ql7mXsSBUviqijSgGx2eHGXZxXO6Ykdh5No7Di1XZ0nv0vhSG-315CksNO7oIlj0_vuFVHg-uvv9sfZYKw.jpg?r=e2e",
+            "watchID": "81582441"
+        },
+        {
+            "rank": "2",
+            "title": "Nobody Wants This: Season 1",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABag7bvH26W90NWDoi_1D5NhWXQvZtB_Q8j0EGE_-bn_A4sfObj-tbwty_3kEF6ks7sBsdVW79sBe3VN6_Q5hlRxhoyOTVmpPbuumpU2xHjMEBpaslvjN4R3nzxf36hrpNNiUMg.jpg?r=323",
+            "watchID": "81591297"
+        },
+        {
+            "rank": "3",
+            "title": "Emily in Paris: Season 4",
+            "week": "7",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABd0X1PrB5uIerkNJlglL1IP9oKAs-UP8qKuIc9fp--Tg4b76t4jhsq4p_RyUTg-FNkyeY51TFHmiHxBInkWyQOSEBkdbBDfNRyhNVg3XacH68C_Z0jVUvsC5g6-ab5SlTf-cSQ.jpg?r=4f9",
+            "watchID": "81580261"
+        },
+        {
+            "rank": "4",
+            "title": "The Perfect Couple: Limited Series",
+            "week": "4",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABX_2e6RXDWbcqMqUzdqSCiMhC-Bik8JbxSQTZ1gIdXpN8nj8Xvk5ec3POk1hXGrCsxz_WKeqwVIrwvQH9yf1iCyFWFf8e3IO2rwQzwbrkXHH7lZ-HBeKWrUtv9tV0FLa7cAjtQ.jpg?r=c4c",
+            "watchID": "81474159"
+        },
+        {
+            "rank": "5",
+            "title": "The Resident: Season 1",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABbzUpowhRgQ_wFVt_90wDs0Wn2sZyaPHPgFaQXH9zffKdHk5z4Rm-lgYYz5kUwwn2AlzRDznSBUKKB2l23Wand9FH_Bj3Liwq54J.jpg?r=30c",
+            "watchID": "80179401"
+        },
+        {
+            "rank": "6",
+            "title": "Famagusta: Season 1",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABdxJmRCe0Y2pw1ycREGzCSa_n0o7VIBqv5-SL_j4Muw195HMj8G8djxSZw8t1-9zkqE25FaC8sjwM32NdxvDsxbsAcF14MaEgAlh.jpg?r=a25",
+            "watchID": "81913503"
+        },
+        {
+            "rank": "7",
+            "title": "Envious: Season 1",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABVOQk61ZrDfrWt3o3c4Xte-JjoDjoKn0gqKtixPZuItc5_wFOrsan9ug6yrm_bQARl747aQ-clP4EY7WCHvOmXCQAAVXxn5tbbjqW9JhKeAyV6kEcCwlfxO9RmlP8GaHCrsPCQ.jpg?r=d42",
+            "watchID": "81687656"
+        },
+        {
+            "rank": "8",
+            "title": "Prison Break: Season 1",
+            "week": "4",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABS5VdzfTxOiANzAMcTeLj3K7LpIi2YKEixOyZWDmss71w9xB5wJM0a_jutdYsZDQwyb_gPe4YNlBJ4yh55nmnEiF4AuISgTujvsO.jpg?r=dbe",
+            "watchID": "70040250"
+        },
+        {
+            "rank": "9",
+            "title": "Famagusta: Season 2",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABdxJmRCe0Y2pw1ycREGzCSa_n0o7VIBqv5-SL_j4Muw195HMj8G8djxSZw8t1-9zkqE25FaC8sjwM32NdxvDsxbsAcF14MaEgAlh.jpg?r=a25",
+            "watchID": "81913504"
+        },
+        {
+            "rank": "10",
+            "title": "KAOS",
+            "week": "5",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABexkfzPlss4nCNZtossMll1SqYCqlfszgbQ8Su42Y6BgkY0mliqycpnHl-IgVLHd_8Y-qj849OXiaIarPYnSFKaaXFbtWcgKpqE8KLvQj0JjDx1taetOFohSutpOPa4Bxv1K0w.jpg?r=c54",
+            "watchID": "81003735"
+        }
+    ]
+}

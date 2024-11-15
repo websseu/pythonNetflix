@@ -1,0 +1,148 @@
+{
+    "kind": "Netflix Country",
+    "date": "2024-09-08",
+    "films": [
+        {
+            "rank": "1",
+            "title": "Rebel Ridge",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABcw1DhLV3nL1COAqQ26C8ElGMZNHcVLNUeNdS0xviHPzDz8vi6x1ddVW37i1MmoflbIAydBtDonjhWh_KgYAN-3wHgWg42JTNjms2FGLs3lUOTQpy5HiZDUZ8FznbWYAHK9KlQ.jpg?r=93c",
+            "watchID": "81157729"
+        },
+        {
+            "rank": "2",
+            "title": "Dead Sea",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABfxBpfRmDQBAMJKYi4bErcGnrOTsg_K72eQnE2va_lfpdROKMEc4FCPSDv6vd6kRHdPX9l-fHuETeLXFExZyX4y6IqQ22ctdWd34.jpg?r=27e",
+            "watchID": "81781471"
+        },
+        {
+            "rank": "3",
+            "title": "The Deliverance",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABcb3fMO16HuzYCNcvzr6uClhFTDPNbd1bdx-4j-p4glFMsmBhHlvijx9rmbFK5HI_PyhRvXuMd6lIGRICf7hAHboK7o2pLqHM5hBmmoYzCP_zDqGvmqaUi_Malf8YFxoTDTEnw.jpg?r=db1",
+            "watchID": "81582382"
+        },
+        {
+            "rank": "4",
+            "title": "Scream VI",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABU03ctaI3M0baVgACFWF0VZxPKS_REqhUiEq4rxHTu2KPbeA934tVRioSQjwArGAMpTvpDSlr38C60U49gbv6RWVhvuw0E7waox8.jpg?r=fc5",
+            "watchID": "81639205"
+        },
+        {
+            "rank": "5",
+            "title": "The Shack",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABT0z3yEvbh8ytvppXcsRe5XkNadY2Y5WxJ0oozT7__SG7EarI522OF49m8DnojFmRw2wYMd8ZFeJWi3xGa0452FhhRQVPsT8QKnb.jpg?r=eb5",
+            "watchID": "80135710"
+        },
+        {
+            "rank": "6",
+            "title": "Incoming",
+            "week": "3",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABcyKQHzbBVrCFd3dck6m3jqJhs133O0Fb2_DfR3NicffEeRlPQ1nOXCX6-U8O6V4xbWhWKjG0oWEUaH0XWJAFl8cSGlKILYyw1SMzEjI_VrgJeEEE4eulA7wfYrZejKursvLwg.jpg?r=bcf",
+            "watchID": "81715819"
+        },
+        {
+            "rank": "7",
+            "title": "(Un)lucky Sisters",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABdDhpTnjUClhcZOjfuq0UOGArUrqCWiqbUdve-JGlm_8SUO-BP5cBxHzl88Y93SNq1uuaMv61ICry3eITHUat4uCUZP6FpzwIyTBol1tkEpufsbjF4PyNe8HBy7k3j9vIfV-GA.jpg?r=14f",
+            "watchID": "81610658"
+        },
+        {
+            "rank": "8",
+            "title": "Doce Família",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABUrdw8qHVzJ3mMdCQBkt5Ecm8-_uzVuKd7NqyEDSIoecbwGFOzoGpxfPxMgGzAh7Y1LfqfrhUGWU6LKsoIJ-wN9P40x9t-Gh3rPW.jpg?r=7ce",
+            "watchID": "81766413"
+        },
+        {
+            "rank": "9",
+            "title": "White House Down",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABTnrzWXAz_VYtNNKrEdgB1XLxLMSkonRvecOxmWah9QdyIgTJKFAa8ua5VnQUBZgM6SwjGIEA9QcgdKj5AVDnA1najRiQqp-v25l.jpg?r=685",
+            "watchID": "70264801"
+        },
+        {
+            "rank": "10",
+            "title": "Ferdinand",
+            "week": "6",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABYN2wApjHguAaDyMO9bRww6ePwWIHAaDrdpJP506Ed8Rva7dgSaw-PFgAfNiGhPmi5Yy02dNOfqBu8oBxCfYDGfbSX9-uyfqisIA.jpg?r=9d0",
+            "watchID": "80191879"
+        }
+    ],
+    "tv": [
+        {
+            "rank": "1",
+            "title": "The Perfect Couple: Limited Series",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABQzUJLaKeMvq6LeJW3zOMG6206Qcp6EPQkYbWiZgwFbfbhl4-M3bR3jJWzt4q-RjvkjQjFH39WuUOQoIF8lKDB767PQHwjKznE3UrQVLN1vikYfNPrlXSU4kldckQjqb8Zb0pg.jpg?r=f68",
+            "watchID": "81474159"
+        },
+        {
+            "rank": "2",
+            "title": "Breathless: Season 1",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABQHTRhDgb51yoBJjzSxofGyj0mPykCDzD1NaF_-k5g72c8PGfq2PRfrhU6PA1ZHSiSlXlYIiX03twYrTfx6x1kTIjRo4poeGTmtdyYe8579fo84OlTcMeTbsTwe0pUf5mIJpAA.jpg?r=7d2",
+            "watchID": "81667162"
+        },
+        {
+            "rank": "3",
+            "title": "Love Next Door: Limited Series",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABRZwgqeJku3gMF231TxH-DUQQ1iALdkMIyp10JYz9eK11r9iZF2aX3pcTx9ySfhy4FdtCCFy-XCEjx1tkltX3aMctjY6MDjz6amVYQVHqRfAi3D8vIAOZVE7Rj08KuZDwk7pZQ.jpg?r=654",
+            "watchID": "81739045"
+        },
+        {
+            "rank": "4",
+            "title": "Prison Break: Season 1",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABS5VdzfTxOiANzAMcTeLj3K7LpIi2YKEixOyZWDmss71w9xB5wJM0a_jutdYsZDQwyb_gPe4YNlBJ4yh55nmnEiF4AuISgTujvsO.jpg?r=dbe",
+            "watchID": "70040250"
+        },
+        {
+            "rank": "5",
+            "title": "The Accident: Season 1",
+            "week": "3",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABf6IuJ5ENXbO5UaLzNSmGPvbS-nB085sg3ekCLODfbxILakaCxX6BYO4GjlXBZyKOSJcxvg1NYy-u2o74nGqxehJAl53XmaP-VLbR-XSmjNGKTfq1jnOBfsGMdyXnpadCKNGQQ.jpg?r=1f4",
+            "watchID": "81659093"
+        },
+        {
+            "rank": "6",
+            "title": "KAOS",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABexkfzPlss4nCNZtossMll1SqYCqlfszgbQ8Su42Y6BgkY0mliqycpnHl-IgVLHd_8Y-qj849OXiaIarPYnSFKaaXFbtWcgKpqE8KLvQj0JjDx1taetOFohSutpOPa4Bxv1K0w.jpg?r=c54",
+            "watchID": "81003735"
+        },
+        {
+            "rank": "7",
+            "title": "Lottie Dottie Chicken: 2ª temporada",
+            "week": "65",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABf_ompeasCpDJCTGIe9Ro9ZZRCdnH-Ivb28nLckLrf7gO3BuZ5QtfGvD4Eo6YzaBAK5zReKz-jLmJbWxX1bb5qXXDZSgsDNzNEO3.jpg?r=b39",
+            "watchID": "80094450"
+        },
+        {
+            "rank": "8",
+            "title": "Back to 15: Season 3",
+            "week": "3",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABcr2FJvfIM4maL8geaC788hL8vk73guw7Oig3WnGH7LrrCyJUqXjrMmlW4E79ao9J-qlZSsRw4subnl1TrT0rNqKpm5FuplzAfSY9BwXib4G6WFozbRJAju-ljwF10v0ziGUnw.jpg?r=d71",
+            "watchID": "81639843"
+        },
+        {
+            "rank": "9",
+            "title": "Emily in Paris: Season 4",
+            "week": "4",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABbVbcT3SdBIRM83XFcUjtvMfN0fYd0qvYsxfXD_LsM9eQuV9UGYU5Q9OC4rxVQKlZ9fUF0yYqRgY8RJQ-_stufhRdk-T9JCmqqLWbmD6GtNEq6TV1HpqAI0OUJ2FN4HVLX-xQQ.jpg?r=d80",
+            "watchID": "81580261"
+        },
+        {
+            "rank": "10",
+            "title": "Romance in the House: Limited Series",
+            "week": "5",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABRYasCHf_vkEZhn_yHU7rYaR4sIYcRGZrSaj3dORz1PVCX1yFrmOKYbnzYgbU5-C9DbD4Au8eVEVxWJf4mU6JP35DY4yNn2BmqzI_tKFu0bvyN-1xt0a18gMmT4VHAlBHycvhQ.jpg?r=26b",
+            "watchID": "81738997"
+        }
+    ]
+}
