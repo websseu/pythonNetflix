@@ -1,0 +1,332 @@
+{
+    "kind": "Netflix Popular",
+    "date": "2024-11-15",
+    "films": [
+        {
+            "rank": "1",
+            "title": "Red Notice",
+            "hours": "454,200,000",
+            "views": "230,900,000",
+            "image": "https://dnm.nflximg.net/api/v6/E8vDc_W8CLv7-yMQu8KMEC7Rrr8/AAAABWWUX7IEVu5DfxDND9-a6EFUJloSZFcDJB-oIblnHgF0Au7qkcpmweQZf2hdV-cpSId1o5gQv72D4q8TYjDiOPvrRDa6YIX5Aup9.jpg?r=afe",
+            "watchID": "81161626"
+        },
+        {
+            "rank": "2",
+            "title": "Don't Look Up",
+            "hours": "408,600,000",
+            "views": "171,400,000",
+            "image": "https://dnm.nflximg.net/api/v6/E8vDc_W8CLv7-yMQu8KMEC7Rrr8/AAAABfPrkVMb9XNR6vGInbEuuunjYhclhZmZfQntj6cC3ZuGoVqzz-eZ11s7voM7QIHz2PD7Ww5cYfsOBE4zz-hUs_r6mxjh46YxqRZ6.jpg?r=7c6",
+            "watchID": "81252357"
+        },
+        {
+            "rank": "3",
+            "title": "The Adam Project",
+            "hours": "281,000,000",
+            "views": "157,600,000",
+            "image": "https://dnm.nflximg.net/api/v6/E8vDc_W8CLv7-yMQu8KMEC7Rrr8/AAAABWGdxWQ4QtgPrF5dFNs91jtp184Y7dUWDn0zAGWPGPO2hDV9riEx1ZsFVhx1YRn-qFhwohZSaQpTMO73Yf4yjn2caFz2F1z8pyQj.jpg?r=909",
+            "watchID": "81309354"
+        },
+        {
+            "rank": "4",
+            "title": "Bird Box",
+            "hours": "325,300,000",
+            "views": "157,400,000",
+            "image": "https://dnm.nflximg.net/api/v6/E8vDc_W8CLv7-yMQu8KMEC7Rrr8/AAAABWySmHJziOsXcoE4-MACmIT0fKNt8IY6puaZmWiq5kZvK513QA06LMK4FYL71terfrgUJygTlYqWeR6R56EmaE0t-a9AMj8ZTvsK.jpg?r=7b2",
+            "watchID": "80196789"
+        },
+        {
+            "rank": "5",
+            "title": "Leave the World Behind",
+            "hours": "339,300,000",
+            "views": "143,400,000",
+            "image": "https://dnm.nflximg.net/api/v6/E8vDc_W8CLv7-yMQu8KMEC7Rrr8/AAAABZ_YfNDXbKc6TVH4lRZvFfujNeeC-uRtWsGcZ-1xc6BGvkri9-oLyPiStVzGHY4OHKcbfKWV9QCeUhcvJXXCkWe49eX3nMkP5UAN.jpg?r=3e0",
+            "watchID": "81314956"
+        },
+        {
+            "rank": "6",
+            "title": "The Gray Man",
+            "hours": "299,500,000",
+            "views": "139,300,000",
+            "image": "https://dnm.nflximg.net/api/v6/E8vDc_W8CLv7-yMQu8KMEC7Rrr8/AAAABV9EvdYjjWveiwYlbb9iawsIzcru_8ZEhYqfU2ncCfq6rnsmnSL0lPRCniarmAJLK3rDOkgwRr4gD_fztOFgXSAFF8tQ-kxh0jG8.jpg?r=ffe",
+            "watchID": "81160697"
+        },
+        {
+            "rank": "7",
+            "title": "Damsel",
+            "hours": "253,000,000",
+            "views": "138,000,000",
+            "image": "https://dnm.nflximg.net/api/v6/E8vDc_W8CLv7-yMQu8KMEC7Rrr8/AAAABTlGjq6uE6IMmHvwJaTj7wSiy1qh-2qoeZECVp1dSsHxdCOO9BCrZAxATtEEOh60In8K0rCCNwD6MWl2WsVOOzzq_IcrFE4Wb4bK.jpg?r=669",
+            "watchID": "80991090"
+        },
+        {
+            "rank": "8",
+            "title": "We Can Be Heroes",
+            "hours": "231,200,000",
+            "views": "137,300,000",
+            "image": "https://dnm.nflximg.net/api/v6/E8vDc_W8CLv7-yMQu8KMEC7Rrr8/AAAABe6WlWDEvLmQh8o6FD6YPGPqGpbSoDMTB3h1RGXZn4GxorqLbU4UjxoMUL-I9pckYRdOiOi-tewTlFk0USCinJZyqd9JvHOYnVe7.jpg?r=a25",
+            "watchID": "80994666"
+        },
+        {
+            "rank": "9",
+            "title": "The Mother",
+            "hours": "265,900,000",
+            "views": "136,400,000",
+            "image": "https://dnm.nflximg.net/api/v6/E8vDc_W8CLv7-yMQu8KMEC7Rrr8/AAAABS7BK2DBV9MzsWUVGfchXjE27CKxstSW_HGLEIFML8D0bdA10ylWCTedyLXTenfcYL9ym-bX1Kii2ynvg4nImrSSXhDFdBeNp67m.jpg?r=48c",
+            "watchID": "80210920"
+        },
+        {
+            "rank": "10",
+            "title": "Glass Onion: A Knives Out Mystery",
+            "hours": "320,300,000",
+            "views": "136,300,000",
+            "image": "https://dnm.nflximg.net/api/v6/E8vDc_W8CLv7-yMQu8KMEC7Rrr8/AAAABXenOpKRwUeWfkm79Vboljl_yfD0fyxXzEMA00GCwK7uDQbHdjGpros4qa74ojGKFmwNmvobE6c-BbTfI20oe7wIDBNdYwkfU048.jpg?r=878",
+            "watchID": "81458416"
+        }
+    ],
+    "filmsNone": [
+        {
+            "rank": "1",
+            "title": "Troll",
+            "hours": "178,600,000",
+            "views": "103,000,000",
+            "image": "https://dnm.nflximg.net/api/v6/E8vDc_W8CLv7-yMQu8KMEC7Rrr8/AAAABYEOmxJ6jjjq_dS7Iq1wZB-Wt71jDwg_705XLtREIRZQMGHRySXk3FEZdwK6Fydfl2KpMdMJMhtAPVuEAv2elsdgkqHJ9mjzoUzn.jpg?r=52e",
+            "watchID": "81245455"
+        },
+        {
+            "rank": "2",
+            "title": "Under Paris",
+            "hours": "177,300,000",
+            "views": "102,300,000",
+            "image": "https://dnm.nflximg.net/api/v6/E8vDc_W8CLv7-yMQu8KMEC7Rrr8/AAAABYiLGNEDTqr-YjsdmdzbAWg2tL2T11BFuY7wL-cC3ewiFG0mZ3d4t58Az_BFfUlCwYsDjL0p5xwzjN6tg4rWp3k99iWcaBAozbhG.jpg?r=7bf",
+            "watchID": "81210788"
+        },
+        {
+            "rank": "3",
+            "title": "Society of the Snow",
+            "hours": "239,700,000",
+            "views": "98,500,000",
+            "image": "https://dnm.nflximg.net/api/v6/E8vDc_W8CLv7-yMQu8KMEC7Rrr8/AAAABbuUwLrHE1v5vMj5n1c2kT6P9e0NvlZf5iyzWcqBOvLw-d8JjAyuv432mOesnAGspl1HpxFJQoZm9eSOQI8r0dJFJzfx3ZFtUNRr.jpg?r=393",
+            "watchID": "81268316"
+        },
+        {
+            "rank": "4",
+            "title": "Nowhere",
+            "hours": "155,600,000",
+            "views": "85,700,000",
+            "image": "https://dnm.nflximg.net/api/v6/E8vDc_W8CLv7-yMQu8KMEC7Rrr8/AAAABbgEvr3Xt5D0NetzEEIaKSoCe93MRn3lnifIVEnax4U2HlVVW5BadE0OuiRRwOarC7605zXM6EYxa1YePQ9PnvG9KDrbXgUQqxuj.jpg?r=493",
+            "watchID": "81449034"
+        },
+        {
+            "rank": "5",
+            "title": "The Platform",
+            "hours": "129,700,000",
+            "views": "82,800,000",
+            "image": "https://dnm.nflximg.net/api/v6/E8vDc_W8CLv7-yMQu8KMEC7Rrr8/AAAABRgOeu62SMIgIqBL_qc0J6fJBRjOaVYyrTh5vBt9o64MmP8lwe4CEWhofmDA4fM6tM9g2nTr3iF0wEfn1-_ibczYHrOWqg1W-nhR.jpg?r=5bd",
+            "watchID": "81128579"
+        },
+        {
+            "rank": "6",
+            "title": "Through My Window",
+            "hours": "116,000,000",
+            "views": "61,100,000",
+            "image": "https://dnm.nflximg.net/api/v6/E8vDc_W8CLv7-yMQu8KMEC7Rrr8/AAAABUymcPIrzeucVJxwceTB-Iw0T2NBSPzZR-jiFJZK_KcgnO1XRZfqKaYwDhV91Q0dnbb0wGPVhr5PaegcnsyDoT39IfrZVS7B63XW.jpg?r=b36",
+            "watchID": "81388078"
+        },
+        {
+            "rank": "7",
+            "title": "AKA",
+            "hours": "125,900,000",
+            "views": "60,900,000",
+            "image": "https://dnm.nflximg.net/api/v6/E8vDc_W8CLv7-yMQu8KMEC7Rrr8/AAAABZyKplaOLaz0FH45ubG8heGLiGCbBFAEey3_echEiEmuOGQQ8IteAc4y1zrEFOUrE_937tu74LdIQE8eykXLCULUMZdM7Kt4q7N6.jpg?r=a40",
+            "watchID": "81576597"
+        },
+        {
+            "rank": "8",
+            "title": "Blood Red Sky",
+            "hours": "124,800,000",
+            "views": "60,900,000",
+            "image": "https://dnm.nflximg.net/api/v6/E8vDc_W8CLv7-yMQu8KMEC7Rrr8/AAAABcsUnbLte2G61P5P4is4syeZ1pkRbE3mxLHI_AOykM1A71LmDmuHuigyGkUCBl5aIaQvI06i75_1QWN3KQQbUjJp4E38Obue9pig.jpg?r=e0d",
+            "watchID": "80198645"
+        },
+        {
+            "rank": "9",
+            "title": "My Name Is Vendetta",
+            "hours": "86,500,000",
+            "views": "56,400,000",
+            "image": "https://dnm.nflximg.net/api/v6/E8vDc_W8CLv7-yMQu8KMEC7Rrr8/AAAABaOD8SPDMKE9hPFEKZNDWGQfiy1eIy4-V-mAgHlncA-ndOyiOnIX8t23p3zmPLg3eLOCz09vGqVz5Fmzm7_N7M-0sXFjzjg15weG.jpg?r=e87",
+            "watchID": "81458368"
+        },
+        {
+            "rank": "10",
+            "title": "Black Crab",
+            "hours": "103,300,000",
+            "views": "53,900,000",
+            "image": "https://dnm.nflximg.net/api/v6/E8vDc_W8CLv7-yMQu8KMEC7Rrr8/AAAABeMyVGW_FBSoMt-pqcq4qsFzDh6d2M4lwufz-DSc-9LAE7qS2I4glrD0jUx6Z8q1awkiAiABrcvHB1ofg9XBPjjh3UwhyA3Djb_o.jpg?r=c6f",
+            "watchID": "80220426"
+        }
+    ],
+    "tv": [
+        {
+            "rank": "1",
+            "title": "Wednesday: Season 1",
+            "hours": "1,718,800,000",
+            "views": "252,100,000",
+            "image": "https://dnm.nflximg.net/api/v6/E8vDc_W8CLv7-yMQu8KMEC7Rrr8/AAAABQVE1MZMBkFZ2dII74kVEPWgY106tO24pSBC80UXCS9RJS6wK7ivqxn1jd2TEENW48gIGIWepRWCGzyAof99kpSKPW_s5bf6EYOI.jpg?r=570",
+            "watchID": "81231975"
+        },
+        {
+            "rank": "2",
+            "title": "Stranger Things 4",
+            "hours": "1,838,000,000",
+            "views": "140,700,000",
+            "image": "https://dnm.nflximg.net/api/v6/E8vDc_W8CLv7-yMQu8KMEC7Rrr8/AAAABdpFQhjaBlTdGcu5gzvO1PS7cHBpk4ougx01JzMqmTqAJejGE1DOH46FtittmnJYH3TKzuCSmwWcUmFhrTbEM9nwHltFLwMaji1k.jpg?r=b45",
+            "watchID": "80229865"
+        },
+        {
+            "rank": "3",
+            "title": "DAHMER: Monster: The Jeffrey Dahmer Story",
+            "hours": "1,031,100,000",
+            "views": "115,600,000",
+            "image": "https://dnm.nflximg.net/api/v6/E8vDc_W8CLv7-yMQu8KMEC7Rrr8/AAAABRCV-xXTsxK8rorceETcy05aCy-yMOf-RSsOBy-JUoG2zTwypup_3YvYMfZu4J94-2bWJEu9BhOlfEbBNf95DMhBOAwZg3kOqFUU.jpg?r=864",
+            "watchID": "81287563"
+        },
+        {
+            "rank": "4",
+            "title": "Bridgerton: Season 1",
+            "hours": "929,300,000",
+            "views": "113,300,000",
+            "image": "https://dnm.nflximg.net/api/v6/E8vDc_W8CLv7-yMQu8KMEC7Rrr8/AAAABbaaPd2hTLV8BPb5vJeobeh-d921tLhtz8tvhMWZ8lcJQ3QWIi2tZ4dOO9MoZVrktQUzKn__kuuSabmPvKhvFXYasZg50-G_dLal.jpg?r=c70",
+            "watchID": "80233012"
+        },
+        {
+            "rank": "5",
+            "title": "The Queen's Gambit: Limited Series",
+            "hours": "746,400,000",
+            "views": "112,800,000",
+            "image": "https://dnm.nflximg.net/api/v6/E8vDc_W8CLv7-yMQu8KMEC7Rrr8/AAAABW56vdfdg0JHVZzJRGE-Xm-Zz5OLgXxjYprTvr7A1hcAwxzWtK9ITRZ6iIHmL8l9NYzvo5o0V0nZejN_XoIwtAxi5fkWsqvcotL-.jpg?r=736",
+            "watchID": "80243322"
+        },
+        {
+            "rank": "6",
+            "title": "Bridgerton: Season 3",
+            "hours": "846,500,000",
+            "views": "106,000,000",
+            "image": "https://dnm.nflximg.net/api/v6/E8vDc_W8CLv7-yMQu8KMEC7Rrr8/AAAABRV4l489Ivb566jnHjoBG7WnVKDBfOGrIrxdmJHawX9hIVzi7nSH32pBNEQY87AYqyI6duWu2UeVjSIXb9QA34kmaHF6IJ6xomtW.jpg?r=036",
+            "watchID": "81487890"
+        },
+        {
+            "rank": "7",
+            "title": "The Night Agent: Season 1",
+            "hours": "803,200,000",
+            "views": "98,200,000",
+            "image": "https://dnm.nflximg.net/api/v6/E8vDc_W8CLv7-yMQu8KMEC7Rrr8/AAAABfRzWYPh7EABVP8fjay5mtmNXr1xigBjb1HcXpxwMmNGcujzOm9Wzq-5tdzyuGR-Mx0qigryV1u1MV5ivOW2fQ7n8jrWaCLsycW6.jpg?r=ead",
+            "watchID": "81450828"
+        },
+        {
+            "rank": "8",
+            "title": "Fool Me Once: Limited Series",
+            "hours": "629,800,000",
+            "views": "98,200,000",
+            "image": "https://dnm.nflximg.net/api/v6/E8vDc_W8CLv7-yMQu8KMEC7Rrr8/AAAABVi-7-OmlRwcXUI8-ondQoJZ5IpWPI_ZVRO4YBnpeFNWKmpJVw6UGKSnesWoMnOZxPCDAtegLnkWHZ-cqWKeWht6_r8xTFSiJPFV.jpg?r=dbe",
+            "watchID": "81588094"
+        },
+        {
+            "rank": "9",
+            "title": "Stranger Things 3",
+            "hours": "716,100,000",
+            "views": "94,800,000",
+            "image": "https://dnm.nflximg.net/api/v6/E8vDc_W8CLv7-yMQu8KMEC7Rrr8/AAAABWqyk9YbI4ItzZlvG53bZM22rdvVKrY4yNgo2FFH_7NvM5s1TWUwS0mzdv44T6E5apMDbL_EXBxCSL9YGlA3aFlcAzl6mkmC0qSe.jpg?r=3a8",
+            "watchID": "80186799"
+        },
+        {
+            "rank": "10",
+            "title": "Bridgerton: Season 2",
+            "hours": "797,200,000",
+            "views": "93,800,000",
+            "image": "https://dnm.nflximg.net/api/v6/E8vDc_W8CLv7-yMQu8KMEC7Rrr8/AAAABbAa4qvWr8_avvnj30D_N3V6OfhNdFktFcO4qn7Alm6q7z7a5l3XvHd9ka_xv2V_iK2N_uM3lAld_A2Oo-sJLczilO7CUn3mvy-R.jpg?r=dbe",
+            "watchID": "81205162"
+        }
+    ],
+    "tvNone": [
+        {
+            "rank": "1",
+            "title": "Squid Game: Season 1",
+            "hours": "2,205,200,000",
+            "views": "265,200,000",
+            "image": "https://dnm.nflximg.net/api/v6/E8vDc_W8CLv7-yMQu8KMEC7Rrr8/AAAABYw6BluZ64azQ_pjzW56TbKaIugYUEueV0ql-hN-8GytoQvMlrxPD2ihgls8BJbIpa-PFTaqjd6gXDa49H-shYoJBrThXvF87GPI.jpg?r=002",
+            "watchID": "81105887"
+        },
+        {
+            "rank": "2",
+            "title": "Money Heist: Part 4",
+            "hours": "710,200,000",
+            "views": "106,000,000",
+            "image": "https://dnm.nflximg.net/api/v6/E8vDc_W8CLv7-yMQu8KMEC7Rrr8/AAAABeRx7jjmDUpFL9CRa-xWALpOdjmM_TD5TGndoR6EX844eMH7gxKL2qNQDcEL0zs9-SP-LX9NwDaz1FA43YoNrE-7uUD9Hf-JyUZg.jpg?r=638",
+            "watchID": "81012311"
+        },
+        {
+            "rank": "3",
+            "title": "Lupin: Part 1",
+            "hours": "396,300,000",
+            "views": "99,500,000",
+            "image": "https://dnm.nflximg.net/api/v6/E8vDc_W8CLv7-yMQu8KMEC7Rrr8/AAAABdJ1X9nE_PtFwVq9rjVrl1qRlBkx0iWCdiKuqlEUSJcfTk3d-C-GdcwL59J-CwkabLGck281ZtUioHH7ecJITKeZRXT12QOsaA0a.jpg?r=49a",
+            "watchID": "81010119"
+        },
+        {
+            "rank": "4",
+            "title": "Money Heist: Part 5",
+            "hours": "900,700,000",
+            "views": "99,200,000",
+            "image": "https://dnm.nflximg.net/api/v6/E8vDc_W8CLv7-yMQu8KMEC7Rrr8/AAAABexQgcI6ZkLBnrNqeaPuv03Jfznx6e0e4yl0libpMMnBb9OuESiBT_YRgWEHenHVa9ag52iFX9lFAg9VA7xnPLtCB-xGefuBE0xs.jpg?r=2ac",
+            "watchID": "81061398"
+        },
+        {
+            "rank": "5",
+            "title": "Money Heist: Part 3",
+            "hours": "519,800,000",
+            "views": "80,000,000",
+            "image": "https://dnm.nflximg.net/api/v6/E8vDc_W8CLv7-yMQu8KMEC7Rrr8/AAAABU9hIaJ1qjK4lcYGBfiTSu-WKJrvPIffNt3GHKoYm59x4KLCxgCrcqgfbctRWSlOXWZNNe_fMVB0J6u_3ce6e8alZ4xivy6dWzJy.jpg?r=f09",
+            "watchID": "80245648"
+        },
+        {
+            "rank": "6",
+            "title": "Lupin: Part 2",
+            "hours": "258,900,000",
+            "views": "68,400,000",
+            "image": "https://dnm.nflximg.net/api/v6/E8vDc_W8CLv7-yMQu8KMEC7Rrr8/AAAABZUCzyIENYI-qtgLE5wAUQjei-BmglfHo0NefHb2xKPSTzE11rB3aJVh96Lv15ROt4P0yUjcBUS94nolHTyIBLrmzipkBtnnCGcq.jpg?r=e47",
+            "watchID": "81031848"
+        },
+        {
+            "rank": "7",
+            "title": "Who Killed Sara?: Season 1",
+            "hours": "392,400,000",
+            "views": "58,400,000",
+            "image": "https://dnm.nflximg.net/api/v6/E8vDc_W8CLv7-yMQu8KMEC7Rrr8/AAAABTQxWtcOSLKeDsbwz5wa--gpnDyRtB2uTcy6rQaIRwGoQEzqzRuVGlzbQbrqVQCQNWrDsKPNFda7paWFtKGqKmedPV1vmeq-vcG9.jpg?r=7d4",
+            "watchID": "81166748"
+        },
+        {
+            "rank": "8",
+            "title": "Berlin: Season 1",
+            "hours": "372,600,000",
+            "views": "56,700,000",
+            "image": "https://dnm.nflximg.net/api/v6/E8vDc_W8CLv7-yMQu8KMEC7Rrr8/AAAABeKzcxqKuZnVS0igMEBHGimEstCmbB_xV5dhs_wfJGe3tnXt-pR1WRaTS-KB066QSPNJSF2B8dV7qO2TvKsxPAtgywi1go22Usmh.jpg?r=0ef",
+            "watchID": "81586658"
+        },
+        {
+            "rank": "9",
+            "title": "All of Us Are Dead: Season 1",
+            "hours": "679,300,000",
+            "views": "55,500,000",
+            "image": "https://dnm.nflximg.net/api/v6/E8vDc_W8CLv7-yMQu8KMEC7Rrr8/AAAABb3rJ2COI1TY0lKRT6qHPhW9N8QIxhkx7QSTeD-EpWiLGJLAzgTWe5jG1embWsfvVHoQErgpz0ThjFX62Fwkcyh2yLe8UcUrfua9.jpg?r=d04",
+            "watchID": "81237995"
+        },
+        {
+            "rank": "10",
+            "title": "Dear Child: Limited Series",
+            "hours": "245,400,000",
+            "views": "50,900,000",
+            "image": "https://dnm.nflximg.net/api/v6/E8vDc_W8CLv7-yMQu8KMEC7Rrr8/AAAABZJiJlhOM_xI3SnJbCWnVgPtXFYXGNh9MRpm88iu5HAMuaV3pbpE-FHolI3b_CvyFlG1vLbdBx7oXdoiEQVF8taQNG-9xGFKTkGo.jpg?r=c9d",
+            "watchID": "81513234"
+        }
+    ]
+}
