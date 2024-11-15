@@ -1,0 +1,148 @@
+{
+    "kind": "Netflix Country",
+    "date": "2023-11-19",
+    "films": [
+        {
+            "rank": "1",
+            "title": "Monster Hunter",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABal2m7qCWQOvwIPOzByIn7b5FR8ElZ9bGotCzwIbaY9wqpY_r1mF-RRM7xq-9NsP_5gMHZt1dx9v3cwR_mkWCOcaWEonacGMf9hn.jpg?r=fac",
+            "watchID": "80987626"
+        },
+        {
+            "rank": "2",
+            "title": "F9: The Fast Saga",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABRxduFDBEOOsTEr9Q8KI3Gz88Jy0VPBTi_SZL5rgX-TGQtDpMkvPUwdJHLjEaIHJJ2zvmbQSjCKQi14JnumJHCaQ1IafUb7UH-Hp.jpg?r=435",
+            "watchID": "81198900"
+        },
+        {
+            "rank": "3",
+            "title": "The Killer",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABXMEgUaJeWn-09eBIdxaMw4bbkt7he9MTjImlNBF267jVSveiOE4kMdnFNqu__M2m3DJ2kJmHBsEE1qFZi_FiLuvz-Llj8vpvtH3fo9vdblTKtLAYqUvC-rlEhmg_Q4_vnbUwQ.jpg?r=235",
+            "watchID": "80234448"
+        },
+        {
+            "rank": "4",
+            "title": "Best. Christmas. Ever!",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABXoAH8kVoOO0AbDKdu98Yy2OJ1Y93SFcMvFBIunXhVmGnBmi_lnPeoUldwdPg_RgW66OEaCltJbTbbkuXatRTWQ0k1dmVDjLwhw3-GOIxRP4JxH-OpKwJ1x9OSGcAMcyZr0xpw.jpg?r=dd4",
+            "watchID": "81416268"
+        },
+        {
+            "rank": "5",
+            "title": "Summer Vacation",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABVPTzLx0EfNNEqCGcH8WMcu4A51Xb09fICTnoMBApjfOfxTlnsoFDd45GMTMbDQw94nd8egmaGUaamaBaTE4KgmEWr9YmHYPDgz0.jpg?r=329",
+            "watchID": "81611183"
+        },
+        {
+            "rank": "6",
+            "title": "The Croods: A New Age",
+            "week": "7",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABdW-3I-Zp_dtTkx1jWvr1z0hN7mXIbdYpSPoE1hWjC4aN45WHpruDZDo-49coHfEqH3F16B6CuC3sjFu2CDHSU11Pb2ZRPwtSEdl.jpg?r=499",
+            "watchID": "81199142"
+        },
+        {
+            "rank": "7",
+            "title": "Shrek",
+            "week": "42",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABSKJl_SbOu-j3LD5e20Q-IV299N0nlwyNb3iE0ThlRyUkx61YSW8STDuiF4LDNfsx70YaUZdgOpBcyIalj6pANK0sZ7SHN9VheOD.jpg?r=609",
+            "watchID": "60020686"
+        },
+        {
+            "rank": "8",
+            "title": "How the Grinch Stole Christmas",
+            "week": "9",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABZhg9KPmFyAApvQyZdGYj0qhEmUtOxuDz7WW6ON7X65Tl631dDUTte3GMWm2Rccg5NqIiDyazC2IgaSv0U7OxUbzZITuUsPh4i8c.jpg?r=4e3",
+            "watchID": "60000901"
+        },
+        {
+            "rank": "9",
+            "title": "Playing with Fire",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABaA8wilVcRzXVVWfWurG-OLqNofob0TwByR8G_BlqtQJpqWzEw9xwJhurlkVbxja3SmV5bdOGxM_C_lk2qTl_hwpvdls-8GDgBi0.jpg?r=70f",
+            "watchID": "81221835"
+        },
+        {
+            "rank": "10",
+            "title": "Heatwave",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABUMf_F_tZCqwa94Tu6scBYoimsbqOI2jPbvRoF0Td_Ek8w2fV38a1dAbuOJf4ywltoBvnO94lgU_q9WYJEmcvIdDjGvhoEhqFKnk.jpg?r=91c",
+            "watchID": "81592910"
+        }
+    ],
+    "tv": [
+        {
+            "rank": "1",
+            "title": "Nothing to See Here: Season 1",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABYZKzXTNFDlwxaWM5P4eZ0BqCCfXnUNjpZbWLTpdO3e4AGX6nOEcLuPNk4Xbe-aT9M2SkIYpBgdptmv6o9m7fhKvfD_iQuGwBbEYJsomEejt-MgPvMY96JnXUsVA1xTOD2QMqw.jpg?r=732",
+            "watchID": "81449036"
+        },
+        {
+            "rank": "2",
+            "title": "Criminal Code: Season 1",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABcyNhqe-s1MHKlJ5nTvprrB36pC_4bRxmUkBlBysbjCx_1y7M7Uf3DwN4Fd7qx2YlnArqU0IFpKaz7w3HlvijTMQcVAKDjoccHHqMdH-KJqRx94DPURF8S6OxXC4QzN_zP15QQ.jpg?r=5ea",
+            "watchID": "81442395"
+        },
+        {
+            "rank": "3",
+            "title": "All the Light We Cannot See: Limited Series",
+            "week": "3",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABate5dPVS8zjy-3jWnRb9hHnsY6hcKfnamkktAhTOLgiLPbPg74VlVqoSxdLoBVT73bGxJNhD_s-gs5___SosurceCtG0LzdP_33-87u836CtNPLvGVbFwVxKqHxecKWqQhOCw.jpg?r=45e",
+            "watchID": "81083009"
+        },
+        {
+            "rank": "4",
+            "title": "The Crown: Season 6",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABZFrdhfsm493w0AffglymbLAf-7_N1JYMH0JMuX3ULYPU8YIVEXqWUand7SOtax3LpK-9goFxhNyWKNGn-tTXLl5sskv4ld7DMrfliCVj-yIAlVxK4JeOKBSBY1Rg-xBZW3tWg.jpg?r=8c1",
+            "watchID": "81318160"
+        },
+        {
+            "rank": "5",
+            "title": "Castaway Diva: Limited Series",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABbbURKaVWBZUJC9dK8W1CsjAJihTlAAVVgT04Qci_sGiSXdILZxYKr5VLdFKPQ3Ry11Cl0DSnhyfhBAUqF2fbacwR16xEBtcggJnO8OIPucn5r8hjW99iIOI5poCiYQK4b32Ew.jpg?r=9eb",
+            "watchID": "81701129"
+        },
+        {
+            "rank": "6",
+            "title": "Strong Girl Nam-soon: Limited Series",
+            "week": "6",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABWM1r9u9vfdmLBaBxUgY3SYKYWinbo4Eiu3GMpzsTPygabsr2ZnN3ANg9-roNsua5lhbXGhS6ohGLtdExyFwDMyjDP5gKt2yyyK4eBPH52j_crLMbAtFTDDU29KGC-gEUrbG9g.jpg?r=655",
+            "watchID": "81697982"
+        },
+        {
+            "rank": "7",
+            "title": "Scott Pilgrim Takes Off: Season 1",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABdtwBicqWZopl0jI2_lF-cA_i7LhyVAWyarQZBv5q-UXib9rpUPmNhycyH2JAz5gi8xRoATM_jVX4eADjatR5ERcUVdMCUlwPJNWcTFsglwLT3YRutAXd-vtPY7GlPWF1b5Qsw.jpg?r=6ba",
+            "watchID": "81314823"
+        },
+        {
+            "rank": "8",
+            "title": "How to Become a Mob Boss: Season 1",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABW6A49gZEiCq6-v2QImaepNyMdq4nv7cq_DLv_ujM-kHjWbP3_BpaF9C1n4kHMhJxql7gZ-z87vPxC_Cpe7eLAkibKGvgV3_dbGS6LUQ2HoyDiW9CFQDthikdylDIwKK36wkEg.jpg?r=136",
+            "watchID": "81553203"
+        },
+        {
+            "rank": "9",
+            "title": "Daily Dose of Sunshine: Season 1",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABYssQIb2ZIhdJZOrqUM2BSn3K4JI-6_tfnHumkrRbocL-ZW9FikSnWXhu_RSCvx3SRvpP6t1O1KWVfHajarPN9dAAaJ5D5Swhhk5zBboHiTLTU8BLdpMwdW8h1etUs7M04PWOw.jpg?r=58e",
+            "watchID": "81572596"
+        },
+        {
+            "rank": "10",
+            "title": "Pact of Silence: Season 1",
+            "week": "6",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABZ9dhq650DMqd3gVwv6_sjfXg_z_lBUVEZcvQFgg8sMnsPThCMtAQGiZK1Rp0ikLIzEEBnrmY2NEEEUougna-4hK8U5e9NCDovhhktS37EVrW6wytCkMBaThq--1-nrjLfGdvw.jpg?r=011",
+            "watchID": "81506666"
+        }
+    ]
+}

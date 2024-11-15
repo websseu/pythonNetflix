@@ -1,0 +1,148 @@
+{
+    "kind": "Netflix Country",
+    "date": "2024-01-07",
+    "films": [
+        {
+            "rank": "1",
+            "title": "Society of the Snow",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABdiXhrc1dwpy9nKEl9Iazhu7Je90K0437Zv3DfV5yn1-E8YNG7xnKhpovHdGfl02vOGimMvTy2-1v8DWNTYNUv1U2poUn4h6KWUFgzNZs9Jr80IhFby3qEakkkmLxS1rnqWSag.jpg?r=886",
+            "watchID": "81268316"
+        },
+        {
+            "rank": "2",
+            "title": "Exodus: Gods and Kings",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABehtXczJraBPSvFfjDewLol0ksP8lSKYgi-j980HKbB5v5jWbHQcWDtHn6Q0EApR60THYIxN9KmWiK4VKD6KGv3SUaLdJ3ADXREL.jpg?r=54a",
+            "watchID": "70305928"
+        },
+        {
+            "rank": "3",
+            "title": "A Vampire in the Family",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABeGazZRtGRqx7lpYyKj1IBLQ0v0Jxzpt6hKFGZNLrtzX4kFtYu1x-z_5jB2FyWidenAjDtmKG_pKQjM1ruEqEqA9_E1UZE4ckL5p9T9hpw_uqNUMm8Kl84CeSzJDqS15fgxC7A.jpg?r=9c9",
+            "watchID": "81495849"
+        },
+        {
+            "rank": "4",
+            "title": "Chicken Run: Dawn of the Nugget",
+            "week": "4",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABfqWijZCjeEJPdMsL5P4AeJGlvS1yvD3MKZbvBKVD6Vqn_j8hfhNooPjw8zTBBpL-MRO0cKzxYt2TcwbDjZTGkvRNwqrTzpLxw5pS6pYzn5FcOWsn3KdL7c3rT4FeiCRCKxhEg.jpg?r=5e5",
+            "watchID": "81223025"
+        },
+        {
+            "rank": "5",
+            "title": "Rebel Moon — Part One: A Child of Fire",
+            "week": "3",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABYPHi-2CPTIbRLf5wdBToxBGoBf1bXadU-UnH8luSLI7m8c3SCxPsXhcnNblFBaY0MSm7fhlqP2P8BkrZHOg7j5Y_h8mFW_c-znQkZ_nGI7wXqptPVgSqpbq7X_E2pLT8aEe_w.jpg?r=305",
+            "watchID": "81464239"
+        },
+        {
+            "rank": "6",
+            "title": "The Boss Baby: Family Business",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABa_KhKJ3s09xIOBBxWsbyJUIyv3OLEiLoqaCmnkuOpL87bnXL9hgfIv0owHYEs13IiHcSWgDhpjMXVQnAkILN2Pas7FgUZ4IcjGe.jpg?r=0a0",
+            "watchID": "81251379"
+        },
+        {
+            "rank": "7",
+            "title": "Leave the World Behind",
+            "week": "5",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABY4Wqp-qo0cI9v-4DRShQSV2w0HXKl3-eiemJNNxLEb97q30SRRwNxQH-plEiaqSaDsV7xh-1zc5GJ5vMdiNzPaD3e3L0DWDm4UxGEsJq74TmQhroTwu_8HVkk04z8c8V36m2w.jpg?r=fed",
+            "watchID": "81314956"
+        },
+        {
+            "rank": "8",
+            "title": "Top Gun: Maverick",
+            "week": "3",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABZ6A9lHS8QGabtZO43tExb5lXRThOGQkuMj6KHTSWLufVgaKy_G32ECikD3fDoCCIPSJopprlYdXHBUIh2jPbIoXrUXe9iSz5cs1.jpg?r=67e",
+            "watchID": "81198910"
+        },
+        {
+            "rank": "9",
+            "title": "The Book of Life",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABWv9bBcbBK9GNN6TxcBedGXjZUyFeILmLx4ekCw-4UXSM52wQY7u8Gcqeeti4PFwCnvKQIySUx3ZioV-d59G1EI8R0Lp9-fMnNqu.jpg?r=026",
+            "watchID": "70305898"
+        },
+        {
+            "rank": "10",
+            "title": "The Descendants",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABaVRM4bXcj4R3aGf1E84kRgeUpnzR_8lOthWsMm_s5WcyLSjNWJ-43gfi6mqfQUaFUOVDBW1nPTUaEzueLTEG5HuKQOhxy3KLIli.jpg?r=423",
+            "watchID": "70142819"
+        }
+    ],
+    "tv": [
+        {
+            "rank": "1",
+            "title": "Berlin: Season 1",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABbzS27HY5lY4Wrtfg5mW02u9jxvZVT5l89dJFFPVvVI7R0KikSVzteCFNDq-zGesWMYtd0OpJMh8470JqixBwUhdR8CpPVtuho6hUlo8mYGDCMFTs4lsMJGJUw-PS1ZJF0WVsw.jpg?r=c7f",
+            "watchID": "81586658"
+        },
+        {
+            "rank": "2",
+            "title": "Fool Me Once: Limited Series",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABZXcmoXWi2BI-YHLDpJhwFes4yZ6zGcBTopf7tz6OIXTybM9JcxW-yS_GWX1ZIFG83CiXcDs5Wr-EM0Z2QiDpHyT1HI-i9ffiKl5KNKkynIyUrUFD4IJWrQmeJ4PsEN60yE4RA.jpg?r=e88",
+            "watchID": "81588094"
+        },
+        {
+            "rank": "3",
+            "title": "The Manny",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABeseMihhAXbS7dX0vzzfPQ-pBBDOmA5c6o5rixOhA7UEdMhPKij1OekdC3nR-oCgXshkxXtWA8gWMLLVBo6yujVb4G7Am1fStaTCcH6KxDiA1QP6OVtyuooCWSecvG9QkBnHBg.jpg?r=087",
+            "watchID": "81611641"
+        },
+        {
+            "rank": "4",
+            "title": "True Beauty: Limited Series",
+            "week": "4",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABYvaKP4vmYhq2XUV6lCeyjbgYSymdmsII7APayf4eZcaO2nOrECMUsA8dqyvOZOsNpuLckcuSAVTtqqcUTPAv9abC1TolydlCHSB.jpg?r=2ac",
+            "watchID": "81655019"
+        },
+        {
+            "rank": "5",
+            "title": "You Are What You Eat: A Twin Experiment: Limited Series",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABdBoTZeomRWIhznXr9Mifr1mVgNmkdCDzRD1chcoun9GXOPo7qb9PZFn0ssT15mNI6xF7XAO7DLQEzKu6E1iPiUeLbrrANOvRDeBGSgE0uRbyl-fyM6l66PxU93Z03mwTf9uUw.jpg?r=e6d",
+            "watchID": "81320957"
+        },
+        {
+            "rank": "6",
+            "title": "Welcome to Samdal-ri: Limited Series",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABXGUGshudD_p2gWnneiGK-_W92GU3_i5E8mDJErimOHvw38ktYwUKjDVgaDjk-QrgwdQpBv_g6eyo2rI4VHTIwgE0la42As8PGs2-1VCHIEC64Q6rniH0gwnyW2UEh_ksNTyBQ.jpg?r=595",
+            "watchID": "81697984"
+        },
+        {
+            "rank": "7",
+            "title": "My Demon: Limited Series",
+            "week": "6",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABXhBJoFfthyY253ozOWF0isKWTG3UGI2JoO4liXiG70-d3IC79dzMzmfhcDgUofbdxg_j_vzlMTFICLMDHqhegmFvQunfVBZIAxRlm2CRua7MyQ7e662GS-y3UVuiue62mfvfA.jpg?r=371",
+            "watchID": "81716081"
+        },
+        {
+            "rank": "8",
+            "title": "Lottie Dottie Chicken: 2ª temporada",
+            "week": "30",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABf_ompeasCpDJCTGIe9Ro9ZZRCdnH-Ivb28nLckLrf7gO3BuZ5QtfGvD4Eo6YzaBAK5zReKz-jLmJbWxX1bb5qXXDZSgsDNzNEO3.jpg?r=b39",
+            "watchID": "80094450"
+        },
+        {
+            "rank": "9",
+            "title": "My Life With the Walter Boys: Season 1",
+            "week": "5",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABVbwB4B95B90JgnYSDfiViY51CorejMThYs4mxn8pQILw3dQKSvJ8MeXFGLxsBMrikRVqjtSOjnZ1izEscP-Tvx-wgAQM53POFCVLst1DIojkL8L2h1N-NAHdyGSCZMpWrxz2Q.jpg?r=333",
+            "watchID": "81426968"
+        },
+        {
+            "rank": "10",
+            "title": "ONE PIECE: Sabaody Archipelago",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABXMqg4zjp8BIFT3Gaomu1_KpH2FXAs-tVsrNR9tB75J5KeW-XJix1MNHpsX7NTNRFhzZ0d6PiHmzFix0wWk8EGd68jObhiHF8SI1.jpg?r=066",
+            "watchID": "81015578"
+        }
+    ]
+}

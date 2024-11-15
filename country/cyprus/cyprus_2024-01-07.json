@@ -1,0 +1,148 @@
+{
+    "kind": "Netflix Country",
+    "date": "2024-01-07",
+    "films": [
+        {
+            "rank": "1",
+            "title": "The Lost City",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABX7lrc1RD5E7-3Ozxm_3BpIr8gm7XhPXu8jvE4M0u32f9yn56XLW_3E-w1zcuG1Y9zluaT4YbT7B3NXXzsbfUs9azpQUrdV9omlb.jpg?r=396",
+            "watchID": "81489832"
+        },
+        {
+            "rank": "2",
+            "title": "Morbius",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABWjFDVhTQKWOZwMlyYCcU0vKmLoRi_Ysblh-sVRo-wru-PttpML-Rl0B2VNKqRGe6VBLapdZ7CqPKdWXbDPQkZshv0yjhkhA8Rnw.jpg?r=d58",
+            "watchID": "81198933"
+        },
+        {
+            "rank": "3",
+            "title": "Society of the Snow",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABUhnV_Qgc0dGaovFUgmlcR6JBnoJKwj2H_p_3Obfl__s8z4h3LOSs2evBQbF8SqVZPHM_i9-GiRVrqHKV7SXppAf8x-WhNVNBuVy_4I9dXpnGw6aBTtCR97XPNO8ieTm_NOS1g.jpg?r=e61",
+            "watchID": "81268316"
+        },
+        {
+            "rank": "4",
+            "title": "Under the Tuscan Sun",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABWObhBKyQVYM-IAMtncGmbxJqOYGbCG_SYaqY-qqnI-p4OTHSATsQNC0z5-yfKWjI8x_4OUKisBhbQKrbiJYfI_vOww3d8F1DpOy.jpg?r=9d0",
+            "watchID": "60031217"
+        },
+        {
+            "rank": "5",
+            "title": "Exodus: Gods and Kings",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABQSCRd_v1s8rxSEYNdKtwAA7Md3V0iOFLIxCB1SUJgXC2Bi-JopiLPuYY9cVkdfl8iGvmpdm6q1Z5vdPUjzVzpctTztYRppsQtNY.jpg?r=cdd",
+            "watchID": "70305928"
+        },
+        {
+            "rank": "6",
+            "title": "Dr. Seuss' The Grinch",
+            "week": "14",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABWhz3CzETp2fUHow5PLmIWiXZFrdSxOYQJH-lhG2XCaFR5r50kymplZgXMmbXeDZle7Rd8RyW3O3BlEuZ4mKl12xEJFLYE6iasc9.jpg?r=19c",
+            "watchID": "80996790"
+        },
+        {
+            "rank": "7",
+            "title": "The Bad Guys",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABRniME-HasRI23PQ-eTC_nJFh4xeWuvnyc7IT7M868s0t3-7DwaIlGijtvsgv2WSZNWbKpjRbb1u29GdOXIfRP8W5vWAun8SNkds.jpg?r=a6e",
+            "watchID": "81513703"
+        },
+        {
+            "rank": "8",
+            "title": "Rebel Moon — Part One: A Child of Fire",
+            "week": "3",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABa4xM0TPEB9W65W5iu1JdkEk_SvkNx09_YcbmXnBI6me7lVysiIgOI4V64-fRm051PrbH3JkG6kKvfRQnw-LbtduTpCxLc3cDZYviv4VoJcIGP9osB1-B9w95xqJ98pV78VLsg.jpg?r=7c8",
+            "watchID": "81464239"
+        },
+        {
+            "rank": "9",
+            "title": "The Descendants",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABa515VNy5UVu7vEgRNcQYfRx9vNRVG6LZv1eWoo5LHZH4ttauq4m3_rx0bV7hdqje0Ms6z8CrV1pq3i7LlGn5tmT2u6uquFsH1l3.jpg?r=74a",
+            "watchID": "70142819"
+        },
+        {
+            "rank": "10",
+            "title": "Sonic the Hedgehog 2",
+            "week": "3",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABS4qT22lFWnu-JjuIzgwDpjtnBq5CxB-Noh5w4l3L5ZL5ryqWTuemv3vdl5Gf_SnB_oqvWRn0njnlJlukrnvrSpz_mb6WQN2L96t.jpg?r=9ee",
+            "watchID": "81511780"
+        }
+    ],
+    "tv": [
+        {
+            "rank": "1",
+            "title": "Fool Me Once: Limited Series",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABZ1o4ccydnMKFoLWa32ICRBjM8nmXAf2MVrUGYqOxvHBPXLKBMFrwf3cdpL6ke9x1I5WamWBRE_6R8bZH5lkdBHOZXClTtFUw-5ZjtOe-kNzNm5aYPAAYVRRgv19kshYtuBnnQ.jpg?r=945",
+            "watchID": "81588094"
+        },
+        {
+            "rank": "2",
+            "title": "Berlin: Season 1",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABTepab85icr89zFAdCWpdmjXYu0cDM7Q9q5oqzyV3iMgWsgrUOqryRnsCZw6iYbE3HTXh0qJc4WBB5ScdT6XIN6_r7ufMl764V27FIMVh1MBonT70ydwyh7YaQgLGBR9nVoWXQ.jpg?r=088",
+            "watchID": "81586658"
+        },
+        {
+            "rank": "3",
+            "title": "You Are What You Eat: A Twin Experiment: Limited Series",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABXt56nedZTtxWI7768HCPia7fuWnA1G8C8ZXnYqZbRAu4a64pksThIn7ZWohPgSYcHruBvFjwSeTcRmsEfDFVIN4P2wzpp2aQmOtPGiyC9Z6yq4mHz-Nup_k9iPtLZa9WB30xQ.jpg?r=e69",
+            "watchID": "81320957"
+        },
+        {
+            "rank": "4",
+            "title": "Captains of the World: Season 1",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABZRJDRABgTTWytYz00ANzcC7uO_aLkNA8VUu3AAiEt2SrEEQOiyqeO9GiWP3Tbs7WHkXWT9vAtvqF45FcTJiUN_Pyr6IkjjoZcFZVvwsxDmZR721LWChQ3tMJ2f0IpfDw7EIuQ.jpg?r=f55",
+            "watchID": "81659122"
+        },
+        {
+            "rank": "5",
+            "title": "The Good Doctor: Season 6",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABfxkyLuY5KkRzKCJJXSCAIVIBg_8KVckov7JebC8ddRMBeUdFLc1zH3UBkjI_85cwHBAYN9EWNxlHXeMWpVA6gh_cqZLBfiFIUdT.jpg?r=e44",
+            "watchID": "81667487"
+        },
+        {
+            "rank": "6",
+            "title": "Dave Chappelle: The Dreamer",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABVUL_B1fsgfRS0sqVZbweuwwbErSvabWk6pbpkbjyUlO4inRq53dPQkYz_oLLELb6VSVNjrVFHaN9YNgdfQtM-NDPn4M7zF3xsC6UjgzZoj0jwsHlZ4is5tBOEZN2BZ6G-w0PQ.jpg?r=bfc",
+            "watchID": "81665820"
+        },
+        {
+            "rank": "7",
+            "title": "The Manny",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABbzFzg9mEdCBJRrPbLH3dFsVzRQ_5tkH-Z6WrARCEeGWwRd39F1XZsXZByI2SWrE0pmPbRZcvJAguEEg8ljo5jCWYPsXXhgZq0-Csl3XrWQQDHyZybloRg7ZCa30mGtB45zpzQ.jpg?r=722",
+            "watchID": "81611641"
+        },
+        {
+            "rank": "8",
+            "title": "My Life With the Walter Boys: Season 1",
+            "week": "5",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABZPJRhl5TPVFAZCGXQSIzXxuKTFj8zJitU2p0TuctcOjRIbPdWbLAtrLYXxFmgSOU5VJ-WMEwtmye9wE8L7TtIoOJhgbeZfDvtp40HhmLIMn5gazdDpfsfs3AUhcLqb_aLZlMA.jpg?r=5b9",
+            "watchID": "81426968"
+        },
+        {
+            "rank": "9",
+            "title": "The Brothers Sun: Season 1",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABY9_JmJqxFIxXkbKrbujNhIyM-HZHpNZF_r5UehSzl4daQ5fWTIg5YNJ4AmrNOyJhcAf6L_L24XAII4nmigNylW_20jVLkQFJORgzAlttJrH0yzx6bG3RdeztjIDOh12CS_4Ow.jpg?r=95a",
+            "watchID": "81389635"
+        },
+        {
+            "rank": "10",
+            "title": "Ricky Gervais: Armageddon",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABekcb1h54816gSpOH1Dhj7bILFkdWkhabYaOipSf897QoVlagSIkDGJ0pDxqPcF6HXfyVZOzEmfxuHYSL2eHqoCjTwmwKo_ceUsxMSPFWtVpF02C3OHV5ZKLMo1RD_sWjCamQA.jpg?r=fc2",
+            "watchID": "81714181"
+        }
+    ]
+}

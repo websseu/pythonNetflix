@@ -1,0 +1,148 @@
+{
+    "kind": "Netflix Country",
+    "date": "2023-07-30",
+    "films": [
+        {
+            "rank": "1",
+            "title": "Hidden Strike",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABaMlD8R1M-XLupTTY0lxk7uiKHumLYeCFde7XVnZJdYGioZdUiQIEtK3-RyQF42bkCe_KgQqF1IekCWRo01gXkSIjnXWNqb4pN_F.jpg?r=bc1",
+            "watchID": "81322579"
+        },
+        {
+            "rank": "2",
+            "title": "Miraculous: Ladybug & Cat Noir, The Movie",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABb1wKC0p8qhJfGARbQdLYKKgVHgidlikS5oE4WzJxmYFTzJ16akTvjj8xwZ5E6uNbJMEqe2hEMXscp9DeIxN8oGe17WBjsDWY4Q2WvrMwt7YYNDUiLrJObzni1RAxXBF-iRJSw.jpg?r=ff5",
+            "watchID": "81383247"
+        },
+        {
+            "rank": "3",
+            "title": "Paradise",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABblALnLyb_2Xx5Sm7Je_6o9D8XBHLrHu8q1CcmNjWHExDpxmSjKupGXLab9MQF92mSQAy-0ouoqy2CqhdpBsJJBtjtTVYj0GDXNJAKs8pU4J_5ePpg4tZxEUaNbsMFITxqvfLA.jpg?r=505",
+            "watchID": "81288179"
+        },
+        {
+            "rank": "4",
+            "title": "They Cloned Tyrone",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABSgQtfWuT00wm8lVmeKvukKjmlxXQ6R7x1v6lxkc1PVeGuB-n_kodXUb7btb4Zbw5x3JBYByQrcEO5m4wGcgK558QNtNrMiQNA9-zYJ0q-yZaI0ZR2VZs0ArtQdlQFyLyeU4aQ.jpg?r=6e7",
+            "watchID": "80996324"
+        },
+        {
+            "rank": "5",
+            "title": "Happiness for Beginners",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABelIZjhxyKat4ZHnmlkruzOsnsfm0feESin1kNv5YEGLkNdHs8J6n5M3rpw_0TnxoKA2Ze1j7xa-8ZCBKXAmIJUxldzB7xyrUIAw0nOiykbp_tPV0EovmnZCEKUOfwsyuex-2w.jpg?r=c66",
+            "watchID": "81418617"
+        },
+        {
+            "rank": "6",
+            "title": "Bird Box Barcelona",
+            "week": "3",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABeAkhOz7isvXDi8zQ11Adzjt4xtCFgMLsJPVwcCyt-M5sQbI-A-qckaIG0s9A8jZAakuXTEi2BVhs6mFn_gv1x2cwMqSlLXAAXL6LU5MWpIzlqBAkwbXXm9ORQAIv-wxOVSvzQ.jpg?r=e32",
+            "watchID": "81404810"
+        },
+        {
+            "rank": "7",
+            "title": "Woody Woodpecker",
+            "week": "5",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABX3BUA8-Zyu663Wlep_DPWcSHUIosI0eQ1-zeDB0CM1j3_VkbCUcofB4FLqYUMnvmDQqXN8ER5uMNSzRRhyngQdWFVizdmIhTzCQ.jpg?r=b59",
+            "watchID": "80225034"
+        },
+        {
+            "rank": "8",
+            "title": "What's Your Number?",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABWtGDdx054ccpdHxDfFXormxQFht2Wd1E_M0FnM_2fehENf2SFUl2mFMhoc6LlypVEc6IRCT7EDzWqImC7KlGtSEDy5_shkE8TIY.jpg?r=676",
+            "watchID": "70144645"
+        },
+        {
+            "rank": "9",
+            "title": "Luccas Neto em: O Meu Aniversário",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABW5-c903sGdhJfPs5TwqXgBopPl-8jc30BR1wmyIsS4IMXY7wJSVuLcWUXArs-imwrlJ0d4FTbecM0Ywmy3nOnglOzD6XhFJigGb.jpg?r=03f",
+            "watchID": "81566346"
+        },
+        {
+            "rank": "10",
+            "title": "The Out-Laws",
+            "week": "4",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABfJAJA0Q7vTubxugYzbdhVxkyFiR2HFUii_s6hL8FwFlkC0zEv3aM3WklqxDqvdf7i73BxISPHig80Cb4P8qteYh4bU6cb55uSPWy63HCf7FWpfeOALY8tfaqkayR2pGyRVbyQ.jpg?r=420",
+            "watchID": "81186234"
+        }
+    ],
+    "tv": [
+        {
+            "rank": "1",
+            "title": "Sintonia: Season 4",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABe1wpPTr6GAkczJkImZwFi3IUEy1w24krxcUucKbuqUMRv2Gut-D-uWac-_faWLuyNK_XLfIkplpYldzw8nmGK8k8TNNt8b5p8oFzDOQxNOIvpJ9LDd_K82xoESPSahTWCPxDw.jpg?r=f13",
+            "watchID": "81251336"
+        },
+        {
+            "rank": "2",
+            "title": "The Witcher: Season 3",
+            "week": "5",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABfXyTm5DyRxcrwqZsfvtG5nSH0UHj7ro8XWvMKU3czKkxP3tIXywYG7A64sA3oWWBHUQYaJ8eaK_O9TUYqTUMdyltveajJe-MIlZ3sywuFFF08mG3YPh_sgYeJ670vfLamoiFw.jpg?r=23e",
+            "watchID": "81106534"
+        },
+        {
+            "rank": "3",
+            "title": "King the Land: Limited Series",
+            "week": "3",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABbWGEBNR_Jz3Bry1Hs6IQH4puAfEHDNPY259GTZc_NqVFUFPWq9W7_IK8hTXHkXi5PMca3ladD5wkCCXUCa2DIMnOevjmgFo5SftuPvaq5MfEYwtXJFN_OFLYYmkmVkHWGwQjA.jpg?r=875",
+            "watchID": "81671441"
+        },
+        {
+            "rank": "4",
+            "title": "Sintonia: Season 1",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABSyltZkdHbgQofkgfOKW8-S5ZDDSP99kdxnpRZACPEjJTpH-lVB9U9gzEzOXF6hRyUvEDuVtSO7JWakWOsz--kxzTQoA9mnQvT9mDlibrdyCulPBb_0Zr4KTJ3QF_tQLiDUEgw.jpg?r=3f4",
+            "watchID": "80217244"
+        },
+        {
+            "rank": "5",
+            "title": "Baki Hanma: Season 2",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABaXPyZWuBbaTj-p3ZSFznMeq-Ts5Wk0EM5PfqpzsWbqNcOjQNktZx4NbytLuB-CowiOG0szql9-FQ3pRttLgJs5aNYj_7SMfWUx5-T8qi9buz1tkHtetBPbBzjmN5jYw0xFXAQ.jpg?r=1ec",
+            "watchID": "81236346"
+        },
+        {
+            "rank": "6",
+            "title": "Sintonia: Season 3",
+            "week": "3",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABXVaJdrnHgEZLPpqqUthflhDFRObGiBiZN64-LoQZlTlGtjaCT-QNwdVkBoCdSCLEwD5ZbCSpaDPqbdZ3RAZxmsT3TLhvZWfTnXTPVllI2IuVjtZkc_hfWS7CIEqT-5GeuQy9A.jpg?r=4b2",
+            "watchID": "81219241"
+        },
+        {
+            "rank": "7",
+            "title": "Lottie Dottie Chicken: 2ª temporada",
+            "week": "7",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABf_ompeasCpDJCTGIe9Ro9ZZRCdnH-Ivb28nLckLrf7gO3BuZ5QtfGvD4Eo6YzaBAK5zReKz-jLmJbWxX1bb5qXXDZSgsDNzNEO3.jpg?r=b39",
+            "watchID": "80094450"
+        },
+        {
+            "rank": "8",
+            "title": "Sweet Magnolias: Season 3",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABQH6rFsmQH3M9gMkuuDm4YaPTTYPaDJP2v-PiXkm7-Ipxc4ol3TBeF2y5zXwWxCmRtdNomf9pKHhuRGvFkpGjKw0_tadmyExs9lAp5yBhjgmVMtU6Fq18Mk-bZitS7goKAt3cg.jpg?r=324",
+            "watchID": "80243666"
+        },
+        {
+            "rank": "9",
+            "title": "Sintonia: Season 2",
+            "week": "5",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABbTDAE3n8oXRmd5kksWG9rFLjJ258RRNK04ROk-TZbfeFiUTQl1FrvssjaV4xi7pDT1ZejAPWjRC-sE29fyYH0b0EJpfNK1DsSVhaPbrdz85P6NtHT6e5iQxgiPL8tt6zscdVQ.jpg?r=c65",
+            "watchID": "81038448"
+        },
+        {
+            "rank": "10",
+            "title": "A Perfect Story: Limited Series",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABYgsXYyvvaz3tLSTeV818P_skEWfd2cbRPT7vKq3C3YZ9BUByxu3DrEkRDtHfcIcy-G3v5G43-YiodWN_6NsjK3tvTZXbHAlc7hGF0QUlavwYma6W8qWfaeCCfQeVBFvauGKLQ.jpg?r=6b6",
+            "watchID": "81388034"
+        }
+    ]
+}

@@ -1,0 +1,148 @@
+{
+    "kind": "Netflix Country",
+    "date": "2023-07-23",
+    "films": [
+        {
+            "rank": "1",
+            "title": "Bird Box Barcelona",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABeAkhOz7isvXDi8zQ11Adzjt4xtCFgMLsJPVwcCyt-M5sQbI-A-qckaIG0s9A8jZAakuXTEi2BVhs6mFn_gv1x2cwMqSlLXAAXL6LU5MWpIzlqBAkwbXXm9ORQAIv-wxOVSvzQ.jpg?r=e32",
+            "watchID": "81404810"
+        },
+        {
+            "rank": "2",
+            "title": "Luccas Neto em: O Meu Aniversário",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABW5-c903sGdhJfPs5TwqXgBopPl-8jc30BR1wmyIsS4IMXY7wJSVuLcWUXArs-imwrlJ0d4FTbecM0Ywmy3nOnglOzD6XhFJigGb.jpg?r=03f",
+            "watchID": "81566346"
+        },
+        {
+            "rank": "3",
+            "title": "The Out-Laws",
+            "week": "3",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABfJAJA0Q7vTubxugYzbdhVxkyFiR2HFUii_s6hL8FwFlkC0zEv3aM3WklqxDqvdf7i73BxISPHig80Cb4P8qteYh4bU6cb55uSPWy63HCf7FWpfeOALY8tfaqkayR2pGyRVbyQ.jpg?r=420",
+            "watchID": "81186234"
+        },
+        {
+            "rank": "4",
+            "title": "Love Tactics 2",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABQOlEJmkAcg9vZzvLtj_rLSCsjYBea2vlCBCAyChoUyRCQ8ceK6FYa06m7vfdDgtbgj9NRfyQJ6CBlM95JxUcvV4WXUZzLe_DcNvv9k2LzhkkeViu8GXou24nBS02VZMtw_HNA.jpg?r=0fe",
+            "watchID": "81616015"
+        },
+        {
+            "rank": "5",
+            "title": "Woody Woodpecker",
+            "week": "4",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABX3BUA8-Zyu663Wlep_DPWcSHUIosI0eQ1-zeDB0CM1j3_VkbCUcofB4FLqYUMnvmDQqXN8ER5uMNSzRRhyngQdWFVizdmIhTzCQ.jpg?r=b59",
+            "watchID": "80225034"
+        },
+        {
+            "rank": "6",
+            "title": "Scream",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABYGkWV-5lCwgtuQB-yUn8Pl4G5KrNUvuiQKCNT9Wrvio5zK5n5uI7NutSHCtu7tKZfYEUFo3TivQdhZ3jHoiU_Gu60idBk8K50BT.jpg?r=6ed",
+            "watchID": "81305962"
+        },
+        {
+            "rank": "7",
+            "title": "Gold Brick",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABarNNXhmnQtbK_NwIK1kkX3CAI4wYYH30u5iNFETsoMfczJEUOZ-OaPgjxJKwIu-tIJ9fXC-x7PRXebk1o1Et5YEorKTzdHeZM0fUHADyaht2-lKUpHmWi9TLsjT1VfA2jdXfg.jpg?r=277",
+            "watchID": "81597242"
+        },
+        {
+            "rank": "8",
+            "title": "Sniper: Assassin's End",
+            "week": "4",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABVqORh_orrMRmTMoW1WBaUkeVrgsztWRD7ByYJ-FdQMvtswxu1fVQQNqXuRE0sORzJogCfOxZj7lhJVS1znTWbRppmEL72Wrc-bd.jpg?r=1eb",
+            "watchID": "81279324"
+        },
+        {
+            "rank": "9",
+            "title": "Man on Fire",
+            "week": "4",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABZ-k0elfxkFmT47TwfueWhhTx4OWXwS1Sq6h-htswAQsHx4Xk1chxOWwcbfHHnO73B3utkm7HUx6ccdJ3sLmAvM7hPEXK0-6SE9Y.jpg?r=298",
+            "watchID": "60034560"
+        },
+        {
+            "rank": "10",
+            "title": "Sing",
+            "week": "6",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABQhzWHSuKUHQwpTmFIxgku_5WDK9Ry24AJNsMnncuBNc7Fp6_UXiVJ8XuhK79ttNJPygrZGv3yeT8BRNK9Dg5emX6YPpCLDkQEz7.jpg?r=024",
+            "watchID": "80117526"
+        }
+    ],
+    "tv": [
+        {
+            "rank": "1",
+            "title": "King the Land: Limited Series",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABbWGEBNR_Jz3Bry1Hs6IQH4puAfEHDNPY259GTZc_NqVFUFPWq9W7_IK8hTXHkXi5PMca3ladD5wkCCXUCa2DIMnOevjmgFo5SftuPvaq5MfEYwtXJFN_OFLYYmkmVkHWGwQjA.jpg?r=875",
+            "watchID": "81671441"
+        },
+        {
+            "rank": "2",
+            "title": "Lottie Dottie Chicken: 2ª temporada",
+            "week": "6",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABf_ompeasCpDJCTGIe9Ro9ZZRCdnH-Ivb28nLckLrf7gO3BuZ5QtfGvD4Eo6YzaBAK5zReKz-jLmJbWxX1bb5qXXDZSgsDNzNEO3.jpg?r=b39",
+            "watchID": "80094450"
+        },
+        {
+            "rank": "3",
+            "title": "Burn the House Down: Season 1",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABXU8RqI1Yes1ckY1e0PtvJPUQ1EdZbt5qDNEd7fgj9yGMx1Pq3fO5lWC4IYVVDEWgS4UFgh4jT2Uh6kI0zSHZDrSw5HdAC0BwYLK3o7j6dAgYVgqOuYzlorxA56Zgw1EmWwQPw.jpg?r=2de",
+            "watchID": "81511744"
+        },
+        {
+            "rank": "4",
+            "title": "The Witcher: Season 3",
+            "week": "4",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABfXyTm5DyRxcrwqZsfvtG5nSH0UHj7ro8XWvMKU3czKkxP3tIXywYG7A64sA3oWWBHUQYaJ8eaK_O9TUYqTUMdyltveajJe-MIlZ3sywuFFF08mG3YPh_sgYeJ670vfLamoiFw.jpg?r=23e",
+            "watchID": "81106534"
+        },
+        {
+            "rank": "5",
+            "title": "Fatal Seduction: Season 1",
+            "week": "3",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABUqVPypZFJFsu2sJ6No6Ghe3uKAFdzNhbbtSwtifLHWj2LXp177Www3NOikWsdHw1hL6DckjP9X90orDq_o6_WyizAGXWMFQTzEV3rye1aLOCoGwI33yBNnUoLZQAGw1y_xLyw.jpg?r=f0e",
+            "watchID": "81553438"
+        },
+        {
+            "rank": "6",
+            "title": "Back to 15: Season 2",
+            "week": "3",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABfxqtSHn16OQSZ9Hnh3QPRXvl18_w-hQaMGxMC37nVrA47UNNcSh5YSo9H9yXweaUN8WrgT1UnLkgtlg2VOjMQPzlQHQ2vfmEGoyw9AxUsqTY6sWLiXcMBnXcyGCV88UNmej7Q.jpg?r=a1d",
+            "watchID": "81485999"
+        },
+        {
+            "rank": "7",
+            "title": "The Lincoln Lawyer: Season 2",
+            "week": "3",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABfI5OqRkxIYEWS8DloQGkmKpJohyU93ssPWoky4jrlocKy7BXfoqH-Pn2d3qXNCsXCg_XHZXYDm6sYUnt3x5d3Xtjp6soyF1Vg-WseWNfEVqZpP-XZrWwjSR_zRL85a4Bv-89A.jpg?r=2a5",
+            "watchID": "81331784"
+        },
+        {
+            "rank": "8",
+            "title": "Sweet Magnolias: Season 3",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABQH6rFsmQH3M9gMkuuDm4YaPTTYPaDJP2v-PiXkm7-Ipxc4ol3TBeF2y5zXwWxCmRtdNomf9pKHhuRGvFkpGjKw0_tadmyExs9lAp5yBhjgmVMtU6Fq18Mk-bZitS7goKAt3cg.jpg?r=324",
+            "watchID": "80243666"
+        },
+        {
+            "rank": "9",
+            "title": "Demon Slayer: Kimetsu no Yaiba: Mugen Train Arc",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABS1aQnVyK3hZowkFbu430KCBMVgRY31-u9WvlR9v3GNbR2pHKn5UJCZaTCfdp_5PqhwsmCeE-AaibV8axFkCWKOkC131yQAypY4-.jpg?r=d19",
+            "watchID": "81513781"
+        },
+        {
+            "rank": "10",
+            "title": "Barbie Life in the Dreamhouse: Season 1",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABcKa6LmIwhQn1UaaRZo4LD7hCJ6smLJvhk710Xr0tKMG_1qo6FvJG5HSqfWHKXOEViq7e2xU2ngNUa-_JsT9pnJbbAo3EolDsJP3.jpg?r=fd9",
+            "watchID": "70294788"
+        }
+    ]
+}

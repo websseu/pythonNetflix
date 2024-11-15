@@ -1,0 +1,148 @@
+{
+    "kind": "Netflix Country",
+    "date": "2023-11-26",
+    "films": [
+        {
+            "rank": "1",
+            "title": "Leo",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABR9YD02PmX03dknG5uSpiOyCaRW7plNAeRYlh5pmRaYLHNxs2cDpZ5Xtv9gO58GkuEQH9ZXQy-qPxKUvILFzTmDAjSSuJQqodOCxhGnnLgAGm6T2pI5W1UtFUra9IKx-3wRkJg.jpg?r=650",
+            "watchID": "81218917"
+        },
+        {
+            "rank": "2",
+            "title": "The Ice Road",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABdesYRO5fcp1Ee025Zu2MWyghGa23SwEDe21mc97gCaHgsb8A_NUi1carYiGov8QbZKwN7TT8RrulqG9xHjSU0Olth_IKIHy1oQ-.jpg?r=0ac",
+            "watchID": "81438065"
+        },
+        {
+            "rank": "3",
+            "title": "Jules",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABaAO6xxLJ0ZFy_f8fUwiVBhlQsDdudSuQwrLYGB_wCeRCx7Za-u5i89JLzntbtD8AgINOO1gTsFPZ3-_aa2dMao1Opkf1peF12AV.jpg?r=88e",
+            "watchID": "81717114"
+        },
+        {
+            "rank": "4",
+            "title": "Last Call for Istanbul",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABZDVeHouvRgmvheL5wWWfiyN3vwD7CL6g91v08rm-lwwGSLG00_AGkYKagCEAWSrPqtdxD0NZIXGHBvt44IyRnZy0e6LXMRU1ZxSpB8FWzsFjSofJGvJqkNYXQ4pSJwduFJIGA.jpg?r=50f",
+            "watchID": "81610272"
+        },
+        {
+            "rank": "5",
+            "title": "Best. Christmas. Ever!",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABQRn3MmGKHzjLxA3hYzqUCx9jPcez4eL_8agrLVJWW-4qIugvEQdi1Ejzs_RX3NLMm1bfdX2u1PivD74QiblyKT57HAGg3Aaf_fb5XW3c2ceXUkjFzfuuGXz70I-NmoQmFDGew.jpg?r=fea",
+            "watchID": "81416268"
+        },
+        {
+            "rank": "6",
+            "title": "See You on Venus",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABe-czoROg0D5koDoDpKimveezhWoy-SHZxn5qaSi_qj4OH0Rg1FvSLMakH4QisrIgFFYkrhWQotES7Sx0lTjMfiHA_lcNUXcxzzn.jpg?r=3e3",
+            "watchID": "81648162"
+        },
+        {
+            "rank": "7",
+            "title": "Believer 2",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABTUhk-eacuBVhZ-_mvEmAxrN3yWmvw9VcJzDTF0GCWyhntzc_Paroeva9t0c_zEMiXfVj2K2LZDtcRFswJSBMFBB4hqFeMpaksNj2rlb8MCO7a-6PjP5Ey7enm_73guMNnDaBQ.jpg?r=9d4",
+            "watchID": "81594923"
+        },
+        {
+            "rank": "8",
+            "title": "All-Time High",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABRlRvG1PofSF6_wHWSZNJAzlof0gEXia5a8IAKtpa9-q_i0eN3dz0XAxNIWK3mZwSPMIpV9LNQAVIJ1TkvG2XF2i75KCMr95uZ7meSxXljjtDhzR_Mkgldb-_XbQ1RN86Q90NA.jpg?r=9f9",
+            "watchID": "81630883"
+        },
+        {
+            "rank": "9",
+            "title": "F9: The Fast Saga",
+            "week": "3",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABR5lk696TsU89FbqVxqCkpJMkKXSNajq0cBwPAQ8pTW4GABSG_FsDw2ZMMD0mTKsZt8cAF0WMWxLz-cRWezbeB0Vnn0MKURRmi8l.jpg?r=d58",
+            "watchID": "81198900"
+        },
+        {
+            "rank": "10",
+            "title": "The Killer",
+            "week": "3",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABeIn1qlfVY4BfPU1MYZhGfWcTAclN8wf6RQRAD5vEeDxGZy2eeNR4PszuiQGS8LHAC5ZTvQgv0mWLzoo3r12ptmAHf3e9Eh9i6V0gDgUQ6hgygjzUtlX7m1nF4HwqBw-3zqwYQ.jpg?r=931",
+            "watchID": "80234448"
+        }
+    ],
+    "tv": [
+        {
+            "rank": "1",
+            "title": "Squid Game: The Challenge: Season 1",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABSTRX0Doal-yHa2La673vqG6Mp4LqTCP3lAZC_gAK9BOYItkVaqkbuTcCfb_TblWmlq22nqBz-ff-jH_ojWOaLc728Jnx_76GgcmAdx0znJGJfw3MJRigbJXW4FOm78mJeD07A.jpg?r=e4b",
+            "watchID": "81615541"
+        },
+        {
+            "rank": "2",
+            "title": "Criminal Code: Season 1",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABetqyxnWRZ_EnjAH4yPlwCsPOa9owY5raEXvc9bXpXseVonMvqQXUOnFPBDg3KoehYRaY5oG-PDLFnnpnezAkFqKMG5kGss-TCGR05W-hK2P6hVbdT9YQkR5VpIBJT4RLECtMA.jpg?r=22c",
+            "watchID": "81442395"
+        },
+        {
+            "rank": "3",
+            "title": "A Nearly Normal Family: Limited Series",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABUS8kAnMDAyX2VOYrb9REJfPC2Wtbwco8vz7SL-EEOsJevv8sCIV0QIzGn276PmpW7VbDTsQb49H3Sm9cQdctSNe4hC01Lm_a6K82iCQ27uBDKMHyZEpgepcena_CPbG0HoZuw.jpg?r=421",
+            "watchID": "81392164"
+        },
+        {
+            "rank": "4",
+            "title": "Lottie Dottie Chicken: 2ª temporada",
+            "week": "24",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABf_ompeasCpDJCTGIe9Ro9ZZRCdnH-Ivb28nLckLrf7gO3BuZ5QtfGvD4Eo6YzaBAK5zReKz-jLmJbWxX1bb5qXXDZSgsDNzNEO3.jpg?r=b39",
+            "watchID": "80094450"
+        },
+        {
+            "rank": "5",
+            "title": "CoComelon Lane: Season 1",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABfEIyKFNpdd5GhZUV5Zm8aMqxE-NUEBdtQyTeULB3l2533HvMCRuUjkOkfkpYZSMRAoRY_r7i79GgpQlgxVngLFZONCFCQxbYwDctmMQrOQw8u1eEexL1yfIX8fg0q2XG0aPLw.jpg?r=c0e",
+            "watchID": "81423473"
+        },
+        {
+            "rank": "6",
+            "title": "The Crown: Season 6",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABZFrdhfsm493w0AffglymbLAf-7_N1JYMH0JMuX3ULYPU8YIVEXqWUand7SOtax3LpK-9goFxhNyWKNGn-tTXLl5sskv4ld7DMrfliCVj-yIAlVxK4JeOKBSBY1Rg-xBZW3tWg.jpg?r=8c1",
+            "watchID": "81318160"
+        },
+        {
+            "rank": "7",
+            "title": "Castaway Diva: Limited Series",
+            "week": "3",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABVJq7jXAU3BzDthtTSbT_bzDHKW_ug6II3nkCyyMFz-YWNtNXTMIqKA8vewDeOUUxlcOiY4mIlMVI_S0Gp32Ze-PJdJysYIarOSBdNcXGPjpUWqKXgw29LxHEx3rjHI32Vbdug.jpg?r=52b",
+            "watchID": "81701129"
+        },
+        {
+            "rank": "8",
+            "title": "The Looney Tunes Show: Season 2",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABUQsWA5mToc9y_BnLvv8DwAl8-QnZbl04eoLbcZ_AvcVmTAJWowk8vJrsuF7eGZ-UXdp8qcXeYnnbJcpn3_h5sBd2D47hx1saoBz.jpg?r=75b",
+            "watchID": "81698209"
+        },
+        {
+            "rank": "9",
+            "title": "Scooby-Doo!: Mystery Incorporated: Season 2",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABUORvp-IjChvSbdMaKIOehsBLl3lFipZgpIK7pq6izn0893kQdIwEg5fYc9Yp6osui9UHCx1_C-3dgtwhGyI1ebeK1Cru-qCqCIM.jpg?r=720",
+            "watchID": "70270141"
+        },
+        {
+            "rank": "10",
+            "title": "Scott Pilgrim Takes Off: Season 1",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABfyY6axlfl6eYiOQK0x5JzyhgSdyxid_1o5Z1Wyy3LOpa5JBooFUV_rz2ZoB1zwVR8tg7zVOGDmbyKHNwTy4kMAsOYRR93AbleMaXocYy16nEBseexarPOlv-XbmgsGgC6JVTg.jpg?r=1fb",
+            "watchID": "81314823"
+        }
+    ]
+}
