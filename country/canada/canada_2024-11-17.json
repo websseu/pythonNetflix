@@ -1,0 +1,148 @@
+{
+    "kind": "Netflix Country",
+    "date": "2024-11-17",
+    "films": [
+        {
+            "rank": "1",
+            "title": "Meet Me Next Christmas",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABXgUlRCHX3PgckyG7L_FabG4Cb-NWMkjGrldf0na9abMGkvCRRFu-kotK4wIWLpqDXdxRwd2VFXKi_Jo3u7ybOYK-MFEXHgt_Femk8kaWMLlq053sBIgbvvWU3IYtXt3M_LBqg.jpg?r=a96",
+            "watchID": "81392060"
+        },
+        {
+            "rank": "2",
+            "title": "Mindcage",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABRwLq-7VeVtkmdER-zH6oht017HGpWpHZk-GbWSQ671Y1X6q9k2GGaK6b8ODz6PIc8mA6cy40_RWBXSDH6KMYM9OrQmlMxY6csag.jpg?r=a5c",
+            "watchID": "81658304"
+        },
+        {
+            "rank": "3",
+            "title": "Hidden Figures",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABXDLNCXYGw8KQRoy25CGY0zDHTd-nof-LlDYjh6EwBDd3Ol1-DKWUlKJiR2T6QH-pa07o3JM-3BIz9CNQpZwcB9l3GCPBkVpfi_G.jpg?r=74f",
+            "watchID": "80123775"
+        },
+        {
+            "rank": "4",
+            "title": "Martha",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABexdNSdCX0akk6ILBbdUKY0IFo7BGdsiRcvpgrbGETdCgUTyMN7ZEuDOUMWmR5ZAvO2YLV2sTVprZ6-_L4QX6pxPTIzyhBr2UXnA1LP6ovpxIoYPIWadoE0DqkMW6YwVM2y_3Q.jpg?r=211",
+            "watchID": "81479059"
+        },
+        {
+            "rank": "5",
+            "title": "Crown for Christmas",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABWRUVt1zWsDfJq7t_K_J46Y0xZ8zjKlFUPqPRA-_BCKphmyGI-BxFU76etQPIuSnQM2sHnsMnevu88en_VEdAIfoObDjhMZiICUu.jpg?r=3d7",
+            "watchID": "81687566"
+        },
+        {
+            "rank": "6",
+            "title": "Dr. Seuss' The Grinch",
+            "week": "7",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABWhz3CzETp2fUHow5PLmIWiXZFrdSxOYQJH-lhG2XCaFR5r50kymplZgXMmbXeDZle7Rd8RyW3O3BlEuZ4mKl12xEJFLYE6iasc9.jpg?r=19c",
+            "watchID": "80996790"
+        },
+        {
+            "rank": "7",
+            "title": "Time Cut",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABWHdfXaOfTOBoXxCJn6TtrFL6E6A8fmw3de7NJUjhXmULkfoJ51h6KlF2v9pHwOHfUbNs9DT5ywC0TPLEhQG75bxqTVojzyBcVnMuAvyW1glNqFzRu-IXJ3MeiS9DC-NhyGMqg.jpg?r=2e1",
+            "watchID": "81504326"
+        },
+        {
+            "rank": "8",
+            "title": "Baywatch",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABXRS5QwR1lDMEJ5j8q9UwSMDDxIYRjSqscXhS-s0jOOL7QVuL6ENY53yjLTSObHVMzIovTVDker4OCrm1K9CrduOj8aGaalJAFEz.jpg?r=a66",
+            "watchID": "80158583"
+        },
+        {
+            "rank": "9",
+            "title": "M3GAN",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABQlv53VcGVe_8xzOvkglgQKVomPRNMRbjiwC2WcPcV1AnhNzxBRwc7DJ3j5Ospq7MOtm-EzgpJCA47rYiem0fbDgjIyWgSa0LjB8.jpg?r=106",
+            "watchID": "81619948"
+        },
+        {
+            "rank": "10",
+            "title": "Beast (English)",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABVOYUn0mplYbNLia4Wumqa7WCI4ha7wLMnTVRBBUpeFDpHs_b-_InAAv4oltucTikcMV-ni0WX30_BW_hWzs3uVYW53NQTZxXAow.jpg?r=863",
+            "watchID": "81579532"
+        }
+    ],
+    "tv": [
+        {
+            "rank": "1",
+            "title": "Outer Banks: Season 4",
+            "week": "4",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABRAJhPsAjC0dZ50a-jnN0gI51zW0DU8wq7tErLk1FVh5vNXy5MkJV40SL5AOBorPeLzrsbia5-qjlFYogrVWE9Zpsjn1dgAsjIKNH1gtCiID7EHqF0URShU1NoIhtlnx6PtZxA.jpg?r=a7b",
+            "watchID": "81634116"
+        },
+        {
+            "rank": "2",
+            "title": "Countdown: Paul vs. Tyson: Season 1",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABWKiqyPZJzlSumPAc0A6nhMR2kLTMxaTcbFE5fR59jQAjYlyN6x0QfoA4WfSIN8vdy2oXfdMGz6wH1N6qIB7Z0aUSt7XO7obm7oEuO5VaUj1KvqtmVno8RSF6z-0eFksOunp9A.jpg?r=16b",
+            "watchID": "81771311"
+        },
+        {
+            "rank": "3",
+            "title": "The Diplomat: Season 2",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABTGkbacX_F1FBKkBxvHPq8s9SJc8u6GUHLu3yz-kLEjdW8wBUfLgoDDYajlNominN_nqtXJgUC36f3SRKa14DLkA0yydYjjLT3FqlCDchJbdvVZA9HhOsJvEXyN8UVsqroDFtA.jpg?r=a54",
+            "watchID": "81486271"
+        },
+        {
+            "rank": "4",
+            "title": "Arcane: Season 2",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABZEmRtQ9_QeINkt8XATxn0OnX_9wQGf-IOPdrj_pSUzut3iqnrb49LB15suJZKr_AhDfEsKbkkt-0VM74XEqKrvio4MpGm5hZjpBvqFEz3LfzXo9BHkWEQYOMDmG-Kn1sovQsg.jpg?r=ae8",
+            "watchID": "81516572"
+        },
+        {
+            "rank": "5",
+            "title": "The Lincoln Lawyer: Season 3",
+            "week": "4",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABU24VrjZrti3NEkubRkqO0zOJcQplkGouIwHPC7rtA6L_gyeP7oE0vC_Tw0fM1uF53qHakhPDsH26b08gnqeWnHZaZcpDFwxw-xcBV1PQk6Bk5mH-ARafDDq6Lb95BrfgOg6ow.jpg?r=b13",
+            "watchID": "81628779"
+        },
+        {
+            "rank": "6",
+            "title": "Investigation Alien: Season 1",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABeDn-t5oVd0zkLKPiXcOjOxOIO9_XMY4yAYexWdYHLqjO54D7reFDQ1CC3KNK7wOCjZLN_DBGejd3iunOpnj7MtH1fsN9OC_YmpxVwq_1lyra3VOWB3ZX2TvU4M143Az3ewRxg.jpg?r=64a",
+            "watchID": "81674442"
+        },
+        {
+            "rank": "7",
+            "title": "Ransom: Season 1",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABXV-hgA9et69fYU_MKhH19aRuRyzpbMY1OoPsNm-mzwZj19MEkWkW3zqT591ybI-RZceyDZE3sxIfedId8BXbFC1Y3q495CIUn7s.jpg?r=814",
+            "watchID": "81937048"
+        },
+        {
+            "rank": "8",
+            "title": "This Is the Zodiac Speaking: Season 1",
+            "week": "3",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABQQA4Q_zhv6wquS2f3VzkqFqUB18oDO43xYPwC3_AKWqWRdj1Uo89IikmV7jgi92BYc6E9rsRiasLf2c-5qoGvP36PA0qy-pGak-WEEQ3CwHDyz4xpmumqtRQzBL1kmTlvX01A.jpg?r=e84",
+            "watchID": "81681627"
+        },
+        {
+            "rank": "9",
+            "title": "The Diplomat: Season 1",
+            "week": "7",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABdiXGTtdteybGED6MPzV4U47eFAy2foiQG7kdVAx2yCg9ycAYIGucmcZ112x24eEzdtvDvPrXWJuqFAiVlVp5ZMdeox2OTZzbWL4oAHULMbtg0UKBdvXnuC6P_kEP-VNJTE-Qg.jpg?r=1a2",
+            "watchID": "81288984"
+        },
+        {
+            "rank": "10",
+            "title": "Pinkfong Little Dino School: Season 1",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABXLSvZxhGME125kdn77z3uklBWP761w5oozhjWm8atoDr6mMnXo16w6JOpQklaOcLhPXLanvNMNVVyOZqicC1aNGfQLYHItNrqNF.jpg?r=7db",
+            "watchID": "81944260"
+        }
+    ]
+}
