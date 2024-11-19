@@ -1,0 +1,148 @@
+{
+    "kind": "Netflix Country",
+    "date": "2024-11-19",
+    "films": [
+        {
+            "rank": "1",
+            "title": "Meet Me Next Christmas",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABTgcpXqgDiflys-7rS4np4HC0B-tUGg7MdnV6xDTObtFz_gsVwqCEalRr4MUUDdmTGUNHXWU8TlKdv0b-kd6V-e9T4eb6RnhjB3vAItgILsmDoHAARG_G28VpkYC9UdRXZQokA.jpg?r=d78",
+            "watchID": "81392060"
+        },
+        {
+            "rank": "2",
+            "title": "Let Go",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABX2VZB_3eyeY1jGcDailuTPcwWaEaUnYJyY8KMZeymodYo1gllcNjmem6ToNVJeu69lQL5LZ3vKkHtEZ3EdVqB7PyxE1O5qLs8pLA7Y6AK40MRmEXFNWVDq-0NParIahPY-YOQ.jpg?r=810",
+            "watchID": "81611209"
+        },
+        {
+            "rank": "3",
+            "title": "Time Cut",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABfCVgviHqaAxoAMeejQx--SGhtuUOHxlSNTSiqLtgVeM3df77OEYznNA3nM21wRl1_jk2uVr0RyBwhr_SjFafSSTnSwbACHB0SAptpu2sZLPt33mLXKMOXG_nQ2nFI3Hek8PFA.jpg?r=ad5",
+            "watchID": "81504326"
+        },
+        {
+            "rank": "4",
+            "title": "The Angry Birds Movie 2",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABTtyueKncQIk82mWPV_gJqoIIlbPy-9VvuPwOQv2tq4i7q_TAgnDXIoK4vH5XhRffTEzNi5kcDkHWNkPmKXmevFYKmIIkoPeT1nR.jpg?r=7d2",
+            "watchID": "81073593"
+        },
+        {
+            "rank": "5",
+            "title": "Rambo: First Blood",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABTwX3df4bwF65vCKQLdSpZ8-qsrhn8_TVMRLS_-EYhEkc0ZjaJM4-ZbVEzzZjo1FMRghAqJIeDP9LKWYC-PlsQDMXWOXK4idSBcW.jpg?r=b3e",
+            "watchID": "70017963"
+        },
+        {
+            "rank": "6",
+            "title": "Rambo: First Blood Part II",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABbJYnrULT5XceI69XxglVQYB318Jrh-vxwBm7gDor3e1l0-TUsR0lmNIjFLVAr-qGNL0ckOzUDSR4DXxznkBvx7NRQUyuWHZ6m1Y.jpg?r=37b",
+            "watchID": "70017961"
+        },
+        {
+            "rank": "7",
+            "title": "Don't Move",
+            "week": "3",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABT7IyjXYAjaiOB7tMwCcYKqmxNErqn6J9CyGF0lmp1vvT1rOAUv883YeGnJmHtZ0TE7AomgBVrtZQpBmhjhGKdSD0wWrK889KtQhV8epRAD-2Oirtv8CbyzeIPLgUdrn7z5yYA.jpg?r=ebd",
+            "watchID": "81767564"
+        },
+        {
+            "rank": "8",
+            "title": "Alita: Battle Angel",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABb_26rpchgtI3DeW_6jxr9SQbL3me1ZLx7NCKwiyOMjVNMWNBgK1g8YDDSXFakol6bTCobXoaGEvhWGaD6kxs-HnO29IYFMjBfSB.jpg?r=20b",
+            "watchID": "80235021"
+        },
+        {
+            "rank": "9",
+            "title": "Underworld: Rise of the Lycans",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABSLjgZwCsCGPWXECrQaXWpzgOWyvNN3oVV4mFrGfTEbZh3cH9D-QgZYvpsfqGEUDIzazJ3p-_WRn8FcRewcgkidrX_f2J-9KXHfw.jpg?r=f35",
+            "watchID": "70101347"
+        },
+        {
+            "rank": "10",
+            "title": "Rambo III",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABT4PLJ7u_46i0ORFUSEHBwijbWr804DEDfEeQigwtAegUNMaSDxmWWJrNR4AUL7bg0yGdKXdP_XYncpFuqLk5y0nkTftuN-Hf8DE.jpg?r=24b",
+            "watchID": "60029370"
+        }
+    ],
+    "tv": [
+        {
+            "rank": "1",
+            "title": "Outer Banks: Season 4",
+            "week": "4",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABRAJhPsAjC0dZ50a-jnN0gI51zW0DU8wq7tErLk1FVh5vNXy5MkJV40SL5AOBorPeLzrsbia5-qjlFYogrVWE9Zpsjn1dgAsjIKNH1gtCiID7EHqF0URShU1NoIhtlnx6PtZxA.jpg?r=a7b",
+            "watchID": "81634116"
+        },
+        {
+            "rank": "2",
+            "title": "Arcane: Season 2",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABZEmRtQ9_QeINkt8XATxn0OnX_9wQGf-IOPdrj_pSUzut3iqnrb49LB15suJZKr_AhDfEsKbkkt-0VM74XEqKrvio4MpGm5hZjpBvqFEz3LfzXo9BHkWEQYOMDmG-Kn1sovQsg.jpg?r=ae8",
+            "watchID": "81516572"
+        },
+        {
+            "rank": "3",
+            "title": "Children of the Church Steps: Limited Series",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABX2YgAqS2ek9lryb0_1bUd4PlMV07tyaK8yux15vyLcvv8gkGJiVNZVZTtrbH6wrvqeeJgmUXtNo7dQkja8lQx6izu3oaJyGDRntn7ziVg8sL53OiYbQe05oymTe0aAYMtWSFA.jpg?r=c45",
+            "watchID": "81351065"
+        },
+        {
+            "rank": "4",
+            "title": "Murder Mindfully: Season 1",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABVYSAd7NvLBhixnRtz4lVNQwQt2uGyKho3uaY4HveebRLjCtAxKCA83YXI7vDIUoWC8_yjYS9w-_Qswa-BIwggfDIaobNJNi9jy6rJTn7Burqyp3bQyDmlijoFR-hcWV68qfdg.jpg?r=bd3",
+            "watchID": "81554970"
+        },
+        {
+            "rank": "5",
+            "title": "DAN DA DAN",
+            "week": "5",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABYTYCioywpFoTxtVik3-1lZj3l1SqfDgOlQAGED6xFpxtYz_Qyx_uSbSWbXAMdC-xJS2Vhb9HDyYsRKmMVUOut5qZ3KGEqZBuEmv.jpg?r=d61",
+            "watchID": "81736885"
+        },
+        {
+            "rank": "6",
+            "title": "Lottie Dottie Chicken: 2ª temporada",
+            "week": "74",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABf_ompeasCpDJCTGIe9Ro9ZZRCdnH-Ivb28nLckLrf7gO3BuZ5QtfGvD4Eo6YzaBAK5zReKz-jLmJbWxX1bb5qXXDZSgsDNzNEO3.jpg?r=b39",
+            "watchID": "80094450"
+        },
+        {
+            "rank": "7",
+            "title": "Beauty in Black: Season 1",
+            "week": "3",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABdZghq5pSlnQGL8Gb6zQsHeLQwhl756pbKHO7wVk_u9MGOv4iL5fGcmKIocc6JxWhDPJhFU5gHep5i6Bom03PAhbBdvNlPZrrJ4M54Fkzur2e3PIk1Jvq1SM9ROI8_HlDYbQJw.jpg?r=9f0",
+            "watchID": "81764524"
+        },
+        {
+            "rank": "8",
+            "title": "Don’t Come Home: Limited Series",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABYadIH_Hj6Xz2_auQ68BsbfAFFXbH7SgWMcmiJHs8A8nR_GYLMDDtklhl56hltrcJG3YUaKaaXZ9gqQDBuOL0uq8FwPYUhASdPJKsc8ZmfVd3yLiVUSv-gO0Hk-P1zDcVbO0DA.jpg?r=e2d",
+            "watchID": "81641422"
+        },
+        {
+            "rank": "9",
+            "title": "Demon Slayer: Kimetsu no Yaiba: Hashira Training Arc",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABasaKygXkCkLxqGTkG_TogKIzPrgrqsm_-HVKkLihjwhE2cpAYmsG_DHoHV-GXOhDg5DXuNK-pI0AjrlL3i8wk2A3z9QBUg51uBB.jpg?r=535",
+            "watchID": "81743731"
+        },
+        {
+            "rank": "10",
+            "title": "Young Sheldon: Season 7",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABUQH5q68d77vQgZQWq0zcgT362jCkFpVOvISuC9hkTwH8t5dMcU42qo4m6VXpVoEwWKhyyvZKQx6-YOX7SwtjyjDNtrkMPqjPIdb.jpg?r=67c",
+            "watchID": "81786168"
+        }
+    ]
+}
