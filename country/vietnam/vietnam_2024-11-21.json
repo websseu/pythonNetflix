@@ -1,0 +1,148 @@
+{
+    "kind": "Netflix Country",
+    "date": "2024-11-21",
+    "films": [
+        {
+            "rank": "1",
+            "title": "Ma Da",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABc158jfbZZ8CR0CPoSJBWa8X5w1DlrRXLFXvJXNzOYiWr7iCiKODyKGyYM1w4Hp0xPKaGFUQFinGoIyyovkQzlCTrfuE9M1UKR5E.jpg?r=adc",
+            "watchID": "81928685"
+        },
+        {
+            "rank": "2",
+            "title": "A Place Called Silence",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABb56JNr9C0NCoqa-CnldMfECCsCFXmyR7ELJCKru7qRsyHKhahB6P8YVuop0g-Hoi826K818UtmSY34uXUY_oCTu1CWwU4TESa5y.jpg?r=ae9",
+            "watchID": "81919470"
+        },
+        {
+            "rank": "3",
+            "title": "Morbius",
+            "week": "4",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABWjFDVhTQKWOZwMlyYCcU0vKmLoRi_Ysblh-sVRo-wru-PttpML-Rl0B2VNKqRGe6VBLapdZ7CqPKdWXbDPQkZshv0yjhkhA8Rnw.jpg?r=d58",
+            "watchID": "81198933"
+        },
+        {
+            "rank": "4",
+            "title": "Venom: Let There Be Carnage",
+            "week": "11",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABbz2V-rnWZBqMtmT1dO_N60wz2BBvk1hoGkTZZo5q0sIBdolmQ9dXalTAfrooVXAWlGmEj0KrboW6e7R_Go3rYY1wOUqmcdnY_Xw.jpg?r=a87",
+            "watchID": "81199145"
+        },
+        {
+            "rank": "5",
+            "title": "Hanna",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABdG_P_hw9tTypFxm_BEqLzGwYZqL1A1DopW93cb_0yREukt5_9RsE0v132sX3wVFv3q6LCEAFrLovv0FA6RgaFTomVwRlE_FLqfN.jpg?r=054",
+            "watchID": "70142823"
+        },
+        {
+            "rank": "6",
+            "title": "Mai",
+            "week": "24",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABY6KstzymvUIhxuiqrRK5DIEQfNFcvwAmAe4cXBY8r1mot09i9mbyrVyGIdYFeDoy8AKgfxCl1nh4a19mbcYBbLr8qVL-LU07NUr.jpg?r=34b",
+            "watchID": "81779693"
+        },
+        {
+            "rank": "7",
+            "title": "No More Bets",
+            "week": "8",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABZ8fOuHYy8_RfqeNeH4B5DeE8yJ6Lk05R0gThM4NCL2Rfw1QDacxOuYV40A8iRLoLN02cQKcaQRjGxcj9DDpX86mOiBNKhfzSnbz.jpg?r=76f",
+            "watchID": "81718925"
+        },
+        {
+            "rank": "8",
+            "title": "Dampyr",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABZ0JZZx4H6Hhr0JiYYO70WgAUURadvjeJ12rrr_XDsdyD1WieWHceN6t2h3H6U-0RW1D3na08HFhzkjElA4aRa3HSkxPU6bj15ly.jpg?r=7c7",
+            "watchID": "81716649"
+        },
+        {
+            "rank": "9",
+            "title": "XXX: State of the Union",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABVE6uxHYuTBo05L4RkCqnvsln03PX8foY-vGF9dI_RvUDpdCNKB5hqRO3XmEd0tn34QmjOls_7Xfluh2Lw_NaYiJs3kR4ViJfIFu.jpg?r=8a9",
+            "watchID": "70023960"
+        },
+        {
+            "rank": "10",
+            "title": "How To Make Millions Before Grandma Dies",
+            "week": "10",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABSXuIjDe3s_QRhWBWQiWvH0g4FTnd_BKT4ER05UBa4FaqenqjDXBK8CuGk2dpOBbtBNPcnzdL57chgHKoJ43gMnAaAcJw0lGOWk5.jpg?r=e77",
+            "watchID": "81786970"
+        }
+    ],
+    "tv": [
+        {
+            "rank": "1",
+            "title": "Arcane: Season 2",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABZEmRtQ9_QeINkt8XATxn0OnX_9wQGf-IOPdrj_pSUzut3iqnrb49LB15suJZKr_AhDfEsKbkkt-0VM74XEqKrvio4MpGm5hZjpBvqFEz3LfzXo9BHkWEQYOMDmG-Kn1sovQsg.jpg?r=ae8",
+            "watchID": "81516572"
+        },
+        {
+            "rank": "2",
+            "title": "Mr. Plankton: Limited Series",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABXjdocjCH5Ph1WSaJjeB-B9t-NwhP96lowqM0jUE47G3KA3G5p2Z7djQAZOZ8FoFgzM4Ov20t59yTq2zgPLQebAs0vod2ijYHTHpmuEoLsv9nYcJYeLWo6yPLm1XoXlwmh0-tQ.jpg?r=fa7",
+            "watchID": "81506125"
+        },
+        {
+            "rank": "3",
+            "title": "Love Game in Eastern Fantasy: Season 1",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABVg1HvPK5lJzQpAtC4IuFrEgbzZ2IzeGXzT33YmvQ8UqBErD4o5MvKghdZrsRlTbLhF4QKRCNAHiWQjubeIJpVQ9dtsnLzImNJ10.jpg?r=b84",
+            "watchID": "81950759"
+        },
+        {
+            "rank": "4",
+            "title": "Arcane: Season 1",
+            "week": "7",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABbGYIl8UX1rniiEYOm77NUXPDLxg6BLbciwgfEZZzJqnPVAQEI6rxWdcanOIDkHvhFhJlQTPjWOZwo47I6xEKMkg2MncNj5r0XGl-Gg_ZKPj4rsrVGUsAhTZwfJgPCXv3nQTug.jpg?r=c00",
+            "watchID": "81435685"
+        },
+        {
+            "rank": "5",
+            "title": "DAN DA DAN",
+            "week": "6",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABYTYCioywpFoTxtVik3-1lZj3l1SqfDgOlQAGED6xFpxtYz_Qyx_uSbSWbXAMdC-xJS2Vhb9HDyYsRKmMVUOut5qZ3KGEqZBuEmv.jpg?r=d61",
+            "watchID": "81736885"
+        },
+        {
+            "rank": "6",
+            "title": "Kill Me Love Me: Season 1",
+            "week": "3",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABYVIChqVFflkFhv14hRQvwYEXRf6Gkp05O53McWj2CePNFjarKWBVp38QloZkD-e8I02W3gmuKyJwtvAixwW3g3zwGfHvgNtD_ag.jpg?r=293",
+            "watchID": "81954821"
+        },
+        {
+            "rank": "7",
+            "title": "Doubt: Season 1",
+            "week": "5",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABTPHOTyHqN5bmU_STkHd3cQgBknjafYUCW2xHV_BDtT1U5gJBMAGctuW_ANaMqv4Xgv_A29bHC1qibCqpBN9-AfWmIvUvDoCuehl.jpg?r=73d",
+            "watchID": "81919054"
+        },
+        {
+            "rank": "8",
+            "title": "A Virtuous Business: Limited Series",
+            "week": "5",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABSLjbrk9w-5dXX_SjkVkS2_Rmp6C73AgJ6tFMT_tc1Kt4omkAROgXICYS-yZEDVBnxbh74hf3QKaDIyh9RXCTVQZ4k82P9mwWGLv2LL-Zb9WfIuoJNcpRijfXV_21bx8BbRa6g.jpg?r=e80",
+            "watchID": "81787645"
+        },
+        {
+            "rank": "9",
+            "title": "Dragon Ball DAIMA",
+            "week": "4",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABVkEet3UAROirFjWga6hHDVpiATEOXKNME_AMmVqYPE5-AgUfC_NbEQYeUy_zLEaYlUnF3SxV2CDIqVeWXwO4_SPGv0MSfPHRAg8.jpg?r=6e2",
+            "watchID": "81943492"
+        },
+        {
+            "rank": "10",
+            "title": "Murder Mindfully: Season 1",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABSBNSNuSK6HyjBpT7g0OSzgXM2lrJqYMQXU-lPK938jfrrpy7DVyAgam49E20BtvLKs6m-l8q2nKsScMsown89Ufz1jskzp0Jq24D8H0VNd-QBit9M8VYSgtaNhBmrkUgK9KpQ.jpg?r=3db",
+            "watchID": "81554970"
+        }
+    ]
+}
