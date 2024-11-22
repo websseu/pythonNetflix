@@ -1,0 +1,148 @@
+{
+    "kind": "Netflix Country",
+    "date": "2024-11-22",
+    "films": [
+        {
+            "rank": "1",
+            "title": "Escape",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABcPSeacdkQs8xJBEdVVAUNA4HslZ0BLsGpyMmheVP-mJl1_oxi_QWQGLDfIy-f_4ByKaYnfMkhbn5WABEHBLWl0SGT7_bGZtM_wi.jpg?r=9e7",
+            "watchID": "81716862"
+        },
+        {
+            "rank": "2",
+            "title": "Abigail",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABRXWO0qGzs02VCT9gO3I3TY9wHzh6O7cDKGdcrLlkOE9kN9AhR8uanC84NtxAZKeKnmfgwVYikSjugBvR3dmCtfRJ0lvD-TKe-8_.jpg?r=53c",
+            "watchID": "81776704"
+        },
+        {
+            "rank": "3",
+            "title": "The Boys",
+            "week": "5",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABQiEFMikin_rAXtPnkmC2lny3nMv0KIYdi6dSLCh2gjSZ05bXsgBLRoUSgt5MQpvlQ0OBdM4ylmpyNTim3FaxXBIlUhePxdKQ_iO.jpg?r=0bc",
+            "watchID": "81942321"
+        },
+        {
+            "rank": "4",
+            "title": "Uprising",
+            "week": "6",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABeV31vNld77IEl7mfEXwFn0cpXI3rMCXsL9H_Y1J3Cp8z-M-rnfv9WnjZFeJIeubPe0SGSBo5dtX2yAm7T7-NGyZ1rEEpMzkpUpF1mpnfBC9WDlpJJQFy1Tkdg2LY7Bfjbf36Q.jpg?r=85d",
+            "watchID": "81672158"
+        },
+        {
+            "rank": "5",
+            "title": "Open City",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABbPEcxYN-vpfK78_ME3-Y4tE-32K5O5SCsE2esugGtb3svG8Jznsf49haOldH-XBFkCm5hXUHyln3BL3zoY3HKQTxtxu-nzPDEDk.jpg?r=44e",
+            "watchID": "70241136"
+        },
+        {
+            "rank": "6",
+            "title": "Wonder Woman 1984",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABd2mJ4AhOBoXrs7MIIdfIyT2tJNBa8K9LpJdaD14GhwwsHVt8mb-jq1xPLEl6YaXS5UY-6Zinogpkay0zHGTQKCyWaX5CC09tFHj.jpg?r=a8d",
+            "watchID": "81198904"
+        },
+        {
+            "rank": "7",
+            "title": "PROJECT SILENCE",
+            "week": "5",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABYj0snuifhp0nbLNupcbGQtEgYetNMrJNRTH8DS7KCplknPJenQUkMhlVo76z5XuiEDH4TOB7IhLlRqSaAOaK5FNr7XEqtx3CCtx.jpg?r=1ca",
+            "watchID": "81942318"
+        },
+        {
+            "rank": "8",
+            "title": "Gladiator",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABV8gEPti-K3nCPYsrMdbs1X9wxyoELVJtZrtLiEtIzf85ldvoXvhqb8eG1zAzXAwxc5k4yerOqz85lz95EcVGauoaBLQt-5Pyup7.jpg?r=478",
+            "watchID": "60000929"
+        },
+        {
+            "rank": "9",
+            "title": "Keys To The Heart",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABQ_xeOI4xuP9tAegGgZ1ZXIgXROfcQ3FFPnHJ_l0D8LvK4yEoMPxa3pi6DnVa6Ybiil8We8AJSMEQPZXVfOuaA88fYpfTakr4eXb.jpg?r=f08",
+            "watchID": "80239962"
+        },
+        {
+            "rank": "10",
+            "title": "The Fall Guy",
+            "week": "3",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABWQLsHLW625ZnGSNo6FSq2S0jsSmqm-70GyZZzS5JPqu-gex9zS-ZM2Kw7mheD1lNPLsfuwbo3MncIL_ZZxIX6WNF3-RrM422qKX.jpg?r=3cb",
+            "watchID": "81767872"
+        }
+    ],
+    "tv": [
+        {
+            "rank": "1",
+            "title": "Mr. Plankton: Limited Series",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABTxoMyXyabjzOwZCbDxCrSTzOnma8pYE-9UN0qP2HJdgHOIE-2FcW54s1R2dJuk9dhbS5FnL8fOZ4c87e1PrEfC9G6jbn6pM24-tUFFhPWkaLhUmtfG94qubUqvUqY6Sog28dw.jpg?r=9a4",
+            "watchID": "81506125"
+        },
+        {
+            "rank": "2",
+            "title": "A Virtuous Business: Limited Series",
+            "week": "6",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABSARDIPRSi61ZE5qI3pD8VRPC8WdtnR14lBvAyJfxTGLp9eYQg0uejCNW6i5pqUS7PMZxbY1-wcFrgHRTGLuJkbaDJKSQTw81u-z.jpg?r=bf6",
+            "watchID": "81787645"
+        },
+        {
+            "rank": "3",
+            "title": "Doubt: Season 1",
+            "week": "6",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABftmXEIGKrBeYMLIbJjUTps7RMyLVF0rga2phprZWA8rwNPjXCXvRE-1Zu22aYq8FH9htagPiDd36gSUIgVsazZ_t5Fb_HvsCNyw.jpg?r=b30",
+            "watchID": "81919054"
+        },
+        {
+            "rank": "4",
+            "title": "Jake Paul vs. Mike Tyson",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABSJE2UO2EQ1S73DRvgK7_s7flkqdsg5J92tVJ5Aj6YPVySD5pPoLLPhfk7w2Y24N_WLktuHCBZKczzavsgabELDTQqlLEarPJ7FelRZDT5ITXTKepoYdPLq4-b_LHdg8BryBYw.jpg?r=e36",
+            "watchID": "81764952"
+        },
+        {
+            "rank": "5",
+            "title": "Family by Choice: Season 1",
+            "week": "6",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABZtDuKJBtvGiAnnC1E43kXsEpwNEMumcrOirrCON2tX4Uf4IroY6XkzmI8dl7B__WdrlDSWcmYuYTivlx7jefNNS2R28bHmuNUGe.jpg?r=45d",
+            "watchID": "81943404"
+        },
+        {
+            "rank": "6",
+            "title": "Arcane: Season 2",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABeGBFYrUTxon2A71q_nEGYOle1jCfCivYxPe_9z2kxJFqG_Uo4mmBkanvBkYu6t04cVJ9_cSlYZqwBbHDHdmdPAA4SGtjGfnkuwwa7ZCB2CDpQj4p93qv7ahfsUzlam8619OYQ.jpg?r=5a0",
+            "watchID": "81516572"
+        },
+        {
+            "rank": "7",
+            "title": "Hellbound: Season 2",
+            "week": "4",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABaXdalyOAWe4TkbI-1B1WickczYqrj4yjg8DSGvbDWboXhSfeCiyufdwqb5D57Nfc4v3lImwIEUr2SjAHdAWIpn0DpiWaaLEDMxTYJZ3KDh0WJTYPX6h_hAAxaC0TK59h-Qagw.jpg?r=1b8",
+            "watchID": "81284038"
+        },
+        {
+            "rank": "8",
+            "title": "Brewing Love: Season 1",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABcG8TDAN1ER2ef3LQbUlAv5gOq-O-RCnTiX0RyagFod539pp3VZUs8QRQLp879srqt6yKP402vjK_2IVVqGNQH3Qy01KamsfJwiH.jpg?r=3a0",
+            "watchID": "81955455"
+        },
+        {
+            "rank": "9",
+            "title": "Love in Contract",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABVoUFu0nnVcE94o-VtDqsy1J4p48JsMu5GL9Fpky1ZhiZL9vXpeSpAXGw4shJ1x1DC7khqX5Oyodn6JKhQt4UMDJcnq93aKPGAiZ.jpg?r=01e",
+            "watchID": "81754380"
+        },
+        {
+            "rank": "10",
+            "title": "The Iron Squad: : W",
+            "week": "6",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABeCXqyPOF2Jeb6TZuEsxhB8l3T6GYHY3M9lgIqYjSj2q3JRzEAuq_kyFxMhq6QqHmYZwo0pyO-Dz_102PX8gqVkF6izPdaQ0d8CE.jpg?r=641",
+            "watchID": "81905503"
+        }
+    ]
+}
