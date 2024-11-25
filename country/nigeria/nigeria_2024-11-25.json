@@ -1,0 +1,148 @@
+{
+    "kind": "Netflix Country",
+    "date": "2024-11-25",
+    "films": [
+        {
+            "rank": "1",
+            "title": "Umjolo: The Gone Girl",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABfaeYkUu_CFb9AVIQTfNHqQHdpWKzB_p7ktmdeHIkzERI69AwmH-adSBgPNQlroQFo1ivQdFNbmXBzMXKMil6D-z2ArllWVR6PktSFx3THY8Yga4UxUxiIpQZMB3tVOhtI-O8Q.jpg?r=0d6",
+            "watchID": "81565758"
+        },
+        {
+            "rank": "2",
+            "title": "Devara",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABQaz0MdH8nzOBsJyL9MnPJAHISeGuHeGmQB5_GE7ypDYR80Nri15UpOVNL13JYAeueQxoNLahObhqTro2d0mluyHJ2CFSbIZTqY6.jpg?r=453",
+            "watchID": "81728598"
+        },
+        {
+            "rank": "3",
+            "title": "Alita: Battle Angel",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABb_26rpchgtI3DeW_6jxr9SQbL3me1ZLx7NCKwiyOMjVNMWNBgK1g8YDDSXFakol6bTCobXoaGEvhWGaD6kxs-HnO29IYFMjBfSB.jpg?r=20b",
+            "watchID": "80235021"
+        },
+        {
+            "rank": "4",
+            "title": "Meet Me Next Christmas",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABXgUlRCHX3PgckyG7L_FabG4Cb-NWMkjGrldf0na9abMGkvCRRFu-kotK4wIWLpqDXdxRwd2VFXKi_Jo3u7ybOYK-MFEXHgt_Femk8kaWMLlq053sBIgbvvWU3IYtXt3M_LBqg.jpg?r=a96",
+            "watchID": "81392060"
+        },
+        {
+            "rank": "5",
+            "title": "Tarot",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABSWLxBqhl4n7wVkhxscpd2IH7u78leMWXc1f2ofqmmXyiTHbMoBlccwPg_lMiIiz1qplRe8eojITBnniZb9686w0D2BOZoGqOHFQ.jpg?r=9e7",
+            "watchID": "81691511"
+        },
+        {
+            "rank": "6",
+            "title": "Knights of the Zodiac",
+            "week": "3",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABVRz0kx8kcH03oLnLzPbqTXDY3nerYde-gPEpe2KFf237ogKTXNG5oDH_fxbTdvHEb5OcF82AXTY82hb-UUnCHByAcdgoABBghwE.jpg?r=3c8",
+            "watchID": "81696507"
+        },
+        {
+            "rank": "7",
+            "title": "The Buckingham Murders",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABaY37MZgUq70Xj8-QSc7uyXB4hE2bfB6upyWSSL0iPivRumOQ2Vvh18u-bIIOHh37olzngsIyduMQkNX_MDsEmVj9hxvti90dDqB.jpg?r=885",
+            "watchID": "81509546"
+        },
+        {
+            "rank": "8",
+            "title": "Hijack '93",
+            "week": "4",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABUeEpTIclNs_5Wi3YiiGjIn1U0u0Z9j3BI-01JW4Uy24ybY4PJS2_5saZG-ZlTLD4hAS_t38rQnQfOw5xxRi-CrQEAZ9lIfoT-5D7R6OlRJGlfACzSszP5ln3T_egnS0N9KzqQ.jpg?r=8d6",
+            "watchID": "81676888"
+        },
+        {
+            "rank": "9",
+            "title": "White House Down",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABRx5Xc6yOAQaZUhe3djjtnVGshjfohCMxkGR76l-PBrmjGistlsWnJLplWHZlJOJtYq94Ot2USuumgyyiUC9x_fo07EcQ_DLN_jH.jpg?r=78c",
+            "watchID": "70264801"
+        },
+        {
+            "rank": "10",
+            "title": "Time Cut",
+            "week": "3",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABWHdfXaOfTOBoXxCJn6TtrFL6E6A8fmw3de7NJUjhXmULkfoJ51h6KlF2v9pHwOHfUbNs9DT5ywC0TPLEhQG75bxqTVojzyBcVnMuAvyW1glNqFzRu-IXJ3MeiS9DC-NhyGMqg.jpg?r=2e1",
+            "watchID": "81504326"
+        }
+    ],
+    "tv": [
+        {
+            "rank": "1",
+            "title": "Beauty in Black: Season 1",
+            "week": "4",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABdZghq5pSlnQGL8Gb6zQsHeLQwhl756pbKHO7wVk_u9MGOv4iL5fGcmKIocc6JxWhDPJhFU5gHep5i6Bom03PAhbBdvNlPZrrJ4M54Fkzur2e3PIk1Jvq1SM9ROI8_HlDYbQJw.jpg?r=9f0",
+            "watchID": "81764524"
+        },
+        {
+            "rank": "2",
+            "title": "The Cage: Season 1",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABY0vBupCbP-lZ391tpJeijRCP_l9bwfKA8liUjGOj6RgazZmXSbOOGt9_gkdoxjqmo00dmg3hy5Nnr3k-IAHh3hr2g-z9IZy8ZnQ-RJSizAWWc_h09xbZk-gpEHyOc3MBe_3-A.jpg?r=13f",
+            "watchID": "81522571"
+        },
+        {
+            "rank": "3",
+            "title": "Jake Paul vs. Mike Tyson",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABe-If49YS85gtsh-9PY9pgdTk5m60s662IW0B5wz2GpfOXDc2t8qYGtz077jdl9lhEA_eM0Wh-XkygOZ9VzHZqjVHLKZxmFLzhChfom1Qys-PjOrgs5edUfe2JFoqsGbieBFwg.jpg?r=4d5",
+            "watchID": "81764952"
+        },
+        {
+            "rank": "4",
+            "title": "Arcane: Season 2",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABZEmRtQ9_QeINkt8XATxn0OnX_9wQGf-IOPdrj_pSUzut3iqnrb49LB15suJZKr_AhDfEsKbkkt-0VM74XEqKrvio4MpGm5hZjpBvqFEz3LfzXo9BHkWEQYOMDmG-Kn1sovQsg.jpg?r=ae8",
+            "watchID": "81516572"
+        },
+        {
+            "rank": "5",
+            "title": "Bank Under Siege: Limited Series",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABflKQXHRsM0uHXsA-24KP9dXhfXSkHxLnyFfwmfRMBQPleLRofMeNv65Ag6vaU4CTY4c-wGhcjBU1Ly2LMDjQwXlUZlngSB8Q8J40EQ7F2xbxsHtpMAe6GaOGD9NNPg7Yq0q5A.jpg?r=2dc",
+            "watchID": "81684769"
+        },
+        {
+            "rank": "6",
+            "title": "Mr. Plankton: Limited Series",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABXjdocjCH5Ph1WSaJjeB-B9t-NwhP96lowqM0jUE47G3KA3G5p2Z7djQAZOZ8FoFgzM4Ov20t59yTq2zgPLQebAs0vod2ijYHTHpmuEoLsv9nYcJYeLWo6yPLm1XoXlwmh0-tQ.jpg?r=fa7",
+            "watchID": "81506125"
+        },
+        {
+            "rank": "7",
+            "title": "Arcane: Season 1",
+            "week": "6",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABbGYIl8UX1rniiEYOm77NUXPDLxg6BLbciwgfEZZzJqnPVAQEI6rxWdcanOIDkHvhFhJlQTPjWOZwo47I6xEKMkg2MncNj5r0XGl-Gg_ZKPj4rsrVGUsAhTZwfJgPCXv3nQTug.jpg?r=c00",
+            "watchID": "81435685"
+        },
+        {
+            "rank": "8",
+            "title": "Prison Break: Season 1",
+            "week": "10",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABS5VdzfTxOiANzAMcTeLj3K7LpIi2YKEixOyZWDmss71w9xB5wJM0a_jutdYsZDQwyb_gPe4YNlBJ4yh55nmnEiF4AuISgTujvsO.jpg?r=dbe",
+            "watchID": "70040250"
+        },
+        {
+            "rank": "9",
+            "title": "The Diplomat: Season 2",
+            "week": "3",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABTGkbacX_F1FBKkBxvHPq8s9SJc8u6GUHLu3yz-kLEjdW8wBUfLgoDDYajlNominN_nqtXJgUC36f3SRKa14DLkA0yydYjjLT3FqlCDchJbdvVZA9HhOsJvEXyN8UVsqroDFtA.jpg?r=a54",
+            "watchID": "81486271"
+        },
+        {
+            "rank": "10",
+            "title": "Prison Break: Season 5",
+            "week": "8",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABS5VdzfTxOiANzAMcTeLj3K7LpIi2YKEixOyZWDmss71w9xB5wJM0a_jutdYsZDQwyb_gPe4YNlBJ4yh55nmnEiF4AuISgTujvsO.jpg?r=dbe",
+            "watchID": "80204202"
+        }
+    ]
+}
