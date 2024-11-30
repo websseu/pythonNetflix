@@ -1,0 +1,148 @@
+{
+    "kind": "Netflix Country",
+    "date": "2024-11-30",
+    "films": [
+        {
+            "rank": "1",
+            "title": "Ready or Not",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABUN9ZsyRcqR0C8BjWjQBEp21MEKDIGObXTtK0febvzwJ5eZZBJmOXP_TpwmsDOqDXVuz-q1Xq9dr572-aZDUTEkKLu2u-kyAJMdX.jpg?r=187",
+            "watchID": "81131575"
+        },
+        {
+            "rank": "2",
+            "title": "GTMAX",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABXb0i14tY9gy59TJvFQS8XKQPB4l6zqjTetlV5rRZ1u2N4KZ6VvA9qyw9pbxqC2Alp1k83kYaexASjTlBPnWewM4a04oCTZbSY7bLVTn9YEgjG8EhfVhAqSEgYR60ynL9oHw0w.jpg?r=7fe",
+            "watchID": "81711199"
+        },
+        {
+            "rank": "3",
+            "title": "Night Courier",
+            "week": "4",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABZ6eDIr2aO30gTBj51tEB1isGNrJhI2M418iW91XNS62bEogi82uYDESHErsDhx3cxl2LURZxEN-87ZA8j21QKq1cKEuH_uQy3RC.jpg?r=3ae",
+            "watchID": "81685592"
+        },
+        {
+            "rank": "4",
+            "title": "The Lost Children",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABa3pDK2M-5oB1Yx_sKLL6oUJSBu0RalvCNpm1QG49iOPdNvP5N_PWVncmqh_prNH0e5VqxzaYcv8RgOcFQcEF9fqRSLep-mGLeHsxBZJH4KgiBjL3jZIn7NOWZ03mXLQKPxz2g.jpg?r=b82",
+            "watchID": "81713263"
+        },
+        {
+            "rank": "5",
+            "title": "The Children of Karim's Ladies",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABRET6QF92qJWiSNwLp3oilgPAJWW9uYu1hpimWAVbvG-MLxj89hLL3LYdUPy0Lk1Nx96xgXPFQ-c0qUkIsqnPTqIK6ph7BEAUzbT.jpg?r=dc7",
+            "watchID": "81908702"
+        },
+        {
+            "rank": "6",
+            "title": "Hot Frosty",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABWf4YNnvBfa_HBoRikL2Gb8SActVbqCa_DY_sYe-4Jhggz0ldBPgmQcfWXRdjd5_1lZTVDP-pbnsgKh0r1zAz2HDmocmiAKx20Y0tkv21RjBBKTlAqTh9GAHCYOQ_HKafAYutQ.jpg?r=311",
+            "watchID": "81764579"
+        },
+        {
+            "rank": "7",
+            "title": "Don't Move",
+            "week": "5",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABZHtjee6nsFrNaUpLTtdsz-8eP9rmoFYXdl1_XUk-ZNiNKzAvOQ1kOkq8kBF58fUk7yqrs80CFleWK8skncttxKP1Fvpqowsu_silSbZ_J_QG52tSWTOY9VMdOgWyY25HHgNIQ.jpg?r=e97",
+            "watchID": "81767564"
+        },
+        {
+            "rank": "8",
+            "title": "Morbius",
+            "week": "3",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABc2E5g_6F9HIXVbHsrzX0ACgieEfNkEfq-AX1haW-FAOJznS-fl_2nV_bnhEiT9LrcKK0omFw14zJLZ0lWeMTzYvC8EVlmHqe669.jpg?r=aa9",
+            "watchID": "81198933"
+        },
+        {
+            "rank": "9",
+            "title": "Alita: Battle Angel",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABb_26rpchgtI3DeW_6jxr9SQbL3me1ZLx7NCKwiyOMjVNMWNBgK1g8YDDSXFakol6bTCobXoaGEvhWGaD6kxs-HnO29IYFMjBfSB.jpg?r=20b",
+            "watchID": "80235021"
+        },
+        {
+            "rank": "10",
+            "title": "Spellbound",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABYfmbsvSJuZlZS2H9oY3bMPzx6c-p336VTRBtkFKkSRDGmmHqL-mU5wobYJNajiVHoF2V_djzIZlxHu6OHkuEd_VNp0WAsW7p8VuLjow91KbI-tsX5w8N-Jbt23ebXuYFlZPIg.jpg?r=859",
+            "watchID": "81745658"
+        }
+    ],
+    "tv": [
+        {
+            "rank": "1",
+            "title": "Bank Under Siege: Limited Series",
+            "week": "3",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABVB2W1ZhsyZoOIGhUrV-w33xZBAIgFohmHdHf85vY3kqXqwXHevQQpoHcK8zVQX3HINYrZeKgOVgTBmHq2JJ-yQ9PZu19lJ2DMrgMDIS4oAKFIBGaqxNf5FGYUH1K0E4P5LtKA.jpg?r=147",
+            "watchID": "81684769"
+        },
+        {
+            "rank": "2",
+            "title": "Arcane: Season 2",
+            "week": "3",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABQDV0QMsmGdI-xT2rP1rlzhDEZRG2et6BCi-ssGh7eBt0PMux_wChZ3odVUMpOpttcXsOfyUekdolEVNmcIZAFI_f2GWOrWLesK7gsj6V7_9dQvStKLBUoBkOK_4vOonNsY1YA.jpg?r=740",
+            "watchID": "81516572"
+        },
+        {
+            "rank": "3",
+            "title": "The Cage: Season 1",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABYAevbdz03Jge97Wg5hRTPLkCUk1TWxVdSmFOHqayxwDj0nKeVm2vu8ri7P0GYrB05D6d_hJvtYSyZBrnqybSecJb3ooUSj66S-LxBaj7OX1NK-5f0iOn_3lJKyrHpzUxq3C1Q.jpg?r=c96",
+            "watchID": "81522571"
+        },
+        {
+            "rank": "4",
+            "title": "Saudi Pro League: Kickoff: Season 1",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABQKERhcgI-N2u_j78Vr0ZwqseHI2DeedhKHUIxr79PWbnHz9Y1aZO1N_q7E0xT64UicALeTfhXOAGdcdytqglwxviXGB5nRFN_-1Ec2m2-XkYOQJpFb-yNpo8TLgQvSf0YvqTw.jpg?r=818",
+            "watchID": "81783474"
+        },
+        {
+            "rank": "5",
+            "title": "From: Season 1",
+            "week": "34",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABYIkf32Oo9uG3WXR6KNVN8p6dhfg736Ih-n3PUF9E5jHFwh07BTltdxyZzCZn2e55KJSFkDKr2QijkAUquDr2W_jCljl3tQWy24R.jpg?r=ee5",
+            "watchID": "81446289"
+        },
+        {
+            "rank": "6",
+            "title": "When the Phone Rings: Limited Series",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABfkzklkOx_-AL4bRAVeoAFr5TjgFUBv8M-IxZy_TIjws7dQ2NhHCsko-KjdwuQtKK_N78dNuoWgHU8yxX_I0mkBYfyHGpiLbp3KKEk7X_bKu_fQU6lEJ1Yvm0jPtAz0_6CcaAA.jpg?r=cad",
+            "watchID": "81912962"
+        },
+        {
+            "rank": "7",
+            "title": "Mr. Plankton: Limited Series",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABRZoyFu5_oX1m8EGyND4SJGogn7quKbU93FTc4gGlOFnSY7IM0AFl2nnu_9X44uWtDioQP5A7d9TSmlez26L7__cCpLvR_yStyB2sqMk9kyp0Mv3HP8a0_Xfb6FPauLCnNsN4g.jpg?r=144",
+            "watchID": "81506125"
+        },
+        {
+            "rank": "8",
+            "title": "Sisters' Feud: Season 1",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABWna9rPh4uBeF9Ctn8tXdf7C4y8mSN4trdB6XEgiiMw89BYfWGLB0Pu3vUSGfffnlgpu_YASCfRU-7XG3UyD_8-34FNYQL57PLZ0zXTqwsiQzBpJ4K1orOtOe1AXwk9iXmsxxA.jpg?r=20b",
+            "watchID": "81726002"
+        },
+        {
+            "rank": "9",
+            "title": "Prison Break: Season 1",
+            "week": "19",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABS5VdzfTxOiANzAMcTeLj3K7LpIi2YKEixOyZWDmss71w9xB5wJM0a_jutdYsZDQwyb_gPe4YNlBJ4yh55nmnEiF4AuISgTujvsO.jpg?r=dbe",
+            "watchID": "70040250"
+        },
+        {
+            "rank": "10",
+            "title": "Arcane: Season 1",
+            "week": "8",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABcEOIunbtDPWOQl488ToktvwVFR60d_gNXlpFH6b1C9vJJQ-vHnPObRCa-ur0A4a59MElhHm3mfQAPusNZ-oqIMkYsHMIwxSaPxGQV20CdwAbjfuXy9z1RTjDDpMRE9pNfD4HA.jpg?r=4f4",
+            "watchID": "81435685"
+        }
+    ]
+}

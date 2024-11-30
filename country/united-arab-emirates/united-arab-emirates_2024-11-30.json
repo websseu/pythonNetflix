@@ -1,0 +1,148 @@
+{
+    "kind": "Netflix Country",
+    "date": "2024-11-30",
+    "films": [
+        {
+            "rank": "1",
+            "title": "Nayanthara: Beyond the Fairy Tale",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABUTpiSfTqtgcqjLpj19if6kVyKVYS-joTsamiQlTi3EJVsw1AgldSnn7Ql4OArsGdi61tVJYczKz03bFtrN1Esgg-18rljdYu5VV6Djzd30bHxixidH5KYMU7fbYwPHjkKgt7Q.jpg?r=a1b",
+            "watchID": "81611550"
+        },
+        {
+            "rank": "2",
+            "title": "Ready or Not",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABUN9ZsyRcqR0C8BjWjQBEp21MEKDIGObXTtK0febvzwJ5eZZBJmOXP_TpwmsDOqDXVuz-q1Xq9dr572-aZDUTEkKLu2u-kyAJMdX.jpg?r=187",
+            "watchID": "81131575"
+        },
+        {
+            "rank": "3",
+            "title": "GTMAX",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABXb0i14tY9gy59TJvFQS8XKQPB4l6zqjTetlV5rRZ1u2N4KZ6VvA9qyw9pbxqC2Alp1k83kYaexASjTlBPnWewM4a04oCTZbSY7bLVTn9YEgjG8EhfVhAqSEgYR60ynL9oHw0w.jpg?r=7fe",
+            "watchID": "81711199"
+        },
+        {
+            "rank": "4",
+            "title": "Hot Frosty",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABWf4YNnvBfa_HBoRikL2Gb8SActVbqCa_DY_sYe-4Jhggz0ldBPgmQcfWXRdjd5_1lZTVDP-pbnsgKh0r1zAz2HDmocmiAKx20Y0tkv21RjBBKTlAqTh9GAHCYOQ_HKafAYutQ.jpg?r=311",
+            "watchID": "81764579"
+        },
+        {
+            "rank": "5",
+            "title": "Spellbound",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABYfmbsvSJuZlZS2H9oY3bMPzx6c-p336VTRBtkFKkSRDGmmHqL-mU5wobYJNajiVHoF2V_djzIZlxHu6OHkuEd_VNp0WAsW7p8VuLjow91KbI-tsX5w8N-Jbt23ebXuYFlZPIg.jpg?r=859",
+            "watchID": "81745658"
+        },
+        {
+            "rank": "6",
+            "title": "Buy Now: The Shopping Conspiracy",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABYDIMsfu7izc_7YPiMt5cCoC2p8P3GIYC6x8yE4PBi642iO7djNobpPl5D56yjfF3zl8_rYiwqNfsELEdkFjwLjTMoIVb15tyOSCKNJHC9nBwfsO6y8D4IvRRrwGwvvWgbwoWw.jpg?r=8eb",
+            "watchID": "81554996"
+        },
+        {
+            "rank": "7",
+            "title": "Un/Happy For You",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABTafesb1cb5RDPgb8Ae0RqYNv_i2ZJ5X9UgqEf1pG923dEpXkO7Xm_sSTqOZCNQvzy3SCtGvyUv_iXSS8e48BURwX9rrnfiUrbk_.jpg?r=187",
+            "watchID": "81901875"
+        },
+        {
+            "rank": "8",
+            "title": "The Lost Children",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABa3pDK2M-5oB1Yx_sKLL6oUJSBu0RalvCNpm1QG49iOPdNvP5N_PWVncmqh_prNH0e5VqxzaYcv8RgOcFQcEF9fqRSLep-mGLeHsxBZJH4KgiBjL3jZIn7NOWZ03mXLQKPxz2g.jpg?r=b82",
+            "watchID": "81713263"
+        },
+        {
+            "rank": "9",
+            "title": "The Merry Gentlemen",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABbj1zzf-cwXuSITKg6pv9ZLDELgLvhmiNRf--VGrWeqigckQ7dXa1CVzZOZTBLutjpDnSM8ND7CRHdEouzPPZiSLy3_ihRBNnPVOBMkLWPFLPw_jNmVAInVPqg8zvRwK2dd9MA.jpg?r=d43",
+            "watchID": "81766198"
+        },
+        {
+            "rank": "10",
+            "title": "Devara",
+            "week": "3",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABSpyfNMTSuG7jKgOHCE0RXoNqYSn5oFsYYgCsnxe2CgjyxqcO3zMgRmf8aZ7LeZ2PTJdsABpFmSQyBwlaOw1quK9SQ2KswLYqMJo.jpg?r=16e",
+            "watchID": "81728598"
+        }
+    ],
+    "tv": [
+        {
+            "rank": "1",
+            "title": "Yeh Kaali Kaali Ankhein: Season 2",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABfz12X2ya6US070lDds5Jc--RLe7LaBTO8Gv1EUXoULHYe826fDEenquuCXOGXvkrX-dAwcHzrXN9J3JOzLfrIjkile19fpgSvI_7VdeW83E8p5Tcj5h6qI62kuhvFGfsyOu3w.jpg?r=30e",
+            "watchID": "81306174"
+        },
+        {
+            "rank": "2",
+            "title": "A Man on the Inside: Season 1",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABY57RnuohJCCcIDzQ01nWmsWP9dVj-_mZHby5yf8v_N5ImjbFuEmF74jCqj8XwTlifJSxHThM21hANvAR3GFPIJ772lIe1a69x1hU6yDeQeE4J6wTSbIBZSsaOHDCQAqefaD2w.jpg?r=4c3",
+            "watchID": "81677258"
+        },
+        {
+            "rank": "3",
+            "title": "The Cage: Season 1",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABYAevbdz03Jge97Wg5hRTPLkCUk1TWxVdSmFOHqayxwDj0nKeVm2vu8ri7P0GYrB05D6d_hJvtYSyZBrnqybSecJb3ooUSj66S-LxBaj7OX1NK-5f0iOn_3lJKyrHpzUxq3C1Q.jpg?r=c96",
+            "watchID": "81522571"
+        },
+        {
+            "rank": "4",
+            "title": "Arcane: Season 2",
+            "week": "3",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABQDV0QMsmGdI-xT2rP1rlzhDEZRG2et6BCi-ssGh7eBt0PMux_wChZ3odVUMpOpttcXsOfyUekdolEVNmcIZAFI_f2GWOrWLesK7gsj6V7_9dQvStKLBUoBkOK_4vOonNsY1YA.jpg?r=740",
+            "watchID": "81516572"
+        },
+        {
+            "rank": "5",
+            "title": "Cobra Kai: Season 6",
+            "week": "5",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABT7U4amwWgg93Z4cctxjowCqF7y1xhQuPSASUuBAy3rEglZyBLhjbS7XMdB0Pompv6nNM5rssFhH7AbkZD6NzSfwUIKp8t5uzj-8P1JR-nVeL_OkxRguxmH8DAbl6zuuUGkJ0g.jpg?r=911",
+            "watchID": "81576914"
+        },
+        {
+            "rank": "6",
+            "title": "Bank Under Siege: Limited Series",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABVB2W1ZhsyZoOIGhUrV-w33xZBAIgFohmHdHf85vY3kqXqwXHevQQpoHcK8zVQX3HINYrZeKgOVgTBmHq2JJ-yQ9PZu19lJ2DMrgMDIS4oAKFIBGaqxNf5FGYUH1K0E4P5LtKA.jpg?r=147",
+            "watchID": "81684769"
+        },
+        {
+            "rank": "7",
+            "title": "When the Phone Rings: Limited Series",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABfkzklkOx_-AL4bRAVeoAFr5TjgFUBv8M-IxZy_TIjws7dQ2NhHCsko-KjdwuQtKK_N78dNuoWgHU8yxX_I0mkBYfyHGpiLbp3KKEk7X_bKu_fQU6lEJ1Yvm0jPtAz0_6CcaAA.jpg?r=cad",
+            "watchID": "81912962"
+        },
+        {
+            "rank": "8",
+            "title": "Mr. Plankton: Limited Series",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABRZoyFu5_oX1m8EGyND4SJGogn7quKbU93FTc4gGlOFnSY7IM0AFl2nnu_9X44uWtDioQP5A7d9TSmlez26L7__cCpLvR_yStyB2sqMk9kyp0Mv3HP8a0_Xfb6FPauLCnNsN4g.jpg?r=144",
+            "watchID": "81506125"
+        },
+        {
+            "rank": "9",
+            "title": "Jake Paul vs. Mike Tyson",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABdG9_5lHE04M2z1AcDSwwDGWjPFIWIxcBK2jnyR-gnFSdyxCvBxTC4BYR-7N_a8ckGcQt0ahlcIK6IRAwQAZUngr6rsH8TOo6SGrExqS5AESrN6W3mP946NgyuGvobKKMilPrA.jpg?r=5ce",
+            "watchID": "81764952"
+        },
+        {
+            "rank": "10",
+            "title": "The Great Indian Kapil Show: Season 2",
+            "week": "10",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABaLbx16YTxuxqzKYI9ktZYcnFfK9Dejauvl2kuBE2bLCaJ6fpPba7MQGDIj8_QE_OF2_QHQ4Z4-W4JktduJyOol10DkRe7x8BBPgAu3oRfTPdEGvQzjtTkTsit0ND81xT9lswA.jpg?r=9ac",
+            "watchID": "81786478"
+        }
+    ]
+}
