@@ -1,0 +1,148 @@
+{
+    "kind": "Netflix Country",
+    "date": "2024-12-02",
+    "films": [
+        {
+            "rank": "1",
+            "title": "The Merry Gentlemen",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABW240Xl7PmSRwYrDVI158PNCvoT0bgnsTKzDyid_4D3OPptY1vw2N_p1UmHfxqeY58bU0cuYXQvlIzhLIzJ4_Ye1tlPiHgL_Yr4DJFyK_o_ECTbqJefdSOaWqVZ1-W-hgLvp0g.jpg?r=d57",
+            "watchID": "81766198"
+        },
+        {
+            "rank": "2",
+            "title": "Buy Now: The Shopping Conspiracy",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABdE8A4q0LEH_WDewmNizno7W7rUJNKmZp82znyBMTquvE8TzlZtXIzwvDWtm8GYg__-N29ISkgQSGcFH_wlJ8MnG298S-Mg8a5WrhFG_SlduQw9w34zdxAW1nJ2Oci_QTqK9JQ.jpg?r=522",
+            "watchID": "81554996"
+        },
+        {
+            "rank": "3",
+            "title": "Hot Frosty",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABVrL-kcKC8cJbmdT_GIRJTKrUoWnOLjNgD4dN-CdVRLdJKu3htR4MFDb6OCTJQ-KeC7SiH8VNZ6CFSpSqJ2BfflodK7kso_h5l32lD0Wu1ad8aAOiy55bPyL3YKvo0L_mV0vZg.jpg?r=d7c",
+            "watchID": "81764579"
+        },
+        {
+            "rank": "4",
+            "title": "GTMAX",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABfoznZvH9l_NhK-y-YPFqtljPYzXa7OyQrXLkbq6Zz2qu_Tk35qqBKjj_fmd2luBr64Iyq5viECOAMuTjhexcZBvSCd6Ez1xVjB24a3RM0Ws_EoxogOSyJ5yrgzGvNdQgCo5-Q.jpg?r=e52",
+            "watchID": "81711199"
+        },
+        {
+            "rank": "5",
+            "title": "Red Sparrow",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABQ81-8o0jph9aEYX2xrklA60H8suiCQfOzqnADeKJHgbHV0ATfHjAry1VhqOM4jfJiev3sFstdMo_zuU76cO3wlIL2xdu6a4mVIL.jpg?r=937",
+            "watchID": "80187054"
+        },
+        {
+            "rank": "6",
+            "title": "Ready or Not",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABUN9ZsyRcqR0C8BjWjQBEp21MEKDIGObXTtK0febvzwJ5eZZBJmOXP_TpwmsDOqDXVuz-q1Xq9dr572-aZDUTEkKLu2u-kyAJMdX.jpg?r=187",
+            "watchID": "81131575"
+        },
+        {
+            "rank": "7",
+            "title": "The Lost Children",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABQ549KQmE-Iya1mKoA47eciI_R9k3VSlgntxu2OUw7IqXcTD8XB5iXgApgHs-r3XtjKYpbLvnrtQNcFSdhE7YmvGimY2QH0qCnYjKE6G6IM57X_hBddg6vVsrWGJ04dLV7BptA.jpg?r=47b",
+            "watchID": "81713263"
+        },
+        {
+            "rank": "8",
+            "title": "Madagascar: Escape 2 Africa",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABfHY73aWPGE3zP8OJ_UNXUnnukxf2l93shQKlrzRHCYPFCp9JipDNm_pjZYhSgSrzGLN5uIBTabg-tbqDgmWZcC6sGUnkIgh9y07.jpg?r=6bb",
+            "watchID": "70099116"
+        },
+        {
+            "rank": "9",
+            "title": "Spellbound",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABYvIicg4625Wj22bpSUSFgRFog2c0heiV-xkN072GqfomcFxfnBNS1xl8MQTOXwHIkMwIrMtUsN9vuw0mxCA3ccioaHvPHfhgAlcI3WSYJkxgJ2ilgiz7YWSt-EsrU6EMDe76w.jpg?r=bfa",
+            "watchID": "81745658"
+        },
+        {
+            "rank": "10",
+            "title": "Meet Me Next Christmas",
+            "week": "3",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABQvEhrtiW8ElhnfuDQqQK8adHn-AA8Lj_oOA_fYXZBg2lKADrTnjDqqcNUPrIGp_UR__pN0DF6Ar8MEYD4IjZ0SxqpSUO8VyFBsttAnrZZIrm5xvOIJi7t44dASPjdUyUgIIJg.jpg?r=28d",
+            "watchID": "81392060"
+        }
+    ],
+    "tv": [
+        {
+            "rank": "1",
+            "title": "A Man on the Inside: Season 1",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABbGGthLOfXWd5s5O9Rj4wbd-XJYSnnJqNBGwSc6hZ68dE2ieaWWjN1qfWsQZjMXD_LnnlaIjTm3jCijEJygry6Yxx5-MQi4XY9m2-aOkUaATExeBmoL-rUD7FVoyw8k04cbwSw.jpg?r=4ff",
+            "watchID": "81677258"
+        },
+        {
+            "rank": "2",
+            "title": "Cobra Kai: Season 6",
+            "week": "6",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABbH2hJ68GrdgFMTcn43k9T7N4xcgEOws5F9_-QGwsgU-qkrnVgnBeH2KgTdggdAtD0INQPYx3SvgSPuz-XAusGNnPeDlETUBJn7e1cULbmfklKvZoV7lcMn7AEdcijJFIf9_Ww.jpg?r=395",
+            "watchID": "81576914"
+        },
+        {
+            "rank": "3",
+            "title": "Arcane: Season 2",
+            "week": "3",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABchNEOLeAJWHEuyxsGGXRQp_Qnc9ztpMV6gSSgbTJ4cejlWKQV9P0OcyPdaKK2j6rt8xS0b45gYOESv-zMBL_C7o4S1hLQO8teK5Kp7Y2uocrZ7dX8ZtIrcyCGW-Xn5bcYCc-g.jpg?r=9e5",
+            "watchID": "81516572"
+        },
+        {
+            "rank": "4",
+            "title": "The Cage: Season 1",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABfOTsHE0m2P6_rnVFxaenAFq6SWECBzyzOY5Qsnqz852OjJ-cTbu-Yb6YCnl1zct6D7O0OTDuipxHfOLo_oKQFSpo2cBwPPeOKoj_u1vOmeBcHBQ2ti8wowpRI1lQqp8IS-BfA.jpg?r=3ec",
+            "watchID": "81522571"
+        },
+        {
+            "rank": "5",
+            "title": "The Empress: Season 2",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABcJorB85jlah6u0Q3STrJjX4Zuo4CeRxv1xqag72lLsWbfaWKCepuGHAweEx6lRnDXSItBn19NCtFUqIswfi3aTAhkz3DUEdfnbKlnVqDcaGrpN6uxOaEN9kgO82yd2k4IK2ww.jpg?r=f65",
+            "watchID": "81286021"
+        },
+        {
+            "rank": "6",
+            "title": "The Diplomat: Season 2",
+            "week": "4",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABYJ3N6ccj1ZBxSwUTwFC05eatmpHKa7c0IJ3bKPgKPI7ZhMHIeXBNcRNw2CdUmN9kUAVGSYAFJEgMIOX4ns1DAvrxguiFSVA3NLNcbXh8tpg9XfIFyZ0bwwLJ336wOTmuR8Hig.jpg?r=bf6",
+            "watchID": "81486271"
+        },
+        {
+            "rank": "7",
+            "title": "Sisters' Feud: Season 1",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABblFfaruvhC6hwOc4DNtTvqMI6p_cOm0lFK_DJNdouOu-8BSNeGiCGJ9AM08-37Jmc6X1W2deJ_IN60hSQe04hEJQv_Vp9WIwCxHI1qtrhDTbFdzGIOmMEdlw5XTG673MTpjTQ.jpg?r=0c5",
+            "watchID": "81726002"
+        },
+        {
+            "rank": "8",
+            "title": "Outer Banks: Season 4",
+            "week": "6",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABZHutlg0hBwuUSOF4tr8_fkYwwN7tcyzzdYXWQczK50fl3s6w4v9640oNTNoPP8xhOq1vY9pwOy-pVlA_LUmK2mNVAdDA_LHDOMxcLrni03JEZO5bYBP6OW4m97ePpq1VkCB1A.jpg?r=307",
+            "watchID": "81634116"
+        },
+        {
+            "rank": "9",
+            "title": "Adoration: Season 1",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABdLMgMMPUEjaUQHhxBgxDhwlSlfNqPUkg4FA3qRIw_uM0uGhmPOSEKPwwao_jRzFpnKDjRe1cVdUa0Yt1nIt7P3RGQ3pVp536mBDz2RQg9QpYCh0-xS5X5ex6yjgUHdFrGa9jQ.jpg?r=18c",
+            "watchID": "81494907"
+        },
+        {
+            "rank": "10",
+            "title": "The Lincoln Lawyer: Season 3",
+            "week": "6",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABRuqEcuGMVZbu411NB8aFn0nMgOT_spgbrCsbIAfXxXBaeKwHeX4Plse0lXCDq2FK_g2_W-OwmHWWIl2J93JGxH8apg36Lw7ZQi8zasSutTieaz60qHpdSs4GEKjW6A5mJ0gbg.jpg?r=d26",
+            "watchID": "81628779"
+        }
+    ]
+}
