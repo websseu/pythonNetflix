@@ -1,0 +1,148 @@
+{
+    "kind": "Netflix Country",
+    "date": "2024-12-03",
+    "films": [
+        {
+            "rank": "1",
+            "title": "The American",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABWstO2TdXZPbkFIb3EvTjNgCZlWwgnSJ9gECxoiE-00pWB1hx7sj-FyGprA0jlSuk7YqcazQlFnpsm_Q9m944EaSnl9XIcq9tL9f.jpg?r=e61",
+            "watchID": "70128675"
+        },
+        {
+            "rank": "2",
+            "title": "A Place Called Silence",
+            "week": "4",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABQSUOgyHpMBw4bgVW8lU0nh3ahz-AWwIpcHYSpxuS2d43gFdDQKjY3Yfh2ZIpSjPkEoxon7kYT4-ewJexZDZOkcnP8Y_rqJAFflA.jpg?r=9e3",
+            "watchID": "81919470"
+        },
+        {
+            "rank": "3",
+            "title": "Buy Now: The Shopping Conspiracy",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABdp0jbzQvtb5u0KvDBnUdWRq3ag26jn6MUZreFERwD56SCwgxJ21FDZjG0FEVMnEw7sej4wtJao2Njy11xOUrUe56h7iJaxuiTghKx5fOgqm4NmKBk4UQNq-ko-62PIhhBAJ4w.jpg?r=7ff",
+            "watchID": "81554996"
+        },
+        {
+            "rank": "4",
+            "title": "GTMAX",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABT5TTNzksezZzcQf8GfjOfGl2ANLUdRrYA858Y-_rIEHTLrMt7w21I2vYf2pluWQDlU75nrjjc1DvjkIClc-jnCodtoXIZZf2WEhrqAC8-76VRxO_jd-8aPQstDLazXMpJzYQw.jpg?r=a8e",
+            "watchID": "81711199"
+        },
+        {
+            "rank": "5",
+            "title": "Morbius",
+            "week": "5",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABV0fwisQ-Eh5O5wBl1W8rgZLOIrynqFp-gMDnAYkhuLrm8HBKWu16ToAW13Wr_eisAHA11kwLelom3j0LE0OESdfY2_31OJq8flQ.jpg?r=136",
+            "watchID": "81198933"
+        },
+        {
+            "rank": "6",
+            "title": "Old Fox",
+            "week": "4",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABWSjVcKhJj2LZWi-9rHcawBR_wp-ZItnvUlMDUDQ-lnypgWaDntmIQa0DJnKPHlpXWHTIpqdGF_9k4FdJOcvb9NHuBWscJBpuPdx.jpg?r=b12",
+            "watchID": "81938269"
+        },
+        {
+            "rank": "7",
+            "title": "Ready or Not",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABUN9ZsyRcqR0C8BjWjQBEp21MEKDIGObXTtK0febvzwJ5eZZBJmOXP_TpwmsDOqDXVuz-q1Xq9dr572-aZDUTEkKLu2u-kyAJMdX.jpg?r=187",
+            "watchID": "81131575"
+        },
+        {
+            "rank": "8",
+            "title": "Alita: Battle Angel",
+            "week": "3",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABYt0HR2LwwjA2105ckmAvWOYjPSfMtzFKN4BZBu-lq2U1hDVWK-GJ5cF45YWyoOW5VE0QmecmniG-9sXDhLHSo5tOSWhTYorwBpc.jpg?r=b86",
+            "watchID": "80235021"
+        },
+        {
+            "rank": "9",
+            "title": "The Lost Children",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABdXq-RgVg9FsBsvAlLJSbTU_qFJfJTdyuDuOl9iqbCMtJSY1BKziSo9EkyJ128wrSGeT2nPjTFIBjaKED05Wxg8jaCGd7qjPKxLW3LL03znFbWu1uwimN3sOxqhh2pjPw8Q0vQ.jpg?r=114",
+            "watchID": "81713263"
+        },
+        {
+            "rank": "10",
+            "title": "Spellbound",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABQksQCg4ZDpw3nfH6OoDUEzJNHwZm9VPGRZp9J2nu7_4XeF8Etjc8qUK-JGuanW_cC1sqgVqKVUiZW5MFTsAVI2uvyq-EynZ2OhrUx1h8DFSBVeSUO06xtWeSNwXe9Yv4G3ndQ.jpg?r=541",
+            "watchID": "81745658"
+        }
+    ],
+    "tv": [
+        {
+            "rank": "1",
+            "title": "Born for the Spotlight: Season 1",
+            "week": "3",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABRulc64HxsqBgmnsFjcN2CMVPWkLr-39emjzrm9ecQKzi_pHIkEwl1Q5IQOEPqO3EtSRJobX031cs8zl15BViKtENGryO5xrbZwlhYxRkmtZ0AY__5O3W6qcqZbXBgsKhyoW9A.jpg?r=ce6",
+            "watchID": "81746668"
+        },
+        {
+            "rank": "2",
+            "title": "The Story of Pearl Girl: The Story Of Pearl Girl",
+            "week": "3",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABZTfgNCqeyUL-oU8lbzh_vVtPtU6WDHH8f0ONWuANgocqDDrkwKrJObfIoRMai_Mxuvf79wZBR3-mQgUU2idv2Y6Ba7xgZR_NQSb.jpg?r=508",
+            "watchID": "81954671"
+        },
+        {
+            "rank": "3",
+            "title": "DAN DA DAN",
+            "week": "7",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABdMXcg7skhiUCsCL3zYC4fg6HCuh-n0r4lJThO9PmOiLu2Nupowv2NPfb9lbyqRAiCDHRhiKunDJy-zPBknyH20cwzvHYcyJ18P8.jpg?r=fda",
+            "watchID": "81736885"
+        },
+        {
+            "rank": "4",
+            "title": "Arcane: Season 2",
+            "week": "3",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABf6qWkWpBTKWAuLtusDtxudhHN5wz0EmfibG3eIa0mOcUo1VXM3ZH2dnnmFGH8kWL5S7KDZ1IR1w-DkvTofXHHEiNToMURiCSAv6GCli1ftODAOfbA4-AbyBRlDQCk4QaUJ8Cg.jpg?r=c6e",
+            "watchID": "81516572"
+        },
+        {
+            "rank": "5",
+            "title": "A Virtuous Business: Limited Series",
+            "week": "6",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABRqLhWpRnTtOB96KOQl5lhH7hW8tnDRpxQqNk2iMInu--dQXtGff1QDw92yHHLzaeQPF7PEmdVH6xps1sOhXawvxUmqpA9IQavI1xkyqAFCwUbe63uHDXW93HN2JEbLP3zVG1Q.jpg?r=612",
+            "watchID": "81787645"
+        },
+        {
+            "rank": "6",
+            "title": "Love Game in Eastern Fantasy: Season 1",
+            "week": "3",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABVt276GVwo3_Dawnlh3I80HtofqyRb33z6cDIcHVh0b5cDYil2SL9MlwH1SHJ-rOnocxod73nP_gy6gTBj4n0B2-D1Q8AMdfsp8f.jpg?r=d8c",
+            "watchID": "81950759"
+        },
+        {
+            "rank": "7",
+            "title": "When the Phone Rings: Limited Series",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABWC6itMhEcg0VqIsJIsD3AuXIF7VuIquBIfQwiTrTbnS0I1sxcEDN-F65B__5w0MVy3gwcCN7Wv6s228D2xItIFVS8ejJZdhqNgeuXDHikoE9kyw14xxtwhja1Pf6wK-zncN5Q.jpg?r=375",
+            "watchID": "81912962"
+        },
+        {
+            "rank": "8",
+            "title": "Mr. Plankton: Limited Series",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABSVugb7S7j3uTwXti0fgGEe2umQz5P0klhewLJv1pDN7mdD2q3ZvAB9WwtYCH_UuSZkiSxRSNVNITyUmc35XLOTXSrXvnMIb3sEzDcll8Lawb8IjhedFjLi3Q7fbKbNIIWLg7g.jpg?r=656",
+            "watchID": "81506125"
+        },
+        {
+            "rank": "9",
+            "title": "Beyond Goodbye: Season 1",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABfLwUOEAZRLn4RrEwMWZBqtOrxhROmAdZSDc4Sru41k_cCm_2FJMV3ogjlNEvX_pBRBTDgn0z0wgWOT53CyfTdFDwaXibwQskSdGAepfWjL3D3SbEu6DnLiaIV2i9GuqbzSS1w.jpg?r=ebc",
+            "watchID": "81512201"
+        },
+        {
+            "rank": "10",
+            "title": "Three Tears in Borneo: Season 1",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABW4tEFCb7H4BMqI1p6q3pS8oC2z9Fjd_CUf1BaQExPaMwF1unC2hmB-Re5yL4bF7dMNM3UklQxfqhkfLY1ko30_VJ1hjG2MUR5W-.jpg?r=993",
+            "watchID": "81950893"
+        }
+    ]
+}

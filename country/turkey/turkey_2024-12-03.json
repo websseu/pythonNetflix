@@ -1,0 +1,148 @@
+{
+    "kind": "Netflix Country",
+    "date": "2024-12-03",
+    "films": [
+        {
+            "rank": "1",
+            "title": "The Hunt",
+            "week": "3",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABafvrDrkvVm38M_3bah2S4_R5YkVmiJsLbwUE903SAxKpoepJ9FUkDzqGHjDRJ3AtEtj0IxfSFGKY28_dPCehaaxqtrgMvQzGKAj.jpg?r=d04",
+            "watchID": "81087735"
+        },
+        {
+            "rank": "2",
+            "title": "Ready or Not",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABUN9ZsyRcqR0C8BjWjQBEp21MEKDIGObXTtK0febvzwJ5eZZBJmOXP_TpwmsDOqDXVuz-q1Xq9dr572-aZDUTEkKLu2u-kyAJMdX.jpg?r=187",
+            "watchID": "81131575"
+        },
+        {
+            "rank": "3",
+            "title": "M3GAN",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABQlv53VcGVe_8xzOvkglgQKVomPRNMRbjiwC2WcPcV1AnhNzxBRwc7DJ3j5Ospq7MOtm-EzgpJCA47rYiem0fbDgjIyWgSa0LjB8.jpg?r=106",
+            "watchID": "81619948"
+        },
+        {
+            "rank": "4",
+            "title": "GTMAX",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABfoznZvH9l_NhK-y-YPFqtljPYzXa7OyQrXLkbq6Zz2qu_Tk35qqBKjj_fmd2luBr64Iyq5viECOAMuTjhexcZBvSCd6Ez1xVjB24a3RM0Ws_EoxogOSyJ5yrgzGvNdQgCo5-Q.jpg?r=e52",
+            "watchID": "81711199"
+        },
+        {
+            "rank": "5",
+            "title": "Hot Frosty",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABWdDyu62MhCX0tIvS5mxqfxaZtzVJedcO2EJBlWNVJ7-TrLxLiypx26vg1og_FatpBry-_uGieBuBvTtvfIymM98q3B9qp3jxBeDwc_Z8NvSj7k2hcH3L7rr_145bEmS_Menfg.jpg?r=2b1",
+            "watchID": "81764579"
+        },
+        {
+            "rank": "6",
+            "title": "10 Days of a Curious Man",
+            "week": "3",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABXPH1Fj5ILDOlfZO-DCgoKk5gbvN_bYPBmKqERxLhEunW4gRCk9h_z7BHevi-8hU0b1BV1ZjuzTuMR5b4KbnaTrVx38eg20m4WUPJHqcXaX0ZKov4juO6RZ3ml8ZEpGx_W6ChA.jpg?r=324",
+            "watchID": "81428004"
+        },
+        {
+            "rank": "7",
+            "title": "Hotel Transylvania 2",
+            "week": "3",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABdJnE6ZfpG6W1m-wxao_ovN9ux2TMiR1H4T4Jzz9_ItHFac9AhpfhRYjp33nUG6q1PQZrPQQpLHUR0L-mskbRF9D8R_xgR845HFp.jpg?r=d49",
+            "watchID": "80048061"
+        },
+        {
+            "rank": "8",
+            "title": "Hotel Transylvania 3: Summer Vacation",
+            "week": "3",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABefW0byQuJZVy_ASIKeCOIPPXfRaLIROzw1Oarxcngfl3DCWqkKAq8rLoQWWydoIJqD0GcRtkpM8V88gqbmB0GuRsVLdMNOHHhEz.jpg?r=aa6",
+            "watchID": "80233925"
+        },
+        {
+            "rank": "9",
+            "title": "Spellbound",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABaHV5KFjKc6_6WpXclgAxxNnG4sTlkVbYG2ulEi72JNwihax1H0T9UqWmXj1jJCoHItSAUimpRTgY4V3r0KEZuhTOIWwxR-efJp2JxMrYvdXDBTcT-1nzDbkHXi6xW51_hy8Tg.jpg?r=e96",
+            "watchID": "81745658"
+        },
+        {
+            "rank": "10",
+            "title": "Alita: Battle Angel",
+            "week": "3",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABRifsFpy4a2RBf3_4bxoeBWV5FznbQdB9OnUMSPH5Mz2Q2UY6MllguYem2RzzewRYy7FkBR6SKeCkdBuSzI6_-3Xfuvu5mNPQ4it.jpg?r=04c",
+            "watchID": "80235021"
+        }
+    ],
+    "tv": [
+        {
+            "rank": "1",
+            "title": "The Cage: Season 1",
+            "week": "3",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABbb3Fgz1HcT7ewuSWgRGGxhMBtdZ9mTjALU-ouCM0kGtHbjwIbZmQfDU7wYtUPnk-VFzf5kfu-jDF4lQHq4cGizGRFJSRHi28OjBftDwjsdVIgalowOB8CbTsaFK7hoNF2ErPQ.jpg?r=d3f",
+            "watchID": "81522571"
+        },
+        {
+            "rank": "2",
+            "title": "Arcane: Season 2",
+            "week": "3",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABQ5pXJRP_733FL-JlALXDeuPx0uvnRTpXYb43fpTWZW27K59LEHe8MwLnAVTn-HKXP9bYf1VIDpWOd-CDXxWYXKaWHEiOiHJ5VGNSgUUq1oWfuI7jdTGQZjK9Ixsz8WKPz975w.jpg?r=273",
+            "watchID": "81516572"
+        },
+        {
+            "rank": "3",
+            "title": "The Life and Movies of Erşan Kuneri: Season 2",
+            "week": "7",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABZ6hp69R-7-XlGt2PhVLsDYR4_Q96NKWpsmjmMzcjafFyEvynOP9EGkeg7kqABhTw9neP46qiLrLjW5A4e6g7Xy6Wij94cRXGq5XxGU63ACEyng9VDDDWYNOIzf7q-XKL9hdVQ.jpg?r=c6f",
+            "watchID": "81477978"
+        },
+        {
+            "rank": "4",
+            "title": "A Man on the Inside: Season 1",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABUiBjs6OzXyWP3vBQNo_7IZAj1mCvcz4xRa-acELFVJJbF3duq3uBjx4eH5DwfxqTDYaWjtzKY_K0JCguLNYuE-glbY2KeWoNR1JW6B5NXewA7-StPW5RtjJNvLfa4pDb7zgPg.jpg?r=c73",
+            "watchID": "81677258"
+        },
+        {
+            "rank": "5",
+            "title": "Murder Mindfully: Season 1",
+            "week": "4",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABTSJE8HbPJxlGbaDikikbTN097scqK8jiw_6aWU36EtUngadgevMqphNMhdUii05qbWOwfDtu74-f9ha_Ws1N12t0AXRq4WRwpYgpIImPxN031EB9uOE2C0UpiYPWxQhv-Twlg.jpg?r=2d4",
+            "watchID": "81554970"
+        },
+        {
+            "rank": "6",
+            "title": "Adoration: Season 1",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABfX_hlDWYOKtVqnqivg5Az0z5zRlBDcmDjs3irRKiBVIr0qYCEjZqDlxFYJZQvU_gAzRz6nnFavb_Ix8Jq4lgiVujsoOnHlqMYKk-NuPWJgrteZxyBWIhu9Z10RCkv2QRk2UEA.jpg?r=a59",
+            "watchID": "81494907"
+        },
+        {
+            "rank": "7",
+            "title": "The Empress: Season 2",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABWkddbm-KrP_qED2t8YWjCMldPOrLvd5Zrh_kFPuyUzyRj-OD-wdPXgcpKHSmBxHfHhtx9G5CiDEX5WDBHuZGHxhkZuGEozWGFqZl3htYU0pppJum6Lxc09R-649zs8wslBrBA.jpg?r=0b5",
+            "watchID": "81286021"
+        },
+        {
+            "rank": "8",
+            "title": "Jake Paul vs. Mike Tyson",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABXFHtllgWbOcT1iMlKJ3UpkhCTSZhtIMVy2dbQhdcg7hvnIzkyspFo9HE6y2LjdJOE6hKanzRxhb1bvxwwDOCZtAPItWMjzglMGVylMLCUqdPiCDMTER5C4ZkUiLCBi7cYyGTA.jpg?r=bfd",
+            "watchID": "81764952"
+        },
+        {
+            "rank": "9",
+            "title": "Bank Under Siege: Limited Series",
+            "week": "3",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABQJKgKqydmGmz-HSFeoGmhkmoBV6KSB-7W4O5TA8kLhIWceGD-xo6UVA1jZJZ0fISq4RY3hwlkBl8dewOckBm-YgroO-ptHIBwzoZ-8efSX2jDqwVGqEsDq0mPM04PYzqIy9kA.jpg?r=0c4",
+            "watchID": "81684769"
+        },
+        {
+            "rank": "10",
+            "title": "Our Oceans: Season 1",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABVhLWDrzNIi4fN11jzeNRV8SSbJb3RXNj-B58KO3YubmXUfN78BDxo_ivzsabO3d_D-FHFPla4jIFsfzqAQooS-0C_KkKwBhQy-xbO4wj3kBU-AWFJ4X64obn8SRzcnw-6JwuQ.jpg?r=4e3",
+            "watchID": "81152250"
+        }
+    ]
+}
