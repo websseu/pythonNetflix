@@ -1,0 +1,148 @@
+{
+    "kind": "Netflix Country",
+    "date": "2024-12-04",
+    "films": [
+        {
+            "rank": "1",
+            "title": "Red Sparrow",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABQ81-8o0jph9aEYX2xrklA60H8suiCQfOzqnADeKJHgbHV0ATfHjAry1VhqOM4jfJiev3sFstdMo_zuU76cO3wlIL2xdu6a4mVIL.jpg?r=937",
+            "watchID": "80187054"
+        },
+        {
+            "rank": "2",
+            "title": "Our Little Secret",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABdCM7D3aijGIIJYv9TnZkB2gZLx6h6NQMDdb4brlvAaLkpxFZdyvgVQHdgtR9Uc8EpoA67OubG_KlVheayxh0qmM7K74IhSrffT2qNy2gZxwPySgJ6l9dxIfYkBgLhUthVOSww.jpg?r=30e",
+            "watchID": "81498404"
+        },
+        {
+            "rank": "3",
+            "title": "Spellbound",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABe85snfU1NYs81GO2q4Y_z2vb3DLEhaGAimqmZ67dLy4BVI0EW8K87DVOlHxr1WDJBGSh9iRhYrJbAH5YUo0tdjJ4od4DcDDrfOdQmZ_PQa-D9nWgkHF5rO8cqqbvnRFcxoBHQ.jpg?r=e46",
+            "watchID": "81745658"
+        },
+        {
+            "rank": "4",
+            "title": "The Hunt",
+            "week": "3",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABXapiCkqwUi8HbZfiXx16-rssbqQ_CrvomZnY06BMtlbib_D5Fdp-zkl3oTCPKNjaW0S8VlZnucnSxghIE2sVFG1bXs71lbHQzhm.jpg?r=35f",
+            "watchID": "81087735"
+        },
+        {
+            "rank": "5",
+            "title": "Transformers: Rise of the Beasts",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABQVSGEzLQHgW1Ae5-48Qfk1NHQX0-UuXZCBWR_djmL02jAHsMe7_m9w_VMsMMzgrRV4vzj1jN6TVRxGH7EbEAvCfmnFJ_Kbwikkr.jpg?r=a65",
+            "watchID": "81602889"
+        },
+        {
+            "rank": "6",
+            "title": "Madagascar: Escape 2 Africa",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABbgzVno0CCj0BqbqoZDdFdCuq3G4U2c7xPBiBywbiNOXkdPUnCRUaYOdO44bdvWr3EzbMT9Bk9j-6FX6bnlVFa_gtexAAfSwZEWl.jpg?r=2be",
+            "watchID": "70099116"
+        },
+        {
+            "rank": "7",
+            "title": "GTMAX",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABfoznZvH9l_NhK-y-YPFqtljPYzXa7OyQrXLkbq6Zz2qu_Tk35qqBKjj_fmd2luBr64Iyq5viECOAMuTjhexcZBvSCd6Ez1xVjB24a3RM0Ws_EoxogOSyJ5yrgzGvNdQgCo5-Q.jpg?r=e52",
+            "watchID": "81711199"
+        },
+        {
+            "rank": "8",
+            "title": "13 Hours: The Secret Soldiers of Benghazi",
+            "week": "7",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABRSDHDTzOZinf3yKlNhaWfJ2xbFuLQG7kvMic6HPQLRkXepGI0dNvJIEij9uJXA2lGNssVHNGd6LctdGLML5iQmf5R1efxRW3h3S.jpg?r=2b9",
+            "watchID": "80067930"
+        },
+        {
+            "rank": "9",
+            "title": "Bagheera",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABWnC7nEwU9SsU5ugWK5IzYLde945gG5auS_oiTg-vOJE3tJxAxSsq2TPPLc7mK9km2Zv0ZOhIvSNVsnNPWKrtx-ga-wIGvNrtENP.jpg?r=1f3",
+            "watchID": "81953481"
+        },
+        {
+            "rank": "10",
+            "title": "Umjolo: The Gone Girl",
+            "week": "4",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABfaeYkUu_CFb9AVIQTfNHqQHdpWKzB_p7ktmdeHIkzERI69AwmH-adSBgPNQlroQFo1ivQdFNbmXBzMXKMil6D-z2ArllWVR6PktSFx3THY8Yga4UxUxiIpQZMB3tVOhtI-O8Q.jpg?r=0d6",
+            "watchID": "81565758"
+        }
+    ],
+    "tv": [
+        {
+            "rank": "1",
+            "title": "The Mabaso’s Family Reunion: Season 1",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABeOImUGeNaoGtJ1Xh5PwxJjxjAL1xvo7aPtE4uYxNIF30S0kmdzgvBrIcqANrCxq3qkZRqJDckT8uwHxx7awvFzQ-uuaj1bxON5K.jpg?r=8db",
+            "watchID": "81730180"
+        },
+        {
+            "rank": "2",
+            "title": "The Madness: Limited Series",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABcPPa7hX5HljVBCNWCzAste4zHpb3o2q6Eq9dOx0Ny8e1M_IDLEO1BKnyPq8KkuUUOBETzXL9truh27kSXEXI-a5Tp3B-AgVEvbk37w1dIQ8rDAHPyU9yAnT9Lb3PtnzFMpqOQ.jpg?r=0c3",
+            "watchID": "81457259"
+        },
+        {
+            "rank": "3",
+            "title": "A Man on the Inside: Season 1",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABUiBjs6OzXyWP3vBQNo_7IZAj1mCvcz4xRa-acELFVJJbF3duq3uBjx4eH5DwfxqTDYaWjtzKY_K0JCguLNYuE-glbY2KeWoNR1JW6B5NXewA7-StPW5RtjJNvLfa4pDb7zgPg.jpg?r=c73",
+            "watchID": "81677258"
+        },
+        {
+            "rank": "4",
+            "title": "Love Never Lies: South Africa: Season 1",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABWsoIZQ0g5WY2r6-N2ZM9z-qbKHGTBkeL0gsnz8xIipZuDWgo6IYdSwO-OxMmS8cGbfYi0LZzEFn33o0m-Xc-m4WLXPoQCiepy6ZpQpSpruBR_sgk4cqJd8vFQZAwcSkcWGkaw.jpg?r=8f5",
+            "watchID": "81675429"
+        },
+        {
+            "rank": "5",
+            "title": "Beauty in Black: Season 1",
+            "week": "6",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABdZghq5pSlnQGL8Gb6zQsHeLQwhl756pbKHO7wVk_u9MGOv4iL5fGcmKIocc6JxWhDPJhFU5gHep5i6Bom03PAhbBdvNlPZrrJ4M54Fkzur2e3PIk1Jvq1SM9ROI8_HlDYbQJw.jpg?r=9f0",
+            "watchID": "81764524"
+        },
+        {
+            "rank": "6",
+            "title": "The Empress: Season 2",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABcygjGqzSPH4k8qiMo-pyM_qrzTf_bT8u0z-D3bls0dBw3oAVdwmRnDo6FKd9353Yvs9i85R_tcAg4cwbMkpktijVA19IpyVjoNWjWvgkNChuf9XdbMiy7rdPCS-NMfZSgey4A.jpg?r=f68",
+            "watchID": "81286021"
+        },
+        {
+            "rank": "7",
+            "title": "When the Phone Rings: Limited Series",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABb7M9mIuc-HxsBlIF8N6NiFOOreCkE7tyCYIYNHrmdPmyoJvybAAqFwW1jDnDF7US3T1RT4mk9kLoD5WeKcN79pj69mpEPso_zKckgp9OcfpGuB6v3OAtrCAhmKNizWEQfpdyQ.jpg?r=2fb",
+            "watchID": "81912962"
+        },
+        {
+            "rank": "8",
+            "title": "Sisters' Feud: Season 1",
+            "week": "3",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABWS_2xyELrp4b9m8QquIeqjgH5bkfVTS7-7_DpmaDNIxTeY50XKEUUm-buisMjG2FjctNFE_GBgjdd3CcxnF5z1A4pBPe4vgBm_iSyvq30CtCciktzx-dzCc97y7aLkLTxpW-w.jpg?r=000",
+            "watchID": "81726002"
+        },
+        {
+            "rank": "9",
+            "title": "The Helicopter Heist: Limited Series",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABfDAAOIo5B4mRtYZwLzexoOSAet9Xw80KC85ScXq5Wz0TcDuVbqtBV-OyS1NeAO_j35NNcPb4oUGebzPCI3zTk1mJNwI8E4hw_AmXXqrkn-qtkHCfCwSgYJsvLnOGQ__kQv05w.jpg?r=182",
+            "watchID": "81629253"
+        },
+        {
+            "rank": "10",
+            "title": "Arcane: Season 2",
+            "week": "4",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABQ5pXJRP_733FL-JlALXDeuPx0uvnRTpXYb43fpTWZW27K59LEHe8MwLnAVTn-HKXP9bYf1VIDpWOd-CDXxWYXKaWHEiOiHJ5VGNSgUUq1oWfuI7jdTGQZjK9Ixsz8WKPz975w.jpg?r=273",
+            "watchID": "81516572"
+        }
+    ]
+}
