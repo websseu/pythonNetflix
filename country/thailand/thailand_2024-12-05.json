@@ -1,0 +1,148 @@
+{
+    "kind": "Netflix Country",
+    "date": "2024-12-05",
+    "films": [
+        {
+            "rank": "1",
+            "title": "M3GAN",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABQlv53VcGVe_8xzOvkglgQKVomPRNMRbjiwC2WcPcV1AnhNzxBRwc7DJ3j5Ospq7MOtm-EzgpJCA47rYiem0fbDgjIyWgSa0LjB8.jpg?r=106",
+            "watchID": "81619948"
+        },
+        {
+            "rank": "2",
+            "title": "The Cursed Land",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABdnuaHeqzO4HclyBmPQ9FS-AvQdZSkNNYfHLhNOMEMUNAbclbd7yQO5XTlurzkP_wyfBhDhbjDtkQoxqbsDg4dWoLv8OiREuTjLQ.jpg?r=75c",
+            "watchID": "81688468"
+        },
+        {
+            "rank": "3",
+            "title": "Ransomed",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABYOYh8Y60sVMar-XFbqOH5Am04uyiP8-06N8QwuxbpWCJBeVc9RSUOxNg69Up9Bv2Z_8RNIZfO2kiUDqVpxtQnXgT0qoSPuMhPVr.jpg?r=98e",
+            "watchID": "81726980"
+        },
+        {
+            "rank": "4",
+            "title": "Spellbound",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABe85snfU1NYs81GO2q4Y_z2vb3DLEhaGAimqmZ67dLy4BVI0EW8K87DVOlHxr1WDJBGSh9iRhYrJbAH5YUo0tdjJ4od4DcDDrfOdQmZ_PQa-D9nWgkHF5rO8cqqbvnRFcxoBHQ.jpg?r=e46",
+            "watchID": "81745658"
+        },
+        {
+            "rank": "5",
+            "title": "GTMAX",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABfoznZvH9l_NhK-y-YPFqtljPYzXa7OyQrXLkbq6Zz2qu_Tk35qqBKjj_fmd2luBr64Iyq5viECOAMuTjhexcZBvSCd6Ez1xVjB24a3RM0Ws_EoxogOSyJ5yrgzGvNdQgCo5-Q.jpg?r=e52",
+            "watchID": "81711199"
+        },
+        {
+            "rank": "6",
+            "title": "The Hunt",
+            "week": "4",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABXapiCkqwUi8HbZfiXx16-rssbqQ_CrvomZnY06BMtlbib_D5Fdp-zkl3oTCPKNjaW0S8VlZnucnSxghIE2sVFG1bXs71lbHQzhm.jpg?r=35f",
+            "watchID": "81087735"
+        },
+        {
+            "rank": "7",
+            "title": "The Flash",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABTiWURUOok92432b3BC5R6kKCzcGKtwIFN81nTweS-jMHty0CkMRMOBdUHxxP__c6uavjBt5Rub5J1AVuuH9qwcOJIf63z6XWecy.jpg?r=36f",
+            "watchID": "81251375"
+        },
+        {
+            "rank": "8",
+            "title": "Our Little Secret",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABdCM7D3aijGIIJYv9TnZkB2gZLx6h6NQMDdb4brlvAaLkpxFZdyvgVQHdgtR9Uc8EpoA67OubG_KlVheayxh0qmM7K74IhSrffT2qNy2gZxwPySgJ6l9dxIfYkBgLhUthVOSww.jpg?r=30e",
+            "watchID": "81498404"
+        },
+        {
+            "rank": "9",
+            "title": "Madagascar: Escape 2 Africa",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABbgzVno0CCj0BqbqoZDdFdCuq3G4U2c7xPBiBywbiNOXkdPUnCRUaYOdO44bdvWr3EzbMT9Bk9j-6FX6bnlVFa_gtexAAfSwZEWl.jpg?r=2be",
+            "watchID": "70099116"
+        },
+        {
+            "rank": "10",
+            "title": "Morbius",
+            "week": "5",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABWjFDVhTQKWOZwMlyYCcU0vKmLoRi_Ysblh-sVRo-wru-PttpML-Rl0B2VNKqRGe6VBLapdZ7CqPKdWXbDPQkZshv0yjhkhA8Rnw.jpg?r=d58",
+            "watchID": "81198933"
+        }
+    ],
+    "tv": [
+        {
+            "rank": "1",
+            "title": "Thicha: Season 1",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABaFCsaFgpSDJJEAxqsJQksoTi3Qc4AT-ofIC4nHnobCiU_ORUHdzC2CrIMoUUIWr6Uaz0ygtK8YAQxI-H5gz8iqqWYSwoAGOmVTb.jpg?r=178",
+            "watchID": "81782800"
+        },
+        {
+            "rank": "2",
+            "title": "When the Phone Rings: Limited Series",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABb7M9mIuc-HxsBlIF8N6NiFOOreCkE7tyCYIYNHrmdPmyoJvybAAqFwW1jDnDF7US3T1RT4mk9kLoD5WeKcN79pj69mpEPso_zKckgp9OcfpGuB6v3OAtrCAhmKNizWEQfpdyQ.jpg?r=2fb",
+            "watchID": "81912962"
+        },
+        {
+            "rank": "3",
+            "title": "The Empress of Ayodhaya: The Empress Of Ayodhaya",
+            "week": "6",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABcz0oBG4YnUczfS61kxribDA1-ZluRPGBQY_0OKA5p5_VaIjia3iA6TG2TUJt_9TZu-JiryLPaSHM3QkK78wjInl77eQ6KbBuYwd.jpg?r=069",
+            "watchID": "81782811"
+        },
+        {
+            "rank": "4",
+            "title": "The Trunk: Limited Series",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABQmVArF_KzFgJa_PsYR3xkPxotk9GgSZQfA6ePt-zFqWT7oveEqVOTx4hS3WDeL_9d6FxSRtdHCuAnFp4p5f7r4uqgMs2wR_baR62xAstAxuVGt9sFGJJ05RoBL9P-P8uy6IWg.jpg?r=fa8",
+            "watchID": "81582448"
+        },
+        {
+            "rank": "5",
+            "title": "The Story of Pearl Girl: The Story Of Pearl Girl",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABQQLWFyxKY58B85irtNPyKTFdhPyaZhutTfQpvh2U2sATMF6haOrmPmcEwB8kQrRrdubW_0qx5CLrrSdD1hQHZ5tFp8-YTNQBA-E.jpg?r=6d2",
+            "watchID": "81954671"
+        },
+        {
+            "rank": "6",
+            "title": "DAN DA DAN",
+            "week": "8",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABYTYCioywpFoTxtVik3-1lZj3l1SqfDgOlQAGED6xFpxtYz_Qyx_uSbSWbXAMdC-xJS2Vhb9HDyYsRKmMVUOut5qZ3KGEqZBuEmv.jpg?r=d61",
+            "watchID": "81736885"
+        },
+        {
+            "rank": "7",
+            "title": "The Scent of Hers",
+            "week": "3",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABTZq6LNdkGvKijoeID5YYXZkQTINIrZHayiMo0jLfEQ3jO8BOPwZyEUYi1F6ODrDomsCR_oSTiLNzV1i-_kiryriiP-YksoiRE70.jpg?r=8d7",
+            "watchID": "81957741"
+        },
+        {
+            "rank": "8",
+            "title": "Arcane: Season 2",
+            "week": "4",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABQ5pXJRP_733FL-JlALXDeuPx0uvnRTpXYb43fpTWZW27K59LEHe8MwLnAVTn-HKXP9bYf1VIDpWOd-CDXxWYXKaWHEiOiHJ5VGNSgUUq1oWfuI7jdTGQZjK9Ixsz8WKPz975w.jpg?r=273",
+            "watchID": "81516572"
+        },
+        {
+            "rank": "9",
+            "title": "My Cherie Amour: Season 1",
+            "week": "11",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABRzMT0ikD1BvU4KX7D7mN0VEpqDT6RR7Q9BIOGOm5NoT69RIIGTetGHSQvneSeQUl5rmNwHLs1x3YxZ5qMw-SmSeiMKUVeF_8uOU.jpg?r=f55",
+            "watchID": "81759045"
+        },
+        {
+            "rank": "10",
+            "title": "A Man on the Inside: Season 1",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABUiBjs6OzXyWP3vBQNo_7IZAj1mCvcz4xRa-acELFVJJbF3duq3uBjx4eH5DwfxqTDYaWjtzKY_K0JCguLNYuE-glbY2KeWoNR1JW6B5NXewA7-StPW5RtjJNvLfa4pDb7zgPg.jpg?r=c73",
+            "watchID": "81677258"
+        }
+    ]
+}

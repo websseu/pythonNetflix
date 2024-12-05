@@ -1,0 +1,148 @@
+{
+    "kind": "Netflix Country",
+    "date": "2024-12-05",
+    "films": [
+        {
+            "rank": "1",
+            "title": "The Flash",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABabDfz404Uj1kkm8VvSjxQvCBQVmuzoX2I6sd5P8D9ExrfIATSjRNtV-N6WiGCqj2MTFvimxCEwDTyuxbsDGG3MjWcrByeSg7eWY.jpg?r=d94",
+            "watchID": "81251375"
+        },
+        {
+            "rank": "2",
+            "title": "M3GAN",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABepbuGN-Vuc2KHFwkIqq33XjE0807jaHRZDoK9SyWQ6CP59ahve_jTvN3-wx6jfVVC6H0kKf39IvurFvNlcZPzLd9YGpcyYX4Ds_.jpg?r=594",
+            "watchID": "81619948"
+        },
+        {
+            "rank": "3",
+            "title": "The Hunt",
+            "week": "5",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABc1dKQ7mj5yn8KMa8X1WGutT-XaYTVHxM902bwpJZRW9sLPo0MpuRPjg7-mwkLkYAayQsNUvl01Kt0gk0zXcVDB8bq7CkWyS3NN9.jpg?r=6e9",
+            "watchID": "81087735"
+        },
+        {
+            "rank": "4",
+            "title": "Our Little Secret",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABS3JsSovDpqiidhqXPSry7d4_d4AWYsIBh4YrE4IaEeaNZCrU2FPtAaUoip0OPQF8xlVCAKaeV8LGInIoFs_O1AYij5GpZCubqIqPCqGdRLK4tYd5XJzyGjYuVxd1QteBEqVLQ.jpg?r=2c9",
+            "watchID": "81498404"
+        },
+        {
+            "rank": "5",
+            "title": "Buy Now: The Shopping Conspiracy",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABT6msyQ1VEqKsQjFSoZGyqDqf_WL3et-qVWbNsTtsWcjjQvoIbcV0vCPsD7trtL3rbVx9x2DILEj7F6yF6hsj6YCcNa5PcSAv0Z6Oy7T7DHoQgUFSe0FNhskqJxlWZjgZRPDSA.jpg?r=cb2",
+            "watchID": "81554996"
+        },
+        {
+            "rank": "6",
+            "title": "13 Hours: The Secret Soldiers of Benghazi",
+            "week": "5",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABQZOMSFFmQSq4BLGqypxu2Xl7siTFjCoF_r2G0eXfFnySyYuRJfLkwoKLxwmVmnLnuv3hyD2WBd2DPubCyei5qA7v9gVXReVHFce.jpg?r=2ac",
+            "watchID": "80067930"
+        },
+        {
+            "rank": "7",
+            "title": "Spellbound",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABQksQCg4ZDpw3nfH6OoDUEzJNHwZm9VPGRZp9J2nu7_4XeF8Etjc8qUK-JGuanW_cC1sqgVqKVUiZW5MFTsAVI2uvyq-EynZ2OhrUx1h8DFSBVeSUO06xtWeSNwXe9Yv4G3ndQ.jpg?r=541",
+            "watchID": "81745658"
+        },
+        {
+            "rank": "8",
+            "title": "The American",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABYZ7b10qb_EOJvHYorvs_l_G4Gk1oKA1eXdSc0sTSCiDQf7uY3A0YXyfgII08ESEOJ91aorJitH-AcUY5yKuz4KqEIo_S3XjpHZu.jpg?r=f58",
+            "watchID": "70128675"
+        },
+        {
+            "rank": "9",
+            "title": "GTMAX",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABeAXQObLda5EXCDNDgwCiwEnhzOOZPkaReIl_7gIru0xGYAgeL5gWpagAcK2hrVfrR9yIA-h_SoVTiTh9Uf_-WubYsTcFnegclZ5eW_bPS28lGBO9Hl4AMlL1oMgBAv0eL3XNg.jpg?r=c33",
+            "watchID": "81711199"
+        },
+        {
+            "rank": "10",
+            "title": "Ready or Not",
+            "week": "3",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABU1U3yLVHQh4bcW3pdxpUp7jwYJUekN9xm6UqFB2kUI2LFU_ZjzrBNSqGQho7P5yuk1i6y-gqhmFFQMAJ6q5_vo20dQYmWh-vcpf.jpg?r=467",
+            "watchID": "81131575"
+        }
+    ],
+    "tv": [
+        {
+            "rank": "1",
+            "title": "When the Phone Rings: Limited Series",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABWC6itMhEcg0VqIsJIsD3AuXIF7VuIquBIfQwiTrTbnS0I1sxcEDN-F65B__5w0MVy3gwcCN7Wv6s228D2xItIFVS8ejJZdhqNgeuXDHikoE9kyw14xxtwhja1Pf6wK-zncN5Q.jpg?r=375",
+            "watchID": "81912962"
+        },
+        {
+            "rank": "2",
+            "title": "See Her Again: Season 1",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABQcUq28tWBxtMcfDPFF0DMKPaePEeVAenV9NQrrVFnZF3BZz50flzEFqAH_RtMa7WSlkyTtMdIS0pMusAr3N8_wWoUjwIZhcACB6.jpg?r=58e",
+            "watchID": "81907278"
+        },
+        {
+            "rank": "3",
+            "title": "Born for the Spotlight: Season 1",
+            "week": "4",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABRulc64HxsqBgmnsFjcN2CMVPWkLr-39emjzrm9ecQKzi_pHIkEwl1Q5IQOEPqO3EtSRJobX031cs8zl15BViKtENGryO5xrbZwlhYxRkmtZ0AY__5O3W6qcqZbXBgsKhyoW9A.jpg?r=ce6",
+            "watchID": "81746668"
+        },
+        {
+            "rank": "4",
+            "title": "DAN DA DAN",
+            "week": "8",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABYTYCioywpFoTxtVik3-1lZj3l1SqfDgOlQAGED6xFpxtYz_Qyx_uSbSWbXAMdC-xJS2Vhb9HDyYsRKmMVUOut5qZ3KGEqZBuEmv.jpg?r=d61",
+            "watchID": "81736885"
+        },
+        {
+            "rank": "5",
+            "title": "Arcane: Season 2",
+            "week": "4",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABf6qWkWpBTKWAuLtusDtxudhHN5wz0EmfibG3eIa0mOcUo1VXM3ZH2dnnmFGH8kWL5S7KDZ1IR1w-DkvTofXHHEiNToMURiCSAv6GCli1ftODAOfbA4-AbyBRlDQCk4QaUJ8Cg.jpg?r=c6e",
+            "watchID": "81516572"
+        },
+        {
+            "rank": "6",
+            "title": "The Trunk: Limited Series",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABbym66c8HTB2uZnYY2zID5lO9CB9ZI_X5fCcT_7mfb2canSeQvGIBcBP2xGgjf2Thi_4gJkcUra025UEjaiJk9mfBLYgABclxWAJ9vNIFE2VAmG2Gd0ux8WuAdDgS-aTvnrbJA.jpg?r=8ab",
+            "watchID": "81582448"
+        },
+        {
+            "rank": "7",
+            "title": "The Story of Pearl Girl: The Story Of Pearl Girl",
+            "week": "4",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABZTfgNCqeyUL-oU8lbzh_vVtPtU6WDHH8f0ONWuANgocqDDrkwKrJObfIoRMai_Mxuvf79wZBR3-mQgUU2idv2Y6Ba7xgZR_NQSb.jpg?r=508",
+            "watchID": "81954671"
+        },
+        {
+            "rank": "8",
+            "title": "A Man on the Inside: Season 1",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABU5NkDn9QiWnSlRAQwJ5RhFN-2RlAXs-QRZ3vu-vF1fnk_i_jkz-f8Pzx_0AUwZXo4Y2yXz8mI8605HBeZgGFalM-gPfUqcHlJeNpWYA6hFR0GxvwZXvNgZ_BH8HWNelhtPbig.jpg?r=64e",
+            "watchID": "81677258"
+        },
+        {
+            "rank": "9",
+            "title": "Blue Lock: BLUE LOCK VS. U-20 JAPAN",
+            "week": "8",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABVny-Ece8yyaP7CdcopnIv3lRYOr1gCy-bxxvIa8xDiw-SWYruLWX359Gs3m4s6Jf2VSiFCd0cpQ2rxo0zlxYLhEhgMP4QvpFUkl.jpg?r=989",
+            "watchID": "81940353"
+        },
+        {
+            "rank": "10",
+            "title": "Cold Case: Who Killed JonBenét Ramsey: Season 1",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABTdvw81ISAHp9qGiPf05LNHI-Eg1XIyyYfiYuw2EmA-kTG7HBNOiFOgaGyAL620FcRt02HtIHrEsYHJCGKkbbmgPbPAY9Ouk1Z_HmqZ0AGn1VI_ioyGcUB5mhegTX5Kh1sj4qQ.jpg?r=013",
+            "watchID": "81705444"
+        }
+    ]
+}

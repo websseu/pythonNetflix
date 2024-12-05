@@ -1,0 +1,148 @@
+{
+    "kind": "Netflix Country",
+    "date": "2024-12-05",
+    "films": [
+        {
+            "rank": "1",
+            "title": "M3GAN",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABc7ZGQeM0IMHduY0o4moJN9c9jfYMrcg3IiL99vpLOcAFYrECJ7NjObSkGKQQXk_rIaTE0R1aD7WrJXo4aiRzoQyhfwdEeCJlRq8.jpg?r=cb4",
+            "watchID": "81619948"
+        },
+        {
+            "rank": "2",
+            "title": "The Flash",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABabDfz404Uj1kkm8VvSjxQvCBQVmuzoX2I6sd5P8D9ExrfIATSjRNtV-N6WiGCqj2MTFvimxCEwDTyuxbsDGG3MjWcrByeSg7eWY.jpg?r=d94",
+            "watchID": "81251375"
+        },
+        {
+            "rank": "3",
+            "title": "Spellbound",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABQksQCg4ZDpw3nfH6OoDUEzJNHwZm9VPGRZp9J2nu7_4XeF8Etjc8qUK-JGuanW_cC1sqgVqKVUiZW5MFTsAVI2uvyq-EynZ2OhrUx1h8DFSBVeSUO06xtWeSNwXe9Yv4G3ndQ.jpg?r=541",
+            "watchID": "81745658"
+        },
+        {
+            "rank": "4",
+            "title": "The Hunt",
+            "week": "3",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABQYn8aNwtsLNnyUnjDbEKgtTlfgEB2J2bX-tZVaZDnQ2wr-bd0fBjIU7uJPweKlTGCl-sRWzGi5Hb-9sBXC_bd1e2JkSBaMrBJrb.jpg?r=a73",
+            "watchID": "81087735"
+        },
+        {
+            "rank": "5",
+            "title": "Our Little Secret",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABS3JsSovDpqiidhqXPSry7d4_d4AWYsIBh4YrE4IaEeaNZCrU2FPtAaUoip0OPQF8xlVCAKaeV8LGInIoFs_O1AYij5GpZCubqIqPCqGdRLK4tYd5XJzyGjYuVxd1QteBEqVLQ.jpg?r=2c9",
+            "watchID": "81498404"
+        },
+        {
+            "rank": "6",
+            "title": "GTMAX",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABT5TTNzksezZzcQf8GfjOfGl2ANLUdRrYA858Y-_rIEHTLrMt7w21I2vYf2pluWQDlU75nrjjc1DvjkIClc-jnCodtoXIZZf2WEhrqAC8-76VRxO_jd-8aPQstDLazXMpJzYQw.jpg?r=a8e",
+            "watchID": "81711199"
+        },
+        {
+            "rank": "7",
+            "title": "A Place Called Silence",
+            "week": "5",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABQSUOgyHpMBw4bgVW8lU0nh3ahz-AWwIpcHYSpxuS2d43gFdDQKjY3Yfh2ZIpSjPkEoxon7kYT4-ewJexZDZOkcnP8Y_rqJAFflA.jpg?r=9e3",
+            "watchID": "81919470"
+        },
+        {
+            "rank": "8",
+            "title": "The American",
+            "week": "3",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABWstO2TdXZPbkFIb3EvTjNgCZlWwgnSJ9gECxoiE-00pWB1hx7sj-FyGprA0jlSuk7YqcazQlFnpsm_Q9m944EaSnl9XIcq9tL9f.jpg?r=e61",
+            "watchID": "70128675"
+        },
+        {
+            "rank": "9",
+            "title": "Mononoke The Movie: The Phantom in the Rain",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABTCLj-b8IyBeKoHz8IgQ_QX4XEmMP0u_gHWNG4_az2J6giFnRo8duEvPgzT0-1ZEnpRDW427Dve7wwsLqYox0EKqc5KxCTe4_egJ_qBAm6crIHdI2AwnB02b3nw8D4TrmqVLog.jpg?r=35b",
+            "watchID": "81580574"
+        },
+        {
+            "rank": "10",
+            "title": "Old Fox",
+            "week": "5",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABWSjVcKhJj2LZWi-9rHcawBR_wp-ZItnvUlMDUDQ-lnypgWaDntmIQa0DJnKPHlpXWHTIpqdGF_9k4FdJOcvb9NHuBWscJBpuPdx.jpg?r=b12",
+            "watchID": "81938269"
+        }
+    ],
+    "tv": [
+        {
+            "rank": "1",
+            "title": "Born for the Spotlight: Season 1",
+            "week": "4",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABRulc64HxsqBgmnsFjcN2CMVPWkLr-39emjzrm9ecQKzi_pHIkEwl1Q5IQOEPqO3EtSRJobX031cs8zl15BViKtENGryO5xrbZwlhYxRkmtZ0AY__5O3W6qcqZbXBgsKhyoW9A.jpg?r=ce6",
+            "watchID": "81746668"
+        },
+        {
+            "rank": "2",
+            "title": "When the Phone Rings: Limited Series",
+            "week": "2",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABWC6itMhEcg0VqIsJIsD3AuXIF7VuIquBIfQwiTrTbnS0I1sxcEDN-F65B__5w0MVy3gwcCN7Wv6s228D2xItIFVS8ejJZdhqNgeuXDHikoE9kyw14xxtwhja1Pf6wK-zncN5Q.jpg?r=375",
+            "watchID": "81912962"
+        },
+        {
+            "rank": "3",
+            "title": "The Story of Pearl Girl: The Story Of Pearl Girl",
+            "week": "4",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABZTfgNCqeyUL-oU8lbzh_vVtPtU6WDHH8f0ONWuANgocqDDrkwKrJObfIoRMai_Mxuvf79wZBR3-mQgUU2idv2Y6Ba7xgZR_NQSb.jpg?r=508",
+            "watchID": "81954671"
+        },
+        {
+            "rank": "4",
+            "title": "The Trunk: Limited Series",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABbym66c8HTB2uZnYY2zID5lO9CB9ZI_X5fCcT_7mfb2canSeQvGIBcBP2xGgjf2Thi_4gJkcUra025UEjaiJk9mfBLYgABclxWAJ9vNIFE2VAmG2Gd0ux8WuAdDgS-aTvnrbJA.jpg?r=8ab",
+            "watchID": "81582448"
+        },
+        {
+            "rank": "5",
+            "title": "DAN DA DAN",
+            "week": "8",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABdMXcg7skhiUCsCL3zYC4fg6HCuh-n0r4lJThO9PmOiLu2Nupowv2NPfb9lbyqRAiCDHRhiKunDJy-zPBknyH20cwzvHYcyJ18P8.jpg?r=fda",
+            "watchID": "81736885"
+        },
+        {
+            "rank": "6",
+            "title": "Arcane: Season 2",
+            "week": "4",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABf6qWkWpBTKWAuLtusDtxudhHN5wz0EmfibG3eIa0mOcUo1VXM3ZH2dnnmFGH8kWL5S7KDZ1IR1w-DkvTofXHHEiNToMURiCSAv6GCli1ftODAOfbA4-AbyBRlDQCk4QaUJ8Cg.jpg?r=c6e",
+            "watchID": "81516572"
+        },
+        {
+            "rank": "7",
+            "title": "Love Game in Eastern Fantasy: Season 1",
+            "week": "4",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABVt276GVwo3_Dawnlh3I80HtofqyRb33z6cDIcHVh0b5cDYil2SL9MlwH1SHJ-rOnocxod73nP_gy6gTBj4n0B2-D1Q8AMdfsp8f.jpg?r=d8c",
+            "watchID": "81950759"
+        },
+        {
+            "rank": "8",
+            "title": "Are You the One: Season 1",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABZyN62yRlc__ilyu6U0D3nRoNQiMQvSEejcCUqPL1Smlch6aikeF17_lCRCvViWV0OY1l5agjLI6sc83xmQFZl17KSdNGGe8ef6E.jpg?r=881",
+            "watchID": "81950812"
+        },
+        {
+            "rank": "9",
+            "title": "You Are My Secret: Season 1",
+            "week": "1",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABaWNUF2V2PvsLrfJgvtLkhhEOg49lF9L0xu063kLY9M_9GGEfnfusKNpmiduF1Z1kEZ5pts6_Iqy4l52Y2duBJ7QhMV_7y4Es1lb.jpg?r=380",
+            "watchID": "81949602"
+        },
+        {
+            "rank": "10",
+            "title": "Mr. Plankton: Limited Series",
+            "week": "3",
+            "image": "https://dnm.nflximg.net/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABSVugb7S7j3uTwXti0fgGEe2umQz5P0klhewLJv1pDN7mdD2q3ZvAB9WwtYCH_UuSZkiSxRSNVNITyUmc35XLOTXSrXvnMIb3sEzDcll8Lawb8IjhedFjLi3Q7fbKbNIIWLg7g.jpg?r=656",
+            "watchID": "81506125"
+        }
+    ]
+}
